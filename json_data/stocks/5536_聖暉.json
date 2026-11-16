@@ -1,0 +1,57 @@
+{
+  "stock_id": "5536",
+  "stock_name": "聖暉*",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "無塵室與高科技廠務工程",
+      "先進封裝設備與材料"
+    ],
+    "theme_tags": [
+      "半導體擴廠無塵室",
+      "法人喊買目標價1170元",
+      "無塵室工程",
+      "資料中心"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-08",
+        "source": "萬寶晚報-10_08",
+        "category_mentioned": "半導體與設備檢測 > 包打聽快報"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10",
+    "est_eps_2026": 50.16
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "Q3毛利率逾24%三率三升，EPS 12.86元、前三季36.59元創同期新高；10月營收年增60%。AI帶動建廠擴產，在建工程達840億元創新高，估EPS 55元。",
+      "key_points": [
+        "Q3三率三升，前三季EPS 36.59元，擬配發上半年現金股利12元",
+        "在建工程達840億元創新高，受惠半導體與資料中心建廠"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "source_file": "萬寶晚報-10_08.pdf",
+      "section": "包打聽快報",
+      "stance": "偏多",
+      "title": "本土法人給聖暉買進評等，預估今年EPS上看50.16元、目標價1,170元",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 50.16,
+      "est_pe": null,
+      "revenue_perf": "8月營收年增44.54%創近五個月新高，前八月337.5億元、年增27%",
+      "content": "本土法人看好聖暉受惠AI擴廠與無塵室空間吃緊紅利，預估今年EPS上看50.16元，給予買進評等、目標價1,170元。",
+      "key_points": [
+        "本土法人給予買進評等、目標價1,170元",
+        "預估今年EPS上看50.16元"
+      ]
+    }
+  ]
+}

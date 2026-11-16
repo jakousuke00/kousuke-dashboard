@@ -1,0 +1,69 @@
+{
+  "stock_id": "2903",
+  "stock_name": "遠百",
+  "industry_profile": {
+    "main_industry": "中國消費通路",
+    "sub_industries": [
+      "其他 (百貨、餐飲茶飲與通路)",
+      "百貨"
+    ],
+    "theme_tags": [
+      "兩岸百貨龍頭",
+      "百貨週年慶旺季"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-31",
+        "source": "萬寶產業報告-1031",
+        "category_mentioned": "觀光/百貨/通路 > 百貨 (重點個股)"
+      },
+      {
+        "date": "2026-10-30",
+        "source": "萬寶產業報告-1030",
+        "category_mentioned": "中國消費通路 > 其他 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-31",
+    "close_price": 21.85,
+    "est_eps_2026": 1.4,
+    "est_pe": 15.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-31",
+      "source_file": "萬寶產業報告-1031(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "9月營收年增4.0%，萬寶預估2026 EPS 1.4元、本益比15.6倍",
+      "close_price": 21.85,
+      "price_change_5d_pct": -0.46,
+      "foreign_5d_lots": -1070,
+      "est_eps": 1.4,
+      "est_pe": 15.6,
+      "revenue_perf": "9月營收年增4.0%",
+      "content": "收盤21.85元，近5日小跌0.46%，9月營收年增4.0%，萬寶預估2026年EPS 1.4元，預估本益比15.6倍。",
+      "key_points": [
+        "9月營收年增4.0%，萬寶預估2026 EPS 1.4元、本益比15.6倍"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶產業報告-1030(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "9月營收年增4.0%，萬寶預估2026 EPS 1.4元、本益比15.6倍",
+      "close_price": 21.85,
+      "price_change_5d_pct": -0.46,
+      "foreign_5d_lots": -1070,
+      "est_eps": 1.4,
+      "est_pe": 15.6,
+      "revenue_perf": "9月營收年增4.0%",
+      "content": "收盤21.85元，近5日小跌0.46%，9月營收年增4.0%，萬寶預估2026年EPS 1.4元，預估本益比15.6倍。",
+      "key_points": [
+        "9月營收年增4.0%，萬寶預估2026 EPS 1.4元"
+      ]
+    }
+  ]
+}

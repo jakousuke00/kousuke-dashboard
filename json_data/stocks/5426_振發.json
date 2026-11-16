@@ -1,0 +1,46 @@
+{
+  "stock_id": "5426",
+  "stock_name": "振發",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "機殼"
+    ],
+    "theme_tags": [
+      "機殼與沖壓件"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶產業報告-1028",
+        "category_mentioned": "NB/PC產業 > 機殼 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28",
+    "close_price": 34.65,
+    "est_eps_2026": 0.6,
+    "est_pe": 57.8
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶產業報告-1028(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日飆漲26.23%居NB/PC表列個股之冠，9月營收年增28.1%",
+      "close_price": 34.65,
+      "price_change_5d_pct": 26.23,
+      "foreign_5d_lots": -1575,
+      "est_eps": 0.6,
+      "est_pe": 57.8,
+      "revenue_perf": "9月營收年增28.1%",
+      "content": "機殼細分類領漲股，收盤34.65元，近5日大漲26.23%居表列個股第一，9月營收年增28.1%，萬寶預估2026年EPS 0.6元，預估本益比57.8倍。",
+      "key_points": [
+        "近5日飆漲26.23%居NB/PC表列個股第一",
+        "9月營收年增28.1%，萬寶預估2026 EPS 0.6元"
+      ]
+    }
+  ]
+}

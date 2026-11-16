@@ -1,0 +1,44 @@
+{
+  "stock_id": "7642",
+  "stock_name": "昶瑞機電",
+  "industry_profile": {
+    "main_industry": "電機機械",
+    "sub_industries": [
+      "直流無刷馬達",
+      "無人機動力系統",
+      "吊扇系統"
+    ],
+    "theme_tags": [
+      "Q3每股0.72元回升",
+      "成本減損利空出盡",
+      "無人機馬達",
+      "本益比24倍"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 2.5,
+      "estimated_pe": 24.0,
+      "content": "Q3合併營收1.88億元雖略減，但受惠營業成本減少，本業獲利增至0.24億元，推升單季每股純益由去年同期的0.67元回升至0.72元，呈現營收小跌但獲利逆勢成長格局，萬寶估今年EPS 2.5元。",
+      "key_points": [
+        "成本結構優化帶動Q3本業獲利回升，單季每股獲利提升至0.72元。",
+        "布局無人機與高階直流無刷馬達系統，萬寶估今年EPS 2.5元。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 1.88,
+        "q3_eps": 0.72,
+        "q3_operating_income": 0.24
+      },
+      "chips_observation": "成交量維持小量整理，洗盤築底完成後蓄勢反彈。"
+    }
+  ]
+}

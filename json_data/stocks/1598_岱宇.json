@@ -1,0 +1,28 @@
+{
+  "stock_id": "1598",
+  "stock_name": "岱宇",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "健身器材/無人載具"
+    ],
+    "theme_tags": [
+      "轉虧為盈",
+      "無人載具"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 1元。轉型效益發揮，Q3營收14.66億元、毛利率44.8%季增6.3個百分點，加上美國對等關稅退稅，Q3 EPS 0.16元、前三季EPS 0.81元轉盈。復健醫療年增46.5%，無人載具年底至明年初出貨樣品單。",
+      "key_points": [
+        "前三季EPS 0.81元轉虧為盈",
+        "無人載具目標年底至明年初樣品單出貨"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "stock_id": "6933",
+  "stock_name": "AMAX-KY",
+  "industry_profile": {
+    "main_industry": "雲端運算供應鏈",
+    "sub_industries": [
+      "AI/HPC伺服器整機與液冷",
+      "AI水冷機櫃",
+      "高性能運算HPC",
+      "伺服器系統整合",
+      "AI伺服器與工業電腦"
+    ],
+    "theme_tags": [
+      "Q3 EPS 7.16元年增23倍",
+      "中壢新廠產能翻倍",
+      "逆勢強勢股",
+      "液冷整機櫃",
+      "輝達認證合作",
+      "抗震反彈",
+      "AI液冷伺服器",
+      "32檔電子強股"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "雲端運算供應鏈 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "close_price": 398.5,
+    "est_eps_2026": 20.0,
+    "est_pe": 20
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "精選電子股表",
+      "content": "入選32檔10月營收創新高電子股，累計營收年增76%，前三季EPS 13.59元，2026年估EPS 20元，收盤360元、本益比18倍。",
+      "key_points": [
+        "累計營收年增76%，前三季EPS 13.59元"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "列名頭版27檔逆勢強勢抗跌股。專注於AI伺服器水冷整機櫃與高效能運算(HPC)系統，與全球晶片巨頭合作緊密，受惠資料中心液冷改造潮。",
+      "key_points": [
+        "列名27檔逆勢強勢指標，水冷整合能力優異。",
+        "受惠企業端與科研機構AI算力機櫃建置，訂單持續成長。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "主力買盤低檔點火，盤中逆勢上揚展現韌性。"
+    },
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月每股賺2.45元，Q3每股7.16元年增逾23倍",
+      "close_price": 398.5,
+      "price_change_pct": 5.42,
+      "volume_lots": 2874,
+      "est_eps": 20.0,
+      "est_pe": 20,
+      "revenue_perf": "9月營收14.28億元(年增229%)、EPS 2.45元；Q3營收42.24億元(年增205%)、EPS 7.16元",
+      "content": "公告9月自結EPS 2.45元，Q3稅後純益3.04億元、EPS 7.16元，較去年同期暴增逾23倍；聚焦Neocloud雲端業者與AI資料中心建置，中壢新增產能2027年將翻倍。",
+      "key_points": [
+        "Q3單季EPS 7.16元、年增逾23倍",
+        "美系AI加速器新案量產，中壢新廠2027年產能翻倍"
+      ]
+    }
+  ]
+}

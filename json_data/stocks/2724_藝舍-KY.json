@@ -1,0 +1,46 @@
+{
+  "stock_id": "2724",
+  "stock_name": "藝舍-KY",
+  "industry_profile": {
+    "main_industry": "地產代銷",
+    "sub_industries": [
+      "交屋認列與代銷開發"
+    ],
+    "theme_tags": [
+      "地產開發",
+      "單月營收倍增"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-05",
+        "source": "reports/11月份/萬寶產業報告-1105(萬寶晚報贈品).pdf",
+        "category_mentioned": "地產代銷 - 交屋認列與代銷開發"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-05",
+    "close_price": 11.9,
+    "est_eps_2026": -1.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-05",
+      "source_file": "reports/11月份/萬寶產業報告-1105(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "藝舍-KY近5日逆勢漲5.31%唯一收紅，9月營收年增103.5%",
+      "close_price": 11.9,
+      "price_change_5d_pct": 5.31,
+      "foreign_5d_lots": -10,
+      "est_eps": -1.0,
+      "est_pe": null,
+      "revenue_perf": "9月營收年增103.5%",
+      "content": "收盤11.90元，近5日上漲5.31%為表列唯一上漲個股，但今年以來仍跌35.9%，交易相當清淡。9月營收年增103.5%，萬寶預估今年EPS為-1.0元。",
+      "key_points": [
+        "近5日上漲5.31%為表列唯一收紅，9月營收年增103.5%",
+        "成交清淡，萬寶預估今年EPS -1.0元"
+      ]
+    }
+  ]
+}

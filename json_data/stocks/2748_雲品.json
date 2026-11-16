@@ -1,0 +1,48 @@
+{
+  "stock_id": "2748",
+  "stock_name": "雲品",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "連鎖飯店品牌"
+    ],
+    "theme_tags": [
+      "日月潭雲品",
+      "君品Collection",
+      "尾牙宴會"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 連鎖飯店品牌"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 37.5,
+    "est_eps_2026": 2.2,
+    "est_pe": 17.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "雲品9月營收年增28.2%，預估EPS 2.2元",
+      "close_price": 37.5,
+      "price_change_5d_pct": -1.7,
+      "foreign_5d_lots": -7,
+      "est_eps": 2.2,
+      "est_pe": 17.0,
+      "revenue_perf": "9月營收年增28.2%",
+      "content": "收盤37.50元，近5日下跌1.70%，外資近5日小賣7張。9月營收年增28.2%成長顯著，萬寶預估2026年EPS 2.2元，預估本益比17.0倍。",
+      "key_points": [
+        "9月營收年增28.2%，營運成長動能佳",
+        "萬寶預估EPS 2.2元，預估本益比17.0倍"
+      ]
+    }
+  ]
+}

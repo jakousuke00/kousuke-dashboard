@@ -1,0 +1,47 @@
+{
+  "stock_id": "2706",
+  "stock_name": "第一店",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "都會老字號飯店"
+    ],
+    "theme_tags": [
+      "都會飯店",
+      "租金收益"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 都會老字號飯店"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 12.05,
+    "est_eps_2026": 0.6,
+    "est_pe": 20.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "第一店9月營收持平，外資近5日買超68張",
+      "close_price": 12.05,
+      "price_change_5d_pct": -1.23,
+      "foreign_5d_lots": 68,
+      "est_eps": 0.6,
+      "est_pe": 20.1,
+      "revenue_perf": "9月營收年減0.0%（與去年同期持平）",
+      "content": "收盤12.05元，近5日下跌1.23%，外資近5日買超68張，但近20日法人賣超139張。9月營收與去年同期持平，萬寶預估2026年EPS 0.6元，預估本益比20.1倍。",
+      "key_points": [
+        "9月營收與去年同期持平，外資近5日買超68張",
+        "萬寶預估EPS 0.6元，預估本益比20.1倍"
+      ]
+    }
+  ]
+}

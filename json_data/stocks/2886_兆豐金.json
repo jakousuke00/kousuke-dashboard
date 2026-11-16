@@ -1,0 +1,40 @@
+{
+  "stock_id": "2886",
+  "stock_name": "兆豐金",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "公股金控",
+      "外匯龍頭",
+      "高殖利率金融"
+    ],
+    "theme_tags": [
+      "集中市場買超張數第一",
+      "買超10731張",
+      "防禦避險",
+      "高殖利率"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主力大戶籌碼",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "三大法人於集中市場買超10,731張、金額5.74億元，奪得集中市場買超張數冠軍。大盤重挫千點之際，公股外匯龍頭金控成為法人資金最佳避風港。",
+      "key_points": [
+        "三大法人單日買超10,731張居上市第一，買超金額達5.74億元。",
+        "外匯獲利持穩且配息能見度高，防禦型買盤源源不絕。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "法人買超破萬張居全市場之冠，發揮大盤下檔中流砥柱功能。"
+    }
+  ]
+}

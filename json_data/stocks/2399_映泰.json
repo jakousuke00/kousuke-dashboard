@@ -1,0 +1,47 @@
+{
+  "stock_id": "2399",
+  "stock_name": "映泰",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "工業電腦(IPC)與主機板"
+    ],
+    "theme_tags": [
+      "工業電腦",
+      "北美南美智慧城市專案"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-02",
+        "source": "萬寶晚報-10_02",
+        "category_mentioned": "NB/PC產業 > 工業電腦"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-02",
+    "close_price": 51.2,
+    "est_eps_2026": 4.5,
+    "est_pe": 11.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-02",
+      "source_file": "萬寶晚報-10_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "工業電腦營收今年拚增8成，北美南美智慧城市大案明年發酵",
+      "close_price": 51.2,
+      "price_change_pct": -0.19,
+      "volume_lots": 8724,
+      "est_eps": 4.5,
+      "est_pe": 11.0,
+      "revenue_perf": "上半年IPC營收達1.8億元，全年可望達3.6億元、年增約8成",
+      "content": "法說表示工業電腦全年營收可望達3.6億元、年增約8成，毛利率最高，今年營收占比約2成、目標提高至5成；北美、南美各有一項大型智慧城市專案驗證接近完成，明年陸續發酵。惟留意10月起記憶體漲價與明年Q1 CPU供應變數。",
+      "key_points": [
+        "工業電腦全年營收估年增8成，北美與南美智慧城市大案明年發酵",
+        "預估2026年EPS 4.5元、本益比11倍"
+      ]
+    }
+  ]
+}

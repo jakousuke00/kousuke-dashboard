@@ -1,0 +1,45 @@
+{
+  "stock_id": "2340",
+  "stock_name": "台亞",
+  "industry_profile": {
+    "main_industry": "InP磷化銦供應鏈",
+    "sub_industries": [
+      "近5日下跌組"
+    ],
+    "theme_tags": [
+      "感測與化合物半導體",
+      "法人20日買超"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶產業報告-1029",
+        "category_mentioned": "InP磷化銦供應鏈 > 近5日下跌組 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29",
+    "close_price": 43.25,
+    "est_eps_2026": -2.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶產業報告-1029(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "9月營收年增34.3%，近20日上漲25.2%、法人買超1.5萬張",
+      "close_price": 43.25,
+      "price_change_5d_pct": -8.95,
+      "foreign_5d_lots": 462,
+      "est_eps": -2.0,
+      "est_pe": null,
+      "revenue_perf": "9月營收年增34.3%",
+      "content": "雖然近5日回檔8.95%收43.25元，但近20日仍上漲25.2%，法人近20日買超1.5萬張（外資近5日買超462張）。9月營收年增34.3%，萬寶預估2026年EPS為-2.0元。",
+      "key_points": [
+        "9月營收年增34.3%，近20日上漲25.2%、法人買超1.5萬張"
+      ]
+    }
+  ]
+}

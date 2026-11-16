@@ -1,0 +1,47 @@
+{
+  "stock_id": "7738",
+  "stock_name": "東聯互動",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "中小型成分股"
+    ],
+    "theme_tags": [
+      "跨境匯兌金流",
+      "高殖利率"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-19",
+        "source": "萬寶產業報告-1019",
+        "category_mentioned": "電信服務 > 中小型成分股 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-19",
+    "close_price": 163.0,
+    "est_eps_2026": 14.0,
+    "est_pe": 11.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-19",
+      "source_file": "萬寶產業報告-1019(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "9月營收年增19.9%，殖利率6.02%、預估2026 EPS 14.0元(本益比11.6倍)",
+      "close_price": 163.0,
+      "price_change_5d_pct": 0.62,
+      "foreign_5d_lots": 70,
+      "est_eps": 14.0,
+      "est_pe": 11.6,
+      "revenue_perf": "9月營收年增19.9%、月減4.0%",
+      "content": "近5日小漲0.6%，但今年以來仍下跌13.1%，收盤163.00元距52週高點236.00元有一段距離。9月營收年增19.9%（月減4.0%），殖利率6.02%，萬寶預估2026年EPS 14.0元、預估本益比11.6倍。",
+      "key_points": [
+        "9月營收年增19.9%，殖利率達6.02%",
+        "萬寶預估2026 EPS 14.0元，預估本益比僅11.6倍"
+      ]
+    }
+  ]
+}

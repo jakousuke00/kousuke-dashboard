@@ -1,0 +1,30 @@
+{
+  "stock_id": "1313",
+  "stock_name": "聯成",
+  "industry_profile": {
+    "main_industry": "塑化",
+    "sub_industries": [
+      "可塑劑(DOP/DINP)",
+      "PVC"
+    ],
+    "theme_tags": [
+      "Q3獲利季增近倍",
+      "美中關稅差異轉單"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 0.6元",
+      "pe_ratio": "19倍",
+      "content": "Q3 EPS 0.45元季增近倍、連三季獲利，前三季EPS 0.76元創近年高。受惠美國對中國DINP課徵44%關稅（台灣僅10%）及萊茵河枯水期帶動轉單。",
+      "key_points": [
+        "Q3 EPS 0.45元季增近倍，前三季EPS 0.76元",
+        "受惠美對中DINP課44%關稅（台灣僅10%）之轉單效應"
+      ]
+    }
+  ]
+}

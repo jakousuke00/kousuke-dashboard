@@ -1,0 +1,28 @@
+{
+  "stock_id": "2851",
+  "stock_name": "中再保",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "食品成衣、內需與金融產險"
+    ],
+    "theme_tags": [
+      "產險",
+      "高獲利"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚產業新聞",
+      "content": "前三季營業收入170.88億元、營業利益81.23億元、稅後純益70.15億元，每股賺8.76元，獲利金額居已公布的四家上市產險之冠。",
+      "key_points": [
+        "前三季EPS 8.76元居已公布上市產險第一"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stock_id": "8454",
+  "stock_name": "富邦媒",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "零售百貨與餐飲飯店"
+    ],
+    "theme_tags": [
+      "雙11",
+      "momo Ads"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股 / 萬寶投顧精選圖表",
+      "content": "10月營收約81億元年增3.8%，前三季營運現金流30.56億元。雙11暖身帶動紙品熱銷，自有品牌衛生紙年增258%，momo Ads破1萬家、投報率年增逾5成，估EPS 10元。",
+      "key_points": [
+        "10月營收年增3.8%，雙11暖身帶動美妝、保健及紙品熱銷",
+        "對強化電商生態圈併購持開放態度，萬寶下修2026 EPS至10元"
+      ]
+    }
+  ]
+}

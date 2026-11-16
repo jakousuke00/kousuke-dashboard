@@ -1,0 +1,45 @@
+{
+  "stock_id": "6175",
+  "stock_name": "立敦",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "上游材料"
+    ],
+    "theme_tags": [
+      "化成鋁箔"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 上游材料"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 76.3,
+    "est_eps_2026": 3.3,
+    "est_pe": 23.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "中立偏多",
+      "title": "立敦化成鋁箔穩健，收盤76.3元低點彈16%",
+      "close_price": 76.3,
+      "est_eps": 3.3,
+      "est_pe": 23.1,
+      "revenue_perf": "2026預估EPS 3.3元，H1 EPS 1.7元",
+      "content": "化成鋁箔廠立敦10/1收盤76.3元，較7月低點65.7元彈升16%，今年累計漲幅51%，營運維持穩定獲利表現。",
+      "key_points": [
+        "估2026 EPS 3.3元，PE約23倍",
+        "鋁箔上游材料走勢持穩"
+      ]
+    }
+  ]
+}

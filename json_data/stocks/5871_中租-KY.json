@@ -1,0 +1,29 @@
+{
+  "stock_id": "5871",
+  "stock_name": "中租-KY",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "金融租賃"
+    ],
+    "theme_tags": [
+      "東協成長",
+      "資產品質趨穩"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "10月自結EPS 0.99元，前十月稅後純益176億元年增6%、EPS 9.73元。台灣、大陸資產品質趨穩且信用減損減少，大陸及東協前十月獲利年增14%及6%，估EPS 12元。",
+      "key_points": [
+        "前十月EPS 9.73元、獲利年增6%",
+        "台灣、大陸及東協前十月獲利分別年增4%、14%及6%"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "stock_id": "3230",
+  "stock_name": "錦明",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "機殼"
+    ],
+    "theme_tags": [
+      "精密沖壓機構件"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶產業報告-1028",
+        "category_mentioned": "NB/PC產業 > 機殼 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28",
+    "close_price": 25.25,
+    "est_eps_2026": -2.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶產業報告-1028(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日大漲18.27%居機殼前三強，9月營收年增19.8%",
+      "close_price": 25.25,
+      "price_change_5d_pct": 18.27,
+      "foreign_5d_lots": 52,
+      "est_eps": -2.0,
+      "est_pe": null,
+      "revenue_perf": "9月營收年增19.8%",
+      "content": "收盤25.25元，近5日大漲18.27%居表列漲幅第三，9月營收年增19.8%，外資近5日買超52張，萬寶預估2026年EPS為-2.0元。",
+      "key_points": [
+        "近5日大漲18.27%，9月營收年增19.8%"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "stock_id": "5475",
+  "stock_name": "德宏",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "電子級玻纖布",
+      "超薄玻纖布",
+      "高頻高速材料",
+      "玻纖布與電子材料"
+    ],
+    "theme_tags": [
+      "逆勢強勢股",
+      "玻纖布轉機",
+      "低基期轉強",
+      "抗跌反彈",
+      "玻纖布",
+      "現金增資",
+      "高階玻纖布",
+      "PCB上游"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "頭版專欄/法人籌碼",
+      "content": "AI伺服器帶動高階玻纖布供需吃緊，股價表現強勢，今日獲上櫃三大法人買超1,560張、金額3.18億元。",
+      "key_points": [
+        "高階玻纖布供需吃緊受惠股，獲上櫃三大法人買超3.18億元"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "source": "頭版主筆 / 包打聽快報",
+      "content": "玻纖布強勢股受資金關注；公司公告辦理現金增資發行1.2萬張新股，每股發行價140元，資金用於購置機器設備及充實營運資金。",
+      "key_points": [
+        "現增1.2萬張每股認購價140元，最後過戶日11月17日"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "列名頭版27檔逆勢強勢股。電子級玻纖布報價回溫，受惠低損耗玻纖布供需吃緊，低基期轉機題材吸引市場資金積極介入，逆勢收紅。",
+      "key_points": [
+        "列名27檔逆勢抗跌指標，族群共伴效應顯著。",
+        "玻纖布產能去化完成，營運迎向復甦拐點。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "內資主力買盤點火，成交量溫和放大逆勢走揚。"
+    }
+  ]
+}

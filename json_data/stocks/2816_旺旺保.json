@@ -1,0 +1,28 @@
+{
+  "stock_id": "2816",
+  "stock_name": "旺旺保",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "產物保險"
+    ],
+    "theme_tags": [
+      "高EPS",
+      "低本益比"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 10元。受惠核保利益與投資收益雙創高，前三季稅後淨利22.6億元年增151.2%、EPS 10.12元已超越歷年全年水準，每股淨值45.5元。",
+      "key_points": [
+        "前三季EPS 10.12元超越歷年全年",
+        "投資收益年增997.6%，本益比約4倍"
+      ]
+    }
+  ]
+}

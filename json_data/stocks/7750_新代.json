@@ -1,0 +1,30 @@
+{
+  "stock_id": "7750",
+  "stock_name": "新代",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "工具機控制器",
+      "機器人手臂"
+    ],
+    "theme_tags": [
+      "前三季EPS 66.59元創高",
+      "機器人明年銷量倍增"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-16"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-16",
+      "content": "前三季每股66.59元創歷史新高，年初提前備料控制器記憶體奏效。大陸工具機控制器前三季銷售22萬套年增近八成；機器手臂今年銷2500支，明年目標倍增。馬來西亞二廠明年首季啟用，2026估EPS 88元。",
+      "key_points": [
+        "前三季EPS 66.59元創歷史新高",
+        "機器手臂明年銷量目標倍增",
+        "2026預估EPS 88元"
+      ]
+    }
+  ]
+}

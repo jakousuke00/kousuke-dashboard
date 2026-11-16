@@ -1,0 +1,48 @@
+{
+  "stock_id": "6708",
+  "stock_name": "天擎",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "無線影音傳輸IC",
+      "網通IC"
+    ],
+    "theme_tags": [
+      "IC設計",
+      "營收高成長",
+      "強勢飆股"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-10",
+        "source": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
+        "category_mentioned": "IC設計 - 重點個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10",
+    "close_price": 82.5,
+    "est_eps_2026": 0.4,
+    "est_pe": 206.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source_file": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日飆漲30.95%居表列漲幅冠軍，10月營收年增67.8%",
+      "close_price": 82.5,
+      "price_change_5d_pct": 30.95,
+      "foreign_5d_lots": 710,
+      "est_eps": 0.4,
+      "est_pe": 206.3,
+      "revenue_perf": "10月營收年增67.8%",
+      "content": "近5日大漲30.95%收82.50元，居表列IC設計股漲幅之冠，外資近5日買超710張。10月營收年增67.8%，萬寶預估2026年EPS 0.4元，預估本益比達206.3倍。",
+      "key_points": [
+        "近5日大漲30.95%居冠、外資買超710張，10月營收年增67.8%"
+      ]
+    }
+  ]
+}

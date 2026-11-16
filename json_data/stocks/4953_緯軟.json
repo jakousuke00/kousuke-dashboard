@@ -1,0 +1,44 @@
+{
+  "stock_id": "4953",
+  "stock_name": "緯軟",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "IT委外服務",
+      "半導體IC Layout與AI",
+      "資安與工業電腦"
+    ],
+    "theme_tags": [
+      "Q3四大獲利指標創高",
+      "前10月營收超越去年全年",
+      "IC Layout",
+      "AIoT"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "受惠半導體擴張，IC Layout設計及驗證服務連12季成長，年底將建近百人團隊。台灣業務占5成且毛利率優於整體，大陸拓展機器人與AI應用，估EPS 9元。",
+      "key_points": [
+        "半導體業務連12季成長，切入多家大型半導體供應鏈",
+        "預期2027年營收延續成長、毛利率進一步改善"
+      ]
+    },
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股（報表印為緯致4953）",
+      "estimated_eps": "2026E 9元",
+      "pe_ratio": "12倍",
+      "content": "Q3營收37.52億元、EPS 3.32元，四大獲利指標齊創單季新高；前三季EPS 8.2元。10月營收11.75億元、年增17%，前10月119.49億元已超越去年全年，聚焦AI與半導體。",
+      "key_points": [
+        "Q3營收37.52億元、EPS 3.32元創單季新高，前三季EPS 8.2元",
+        "前10月營收119.49億元已超越去年全年"
+      ]
+    }
+  ]
+}

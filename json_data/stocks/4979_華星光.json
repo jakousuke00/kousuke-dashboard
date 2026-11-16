@@ -1,0 +1,158 @@
+{
+  "stock_id": "4979",
+  "stock_name": "華星光",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "高速光收發模組與CPO",
+      "光通訊主動元件與模組",
+      "光通訊模組",
+      "光收發主被動元件",
+      "光收發模組組裝",
+      "TO-CAN封裝",
+      "雷射晶片封裝",
+      "光收發模組",
+      "光主被動元件",
+      "800G光通訊"
+    ],
+    "theme_tags": [
+      "800G/1.6T光模組",
+      "CPO矽光子",
+      "9月自結EPS 0.72元",
+      "Q3 EPS估2.28元",
+      "DCI光互連",
+      "ZR光模組",
+      "InP雷射代工",
+      "邁威爾併購題材",
+      "光通訊模組升級",
+      "CPO供應鏈",
+      "邁威爾台鏈",
+      "高速光互連",
+      "800G光模組",
+      "三大法人買超4.38億",
+      "買超1166張",
+      "光通訊高速傳輸",
+      "櫃買買超第六"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-30",
+        "source": "萬寶晚報-10_30",
+        "category_mentioned": "產業新聞焦點"
+      },
+      {
+        "date": "2026-10-15",
+        "source": "萬寶晚報-10_15",
+        "category_mentioned": "網通/電信與光通訊 > 包打聽快報"
+      },
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 光通訊"
+      },
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：光通訊與矽光子"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "est_eps_2026": 7.7,
+    "close_price": 145.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主力大戶籌碼",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "三大法人買超1,166張、金額4.38億元，位居櫃買買超金額第六名。受惠北美大型雲端客戶800G光收發模組拉貨強勁，營收進入旺季，獲法人買盤強力進駐。",
+      "key_points": [
+        "三大法人櫃買買超4.38億元居第六名，買超1,166張。",
+        "800G與1.6T高速傳輸迭代帶動產品單價與出貨量攀升。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "法人單日大舉買超逾4億元，技術面維持強勢多頭型態。"
+    },
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "產業新聞",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 7.0,
+      "estimated_pe": 22.0,
+      "content": "萬寶最新產業新聞點名華星光受惠邁威爾收購案。掌握美系大型資料中心客戶800G模組需求，隨AI資料中心全面導入光互聯，長線接單能見度明確。",
+      "key_points": [
+        "掌握北美雲端大廠光收發模組主力訂單，直通800G與1.6T高速傳輸架構。",
+        "短期受美股光通訊回檔波及，但基本面營收動能仍處於上升循環。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "股價隨族群劇烈震盪，待美股光通訊指標股走穩。"
+    },
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶晚報-10_30.pdf",
+      "section": "產業新聞",
+      "stance": "偏多",
+      "title": "邁威爾傳收購Lumentum整合光模組，華星光供應鏈戰略地位提升",
+      "close_price": 145.0,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "受惠美系客戶光收發模組規格升級至800G與1.6T，出貨動能持續走強",
+      "content": "邁威爾傳收購市值830億美元的Lumentum結合雷射模組挑戰博通，法人點名華星光受惠。隨美系CSP加速光收發規格升級，華星光在高速光模組具關鍵代工與元件地位，中長線受惠整併浪潮。",
+      "key_points": [
+        "邁威爾擬併Lumentum重塑光通訊版圖，深化台廠光模組合作",
+        "800G與1.6T高速傳輸規格推進，華星光光模組代工動能暢旺"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "source_file": "萬寶晚報-10_15.pdf",
+      "section": "包打聽快報",
+      "stance": "偏多",
+      "title": "9月自結稅後純益1.03億元、年增110.2%，單月每股賺0.72元",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 7.7,
+      "est_pe": null,
+      "revenue_perf": "9月自結稅後純益1.03億元、EPS 0.72元；推估Q3稅後純益3.26億元、季增77.2%，EPS 2.28元",
+      "content": "應主管機關要求公告9月自結稅後純益1.03億元、年增110.2%，單月EPS 0.72元；推估Q3稅後純益3.26億元、季增77.2%，單季EPS達2.28元。",
+      "key_points": [
+        "9月單月自結EPS 0.72元、年增110.2%",
+        "Q3單季EPS達2.28元、季增77.2%"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏多",
+      "title": "華星光8月自結每股賺0.64元，DCI光互連成主動能",
+      "close_price": 590.0,
+      "revenue_perf": "8月淨利0.92億元、年增2.22%，EPS 0.64元；Q2 EPS 1.29元",
+      "content": "自結8月歸屬母公司淨利0.92億元、EPS 0.64元。法人指出，AI基礎建設改走多個較小型算力集群，帶動80公里以上ZR模組出貨，應用於Scale-across的DCI光互連產品將是最主要成長動能，InP雷射後段代工成長可望延續至2028年。",
+      "key_points": [
+        "8月自結EPS 0.64元，Q2單季EPS 1.29元",
+        "80公里以上ZR模組與Scale-across DCI光互連為主動能，InP代工旺至2028年"
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "空方(漲多回檔)",
+      "title": "華星光進入籌碼沉澱與估值修正期",
+      "content": "具備800G/1.6T光通訊技術佈局，長線趨勢明確，惟短線漲幅過大或流動性降溫，引發短線獲利了結賣壓，股價回檔(-7.65%)待籌碼沉澱。",
+      "key_points": [
+        "CPO題材漲多進入籌碼沉澱與驗證期，短線拉回(-7.65%)"
+      ]
+    }
+  ]
+}

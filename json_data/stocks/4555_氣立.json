@@ -1,0 +1,47 @@
+{
+  "stock_id": "4555",
+  "stock_name": "氣立",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "氣動元件與流量感測器"
+    ],
+    "theme_tags": [
+      "9月營收年增34%",
+      "超音波流量感測器出貨AI水冷散熱客戶"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-06",
+        "source": "萬寶晚報-10_06",
+        "category_mentioned": "工具機 > 氣動元件與AI散熱感測器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-06",
+    "close_price": 42.9,
+    "est_eps_2026": 1.3,
+    "est_pe": 33.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-06",
+      "source_file": "萬寶晚報-10_06.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收年增34%，超音波流量感測器Q3起出貨半導體及AI伺服器散熱客戶",
+      "close_price": 42.9,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 1.3,
+      "est_pe": 33.0,
+      "revenue_perf": "9月營收1.82億元，月增8.7%、年增34.18%；Q3營收5.32億元、年增31.2%；前三季14.29億元、年增18.74%",
+      "content": "受惠半導體封裝設備與PCB需求回升，9月營收1.82億元、年增34.18%，Q3營收5.32億元、年增31.2%。新品超音波流量感測器已於Q3開始出貨給半導體及AI伺服器散熱相關客戶，全年營收獲利將優於去年。",
+      "key_points": [
+        "9月營收年增34.18%、Q3營收年增31.2%",
+        "超音波流量感測器Q3起出貨半導體及AI伺服器水冷散熱客戶"
+      ]
+    }
+  ]
+}

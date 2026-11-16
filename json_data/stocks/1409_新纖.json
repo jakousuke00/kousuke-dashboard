@@ -1,0 +1,44 @@
+{
+  "stock_id": "1409",
+  "stock_name": "新纖",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "化纖",
+      "半導體材料轉投資"
+    ],
+    "theme_tags": [
+      "新碩高階雙氧水",
+      "半導體清洗",
+      "轉投資收割"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "產業新聞"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "產業新聞",
+      "stance": "偏多",
+      "title": "新纖轉投資新碩攻晶圓清洗雙氧水，第二產線年底完工",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "新碩第二條產線年底完工，搶攻高階晶圓清洗供應鏈",
+      "content": "新纖持股43.6%的新碩主攻晶圓清洗用電子級雙氧水，第二條產線預計年底完工，搶攻先進晶圓清洗供應鏈，展現轉投資半導體成效。",
+      "key_points": [
+        "轉投資新碩切入晶圓清洗電子級雙氧水",
+        "第二條新產線年底完工添營運動能"
+      ]
+    }
+  ]
+}

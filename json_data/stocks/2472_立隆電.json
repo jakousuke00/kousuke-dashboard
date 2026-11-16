@@ -1,0 +1,66 @@
+{
+  "stock_id": "2472",
+  "stock_name": "立隆電",
+  "industry_profile": {
+    "main_industry": "被動元件產業",
+    "sub_industries": [
+      "MLCC與鋁電容",
+      "被動元件",
+      "鋁質電容"
+    ],
+    "theme_tags": [
+      "Rubin平台供應鏈",
+      "鋁電容",
+      "800V伺服器",
+      "高獲利",
+      "車用電子"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 鋁質電容"
+      },
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：被動元件"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 226.0,
+    "est_eps_2026": 10.8,
+    "est_pe": 20.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "立隆電獲利穩健，估2026 EPS達10.8元",
+      "close_price": 226.0,
+      "est_eps": 10.8,
+      "est_pe": 20.9,
+      "revenue_perf": "2026預估EPS 10.8元，H1 EPS 3.98元",
+      "content": "鋁質電解電容大廠立隆電獲利亮眼，估2026 EPS達10.8元，本益比僅約21倍。10/1收226元，今年累計漲幅達114%，具基本面護體。",
+      "key_points": [
+        "預估EPS逾10元，本益比具防禦性",
+        "車用與工業鋁電需求支撐獲利"
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "多方",
+      "title": "立隆電成功卡位Rubin平台供應鏈強勢漲停",
+      "content": "AI伺服器電源邁向800V架構，帶動鋁電容與牛角電容用量倍增。立隆電成功卡位NVIDIA Rubin平台供應鏈，受惠AI規格升級浪潮，單日買氣熱絡強勢攻頂(+9.93%)。",
+      "key_points": [
+        "成功卡位Rubin平台供應鏈，受惠800V鋁電容用量倍增(+9.93%)"
+      ]
+    }
+  ]
+}

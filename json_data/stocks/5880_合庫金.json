@@ -1,0 +1,27 @@
+{
+  "stock_id": "5880",
+  "stock_name": "合庫金",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "公股金控"
+    ],
+    "theme_tags": [
+      "獲利創高"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 1.4元。10月稅後純益16.8億元，前十月稅後純益219.29億元年增23.29%、EPS 1.32元續創同期新高。子公司合庫銀行、證券及人壽累計獲利皆創同期新高。",
+      "key_points": [
+        "前十月EPS 1.32元，獲利續創同期新高",
+        "銀行、證券、人壽三大子公司獲利皆創同期高"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "stock_id": "3265",
+  "stock_name": "台星科",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "IC封測"
+    ],
+    "theme_tags": [
+      "9月單月EPS 0.74元",
+      "AI ASIC測試與先進封裝"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-14",
+        "source": "萬寶晚報-10_14",
+        "category_mentioned": "半導體與設備檢測 > IC封測"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-14",
+    "close_price": 292.5,
+    "est_eps_2026": 8.0,
+    "est_pe": 37.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-14",
+      "source_file": "萬寶晚報-10_14.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月自結每股賺0.74元、年增119.6%，漲停收292.5元，明年ASIC需求強勁",
+      "close_price": 292.5,
+      "price_change_pct": 9.96,
+      "volume_lots": 2751,
+      "est_eps": 8.0,
+      "est_pe": 37.0,
+      "revenue_perf": "9月自結稅後盈餘1.01億元、年增119.6%，每股盈餘0.74元",
+      "content": "9月自結EPS 0.74元倍增，股價強攻漲停292.5元；公司表示明年AI ASIC需求強勁將成主要成長動能，目前HPC產品營收占比約5成，2027~2028年進一步提高。",
+      "key_points": [
+        "9月自結單月EPS 0.74元、年增119.6%",
+        "HPC產品占營收約5成，明年AI ASIC強勁成長"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "stock_id": "2313",
+  "stock_name": "華通",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "HDI板",
+      "低軌衛星板",
+      "光模組mSAP板",
+      "PCB與CCL載板",
+      "HDI/衛星板"
+    ],
+    "theme_tags": [
+      "9月營收創新高",
+      "低軌衛星板破百億",
+      "10月營收年增24.7%",
+      "光模組mSAP新產能Q4開出",
+      "低軌衛星",
+      "HDI",
+      "強彈前20名",
+      "預估EPS下調",
+      "預估EPS下修"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-22",
+        "source": "萬寶晚報-10_22",
+        "category_mentioned": "PCB/MB產業 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "close_price": 224.5,
+    "est_eps_2026": 7.0,
+    "est_pe": 32
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "列入萬寶投顧2026年預估EPS下修名單，2026年預估EPS下調至6.3元。",
+      "key_points": [
+        "2026年預估EPS下調至6.3元"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "content": "萬寶投顧2026年預估EPS下調至6.3元。",
+      "key_points": [
+        "2026預估EPS下調至6.3元"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "source": "頭版主筆 / 20強彈股",
+      "content": "低軌衛星族群同步接棒轉強，入選11/6低點以來最大彈幅排行前20名，2026年預估EPS 7元，H1 EPS 2.5元、Q3 EPS 1.8元，11/10收盤182.5元。",
+      "key_points": [
+        "低軌衛星族群接棒轉強，入選強彈前20名個股",
+        "前三季EPS 4.3元，2026年預估EPS 7元"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "source_file": "萬寶晚報-10_22.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收86.17億元創新高，衛星板今年破百億",
+      "close_price": 224.5,
+      "price_change_pct": -6.65,
+      "volume_lots": 40807,
+      "est_eps": 7.0,
+      "est_pe": 32,
+      "revenue_perf": "9月營收86.17億元(月增22.89%、年增15.02%)，Q3營收225.85億元同創新高",
+      "content": "9月與Q3營收雙創歷史新高，低軌衛星板業務今年突破百億元；提前於2025年訂購的高階mSAP新設備Q4起陸續到位，NPO採mSAP及HDI製程，技術路線可由800G延伸至1.6T、3.2T。",
+      "key_points": [
+        "9月營收86.17億元、Q3營收225.85億元雙創新高",
+        "低軌衛星板今年破百億，mSAP新設備Q4到位"
+      ]
+    },
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚產業新聞",
+      "estimated_eps": null,
+      "pe_ratio": null,
+      "content": "10月營收87.83億元、年增24.74%，Q3 EPS 1.81元、前三季4.31元。光模組mSAP新產能Q4起逐季開出，2026~2028每年資本支出逾200億元。",
+      "key_points": [
+        "10月營收87.83億元、年增24.74%，前三季EPS 4.31元",
+        "光模組mSAP新產能Q4起開出，2026~2028每年資本支出逾200億元"
+      ]
+    }
+  ]
+}

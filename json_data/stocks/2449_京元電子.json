@@ -1,0 +1,84 @@
+{
+  "stock_id": "2449",
+  "stock_name": "京元電子",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "AI晶片測試服務",
+      "晶圓與成品測試",
+      "IC測試"
+    ],
+    "theme_tags": [
+      "獲輝達14億美元預付款",
+      "450億元美國德州廠",
+      "資本支出500億",
+      "麥格理調高目標價360元",
+      "AI GPU成品測試獨占",
+      "AI供應鏈",
+      "先進封測"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-21",
+        "source": "萬寶晚報-10_21",
+        "category_mentioned": "半導體產業 > 包打聽快報"
+      },
+      {
+        "date": "2026-10-14",
+        "source": "萬寶晚報-10_14",
+        "category_mentioned": "半導體與設備檢測 > IC測試"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "est_eps_2026": 8.8,
+    "est_pe": 34.0,
+    "close_price": 296.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "2026年預估EPS 8.8元（前三季5.78元），輝達陣營占比10~20%、非輝達5~10%，承接不同晶片測試需求，受惠時程為現在至長期。",
+      "key_points": [
+        "2026估EPS 8.8元，輝達與非輝達雙陣營受惠"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶晚報-10_21.pdf",
+      "section": "包打聽快報",
+      "stance": "偏多",
+      "title": "麥格理調高京元電子目標價至360元",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "AI業務占營收已逾50%",
+      "content": "麥格理調高京元電子目標價至360元，指出AI業務占營收已逾50%，預估2026至2028年營收年複合成長率35%，AI相關GPU成品測試訂單至少到2027年不會面臨重大競爭。",
+      "key_points": [
+        "麥格理調高目標價至360元",
+        "AI占比逾50%，2026~2028年營收CAGR估35%"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "source_file": "萬寶晚報-10_14.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "獲輝達預付款鎖定測試產能，上限14億美元（約450億元）美國廠2028年運轉",
+      "close_price": 296.5,
+      "price_change_pct": -2.79,
+      "volume_lots": 55999,
+      "est_eps": 8.8,
+      "est_pe": 34.0,
+      "revenue_perf": "受惠Blackwell、Rubin及ASIC測試需求，今年資本支出已提高至500億元",
+      "content": "董事會通過與輝達簽訂客戶預付款協議，支持上限14億美元（約450億元）的美國投資案，預付款日後以測試服務抵減；新廠以德州最具落腳機會，規劃2028年小量運轉。",
+      "key_points": [
+        "與輝達簽訂預付款協議支持上限14億美元美國建廠案",
+        "今年資本支出已提高至500億元"
+      ]
+    }
+  ]
+}

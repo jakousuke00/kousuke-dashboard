@@ -1,0 +1,28 @@
+{
+  "stock_id": "1309",
+  "stock_name": "台達化",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "化工特化與鋼鐵塑化"
+    ],
+    "theme_tags": [
+      "塑化",
+      "虧損改善"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "產業新聞",
+      "content": "台聚集團第三季全數虧損，僅台達化虧損改善，第三季每股虧損0.62元、前三季累計每股虧損1.8元。",
+      "key_points": [
+        "Q3虧損較前期改善，單季每股虧0.62元"
+      ]
+    }
+  ]
+}

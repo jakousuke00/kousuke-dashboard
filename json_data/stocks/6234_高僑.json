@@ -1,0 +1,48 @@
+{
+  "stock_id": "6234",
+  "stock_name": "高僑",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "PCB設備",
+      "自動化設備"
+    ],
+    "theme_tags": [
+      "PCB鑽針與設備",
+      "外資大買",
+      "營收暴增"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-12",
+        "source": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",
+        "category_mentioned": "設備儀器 - 重點個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 53.1,
+    "est_eps_2026": 0.6,
+    "est_pe": 88.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "source_file": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "10月營收年增335.8%居表列之冠，外資近5日大買5,356張",
+      "close_price": 53.1,
+      "price_change_5d_pct": 18.0,
+      "foreign_5d_lots": 5356,
+      "est_eps": 0.6,
+      "est_pe": 88.5,
+      "revenue_perf": "10月營收年增335.8%",
+      "content": "10月營收暴增335.8%居表列設備股之冠；外資近5日大買5,356張亦居表列第一，推升近5日股價上漲18.00%收53.10元。萬寶預估2026年EPS 0.6元，預估本益比88.5倍。",
+      "key_points": [
+        "10月營收年增335.8%與外資近5日買超5,356張雙居表列冠軍，5日漲18.0%"
+      ]
+    }
+  ]
+}

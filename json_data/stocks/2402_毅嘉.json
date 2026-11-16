@@ -1,0 +1,100 @@
+{
+  "stock_id": "2402",
+  "stock_name": "毅嘉",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "軟板(FPC)與機構整合元件",
+      "軟板與光通訊SMT",
+      "軟板與光通訊散熱模組"
+    ],
+    "theme_tags": [
+      "馬來西亞新廠",
+      "車用軟板",
+      "光通訊出貨增溫",
+      "光通訊出貨全球前兩大客戶",
+      "Q4營收拚優於Q3",
+      "光通訊營收占比拚3~4成",
+      "馬來西亞新廠Flip-chip擴線"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-16",
+        "source": "萬寶晚報-10_16",
+        "category_mentioned": "PCB/MB產業 > 軟板與光通訊"
+      },
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "PCB/MB產業 > 光通訊與車用軟板"
+      },
+      {
+        "date": "2026-10-02",
+        "source": "萬寶晚報-10_02",
+        "category_mentioned": "PCB/MB產業 > 軟板與車用/光通訊"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-16",
+    "close_price": 60.4,
+    "est_eps_2026": 1.4,
+    "est_pe": 43.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-16",
+      "source_file": "萬寶晚報-10_16.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "2027年AI營收占比估達40%、光通訊拉高至3~4成，明年資本支出約15億元擴線",
+      "close_price": 60.4,
+      "price_change_pct": -4.28,
+      "volume_lots": 15279,
+      "est_eps": 1.4,
+      "est_pe": 43.0,
+      "revenue_perf": "Q3營收約34.17億元年增18%、EPS約0.33元，前三季EPS約0.79元",
+      "content": "Flip-chip Q3完成認證、Q4量產，打件線由3條明年增至8~12條、2028年升至24條；mSAP明年Q3量產、液冷測漏板Q4量產，2027年AI與光通訊營收占比上看30%~40%。",
+      "key_points": [
+        "Flip-chip打件線明年擴至8~12條，占明年光通訊營收80%",
+        "2027年AI營收占比估達40%"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "光通訊軟硬板與SMT出貨全球前兩大廠，Q4營收有望優於Q3再創高",
+      "close_price": 58.8,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 1.4,
+      "est_pe": 42.0,
+      "revenue_perf": "前9月營收94.98億元、年增17%，Q4營收可望優於Q3",
+      "content": "前九月營收94.98億元、年增17%，今年在光通訊挹注與車用穩健下，Q4營收有望打破往年Q3高峰、進一步優於Q3。法人指光通訊產品已出貨全球前兩大光通訊廠，隨馬來西亞新廠開出，2027年光通訊營收占比可望達雙位數。",
+      "key_points": [
+        "光通訊產品出貨全球前兩大廠，2027年光通訊占比挑戰雙位數",
+        "Q4營收有望優於Q3再創今年單季新高"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "source_file": "萬寶晚報-10_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收雙增，Q3營收34.17億元年增18%創今年單季新高",
+      "close_price": 58.8,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 1.4,
+      "est_pe": 42.0,
+      "revenue_perf": "9月營收11.37億元，月增2.1%、年增15%；Q3營收34.17億元、年增18%創今年單季新高",
+      "content": "9月營收11.37億元月增2.1%、年增15%，Q3營收34.17億元年增18%再創今年單季新高。馬來西亞新廠產能陸續開出，除車用產品外，光通訊產品出貨亦將逐月增溫，為Q4營運增添成長動能。",
+      "key_points": [
+        "Q3營收34.17億元年增18%創今年單季新高",
+        "馬來西亞新廠產能開出，車用與光通訊產品同步增溫"
+      ]
+    }
+  ]
+}

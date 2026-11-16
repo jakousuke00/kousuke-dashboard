@@ -1,0 +1,55 @@
+{
+  "stock_id": "3515",
+  "stock_name": "華擎",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "AI伺服器(永擎)",
+      "主機板與顯卡",
+      "主機板",
+      "伺服器",
+      "IPC"
+    ],
+    "theme_tags": [
+      "Q3 EPS 6.54元創單季新高",
+      "AI GPU訂單排到明年Q2後",
+      "母以子貴",
+      "永擎暴賺帶動",
+      "亮燈漲停",
+      "伺服器大單"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "永擎因AMD顯卡大賣Q3大賺近20元，帶動母公司華擎強攻漲停板。集團伺服器與AI應用大單全面進補，整體獲利預估顯著向上調升。",
+      "key_points": [
+        "子公司永擎獲利狂飆認列獲利豐厚，母以子貴效應強勁。",
+        "股價受利多激勵跳空開高直奔漲停，多頭量能充沛。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "主力買盤鎖漲停，成為盤面AI伺服器族群領頭羊之一。"
+    },
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 20元",
+      "pe_ratio": "10倍",
+      "content": "Q3營收169.39億元創高，稅後純益8.08億元、季增翻倍，單季EPS 6.54元創單季新高；前三季EPS 13.64元創同期新高。AI GPU平台訂單排到明年Q2後，子公司永擎訂單能見度達明年。",
+      "key_points": [
+        "Q3營收169.39億元、EPS 6.54元雙創單季新高，前三季EPS 13.64元",
+        "AI GPU平台訂單排到2027年Q2後"
+      ]
+    }
+  ]
+}

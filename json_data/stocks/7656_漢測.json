@@ -1,0 +1,40 @@
+{
+  "stock_id": "7656",
+  "stock_name": "漢測",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "晶圓測試",
+      "封測設備",
+      "半導體檢測"
+    ],
+    "theme_tags": [
+      "櫃買買超第二名",
+      "買超7.62億",
+      "測試介面",
+      "先進封裝"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主力大戶籌碼",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "三大法人於櫃買市場單日買超273張、金額達7.62億元，高居櫃買買超金額榜第二名。半導體測試介面需求熱絡，法人籌碼高度集中。",
+      "key_points": [
+        "三大法人櫃買買超7.62億元居第二名，資金積極卡位先進封裝檢測。",
+        "股價展現強大抗震防禦力，後市看好。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "三大法人單日買超7.62億元，呈現連續性主動性買盤進駐。"
+    }
+  ]
+}

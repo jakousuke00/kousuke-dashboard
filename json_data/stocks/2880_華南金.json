@@ -1,0 +1,26 @@
+{
+  "stock_id": "2880",
+  "stock_name": "華南金",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "公股金控"
+    ],
+    "theme_tags": [
+      "獲利創高"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "前十月稅後純益284.56億元年增26.85%、EPS 2.02元，創同期新高並賺贏去年全年；10月單月獲利20.89億元，華南永昌證券前十月較一銀證券多賺22.83億元。",
+      "key_points": [
+        "前十月EPS 2.02元創同期新高並賺贏去年全年"
+      ]
+    }
+  ]
+}

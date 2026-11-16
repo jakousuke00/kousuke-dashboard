@@ -1,0 +1,30 @@
+{
+  "stock_id": "3046",
+  "stock_name": "建碁",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "數位看板",
+      "充電樁與邊緣運算"
+    ],
+    "theme_tags": [
+      "Q3 EPS創21年新高",
+      "前三季賺贏2004年以來各年度"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 5.4元",
+      "pe_ratio": "9倍",
+      "content": "10月營收8.97億元、年增58.7%，前10月78.07億元同創22年同期新高；Q3 EPS 1.56元創21年單季新高，前三季EPS 4.31元賺贏2004年以來各年度。",
+      "key_points": [
+        "10月營收8.97億元、年增58.7%創22年同期高",
+        "Q3 EPS 1.56元創21年新高，前三季EPS 4.31元超越2004年來各年全年"
+      ]
+    }
+  ]
+}

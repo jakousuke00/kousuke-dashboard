@@ -1,0 +1,44 @@
+{
+  "stock_id": "2911",
+  "stock_name": "麗嬰房",
+  "industry_profile": {
+    "main_industry": "中國消費通路",
+    "sub_industries": [
+      "其他 (百貨、餐飲茶飲與通路)"
+    ],
+    "theme_tags": [
+      "嬰童服飾通路"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-30",
+        "source": "萬寶產業報告-1030",
+        "category_mentioned": "中國消費通路 > 其他 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-30",
+    "close_price": 5.87,
+    "est_eps_2026": -1.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶產業報告-1030(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "保守",
+      "title": "近5日下跌2.81%，9月營收年減21.7%、累計年減26.4%",
+      "close_price": 5.87,
+      "price_change_5d_pct": -2.81,
+      "foreign_5d_lots": -6,
+      "est_eps": -1.0,
+      "est_pe": null,
+      "revenue_perf": "9月營收年減21.7%、累計年減26.4%",
+      "content": "收盤5.87元，近5日下跌2.81%，9月營收年減21.7%、今年累計年減26.4%，萬寶預估2026年EPS為-1.0元。",
+      "key_points": [
+        "9月營收年減21.7%，營運仍在調整"
+      ]
+    }
+  ]
+}

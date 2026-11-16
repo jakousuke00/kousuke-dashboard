@@ -1,0 +1,47 @@
+{
+  "stock_id": "6217",
+  "stock_name": "中探針",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "檢測設備",
+      "測試探針"
+    ],
+    "theme_tags": [
+      "測試探針",
+      "檢測設備"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-12",
+        "source": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",
+        "category_mentioned": "設備儀器 - 重點個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 125.0,
+    "est_eps_2026": 1.0,
+    "est_pe": 125.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "source_file": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "近5日上漲5.93%，惟10月營收年減11.0%",
+      "close_price": 125.0,
+      "price_change_5d_pct": 5.93,
+      "foreign_5d_lots": 219,
+      "est_eps": 1.0,
+      "est_pe": 125.0,
+      "revenue_perf": "10月營收年減11.0%",
+      "content": "測試探針廠，近5日上漲5.93%收125.00元，外資近5日買超219張；不過10月營收年減11.0%，為表列少數年減個股。萬寶預估2026年EPS 1.0元，預估本益比125.0倍。",
+      "key_points": [
+        "近5日漲5.93%、外資買超219張，惟10月營收年減11.0%"
+      ]
+    }
+  ]
+}

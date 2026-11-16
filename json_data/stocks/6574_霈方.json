@@ -1,0 +1,28 @@
+{
+  "stock_id": "6574",
+  "stock_name": "霈方",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "生技新藥與醫材"
+    ],
+    "theme_tags": [
+      "醫美保養",
+      "高獲利"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "Q3營收2.11億年增57.89%、EPS 3.41元；前三季營收6.26億年增43.53%、EPS 12.48元，反映事業結構與營運管理優化成果，今年估EPS 15元、本益比8倍。",
+      "key_points": [
+        "Q3 EPS 3.41元，前三季EPS 12.48元，今年估15元"
+      ]
+    }
+  ]
+}

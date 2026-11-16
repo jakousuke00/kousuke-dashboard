@@ -1,0 +1,44 @@
+{
+  "stock_id": "8163",
+  "stock_name": "達方",
+  "industry_profile": {
+    "main_industry": "被動元件產業",
+    "sub_industries": [
+      "AI資料中心電源",
+      "被動元件MLCC",
+      "綠能儲能電池"
+    ],
+    "theme_tags": [
+      "Q3每股0.31元",
+      "資料中心電源散熱",
+      "高階MLCC緊俏",
+      "海昌電子"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 1.0,
+      "estimated_pe": 27.0,
+      "content": "Q3營收70.11億元，每股賺0.31元；前三季每股賺0.82元，全年營收成長目標不變。總經理指出高階MLCC供需緊俏將延續至明年，公司投資倍捷切入散熱，透過海昌電子布局資料中心電源與備援電池，萬寶估今年EPS 1元。",
+      "key_points": [
+        "高階MLCC供需吃緊看好延續至明年，轉投資倍捷切入液冷散熱領域。",
+        "透過海昌電子深化AI資料中心電源供應與備援電池，新業務轉型效益浮現。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 70.11,
+        "q3_eps": 0.31,
+        "three_q_eps": 0.82
+      },
+      "chips_observation": "低檔打底蓄勢，AI電源與散熱新業務受市場逐步關注。"
+    }
+  ]
+}

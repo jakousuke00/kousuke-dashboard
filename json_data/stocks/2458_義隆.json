@@ -1,0 +1,92 @@
+{
+  "stock_id": "2458",
+  "stock_name": "義隆",
+  "industry_profile": {
+    "main_industry": "智能辨識概念股",
+    "sub_industries": [
+      "指紋辨識概念股",
+      "觸控IC",
+      "AI無人機晶片與模組",
+      "筆電觸控IC",
+      "指紋辨識IC",
+      "邊緣AI"
+    ],
+    "theme_tags": [
+      "指紋辨識",
+      "觸控IC",
+      "高殖利率",
+      "投信買超",
+      "攜手雷虎展國產AI無人機",
+      "蜂群協同作業",
+      "AI業務年增4成",
+      "指紋辨識打入五大NB新客戶"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-13",
+        "source": "reports/11月份/萬寶產業報告-1113(萬寶晚報贈品).pdf",
+        "category_mentioned": "智能辨識概念股 - 指紋辨識概念股"
+      },
+      {
+        "date": "2026-10-21",
+        "source": "萬寶晚報-10_21",
+        "category_mentioned": "IC設計 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "close_price": 119.0,
+    "est_eps_2026": 6.3,
+    "est_pe": 18.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "source_file": "reports/11月份/萬寶產業報告-1113(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "10月營收年減53.7%表現最弱，惟投信買超331張且殖利率6.09%",
+      "close_price": 119.0,
+      "price_change_5d_pct": 3.03,
+      "foreign_5d_lots": -521,
+      "est_eps": 6.3,
+      "est_pe": 18.9,
+      "revenue_perf": "10月營收年減53.7%、月減23.3%，今年累計年減12.9%",
+      "content": "10月營收年減53.7%、月減23.3%，累計年減12.9%，為表列唯一單月營收年減公司。近5日外資賣超521張、投信逆勢買超331張，股價小漲3.03%收119.00元；殖利率6.09%，近四季PE 13.6倍、預估PE 18.9倍（預估EPS 6.3元）。",
+      "key_points": [
+        "10月營收年減53.7%、月減23.3%，為表列唯一單月營收年減個股",
+        "投信近5日買超331張，殖利率6.09%，預估EPS 6.3元、PE 18.9倍"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶晚報-10_21.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "攜雷虎秀國產AI無人機，從晶片包到整機",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 9.2,
+      "est_pe": 14,
+      "revenue_perf": null,
+      "content": "攜手雷虎於台北國際電子展首度展出國產AI智慧平戰轉換無人機平台及手持式地面站，從晶片、AI影像模組到整機一手包辦，並展示五架無人機蜂群協同作業，搶攻國防與巡防商機。",
+      "key_points": [
+        "攜手雷虎展出國產AI無人機平台與手持地面站",
+        "展示五架無人機蜂群協同作業"
+      ]
+    },
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 9.2元",
+      "pe_ratio": "13倍",
+      "content": "Q3營收22.2億元、EPS 0.58元，前三季EPS 6.11元。受CPU缺貨與記憶體漲價壓抑筆電拉貨，惟AI相關業務全年營收估年增4成，明年指紋辨識打入五大筆電新客戶。",
+      "key_points": [
+        "Q3受筆電CPU缺貨與記憶體漲價影響，單季EPS降至0.58元、前三季6.11元",
+        "AI相關業務全年營收估增4成，明年指紋辨識打入五大筆電新客戶"
+      ]
+    }
+  ]
+}

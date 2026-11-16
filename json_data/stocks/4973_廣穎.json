@@ -1,0 +1,29 @@
+{
+  "stock_id": "4973",
+  "stock_name": "廣穎",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "記憶體模組"
+    ],
+    "theme_tags": [
+      "AI與工控儲存",
+      "漲價受惠"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "Q3營收33.15億元年增237.5%，單季EPS 13.78元、前三季EPS 29.08元；10月營收10.18億元年增176.06%為歷史次高，受惠AI、工控與企業級儲存需求，估EPS 28元。",
+      "key_points": [
+        "Q3單季EPS 13.78元，10月營收10.18億元連四月站穩10億",
+        "受惠市場價格走揚及AI、工控與企業級儲存需求，估EPS 28元"
+      ]
+    }
+  ]
+}

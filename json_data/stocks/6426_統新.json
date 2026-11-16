@@ -1,0 +1,30 @@
+{
+  "stock_id": "6426",
+  "stock_name": "統新",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "光通訊與網通電信"
+    ],
+    "theme_tags": [
+      "光通訊濾鏡",
+      "AI資料中心",
+      "擴產"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "Q3 EPS 2.06元、前三季EPS 5.02元，10月營收年增60.7%。AI資料中心互連需求推升出貨，11月董事會追加資本支出至上限3.25億元擴產，2027年Q1起陸續到位。",
+      "key_points": [
+        "Q3 EPS 2.06元，AI資料中心互連推升Q4營運看好",
+        "累計核准資本支出達3.25億元擴產，明年Q1起陸續到位"
+      ]
+    }
+  ]
+}

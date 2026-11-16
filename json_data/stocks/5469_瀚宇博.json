@@ -1,0 +1,74 @@
+{
+  "stock_id": "5469",
+  "stock_name": "瀚宇博",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "伺服器-PCB",
+      "NB與硬板",
+      "PCB",
+      "多層板"
+    ],
+    "theme_tags": [
+      "PCB",
+      "外資買超",
+      "低本益比",
+      "Q3創新高",
+      "資本支出150億",
+      "AI伺服器板"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-11",
+        "source": "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf",
+        "category_mentioned": "PCB/MB產業 - 重點個股"
+      },
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "產業新聞"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "close_price": 76.5,
+    "est_eps_2026": 5.0,
+    "est_pe": 15.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source_file": "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日強漲16.26%、外資買超2,385張，10月營收年增65.2%",
+      "close_price": 76.5,
+      "price_change_5d_pct": 16.26,
+      "foreign_5d_lots": 2385,
+      "est_eps": 5.0,
+      "est_pe": 15.3,
+      "revenue_perf": "10月營收年增65.2%",
+      "content": "近5日大漲16.26%收76.50元，外資近5日買超2,385張。10月營收年增65.2%，萬寶預估2026年EPS 5.0元，預估本益比15.3倍居表列最低。",
+      "key_points": [
+        "近5日漲16.26%、外資買超2,385張，10月營收年增65.2%，PE 15.3倍"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "產業新聞",
+      "stance": "強烈偏多",
+      "title": "瀚宇博Q3營收創歷史新高，2027資本支出估破150億大擴產",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "Q3營收202.58億年增28.9%，受惠AI伺服器及高速交換器",
+      "content": "受惠AI伺服器與高速交換器，瀚宇博Q3營收202.58億元年增28.9%創新高。集團2027年資本支出預估突破150億元，大幅擴充多層板與HDI產能。",
+      "key_points": [
+        "Q3營收202.58億元創單季歷史新高",
+        "資本支出大增至逾150億，多層板擴產上看120%"
+      ]
+    }
+  ]
+}

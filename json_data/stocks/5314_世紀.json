@@ -1,0 +1,67 @@
+{
+  "stock_id": "5314",
+  "stock_name": "世紀*",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "AI無人機與反無人機系統",
+      "離岸風電水下基礎",
+      "重電工程",
+      "綠能設備"
+    ],
+    "theme_tags": [
+      "AUSA 2026簽署美三大軍工MOU",
+      "反無人機與VTRX垂直起降",
+      "三大法人買超3868張",
+      "櫃買買超張數第三",
+      "綠能基建",
+      "特定買盤鎖碼"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-16",
+        "source": "萬寶晚報-10_16",
+        "category_mentioned": "AI伺服器硬體 > 阿樂情報站(無人機)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主力大戶籌碼",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "三大法人櫃買市場單日買超3,868張、金額0.88億元，位居買超張數第三名。特定買盤於低檔大舉吃貨，離岸風電與綠能基建題材蓄勢發酵。",
+      "key_points": [
+        "三大法人櫃買買超3,868張高居張數榜第三名。",
+        "低檔爆量換手，吸引主力特定資金積極卡位。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "法人買超近4千張，呈現低檔特定買盤點火跡象。"
+    },
+    {
+      "date": "2026-10-16",
+      "source_file": "萬寶晚報-10_16.pdf",
+      "section": "阿樂情報站",
+      "stance": "偏多",
+      "title": "赴美AUSA 2026年會與IXI EW、SafeSky、Global Ordnance三大軍工簽署MOU",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "涵蓋反無人機、垂直起降無人機平台及國防供應服務三大面向",
+      "content": "於美國陸軍協會2026年會(AUSA 2026)在AIT見證下，與IXI EW、SafeSky Systems USA及Global Ordnance集團簽署戰略合作備忘錄(MOU)，進軍台灣與東協AI無人載具與低空防護市場。",
+      "key_points": [
+        "與美三大軍工業者簽署戰略合作MOU",
+        "三大法人10/16買超上櫃第2名+4,672張"
+      ]
+    }
+  ]
+}

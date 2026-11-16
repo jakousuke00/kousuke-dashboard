@@ -1,0 +1,46 @@
+{
+  "stock_id": "5902",
+  "stock_name": "德記",
+  "industry_profile": {
+    "main_industry": "貿易百貨",
+    "sub_industries": [
+      "食品飲料",
+      "品牌通路"
+    ],
+    "theme_tags": [
+      "獲利創同期新高",
+      "低本益比",
+      "外銷拓展"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "今晚爆個股 > 內需與通路"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28",
+    "est_eps_2026": 2.1,
+    "est_pe": 16.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "德記Q3每股賺0.7元創同期新高，前三季EPS 1.75元",
+      "close_price": null,
+      "est_eps": 2.1,
+      "est_pe": 16.0,
+      "revenue_perf": "Q3稅後純益0.6億元年增20%，前三季獲利1.6億元持平去年",
+      "content": "下半年聚焦品牌、通路及海外三大方向，拓展餐飲與電商新通路，並加速開喜烏龍茶外銷歐美與中東市場。前三季每股賺1.75元，全年估2.1元，本益比僅16倍。",
+      "key_points": [
+        "Q3獲利年增20%創同期新高，前三季EPS 1.75元",
+        "積極拓展海外外銷與新包裝限定產品"
+      ]
+    }
+  ]
+}

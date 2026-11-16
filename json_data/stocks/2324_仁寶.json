@@ -1,0 +1,96 @@
+{
+  "stock_id": "2324",
+  "stock_name": "仁寶",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "NB代工",
+      "AI伺服器",
+      "伺服器代工與機殼",
+      "電子代工/AI伺服器"
+    ],
+    "theme_tags": [
+      "躋身輝達Vera CPU MGX夥伴",
+      "美國德州廠L10/L11",
+      "輝達HGX B300平台",
+      "支援Verda拓展AI雲端",
+      "智慧裝置",
+      "伺服器代工",
+      "AI伺服器轉型",
+      "Vera Rubin"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-22",
+        "source": "萬寶晚報-10_22",
+        "category_mentioned": "NB/PC產業 > 今晚爆個股"
+      },
+      {
+        "date": "2026-10-13",
+        "source": "萬寶晚報-10_13",
+        "category_mentioned": "AI伺服器硬體 > AI伺服器與NB代工"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "close_price": 37.3,
+    "est_eps_2026": 2.4,
+    "est_pe": 16
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 2.4元。Q3 EPS 0.6元，前三季稅後純益76.81億元年增66.2%、EPS 1.78元已超過去年全年。美國德州廠下半年投入營運，加桃園大溪新廠切入L10/L11，明年上半年Vera Rubin量產成長更顯著。",
+      "key_points": [
+        "前三季EPS 1.78元已超越去年全年",
+        "切入L10/L11與Vera Rubin伺服器明年上半年量產"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "source": "產業新聞",
+      "content": "10月營收871.51億元、月減7.7%、年增40.7%，前十月年增22.4%；雖Q4 PC出貨估兩位數下滑，但智慧裝置帶動non-PC成長，營運有望優於Q3。",
+      "key_points": [
+        "10月營收年增40.7%，智慧裝置帶動non-PC成長",
+        "第四季營運有望優於第三季"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "source_file": "萬寶晚報-10_22.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "擴增台美產能，支援Verda拓展全球AI雲端",
+      "close_price": 37.3,
+      "price_change_pct": -1.06,
+      "volume_lots": 31493,
+      "est_eps": 2.4,
+      "est_pe": 16,
+      "revenue_perf": null,
+      "content": "與AI雲端基礎設施商Verda宣布擴大合作，以輝達HGX B300平台為基礎支援Verda拓展全球AI雲端服務，持續增加大溪廠及美國產能。",
+      "key_points": [
+        "以輝達HGX B300平台支援Verda拓展全球AI雲端",
+        "擴增大溪廠及美國製造產能"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "source_file": "萬寶晚報-10_13.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "首度入列輝達Vera CPU MGX機架第一梯隊夥伴，明年伺服器占比拚3至4成",
+      "close_price": 35.8,
+      "price_change_pct": -2.19,
+      "volume_lots": 43132,
+      "est_eps": 2.4,
+      "est_pe": 15.0,
+      "revenue_perf": "預計2027年首季量產Vera Rubin新AI伺服器並攻入L10/L11市場",
+      "content": "輝達在OCP全球峰會揭露Vera CPU MGX機架夥伴名單，仁寶首度入列第一梯隊；預計2027年Q1量產Vera Rubin並透過美國德州廠由L6擴展至L10/L11，明年伺服器占比衝30%~40%。",
+      "key_points": [
+        "首度入列輝達Vera CPU MGX機架第一梯隊夥伴",
+        "2027年AI伺服器營收占比挑戰30%~40%"
+      ]
+    }
+  ]
+}

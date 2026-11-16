@@ -1,0 +1,57 @@
+{
+  "stock_id": "7751",
+  "stock_name": "竑騰",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "先進封裝點膠與植片壓合設備",
+      "先進封裝設備與材料"
+    ],
+    "theme_tags": [
+      "輝達Rubin環形均熱片設備",
+      "在手訂單50億元",
+      "半導體設備",
+      "32檔電子強股"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "半導體產業 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "est_eps_2026": 36.0,
+    "est_pe": 37
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "精選電子股表",
+      "content": "入選32檔10月營收創新高電子股，累計營收年增61%，上半年累計EPS 13.85元，2026年估EPS 36元，收盤1,205元、本益比33倍。",
+      "key_points": [
+        "10月營收創高，累計年增61%，2026年估EPS 36元"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "在手訂單約50億元，Rubin環形均熱片帶旺設備",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 36.0,
+      "est_pe": 37,
+      "revenue_perf": "前三季營收21.09億元(年增60.79%)，上半年EPS 13.85元、毛利率51.9%",
+      "content": "受惠輝達Rubin平台導入環形均熱片設計，帶動精密點膠、植片壓合及自動化檢測設備需求，在手訂單約50億元，排程延伸至2027年Q2；中長期參與日月光投控高雄仁武AI先進測試基地建新廠。",
+      "key_points": [
+        "受惠Rubin環形均熱片，在手訂單約50億元",
+        "上半年EPS 13.85元、毛利率51.9%"
+      ]
+    }
+  ]
+}

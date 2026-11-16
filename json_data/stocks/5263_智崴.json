@@ -1,0 +1,30 @@
+{
+  "stock_id": "5263",
+  "stock_name": "智崴",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "食品成衣、內需與金融產險"
+    ],
+    "theme_tags": [
+      "體感設備",
+      "Flyover併表",
+      "轉虧為盈"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "受惠沉浸式娛樂需求及Flyover自8月併表，前三季營收17.04億年增85.9%、EPS 5.21元轉虧為盈，毛利率50.2%。10月營收年增105.64%，全年有望超越2019年高點。",
+      "key_points": [
+        "前三季EPS 5.21元轉虧為盈，今年估EPS 2.2元",
+        "10月營收年增105.64%，全年營收有望突破20.8億元高點"
+      ]
+    }
+  ]
+}

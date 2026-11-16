@@ -1,0 +1,1415 @@
+{
+  "batch_id": "batch_4_oct_p2_a",
+  "processed_files": {
+    "reports/10月份/萬寶晚報-10_07.pdf": {
+      "processed_at": "2026-11-16T02:45:00+08:00",
+      "report_date": "2026-10-07",
+      "report_type": "萬寶晚報",
+      "main_topic": "有人暗中拉，今昔萬元股跌停，光通訊才是新主流！",
+      "extracted_stocks_count": 62
+    },
+    "reports/10月份/萬寶晚報-10_08.pdf": {
+      "processed_at": "2026-11-16T02:45:00+08:00",
+      "report_date": "2026-10-08",
+      "report_type": "萬寶晚報",
+      "main_topic": "5萬有壓，4萬9有守，外資賣，免驚！萬元股有難，五千級有撐，好戲仍在千金股！",
+      "extracted_stocks_count": 68
+    }
+  },
+  "industries_updates": [
+    {
+      "main_industry": "網通/電信與光通訊",
+      "wanbao_70_sector": "光電相關 / 網通/電信產業",
+      "sub_categories": {
+        "台積電CPO": {
+          "description": "台積電共同封裝光學(CPO)供應鏈，受惠AI資料中心高速傳輸光進銅退趨勢。",
+          "stocks": [
+            {"id": "3363", "name": "上詮", "role": "3.2T FAU第四季再放量、6.4T接棒，估2026 EPS 0.1元"},
+            {"id": "3374", "name": "精材", "role": "台積電CPO與晶圓測試供應鏈，估2026 EPS 6.4元"},
+            {"id": "6789", "name": "采鈺", "role": "台積電旗下光學元件廠，估2026 EPS 6.3元"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "III-V族供應鏈": {
+          "description": "磷化銦(InP)與砷化鎵磊晶及晶圓代工，光收發模組雷射光源關鍵供應鏈。",
+          "stocks": [
+            {"id": "4971", "name": "IET-KY", "role": "MBE磊晶廠，1-9月營收年增19%，估2026 EPS 6元"},
+            {"id": "4991", "name": "環宇-KY", "role": "化合物半導體晶圓代工，1-8月營收年增46%，估2026 EPS 5.5元"},
+            {"id": "2455", "name": "全新", "role": "光電子磊晶，1-9月營收年增35%，估2026 EPS 5.5元"},
+            {"id": "3081", "name": "聯亞", "role": "矽光與CW雷射磊晶龍頭，1-9月營收年增136%，估2026 EPS 19元"},
+            {"id": "3105", "name": "穩懋", "role": "砷化鎵晶圓代工龍頭，1-9月營收年增33%，估2026 EPS 7.2元"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "光通訊模組與被動元件": {
+          "description": "光收發模組、光纖陣列(FAU)、光纖跳接線與高速主動光纜(AEC/AOC)。",
+          "stocks": [
+            {"id": "3163", "name": "波若威", "role": "光纖被動元件與CPO光纖套件，估2026 EPS 9元"},
+            {"id": "3450", "name": "聯鈞", "role": "800G AOC與雷射封裝大廠，估2026 EPS 9元"},
+            {"id": "4908", "name": "前鼎", "role": "光收發模組廠，1-8月營收年增28%，估2026 EPS 3元"},
+            {"id": "4977", "name": "眾達-KY", "role": "攜手博通布局CPO光學封裝，估2026 EPS 3元"},
+            {"id": "4979", "name": "華星光", "role": "美系晶片大廠光通訊模組夥伴，估2026 EPS 7.7元"},
+            {"id": "6451", "name": "訊芯-KY", "role": "鴻海集團CPO高階封測廠，估2026 EPS 1.5元"},
+            {"id": "3008", "name": "大立光", "role": "切入CPO光纖陣列(FAU)通過客戶認證，估2026 EPS 190元"},
+            {"id": "6442", "name": "光聖", "role": "美系CSP資料中心光纖跳接線主力，估2026 EPS 36元"},
+            {"id": "3665", "name": "貿聯-KY", "role": "高速運算AEC主動光纜與連接器龍頭，估2026 EPS 66元"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "面板轉型光源與FOPLP": {
+          "description": "面板廠與LED廠切入Micro LED光互連光源及扇出型面板級封裝。",
+          "stocks": [
+            {"id": "2409", "name": "友達", "role": "面板大廠布局Micro LED光互連，估2026 EPS 0.4元"},
+            {"id": "2426", "name": "鼎元", "role": "感測與發光元件廠，今年漲幅達505%，估2026 EPS 0.8元"},
+            {"id": "3481", "name": "群創", "role": "面板與FOPLP雙軌轉型，估2026 EPS 1.2元"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        }
+      },
+      "report_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "report_type": "萬寶晚報專欄與精選圖表",
+        "stance": "偏多",
+        "headline": "美股光通訊與ASIC領漲，台股光通訊族群成新主流",
+        "market_performance": "10/6美股Marvell大漲5.8%、Ciena飆13.85%，Corning、AAOI、Astera Labs漲6%~7.6%，帶動台股光通訊族群強勢。",
+        "industry_dynamics": "AI資料中心高速傳輸需求持續增加，光進銅退趨勢確立，3.2T/6.4T FAU與800G/1.6T光模組持續放量。",
+        "chips_and_funds": "資金由漲多萬元股轉向光通訊與PCB族群。",
+        "fundamentals": "聯亞前9月營收年增136%、全新年增35%、貿聯-KY年增40%、光聖前8月年增43%，成長動能強勁。",
+        "sub_sector_breakdown": {},
+        "future_watch": ["觀察FAU在2026~2028年放量進度及NPO/CPO良率突破時程。"]
+      }
+    },
+    {
+      "main_industry": "半導體與設備檢測",
+      "wanbao_70_sector": "半導體產業 / IC設計",
+      "sub_categories": {
+        "半導體晶圓檢測": {
+          "description": "AI與HPC高階晶片帶動探針卡、測試介面(Socket)與晶圓測試需求大增。",
+          "stocks": [
+            {"id": "6515", "name": "穎崴", "role": "半導體測試介面龍頭，前三季營收破百億，估2026 EPS 90元"},
+            {"id": "6223", "name": "旺矽", "role": "探針卡大廠，前9月營收年增58%，估2026 EPS 62元"},
+            {"id": "7856", "name": "漢測", "role": "晶圓測試與探針卡廠，前9月營收年增129%，估2026 EPS 42元"},
+            {"id": "6510", "name": "精測", "role": "高階測試介面廠，10/8漲停收3320元，估2026 EPS 60元"},
+            {"id": "6683", "name": "雍智科技", "role": "IC測試載板廠，前9月營收年增30%，估2026 EPS 28元"},
+            {"id": "3374", "name": "精材", "role": "晶圓級封裝與測試，前9月營收年增31%，估2026 EPS 6.4元"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "ASIC與矽智財(IP)": {
+          "description": "雲端CSP自研AI加速器晶片帶動ASIC設計服務與先進製程IP需求。",
+          "stocks": [
+            {"id": "3443", "name": "創意", "role": "ASIC股王，前9月營收年增103%，估2026 EPS 54元"},
+            {"id": "2454", "name": "聯發科", "role": "手機SoC與AI ASIC大廠，估2026 EPS 68元"},
+            {"id": "3661", "name": "世芯-KY", "role": "北美CSP 3奈米AI ASIC主力，估2026 EPS 130元"},
+            {"id": "3529", "name": "力旺", "role": "嵌入式非揮發性記憶體與PUF資安IP龍頭，估2026 EPS 32元"},
+            {"id": "6531", "name": "愛普*", "role": "IoTRAM與3D堆疊VHM記憶體IP，前9月營收年增106%，估2026 EPS 19元"},
+            {"id": "6643", "name": "M31", "role": "高速傳輸與先進製程基礎IP，估2026 EPS 4元"},
+            {"id": "7749", "name": "意騰-KY", "role": "AI聲學處理與語音ASIC/IP，前9月營收年增45%，估2026 EPS 16元"},
+            {"id": "6533", "name": "晶心科", "role": "RISC-V架構CPU IP廠，前9月營收年增30%，估2026 EPS -6元"},
+            {"id": "8227", "name": "巨有科技", "role": "台積電DCA設計中心夥伴，前9月營收年增52%，估2026 EPS 5元"},
+            {"id": "3035", "name": "智原", "role": "聯電集團ASIC與IP廠，估2026 EPS 2.7元"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "記憶體與模組": {
+          "description": "DRAM與NAND合約價續漲，AI伺服器與工控記憶體需求強勁。",
+          "stocks": [
+            {"id": "2408", "name": "南亞科", "role": "DRAM大廠，9月營收連11月創高，估2026 EPS 70元"},
+            {"id": "5289", "name": "宜鼎", "role": "工控與邊緣AI記憶體模組龍頭，9月營收年增535.7%"},
+            {"id": "8271", "name": "宇瞻", "role": "工控記憶體模組，9月營收年增157.7%"},
+            {"id": "8299", "name": "群聯", "role": "NAND控制晶片與企業級eSSD龍頭，估2026 EPS 400元"},
+            {"id": "4967", "name": "十銓", "role": "記憶體模組廠，Q3營收首破百億，估2026 EPS 90元"},
+            {"id": "2337", "name": "旺宏", "role": "ROM與NOR/NAND廠，9月營收連6月創高，估2026 EPS 16元"}
+          ],
+          "mentioned_unlisted_or_peers": ["Solidigm", "SK海力士"]
+        }
+      },
+      "report_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "report_type": "萬寶晚報專欄與精選圖表",
+        "stance": "偏多",
+        "headline": "晶圓檢測股止跌回穩守住5000元級，世芯-KY領軍ASIC反攻",
+        "market_performance": "10/8精測漲停收3320元、旺矽收5575元、穎崴收5615元止跌，世芯-KY大漲155元收4345元。",
+        "industry_dynamics": "AI與HPC測試介面需求強勁，SK海力士旗下Solidigm來台擴大釋單力成與和碩企業級SSD，上看千億元規模。",
+        "chips_and_funds": "外資賣超權值股，但千金股在5000元關卡展現比價支撐。",
+        "fundamentals": "晶圓檢測6檔前9月營收年增30%~129%；ASIC族群創意年增103%、愛普*年增106%。",
+        "sub_sector_breakdown": {},
+        "future_watch": ["關注10/12南亞科法說會與10/15台積電法說會對先進製程與CoWoS展望。"]
+      }
+    },
+    {
+      "main_industry": "被動元件產業",
+      "wanbao_70_sector": "被動元件",
+      "sub_categories": {
+        "MLCC與晶片電阻": {
+          "description": "十一長假提前拉貨加上AI伺服器高壓大電流需求，被動元件廠營收創高。",
+          "stocks": [
+            {"id": "2327", "name": "國巨*", "role": "被動元件龍頭，9月營收連7月創高，估2026 EPS 20元"},
+            {"id": "2492", "name": "華新科", "role": "9月營收48.89億元創8年新高，8月單月EPS 1.55元，估2026 EPS 11元"},
+            {"id": "6834", "name": "天二科技", "role": "晶片電阻廠，Q3營收7.71億元首破7億創高"},
+            {"id": "6449", "name": "鈺邦", "role": "固態電容廠"},
+            {"id": "2428", "name": "興勤", "role": "保護元件大廠，Q3營收29.3億元連同9月營收同創新高"},
+            {"id": "3026", "name": "禾伸堂", "role": "9月營收年月雙增"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        }
+      },
+      "report_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "report_type": "今晚產業新聞",
+        "stance": "偏多",
+        "headline": "天二科技Q3營收首破7億元，興勤、國巨、華新科同寫佳績",
+        "market_performance": "被動元件族群受惠AI伺服器與歐美拉貨回溫，營收普遍創高。",
+        "industry_dynamics": "Vera Rubin機櫃明年放量及日商停產料號轉單，推升MLCC、電阻與保護元件出貨。",
+        "chips_and_funds": "三大法人10/1~10/8累計買超華新科32,858張、國巨*15,550張。",
+        "fundamentals": "國巨* Q3營收495.31億元連四季創高；華新科Q3營收139.02億元創單季新高；天二科技Q3營收年增110.9%。",
+        "sub_sector_breakdown": {},
+        "future_watch": ["10月下旬國巨*法說會對第四季與2027年AI機櫃用量展望。"]
+      }
+    }
+  ],
+  "stocks_updates": [
+    {
+      "stock_id": "2383",
+      "stock_name": "台光電",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["銅箔基板(CCL)"],
+      "theme_tags": ["AI伺服器", "高階CCL", "EPS上修"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "PCB/MB產業 > 萬寶2026年EPS預估上修 / 營收連7月創高"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "萬寶上修2026年預估EPS至120元，9月營收215.32億元連7月創高",
+        "close_price": 5950.0,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 120.0,
+        "est_pe": 49.6,
+        "revenue_perf": "9月營收215.32億元，月增6.9%、年增168.9%，連7月創新高",
+        "content": "萬寶投顧上修台光電2026年預估EPS至120元（↑）。9月當月營收達215.32億元，較前高成長6.9%、年增168.9%，連續7個月創歷史新高，收盤價5,950元，穩居CCL龍頭。",
+        "key_points": ["2026年預估EPS上修至120元", "9月營收215.32億元連7月創歷史新高"]
+      }
+    },
+    {
+      "stock_id": "2059",
+      "stock_name": "川湖",
+      "main_industry": "AI伺服器硬體、機構件與周邊",
+      "sub_industries": ["伺服器滑軌"],
+      "theme_tags": ["AI伺服器滑軌", "Vera Rubin", "EPS下修"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "AI伺服器硬體 > 伺服器滑軌 / 萬寶2026年EPS預估下修"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "產業新聞與精選圖表",
+        "stance": "中性",
+        "title": "9月營收44.64億元月減31%，萬寶下修2026年EPS至340元，看好Q4 Vera Rubin放量",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 340.0,
+        "est_pe": null,
+        "revenue_perf": "9月營收44.64億元，月減30.96%、年增196.2%；前8月EPS 201.27元",
+        "content": "因7、8月CSP與AI新創集中拉貨急單墊高基期，9月營收44.64億元、月減31%但年增196.2%，萬寶下修今年EPS至340元。輝達Vera Rubin新品8月已量產出貨，Q4出貨量可望持續放大。",
+        "key_points": ["9月營收月減31%、年增196.2%，前8月EPS 201.27元", "萬寶下修2026年預估EPS至340元", "輝達Vera Rubin滑軌Q4放量"]
+      }
+    },
+    {
+      "stock_id": "6515",
+      "stock_name": "穎崴",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["半導體測試介面"],
+      "theme_tags": ["AI/HPC測試座", "千金股", "EPS下修"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "半導體與設備檢測 > 半導體測試介面"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "中性",
+        "title": "前三季營收110.6億元提前一年達成百億目標，9月營收月減下調EPS至90元",
+        "close_price": 5520.0,
+        "price_change_pct": -9.95,
+        "volume_lots": 2213,
+        "est_eps": 90.0,
+        "est_pe": 61.0,
+        "revenue_perf": "9月營收12.5億元，月減26.69%、年增87.72%；Q3營收45.56億元、季增29.32%",
+        "content": "9月營收12.5億元月減26.69%，股價跌停收5,520元，萬寶下調2026年EPS為90元。但Q3營收45.56億元季增29.32%，前三季110.6億元年增96.67%，提前一年達成百億目標，Q4 AI与ASIC持續放量。",
+        "key_points": ["前三季營收110.6億元年增96.67%，提前達成百億目標", "9月營收月減26.69%，萬寶下調預估EPS至90元"]
+      }
+    },
+    {
+      "stock_id": "2408",
+      "stock_name": "南亞科",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["DRAM記憶體"],
+      "theme_tags": ["DRAM漲價", "5A新廠", "營收連11月創高"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "半導體與設備檢測 > DRAM記憶體"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "傳DRAM合約價再漲上看20%，9月營收450.91億元連11月創高",
+        "close_price": 514.0,
+        "price_change_pct": -2.1,
+        "volume_lots": 38336,
+        "est_eps": 70.0,
+        "est_pe": 7.0,
+        "revenue_perf": "9月營收450.91億元連11月創高；Q3營收1,336.49億元、季增61.9%",
+        "content": "業界傳出南亞科通知客戶再次調高DRAM合約價上看20%，集邦預估Q4一般型DRAM季增10%~15%。9月營收450.91億元連11月創高，Q3季增61.9%，資本支出上限提高至697億元。",
+        "key_points": ["傳再次調高DRAM合約價上看20%", "Q3營收1,336.49億元季增61.9%，10/12召開法說會"]
+      }
+    },
+    {
+      "stock_id": "3017",
+      "stock_name": "奇鋐",
+      "main_industry": "AI伺服器硬體、機構件與周邊",
+      "sub_industries": ["伺服器散熱與水冷"],
+      "theme_tags": ["AI液冷散熱", "GB300與Rubin", "營收創高"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "AI伺服器硬體 > 伺服器散熱"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收210.18億元首破200億，前九月已超越去年全年",
+        "close_price": 3545.0,
+        "price_change_pct": -3.8,
+        "volume_lots": 3044,
+        "est_eps": 102.0,
+        "est_pe": 35.0,
+        "revenue_perf": "9月營收210.18億元，月增7.89%、年增44.92%；Q3營收590.89億元季增20.29%",
+        "content": "9月營收210.18億元連三月創新高，前九月1,572.48億元年增71.17%已超越去年全年。後續有NVIDIA Rubin、Google TPU、Meta及AMD新平台接棒，法人看好2027年非NVIDIA液冷擴張。",
+        "key_points": ["9月營收首破200億、Q3營收590.89億元創單季新高", "液冷應用延伸至CPU機櫃、記憶體、電源及交換器"]
+      }
+    },
+    {
+      "stock_id": "6239",
+      "stock_name": "力成",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["記憶體與先進封測"],
+      "theme_tags": ["FOPLP面板級封裝", "企業級SSD", "CPO光學引擎"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "半導體與設備檢測 > 封測"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "Q3營收253.3億元創新高，AMD相關FOPLP明年中量產、獲Solidigm釋單",
+        "close_price": 307.5,
+        "price_change_pct": -0.97,
+        "volume_lots": 14715,
+        "est_eps": 13.0,
+        "est_pe": 24.0,
+        "revenue_perf": "9月營收85.1億元年增27%；Q3營收253.3億元、季增9.6%、年增26.9%創新高",
+        "content": "Q3營收253.3億元超越2022年Q2紀錄創單季新高，預期Q4續季增。與超微相關的FOPLP專案2027年中量產，另與博通合作切入光通訊年底小量生產光學引擎；並獲Solidigm企業級SSD擴大釋單。",
+        "key_points": ["Q3營收253.3億元創單季歷史新高", "AMD相關FOPLP專案2027年中量產，攜博通切入光通訊", "獲SK海力士Solidigm來台釋出企業級SSD大單"]
+      }
+    },
+    {
+      "stock_id": "8021",
+      "stock_name": "尖點",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["PCB鑽針與鑽孔"],
+      "theme_tags": ["高階鍍膜鑽針", "M7至M9升級", "營收連7月創高"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "PCB/MB產業 > PCB鑽針"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收8.29億元續創新高，年增98.33%，2027年月產能擴至7,000萬支",
+        "close_price": 556.0,
+        "price_change_pct": -0.89,
+        "volume_lots": 7618,
+        "est_eps": 9.0,
+        "est_pe": 62.0,
+        "revenue_perf": "9月營收8.29億元，月增7.65%、年增98.33%；前8月自結EPS 5.14元",
+        "content": "AI PCB朝40層以上厚板發展、CCL由M7升至M9，高階鍍膜鑽針用量大增。9月營收8.29億元續創單月新高，8月自結EPS 0.97元，月產能規劃今年底4,500萬支、2027年7,000萬支。",
+        "key_points": ["9月營收8.29億元年增98.33%創單月新高", "月產能由今年底4,500萬支擴至2027年7,000萬支"]
+      }
+    },
+    {
+      "stock_id": "3363",
+      "stock_name": "上詮",
+      "main_industry": "網通/電信與光通訊",
+      "sub_industries": ["台積電CPO", "FAU光纖陣列"],
+      "theme_tags": ["CPO", "3.2T/6.4T FAU", "NPO"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "網通/電信與光通訊 > 台積電CPO"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收年增28.38%，3.2T FAU第四季再放量、6.4T接棒",
+        "close_price": 679.0,
+        "price_change_pct": 4.46,
+        "volume_lots": 4759,
+        "est_eps": 0.1,
+        "est_pe": 6790.0,
+        "revenue_perf": "9月營收2.24億元，月增9.67%、年增28.38%",
+        "content": "3.2T光纖陣列(FAU) 7月起持續量產且良率明顯改善，Q4進一步放量、6.4T接棒。法人指出FAU將成2026至2028年主要成長動能，2027至2028年NPO可望率先放量。",
+        "key_points": ["3.2T FAU良率改善Q4放量，6.4T接棒", "2026~2028年FAU與NPO為主要成長動能"]
+      }
+    },
+    {
+      "stock_id": "2360",
+      "stock_name": "致茂",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["量測與SLT測試設備"],
+      "theme_tags": ["SLT系統級測試", "CPO測試", "高雄橋頭新廠"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "半導體與設備檢測 > 半導體量測設備"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收68.6億元創新高、年增逾2倍，斥資40億元建橋頭新廠",
+        "close_price": 2400.0,
+        "price_change_pct": 2.13,
+        "volume_lots": 5117,
+        "est_eps": 45.0,
+        "est_pe": 53.0,
+        "revenue_perf": "9月營收68.6億元年增206.47%創高；Q3營收179.26億元年增179.66%",
+        "content": "受惠AI、HPC及ASIC帶動系統級測試(SLT)需求及光通訊CPO測試發酵，9月營收68.6億元創歷史新高，上半年EPS 21.27元；斥資約40億元於高雄橋頭建新廠並規劃發行GDR。",
+        "key_points": ["9月營收68.6億元年增206.47%創歷史單月新高", "SLT與CPO測試發酵，斥資40億元建高雄橋頭新廠"]
+      }
+    },
+    {
+      "stock_id": "1605",
+      "stock_name": "華新",
+      "main_industry": "綠能基建、重電與特殊材料",
+      "sub_industries": ["電線電纜", "不銹鋼"],
+      "theme_tags": ["強韌電網", "海底電纜", "AI基建線纜"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "綠能基建、重電與特殊材料 > 電線電纜"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收158.91億元年增10.27%，海纜廠2028年全面投產",
+        "close_price": 39.9,
+        "price_change_pct": 2.97,
+        "volume_lots": 47179,
+        "est_eps": 5.0,
+        "est_pe": 8.0,
+        "revenue_perf": "9月營收158.91億元年增10.27%，前三季1,368.02億元年增3.31%",
+        "content": "電線電纜受惠台電強韌電網、銅價高檔及AI基礎建設在手訂單滿檔；海底電纜廠已建置完成，最快年底取得認證、2028年全面投產。歐洲不銹鋼因CBAM碳邊境調整機制推升價格。",
+        "key_points": ["電線電纜在手訂單滿檔，海纜廠最快年底取證", "歐洲CBAM推升不銹鋼產品價格"]
+      }
+    },
+    {
+      "stock_id": "6672",
+      "stock_name": "騰輝電子-KY",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["銅箔基板(CCL)"],
+      "theme_tags": ["航太PI", "400V/800V電源CCL", "M4至M9高速材料"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "PCB/MB產業 > 銅箔基板"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收首破10億元、年增201.68%創新高，漲停收505元",
+        "close_price": 505.0,
+        "price_change_pct": 9.9,
+        "volume_lots": 2901,
+        "est_eps": 13.0,
+        "est_pe": 39.0,
+        "revenue_perf": "9月營收10.21億元，月增26.68%、年增201.68%；Q3營收24.92億元季增54.42%",
+        "content": "受惠航太PI、AI及HDI需求與漲價效益，9月與Q3營收雙創新高。承租昆山廠擴充高毛利特殊材料，400V/800V AI伺服器電源材料Q4量產，M4至M7已量產並提前布局M10。",
+        "key_points": ["9月營收10.21億元首破10億、年增201.68%創新高", "400V/800V AI伺服器電源材料Q4量產，M4~M7已量產"]
+      }
+    },
+    {
+      "stock_id": "6548",
+      "stock_name": "長科*",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["IC導線架"],
+      "theme_tags": ["AI伺服器導線架", "低軌衛星", "營收連7月創高"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "半導體與設備檢測 > IC導線架"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收17.13億元連七月創新高，威海、馬來西亞擴產",
+        "close_price": 77.9,
+        "price_change_pct": 1.7,
+        "volume_lots": 13308,
+        "est_eps": 2.5,
+        "est_pe": 31.0,
+        "revenue_perf": "9月營收17.13億元，月增3.81%、年增42.91%；Q3營收49.19億元季增14%",
+        "content": "9月營收連7個月創單月新高，Q3與前三季同創新高。成長動能延伸至AI伺服器與低軌衛星，山東威海新廠2027年Q1裝機、上半年貢獻營收，馬來西亞新廠預計2027年Q3完工。",
+        "key_points": ["9月營收連7月創單月新高，Q3營收49.19億元年增41%", "威海與馬來西亞新廠2027年陸續開出"]
+      }
+    },
+    {
+      "stock_id": "3680",
+      "stock_name": "家登",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["半導體晶圓與光罩載具"],
+      "theme_tags": ["EUV光罩盒", "CoWoS先進封裝載具", "美日擴廠"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "半導體與設備檢測 > 半導體載具"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "美國亞利桑那產線Q4投入營運，日本久留米廠上梁、先進封裝載具放量",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 16.5,
+        "est_pe": 35.0,
+        "revenue_perf": "隨先進製程朝2奈米以下推進，EUV與先進封裝載具未來兩年放量",
+        "content": "美國亞利桑那州廠啟用預計Q4投入營運，日本久留米廠已完成上梁預計2027年完成建置。除EUV光罩盒與FOUP外，積極布局全系列先進封裝載具，海外營收比重可望提升。",
+        "key_points": ["美國亞利桑那廠Q4營運，日本久留米廠2027年完工", "EUV光罩盒與先進封裝載具未來兩年逐步放量"]
+      }
+    },
+    {
+      "stock_id": "6811",
+      "stock_name": "宏碁資訊",
+      "main_industry": "綜合資訊軟體服務",
+      "sub_industries": ["雲端與AI數位轉型"],
+      "theme_tags": ["AI Agent", "雲端服務", "營收創高"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "綜合資訊軟體服務 > 雲端與AI服務"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收15.3億元年增97.40%，單月單季雙創新高",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 18.0,
+        "est_pe": 15.0,
+        "revenue_perf": "9月營收15.3億元，月增30.74%、年增97.40%；Q3營收38.22億元年增近74%",
+        "content": "9月與Q3營收雙創歷史新高，前九月97.46億元年增約33%。企業AI應用由概念驗證走向規模化部署，子公司宏碁智雲資訊新專案落地，掌握AI Agent、雲端架構及資安治理商機。",
+        "key_points": ["9月營收年增97.40%、Q3年增近74%雙創新高", "企業AI規模化部署帶動AI Agent與雲端業績"]
+      }
+    },
+    {
+      "stock_id": "2395",
+      "stock_name": "研華",
+      "main_industry": "AI伺服器硬體、機構件與周邊",
+      "sub_industries": ["IPC工業電腦", "邊緣AI"],
+      "theme_tags": ["邊緣AI", "物理AI機器視覺", "Q3營收破10億美元"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "AI伺服器硬體 > 工業電腦"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收107.49億元年增73.14%，Q3營收324.4億元突破10億美元創高",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 20.0,
+        "est_pe": 37.0,
+        "revenue_perf": "9月營收107.49億元年增73.14%；Q3營收324.4億元年增83%創單季新高",
+        "content": "受惠邊緣AI、半導體設備與機器人需求，9月北美營收年增108%，Q3營收324.4億元突破10億美元創單季新高，今年AI營收占比估達25%，美國南加州Tustin新總部已啟用投產。",
+        "key_points": ["Q3營收324.4億元年增83%突破10億美元大關", "今年AI營收占比估達25%，接單出貨比維持季增"]
+      }
+    },
+    {
+      "stock_id": "6414",
+      "stock_name": "樺漢",
+      "main_industry": "AI伺服器硬體、機構件與周邊",
+      "sub_industries": ["IPC工業電腦"],
+      "theme_tags": ["智慧工廠廠務", "工業物聯網", "在手訂單逾2550億"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "AI伺服器硬體 > 工業電腦"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收177.6億元創新高，在手訂單逾2,550億元",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 26.0,
+        "est_pe": 15.0,
+        "revenue_perf": "9月營收177.6億元，月增14.7%、年增45.3%；Q3營收496.4億元年增47.7%",
+        "content": "9月、Q3與前三季(1,349.4億元)營收同創新高，集團在手訂單逾2,550億元，涵蓋工業物聯網、智慧軟體與半導體廠務工程。",
+        "key_points": ["9月營收177.6億元與Q3營收496.4億元雙創歷史新高", "在手訂單逾2,550億元"]
+      }
+    },
+    {
+      "stock_id": "6214",
+      "stock_name": "精誠",
+      "main_industry": "綜合資訊軟體服務",
+      "sub_industries": ["系統整合與AI服務"],
+      "theme_tags": ["AI平台服務", "企業數位轉型", "營收創高"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "綜合資訊軟體服務 > 資服龍頭"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收83.72億元創新高，年增55.7%，Q3改寫單季新高",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 11.0,
+        "est_pe": 17.0,
+        "revenue_perf": "9月營收83.72億元年增55.7%；Q3營收190.16億元；前九月463.84億元年增42.3%",
+        "content": "受惠公部門及大型企業數位轉型需求擴大，9月、Q3與前九月營收全數創高，持續聚焦AI平台與服務、服務型收入及全球IT服務三大動能。",
+        "key_points": ["9月營收83.72億元、Q3營收190.16億元雙創新高", "聚焦AI平台、服務型收入與全球IT服務"]
+      }
+    },
+    {
+      "stock_id": "5388",
+      "stock_name": "中磊",
+      "main_industry": "網通/電信與光通訊",
+      "sub_industries": ["寬頻網通設備"],
+      "theme_tags": ["DOCSIS 4.0", "10G/50G PON", "Wi-Fi 8"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "網通/電信與光通訊 > 網通廠"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "Q3營收218.3億元連六季成長，前三季590.9億元已超越去年全年",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 5.8,
+        "est_pe": 13.0,
+        "revenue_perf": "9月營收68.1億元年增47%；Q3營收218.3億元年增48%；前三季590.9億元年增54.2%",
+        "content": "電信營運商加速升級寬頻設備，DOCSIS 4.0、10G PON、5G FWA及企業級網通需求強勁，Q3營收連六季成長並創單季新高，前三季已超越去年全年540億元。",
+        "key_points": ["Q3營收218.3億元連六季成長創單季新高", "前三季營收590.9億元已超越去年全年"]
+      }
+    },
+    {
+      "stock_id": "1514",
+      "stock_name": "亞力",
+      "main_industry": "綠能基建、重電與特殊材料",
+      "sub_industries": ["重電與AIDC電力設備"],
+      "theme_tags": ["強韌電網", "半導體擴廠重電", "AIDC機房訂單"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "綠能基建、重電與特殊材料 > 重電廠"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "在手訂單逾130億元創新高，接獲國外AI機房與NVIDIA轉投資海外訂單",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 3.6,
+        "est_pe": 29.0,
+        "revenue_perf": "9月營收9.8億元年增10.4%，前三季80.24億元年增8.24%均創同期新高",
+        "content": "在手訂單逾130億元創新高（半導體占35%、台電30%、軌道15%、AIDC機房5%~10%），已完成中華電信大型雲端機房，並接獲國外大廠AI機房及NVIDIA轉投資中南美子公司訂單，能見度至少三年。",
+        "key_points": ["在手訂單逾130億元創新高，訂單能見度至少3年", "切入國外大廠AI機房及NVIDIA轉投資海外訂單"]
+      }
+    },
+    {
+      "stock_id": "7909",
+      "stock_name": "鈺祥",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["先進製程AMC微污染防治濾網"],
+      "theme_tags": ["3奈米AMC濾網", "遞件申請上市", "興櫃焦點"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "半導體與設備檢測 > 興櫃搶先爆"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "興櫃搶先爆",
+        "stance": "偏多",
+        "title": "遞件申請上市，9月營收3.1億元連五月創新高、3奈米以下市占逾80%",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": null,
+        "est_pe": null,
+        "revenue_perf": "9月營收3.1億元年增101.92%；Q3營收9.22億元年增110.5%；前三季20.86億元年增74.12%",
+        "content": "AMC濾網廠鈺祥於10/6遞件申請上市，最快2027年Q1掛牌。受惠先進製程與先進封裝擴產，9月營收連5月創高，在3奈米以下高階濾網市占率逾80%。",
+        "key_points": ["遞件申請上市，9月與Q3營收雙創歷史新高", "3奈米以下先進製程AMC濾網市占率逾80%"]
+      }
+    },
+    {
+      "stock_id": "3715",
+      "stock_name": "定穎投控",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["車用與AI伺服器PCB"],
+      "theme_tags": ["AI伺服器與ASIC PCB", "泰國新廠", "營收連3月創高"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "PCB/MB產業 > 今晚產業新聞"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "產業新聞",
+        "stance": "偏多",
+        "title": "9月營收32.26億元年增84.70%連三月創高，ASIC及交換器產品Q4量產",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": null,
+        "est_pe": null,
+        "revenue_perf": "9月營收32.26億元年增84.70%；Q3營收86.90億元年增79.81%創單季新高",
+        "content": "受惠DDR5儲存、網通及AI伺服器動能，9月營收32.26億元連三月創高，Q3營收86.90億元創單季新高；ASIC及交換器產品Q4量產，泰國新產能年底全數開出。",
+        "key_points": ["9月與Q3營收雙創歷史新高", "ASIC及交換器產品Q4量產，泰國廠年底全開"]
+      }
+    },
+    {
+      "stock_id": "5289",
+      "stock_name": "宜鼎",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["工控與邊緣AI記憶體模組"],
+      "theme_tags": ["邊緣AI記憶體", "營收連15月創高"],
+      "classification_entry": {"date": "2026-10-07", "source": "萬寶晚報-10_07", "category_mentioned": "半導體與設備檢測 > 記憶體模組"},
+      "analysis_entry": {
+        "date": "2026-10-07",
+        "source_file": "萬寶晚報-10_07.pdf",
+        "section": "產業新聞與精選圖表",
+        "stance": "偏多",
+        "title": "9月營收87.13億元年增535.71%連15月創高，Q3營收258.88億元續創新高",
+        "close_price": 1260.0,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": null,
+        "est_pe": null,
+        "revenue_perf": "9月營收87.13億元，月增0.38%、年增535.71%；Q3營收258.88億元季增15.35%",
+        "content": "9月營收87.13億元連續15個月創新高，前九月615.14億元年增550.62%，上半年AI相關營收占比達4成，已展開宜蘭三廠規劃。",
+        "key_points": ["9月營收87.13億元連15月創歷史新高", "上半年AI相關營收占比達4成"]
+      }
+    },
+    {
+      "stock_id": "1303",
+      "stock_name": "南亞",
+      "main_industry": "傳產製造、營建航運與利基消費",
+      "sub_industries": ["塑膠石化", "電子材料與玻纖布"],
+      "theme_tags": ["高階玻纖布/CCL", "南電與南亞科轉投資", "台塑四寶"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "傳產製造 > 電子材料與石化"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "電子材料、載板、記憶體三個電發威，董座吳嘉昭看明年更好",
+        "close_price": 310.0,
+        "price_change_pct": -1.27,
+        "volume_lots": 73192,
+        "est_eps": 13.0,
+        "est_pe": 24.0,
+        "revenue_perf": "電子材料本業與南電、南亞科轉投資同步受惠AI與先進封裝",
+        "content": "台塑集團總裁暨南亞董事長吳嘉昭表示，南亞電子材料本業加上轉投資南電與南亞科同步受惠AI與先進封裝，高階玻纖紗、玻纖布已出現供應吃緊，CCL隨AI伺服器規格升級成為明年重要動能。",
+        "key_points": ["電子材料本業、南電、南亞科三大引擎發威", "高階玻纖紗、玻纖布供應吃緊，明年營運優於今年"]
+      }
+    },
+    {
+      "stock_id": "2327",
+      "stock_name": "國巨*",
+      "main_industry": "被動元件產業",
+      "sub_industries": ["MLCC、電阻與感測元件"],
+      "theme_tags": ["AI伺服器被動元件", "Vera Rubin", "日商停產轉單"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "被動元件產業 > 被動元件龍頭"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收170.68億元連七月創高，Q3獲利估逾半個股本",
+        "close_price": 635.0,
+        "price_change_pct": -1.85,
+        "volume_lots": 47098,
+        "est_eps": 20.0,
+        "est_pe": 32.0,
+        "revenue_perf": "9月營收170.68億元，月增4.51%、年增46.12%；Q3營收495.31億元連四季創高",
+        "content": "受惠AI需求強勁及歐美長假後拉貨恢復，9月營收連7月創高、Q3營收495.31億元連4季創高；法人估Q3 EPS輕鬆跨越半個股本、前三季上看13~14元，看好Vera Rubin明年放量及日商轉單。",
+        "key_points": ["9月營收連7月創高、Q3營收495.31億元連四季改寫新高", "法人估前三季EPS上看13~14元，受惠Vera Rubin與日商轉單"]
+      }
+    },
+    {
+      "stock_id": "2492",
+      "stock_name": "華新科",
+      "main_industry": "被動元件產業",
+      "sub_industries": ["MLCC與晶片電阻"],
+      "theme_tags": ["AI被動元件", "8月單月EPS 1.55元"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "被動元件產業 > 被動元件"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收48.89億元創8年新高，8月自結每股賺1.55元",
+        "close_price": 420.0,
+        "price_change_pct": -1.87,
+        "volume_lots": 64554,
+        "est_eps": 11.0,
+        "est_pe": 38.0,
+        "revenue_perf": "9月營收48.89億元，月增7%、年增53.9%；Q3營收139.02億元創單季新高",
+        "content": "受惠十一長假提前拉貨與AI應用強勁，9月營收創8年新高、Q3營收139.02億元創單季歷史次高；8月自結稅後純益7.53億元、EPS 1.55元，前八月獲利約8元，今年EPS可望突破一個股本。",
+        "key_points": ["9月營收48.89億元創8年新高", "8月自結單月EPS 1.55元，全年EPS可望突破10元"]
+      }
+    },
+    {
+      "stock_id": "6488",
+      "stock_name": "環球晶",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["半導體矽晶圓"],
+      "theme_tags": ["12吋SOI晶圓", "義大利廠復工"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "半導體與設備檢測 > 矽晶圓"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "中性偏多",
+        "title": "日本新潟廠營收創高，義大利諾瓦拉廠局部復工優於預期",
+        "close_price": 1130.0,
+        "price_change_pct": -7.0,
+        "volume_lots": 20448,
+        "est_eps": 20.0,
+        "est_pe": 56.0,
+        "revenue_perf": "9月營收51.29億元月增7.65%；Q3營收148.71億元年增2.60%",
+        "content": "AI需求延伸至記憶體、工業及消費性電子，產能利用率維持高檔；義大利諾瓦拉廠火災後9/14起局部復工優於預期，日本新潟廠9月營收創高，美國密蘇里州12吋SOI產出大增。",
+        "key_points": ["義大利廠9/14起局部復工優於預期", "日本新潟廠9月營收創高、美國12吋SOI產出大增"]
+      }
+    },
+    {
+      "stock_id": "4958",
+      "stock_name": "臻鼎-KY",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["軟板、HDI與IC載板"],
+      "theme_tags": ["蘋果旺季", "AI伺服器/光模組/IC載板"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "PCB/MB產業 > PCB龍頭"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收263.57億元創新高，伺服器、光模組、IC載板三大高階應用年增逾3倍",
+        "close_price": 592.0,
+        "price_change_pct": -0.5,
+        "volume_lots": 33637,
+        "est_eps": 14.0,
+        "est_pe": 42.0,
+        "revenue_perf": "9月營收263.57億元，月增27.54%、年增36.13%創高；Q3營收646.24億元年增36.43%",
+        "content": "受惠行動通訊新品旺季，加上伺服器、光模組、IC載板三大高階應用合計營收年增逾三倍並創單月新高，9月、Q3與前三季同創同期紀錄，預期Q4攀全年高峰。",
+        "key_points": ["9月營收263.57億元創單月新高", "伺服器、光模組、IC載板三大高階應用營收年增逾3倍"]
+      }
+    },
+    {
+      "stock_id": "3037",
+      "stock_name": "欣興",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["ABF與BT載板"],
+      "theme_tags": ["ABF載板漲價", "CPO載板", "AI營收占比逾60%"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "PCB/MB產業 > IC載板"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收186.51億元連六月創高，光復二廠擴充、2027年ABF產能估增30%~40%",
+        "close_price": 1270.0,
+        "price_change_pct": -2.68,
+        "volume_lots": 8604,
+        "est_eps": 24.5,
+        "est_pe": 52.0,
+        "revenue_perf": "9月營收186.51億元年增64.67%連6月創高；Q3營收526.50億元季增22.76%",
+        "content": "受惠AI GPU、ASIC及HPC需求與價格調整，前三季營收1,329.86億元已超越去年全年。加快光復二廠擴充，2027年ABF產能估增30%~40%，CPO相關載板已開始出貨，今年AI占比目標60%以上。",
+        "key_points": ["9月營收連6月創高，Q3營收526.5億元創單季新高", "2027年ABF產能估增30%~40%，CPO載板已開始出貨"]
+      }
+    },
+    {
+      "stock_id": "2330",
+      "stock_name": "台積電",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["晶圓代工"],
+      "theme_tags": ["2奈米量產", "AI GPU/ASIC", "外資調升目標價"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "半導體與設備檢測 > 晶圓代工龍頭"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "Q3營收1.49兆元創新高優於財測，2奈米Q3大量量產，大摩高盛調高目標價至3,088與3,300元",
+        "close_price": 2550.0,
+        "price_change_pct": -1.35,
+        "volume_lots": 22484,
+        "est_eps": 110.0,
+        "est_pe": 23.0,
+        "revenue_perf": "9月營收5,118.57億元年增54.6%；Q3營收1.49兆元，季增17.6%、年增50.9%",
+        "content": "Q3營收1.49兆元高於財測換算上限1.47兆元，改寫單季新高；2奈米Q3大量量產，與3奈米、5奈米形成多世代先進製程同時滿載。10/7晚報亦載大摩、高盛分別調高目標價至3,088元與3,300元。",
+        "key_points": ["Q3營收1.49兆元創單季新高、超越財測高標", "2奈米、3奈米、5奈米同時滿載，高盛目標價喊3,300元"]
+      }
+    },
+    {
+      "stock_id": "6213",
+      "stock_name": "聯茂",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["銅箔基板(CCL)"],
+      "theme_tags": ["CCL漲價15%~20%", "泰國廠擴產", "EPS上修"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "PCB/MB產業 > 銅箔基板"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "第四季CCL價格估再漲15%至20%，泰國廠產能三年翻倍",
+        "close_price": 806.0,
+        "price_change_pct": 1.26,
+        "volume_lots": 5190,
+        "est_eps": 20.0,
+        "est_pe": 40.0,
+        "revenue_perf": "9月營收58.24億元，月增15.5%、年增110.7%，連7月創高",
+        "content": "董事長陳進財表示Q4產品價格預期再調漲15%至20%，隨玻纖布供應改善，稼動率有機會由70%~75%升至80%。積極擴充無錫與泰國廠，集團月產能由今年570萬張增至2027年630萬張、2029年915萬張。",
+        "key_points": ["Q4產品價格預期再調漲15%~20%，萬寶上修2026 EPS至20元", "泰國廠與無錫廠擴產，稼動率上看80%"]
+      }
+    },
+    {
+      "stock_id": "2368",
+      "stock_name": "金像電",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["AI伺服器與交換器PCB"],
+      "theme_tags": ["ASIC多階HDI", "1.6T交換器PCB", "主動ETF連買"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "PCB/MB產業 > 伺服器PCB"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "Q3營收297.18億元創新高，新世代ASIC PCB升級多階HDI",
+        "close_price": 1285.0,
+        "price_change_pct": 3.21,
+        "volume_lots": 9696,
+        "est_eps": 40.0,
+        "est_pe": 32.0,
+        "revenue_perf": "9月營收93.20億元年增55.46%；Q3營收297.18億元，季增22.21%、年增69.55%創高",
+        "content": "美系CSP相關PCB於Q3、Q4陸續放量，另有其他CSP及1.6T交換器新品訂單；新世代ASIC PCB將由多層板升級至多階HDI，預計2027年起放量推升單位產值。",
+        "key_points": ["Q3營收297.18億元年增69.55%創單季新高", "新世代ASIC PCB升級多階HDI，另有1.6T交換器訂單"]
+      }
+    },
+    {
+      "stock_id": "3231",
+      "stock_name": "緯創",
+      "main_industry": "AI伺服器硬體、機構件與周邊",
+      "sub_industries": ["AI伺服器ODM", "NB代工"],
+      "theme_tags": ["Vera Rubin出貨", "AI伺服器Q4高峰"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "AI伺服器硬體 > AI伺服器ODM"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收3,808億元年增87%創同期高，Vera Rubin開始出貨、Q4達全年高峰",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 17.5,
+        "est_pe": 11.0,
+        "revenue_perf": "9月營收3,808.06億元年增87.2%；前九月2.89兆元、年增97.2%",
+        "content": "無論AI伺服器、通用伺服器或網通出貨量都將在Q4達到全年高峰，新一代Vera Rubin已開始出貨並逐漸放量。",
+        "key_points": ["前九月營收2.89兆元年增97.2%", "新一代Vera Rubin已開始出貨，Q4伺服器出貨達全年高峰"]
+      }
+    },
+    {
+      "stock_id": "2382",
+      "stock_name": "廣達",
+      "main_industry": "AI伺服器硬體、機構件與周邊",
+      "sub_industries": ["AI伺服器ODM"],
+      "theme_tags": ["AI伺服器年增三位數", "資本支出上調至400億"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "AI伺服器硬體 > AI伺服器ODM"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "前九月營收2.96兆元近倍增，新一代AI伺服器明年Q1放量",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 27.0,
+        "est_pe": 12.0,
+        "revenue_perf": "9月營收3,253億元年增77%；Q3營收1.12兆元、年增125%；前九月2.96兆元年增99%",
+        "content": "全年AI伺服器年增三位數目標不變，新一代產品Q3底試產、Q4小量出貨、明年Q1放量；今年資本支出由300億元上調至400億元。",
+        "key_points": ["Q3營收1.12兆元年增125%，前九月2.96兆元年增99%", "資本支出上調至400億元，新一代AI伺服器明年Q1放量"]
+      }
+    },
+    {
+      "stock_id": "2337",
+      "stock_name": "旺宏",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["記憶體(NOR/NAND/eMMC)"],
+      "theme_tags": ["eMMC與SLC NAND漲價", "營收連6月創高"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "半導體與設備檢測 > 記憶體"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收83.67億元連六月創高、年增188.2%，前三季已超越2021年全年紀錄",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 16.0,
+        "est_pe": 7.0,
+        "revenue_perf": "9月營收83.67億元年增188.2%；Q3營收242.4億元季增26.7%；前三季538.31億元年增154.5%",
+        "content": "eMMC與SLC NAND逐月議價漲價動能延續，32GB eMMC規劃Q4量產；前三季營收538.31億元已超越2021年全年505.73億元歷史最高紀錄，追加資本支出後擴產合計378億元。",
+        "key_points": ["9月營收連6月創高，前三季538.31億元超越2021年全年歷史高點", "eMMC與SLC NAND漲價延續，32GB eMMC Q4量產"]
+      }
+    },
+    {
+      "stock_id": "3008",
+      "stock_name": "大立光",
+      "main_industry": "網通/電信與光通訊",
+      "sub_industries": ["光學鏡頭", "CPO光纖陣列(FAU)"],
+      "theme_tags": ["FAU通過認證", "光學鏡頭龍頭", "法說焦點"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "網通/電信與光通訊 > 光學與CPO FAU"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "Q3每股賺39.62元、毛利率42.2%，CPO光纖陣列已通過客戶量產認證",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 190.0,
+        "est_pe": 35.0,
+        "revenue_perf": "Q3稅後純益51.82億元、EPS 39.62元，前三季EPS 121.98元",
+        "content": "Q3毛利率42.2%受新產品良率與匯率影響創13年新低，但董事長林恩平表示光纖陣列(FAU)已通過客戶量產認證，規劃明年Q2末完成FAU產線，明年資本支出將高於今年。",
+        "key_points": ["前三季EPS 121.98元，Q4產能仍滿載", "CPO光纖陣列(FAU)已通過客戶量產認證，明年Q2末完成產線"]
+      }
+    },
+    {
+      "stock_id": "3707",
+      "stock_name": "漢磊",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["第三代化合物半導體(SiC/GaN)"],
+      "theme_tags": ["AI資料中心GaN電源", "8吋SiC擴產"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "半導體與設備檢測 > 化合物半導體"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "GaN產能塞爆、客戶需求是產能兩倍，SiC下半年營收暴增1.2倍",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": -1.5,
+        "est_pe": null,
+        "revenue_perf": "SiC下半年營收估較上半年大增120%，GaN全年營收增約五成",
+        "content": "碳化矽(SiC)稼動率由上半年不到30%升至Q3 60%、Q4 80%，明年首季部分產品調漲；氮化鎵(GaN)受惠AI資料中心電源產能滿載，與世界先進合作的8吋SiC良率逾95%。",
+        "key_points": ["GaN受惠AI資料中心電源產能滿載，需求為產能2倍", "SiC下半年營收較上半年增120%，明年首季部分調漲"]
+      }
+    },
+    {
+      "stock_id": "5309",
+      "stock_name": "系統電",
+      "main_industry": "AI伺服器硬體、機構件與周邊",
+      "sub_industries": ["BBU備援電池模組", "強固型工業電腦"],
+      "theme_tags": ["3kW BBU量產", "AI資料中心電力"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "AI伺服器硬體 > BBU與IPC"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "3kW BBU第四季量產，明年BBU業績估成長2至5倍",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 0.3,
+        "est_pe": 226.0,
+        "revenue_perf": "強固型電腦帶動營收連三個月創新高，2028年營收挑戰百億元",
+        "content": "3kW BBU第四季開始量產出貨，明年BBU業績預估成長2至5倍、強固型電腦再成長約50%，第二條全自動產線已完成改良，明年再擴3至4條。",
+        "key_points": ["3kW BBU第四季量產出貨，明年業績估成長2~5倍", "強固型電腦明年再成長約50%，2028年營收挑戰百億"]
+      }
+    },
+    {
+      "stock_id": "2376",
+      "stock_name": "技嘉",
+      "main_industry": "AI伺服器硬體、機構件與周邊",
+      "sub_industries": ["AI伺服器與板卡"],
+      "theme_tags": ["GB300與B300放量", "AI營收破500億"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "AI伺服器硬體 > AI伺服器"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收630.99億元創新高、AI伺服器突破500億元，法人估今年AI營收翻倍",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 38.0,
+        "est_pe": 10.0,
+        "revenue_perf": "9月營收630.99億元年增125.5%；Q3營收1,547.11億元年增94.4%創單季新高",
+        "content": "9月AI伺服器營收突破500億元，帶動單月與Q3營收雙創歷史新高；隨GB300與B300持續放量，Q4營收可望高雙位數季增，訂單能見度延伸至2027年上半年。",
+        "key_points": ["9月營收630.99億元年增125.5%，AI伺服器單月破500億元", "GB300與B300放量，今年AI營收翻倍、明年再增約5成"]
+      }
+    },
+    {
+      "stock_id": "6669",
+      "stock_name": "緯穎",
+      "main_industry": "AI伺服器硬體、機構件與周邊",
+      "sub_industries": ["CSP雲端AI伺服器"],
+      "theme_tags": ["北美CSP大廠拉貨", "德州新廠開出", "千金股"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "AI伺服器硬體 > 雲端伺服器"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收1,726.2億元創新高，Q3營收4,346.18億元季增56.2%",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 120.0,
+        "est_pe": 19.0,
+        "revenue_perf": "9月營收1,726.2億元年增99.99%；Q3營收4,346.18億元年增99.4%；前三季9,892.78億元",
+        "content": "9月與Q3營收雙創歷史新高，前三季逼近兆元大關；下半年持續受惠北美雲端大廠拉貨與美國德州新廠產能開出，全年營運可望年成長至少四成以上。",
+        "key_points": ["9月營收1,726.2億元近倍增創歷史新高", "Q3營收4,346.18億元季增56.2%，德州新廠產能持續開出"]
+      }
+    },
+    {
+      "stock_id": "2603",
+      "stock_name": "長榮",
+      "main_industry": "傳產製造、營建航運與利基消費",
+      "sub_industries": ["貨櫃航運"],
+      "theme_tags": ["十一長假出貨潮", "高殖利率低本益比"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "傳產製造、營建航運 > 貨櫃航運"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收497.11億元年增63.75%，十一長假前出貨潮帶動",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 35.0,
+        "est_pe": 7.0,
+        "revenue_perf": "9月營收497.11億元，月增1.48%、年增63.75%；前三季3,384.48億元年增15.36%",
+        "content": "受中國十一長假前出貨潮與運價維持高檔帶動，9月營收年增63.75%，北美線相對強勢。",
+        "key_points": ["9月營收497.11億元年增63.75%", "前三季營收3,384.48億元年增15.36%，本益比僅7倍"]
+      }
+    },
+    {
+      "stock_id": "8299",
+      "stock_name": "群聯",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["NAND控制晶片與企業級SSD"],
+      "theme_tags": ["企业級eSSD", "aiDAPTIV", "營收連10月創高"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "半導體與設備檢測 > 記憶體控制IC"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收306.39億元年增370%創高，AI相關營收占逾五成",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 400.0,
+        "est_pe": 5.0,
+        "revenue_perf": "9月營收306.39億元年增370%；Q3營收860.77億元年增375%；前三季1,949.32億元年增290%",
+        "content": "9月、Q3與前三季營收全數創高。執行長潘健成表示，9月eSSD、aiDAPTIV、AI PC、AI伺服器等AI相關應用已占營收逾50%。",
+        "key_points": ["9月營收306.39億元年增370%、Q3營收860.77億元年增375%雙創高", "eSSD與aiDAPTIV等AI應用占9月營收逾50%"]
+      }
+    },
+    {
+      "stock_id": "4938",
+      "stock_name": "和碩",
+      "main_industry": "AI伺服器硬體、機構件與周邊",
+      "sub_industries": ["EMS代工", "AI伺服器與企業級SSD"],
+      "theme_tags": ["GB300整機櫃L11出貨", "Solidigm SSD代工", "iPhone 18 Pro旺季"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "AI伺服器硬體 > AI伺服器與EMS"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收2,147.53億元月增143%創高，GB300伺服器L11整機櫃出貨大增",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 5.5,
+        "est_pe": 16.0,
+        "revenue_perf": "9月營收2,147.53億元，月增143.2%、年增86.9%創高；Q3營收3,890.73億元季增41.8%",
+        "content": "除蘋果iPhone 18 Pro新機效應外，主攻輝達GB300伺服器出貨大增，美系客戶整機櫃L11訂單已出貨，伺服器占營收已達一成；另獲Solidigm企業級SSD ODM大單。",
+        "key_points": ["9月營收2,147.53億元月增143%創單月新高", "GB300與美系CSP整機櫃L11已出貨，並獲Solidigm SSD釋單"]
+      }
+    },
+    {
+      "stock_id": "3706",
+      "stock_name": "神達",
+      "main_industry": "AI伺服器硬體、機構件與周邊",
+      "sub_industries": ["AI伺服器與雲端資料中心"],
+      "theme_tags": ["CSP雲端伺服器", "北美新產能"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "AI伺服器硬體 > AI伺服器"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收189.13億元年增88.6%創高，前三季已超越去年全年",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 5.2,
+        "est_pe": 15.0,
+        "revenue_perf": "9月營收189.13億元，月增39.5%、年增88.6%；Q3營收453.04億元年增83%",
+        "content": "受惠超大規模雲端資料中心及CSP客戶需求，9月與Q3營收雙創新高，前三季1,181.22億元已超越去年全年1,055.77億元，法人預估Q4續創高。",
+        "key_points": ["9月營收189.13億元、Q3營收453.04億元雙創單月與單季新高", "前三季營收1,181億元超越去年全年，2027北美新產能開出"]
+      }
+    },
+    {
+      "stock_id": "3167",
+      "stock_name": "大量",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["PCB高階背鑽與半導體量測設備"],
+      "theme_tags": ["Vera Rubin高階PCB背鑽機", "營收連7月創高"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "半導體與設備檢測 > PCB與半導體設備"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "月產能提升至400台仍滿載，設備交期由3個月拉長至9個月",
+        "close_price": 1025.0,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 28.0,
+        "est_pe": 38.0,
+        "revenue_perf": "9月營收13.04億元，月增6.9%、年增172.3%，連7月創新高",
+        "content": "AI平台由GB300轉向Vera Rubin，SerDes由112G升級至224G，推升CCD背鑽及TM量測設備需求，月產能升至約400台仍滿載，交期拉長至9個月，明年初外包月產能提高至80台。",
+        "key_points": ["月產能升至400台仍滿載，交期拉長至9個月", "Vera Rubin 224G升級帶動CCD背鑽機與TM量測設備熱銷"]
+      }
+    },
+    {
+      "stock_id": "7769",
+      "stock_name": "鴻勁",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["半導體FT/SLT測試分類機(Handler)"],
+      "theme_tags": ["AI/HPC測試分類機", "千金股", "2027產能增50%"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "半導體與設備檢測 > 半導體IC測試設備"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收57.29億元年增逾1倍創高，前三季407.13億元已創年度新高",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 130.0,
+        "est_pe": 46.0,
+        "revenue_perf": "9月營收57.29億元年增100.22%；Q3營收161.94億元年增97.54%；前三季407.13億元",
+        "content": "受惠AI及HPC測試需求爆發，9月、Q3與前三季營收全數改寫新高；現有產能至今年底滿載，部分訂單遞延至2027年初交機，明年目標全年產能增加50%。",
+        "key_points": ["9月營收57.29億元年增100.22%，前三季407.13億元已創年度新高", "訂單排至2027年初，明年目標全年產能擴增50%"]
+      }
+    },
+    {
+      "stock_id": "7856",
+      "stock_name": "漢測",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["晶圓測試與薄膜式探針卡"],
+      "theme_tags": ["薄膜探針卡", "矽光子TIA測試", "新上櫃千金股"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "半導體與設備檢測 > 半導體晶圓測試"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收5.14億元年增150.33%連兩月創高，展開矽光子TIA測試驗證",
+        "close_price": 4260.0,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 42.0,
+        "est_pe": 101.0,
+        "revenue_perf": "9月營收5.14億元年增150.33%；Q3營收約15億元季增25%創高；前九月36.85億元年增129%",
+        "content": "9月營收連2個月超過5億元創高，自主研發薄膜式探針卡已小量交付，並展開矽光子轉阻放大器(TIA)測試驗證。",
+        "key_points": ["9月營收5.14億元年增150.33%，Q3季增25%創單季新高", "自研薄膜探針卡小量交付，展開矽光子TIA測試驗證"]
+      }
+    },
+    {
+      "stock_id": "4967",
+      "stock_name": "十銓",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["記憶體模組"],
+      "theme_tags": ["企業級與工控記憶體", "Q3營收破百億"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "半導體與設備檢測 > 記憶體模組"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "Q3營收101.39億元首破百億創單季新高，預估本益比僅3倍",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 90.0,
+        "est_pe": 3.0,
+        "revenue_perf": "9月營收40.81億元年增109.69%；Q3營收101.39億元，季增33.61%、年增143.53%",
+        "content": "以企業級及工控業務為重心，受惠記憶體價格上揚與邊緣運算需求，Q3營收首度突破百億元達101.39億元；Q4受惠DRAM與NAND合約價續漲10%~20%。",
+        "key_points": ["Q3營收101.39億元首破百億創單季新高", "萬寶預估2026 EPS 90元、本益比3倍"]
+      }
+    },
+    {
+      "stock_id": "5536",
+      "stock_name": "聖暉*",
+      "main_industry": "半導體與設備檢測",
+      "sub_industries": ["無塵室與高科技廠務工程"],
+      "theme_tags": ["半導體擴廠無塵室", "法人喊買目標價1170元"],
+      "classification_entry": {"date": "2026-10-08", "source": "萬寶晚報-10_08", "category_mentioned": "半導體與設備檢測 > 包打聽快報"},
+      "analysis_entry": {
+        "date": "2026-10-08",
+        "source_file": "萬寶晚報-10_08.pdf",
+        "section": "包打聽快報",
+        "stance": "偏多",
+        "title": "本土法人給聖暉買進評等，預估今年EPS上看50.16元、目標價1,170元",
+        "close_price": null,
+        "price_change_pct": null,
+        "volume_lots": null,
+        "est_eps": 50.16,
+        "est_pe": null,
+        "revenue_perf": "8月營收年增44.54%創近五個月新高，前八月337.5億元、年增27%",
+        "content": "本土法人看好聖暉受惠AI擴廠與無塵室空間吃緊紅利，預估今年EPS上看50.16元，給予買進評等、目標價1,170元。",
+        "key_points": ["本土法人給予買進評等、目標價1,170元", "預估今年EPS上看50.16元"]
+      }
+    }
+  ],
+  "chips_updates": [
+    {
+      "stock_id": "1301",
+      "stock_name": "台塑",
+      "date": "2026-10-07",
+      "category": "三大法人買超榜",
+      "detail": "上市買超第1名：+47,903張 (+36.12億元)，外資買超+35,668張、投信買超+10,282張雙居冠"
+    },
+    {
+      "stock_id": "1605",
+      "stock_name": "華新",
+      "date": "2026-10-07",
+      "category": "三大法人買超榜",
+      "detail": "上市買超第2名：+26,081張 (+10.41億元)；主動型ETF加碼第2名：+2,726張"
+    },
+    {
+      "stock_id": "1802",
+      "stock_name": "台玻",
+      "date": "2026-10-07",
+      "category": "三大法人買超榜",
+      "detail": "上市買超第3名：+23,444張 (+15.4億元)，自營商買超第1名+6,233張"
+    },
+    {
+      "stock_id": "6147",
+      "stock_name": "頎邦",
+      "date": "2026-10-07",
+      "category": "三大法人買超榜",
+      "detail": "上櫃/全市場買超第4名：+22,190張 (+51.37億元)"
+    },
+    {
+      "stock_id": "2344",
+      "stock_name": "華邦電",
+      "date": "2026-10-07",
+      "category": "外資買超榜",
+      "detail": "外資買超第3名：+20,530張 (+36.85億元)，但投信賣超第2名-7,282張"
+    },
+    {
+      "stock_id": "2409",
+      "stock_name": "友達",
+      "date": "2026-10-07",
+      "category": "三大法人賣超榜",
+      "detail": "上市賣超第1名：-80,107張 (-30.4億元)，外資賣超-76,193張"
+    },
+    {
+      "stock_id": "6770",
+      "stock_name": "力積電",
+      "date": "2026-10-07",
+      "category": "三大法人賣超榜",
+      "detail": "上市賣超第2名：-39,660張 (-28.79億元)"
+    },
+    {
+      "stock_id": "2303",
+      "stock_name": "聯電",
+      "date": "2026-10-07",
+      "category": "三大法人賣超榜",
+      "detail": "上市賣超第3名：-33,339張 (-49.51億元)；主動型ETF減碼第1名：-3,502張"
+    },
+    {
+      "stock_id": "1101",
+      "stock_name": "台泥",
+      "date": "2026-10-07",
+      "category": "主動型ETF加碼榜",
+      "detail": "主動型ETF加碼第1名：+4,943張 (今日持有9,821張，1檔ETF持有)"
+    },
+    {
+      "stock_id": "2368",
+      "stock_name": "金像電",
+      "date": "2026-10-07",
+      "category": "主動型ETF加碼榜",
+      "detail": "主動型ETF加碼第7名：+393張 (3檔加碼、兩日累計+1,467張，13檔ETF持有、比重24.77%)"
+    },
+    {
+      "stock_id": "1303",
+      "stock_name": "南亞",
+      "date": "2026-10-07",
+      "category": "主動型ETF加碼榜",
+      "detail": "主動型ETF加碼第6名：+550張 (連3日累計+2,112張，12檔ETF持有、比重28.98%)"
+    },
+    {
+      "stock_id": "4958",
+      "stock_name": "臻鼎-KY",
+      "date": "2026-10-08",
+      "category": "三大法人買超榜",
+      "detail": "10/1~10/8累計買超金額第1名：+35,816張 (+212.03億元)"
+    },
+    {
+      "stock_id": "3037",
+      "stock_name": "欣興",
+      "date": "2026-10-08",
+      "category": "三大法人買超榜",
+      "detail": "10/1~10/8累計買超金額第2名：+12,614張 (+160.2億元)"
+    },
+    {
+      "stock_id": "2492",
+      "stock_name": "華新科",
+      "date": "2026-10-08",
+      "category": "三大法人買超榜",
+      "detail": "10/1~10/8累計買超金額第3名：+32,858張 (+138.01億元)"
+    },
+    {
+      "stock_id": "2408",
+      "stock_name": "南亞科",
+      "date": "2026-10-08",
+      "category": "三大法人買超榜",
+      "detail": "10/8單日三大法人買超第2名：+22,186張 (+118.03億元)，外資單日買超第1名+21,773張"
+    },
+    {
+      "stock_id": "1301",
+      "stock_name": "台塑",
+      "date": "2026-10-08",
+      "category": "三大法人買超榜",
+      "detail": "10/8單日三大法人買超第1名：+27,192張 (+22.11億元)；10/1~10/8累計買超+91,694張居冠"
+    },
+    {
+      "stock_id": "6505",
+      "stock_name": "台塑化",
+      "date": "2026-10-08",
+      "category": "投信買超榜",
+      "detail": "投信單日買超第1名：+14,836張 (+16.39億元)"
+    },
+    {
+      "stock_id": "2027",
+      "stock_name": "大成鋼",
+      "date": "2026-10-08",
+      "category": "主動型ETF加碼榜",
+      "detail": "主動型ETF加碼第1名：+3,038張 (主動野村台灣50單日加碼)"
+    },
+    {
+      "stock_id": "2449",
+      "stock_name": "京元電子",
+      "date": "2026-10-08",
+      "category": "主動型ETF減碼榜",
+      "detail": "主動型ETF減碼第1名：-4,584張 (投信單日賣超第1名-8,530張)"
+    }
+  ]
+}

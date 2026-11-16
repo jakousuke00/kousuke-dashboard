@@ -1,0 +1,72 @@
+{
+  "stock_id": "3518",
+  "stock_name": "柏騰",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "真空濺(蒸)鍍",
+      "碳化矽(SiC)基板",
+      "EMI真空鍍膜"
+    ],
+    "theme_tags": [
+      "EMI真空濺鍍",
+      "嘉義8吋SiC新廠",
+      "轉型第三代半導體"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-21",
+        "source": "萬寶產業報告-1021",
+        "category_mentioned": "機殼相關 > 真空濺(蒸)鍍 (重點個股)"
+      },
+      {
+        "date": "2026-10-02",
+        "source": "萬寶晚報-10_02",
+        "category_mentioned": "半導體產業 > SiC碳化矽基板"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-21",
+    "close_price": 40.1,
+    "est_eps_2026": 2.7,
+    "est_pe": 14.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶產業報告-1021(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "保守",
+      "title": "近5日下跌12.92%、9月營收年減21.8%，預估EPS 2.7元",
+      "close_price": 40.1,
+      "price_change_5d_pct": -12.92,
+      "foreign_5d_lots": -1514,
+      "est_eps": 2.7,
+      "est_pe": 14.9,
+      "revenue_perf": "9月營收年減21.8%",
+      "content": "收盤40.10元，近5日下跌12.92%，9月營收年減21.8%，外資近5日賣超1,514張，萬寶預估2026年EPS 2.7元，預估本益比14.9倍。",
+      "key_points": [
+        "9月營收年減21.8%，近5日股價回檔12.92%"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "source_file": "萬寶晚報-10_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "8月每股賺0.35元，嘉義8吋SiC碳化矽基板新廠2027年Q1量產",
+      "close_price": 43.2,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 2.7,
+      "est_pe": 16.0,
+      "revenue_perf": "8月營收2,271萬元，歸屬母公司淨利3,502萬元、年增336.11%，EPS 0.35元",
+      "content": "8月自結歸屬母公司淨利3,502萬元、年增336.11%，單月EPS 0.35元。併購晶成材料切入碳化矽基板，嘉義8吋SiC新廠已完工取得工廠登記，2027年Q1量產（月產能1,200片、Q2達3,000片），明年SiC營收占比將拉升至幾成以上。",
+      "key_points": [
+        "8月自結單月EPS 0.35元、淨利年增336%",
+        "嘉義8吋SiC基板新廠2027年Q1量產，Q2月產能達3,000片"
+      ]
+    }
+  ]
+}

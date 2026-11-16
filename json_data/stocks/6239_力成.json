@@ -1,0 +1,98 @@
+{
+  "stock_id": "6239",
+  "stock_name": "力成",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "記憶體與先進封測",
+      "記憶體與邏輯封測",
+      "FOPLP"
+    ],
+    "theme_tags": [
+      "FOPLP面板級封裝",
+      "企業級SSD",
+      "CPO光學引擎",
+      "封測漲價",
+      "FOPLP與CPO明年量產",
+      "TSV DDR5",
+      "FOPLP面板級扇出型封裝",
+      "記憶體封測漲價"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "半導體產業 > 今晚爆個股"
+      },
+      {
+        "date": "2026-10-07",
+        "source": "萬寶晚報-10_07",
+        "category_mentioned": "半導體與設備檢測 > 封測"
+      },
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 封測"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-27",
+    "close_price": 254.5,
+    "est_eps_2026": 13.0,
+    "est_pe": 20
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3每股賺3.55元，封測漲價、先進封裝明年量產",
+      "close_price": 254.5,
+      "price_change_pct": 2.62,
+      "volume_lots": 16634,
+      "est_eps": 13.0,
+      "est_pe": 20,
+      "revenue_perf": "Q3營收253億元(季增9.6%)、EPS 3.55元，前三季EPS 9.05元",
+      "content": "法說表示FOPLP、2.5D/3D異質整合及CPO驗證按計畫推進，2027年量產時程不變；已與客戶協商調漲價格，漲幅個位數至雙位數不等，助攻Q4及明年獲利。",
+      "key_points": [
+        "Q3 EPS 3.55元、前三季9.05元",
+        "調漲封測價格，FOPLP與CPO於2027年量產"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "source_file": "萬寶晚報-10_07.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3營收253.3億元創新高，AMD相關FOPLP明年中量產、獲Solidigm釋單",
+      "close_price": 307.5,
+      "price_change_pct": -0.97,
+      "volume_lots": 14715,
+      "est_eps": 13.0,
+      "est_pe": 24.0,
+      "revenue_perf": "9月營收85.1億元年增27%；Q3營收253.3億元、季增9.6%、年增26.9%創新高",
+      "content": "Q3營收253.3億元超越2022年Q2紀錄創單季新高，預期Q4續季增。與超微相關的FOPLP專案2027年中量產，另與博通合作切入光通訊年底小量生產光學引擎；並獲Solidigm企業級SSD擴大釋單。",
+      "key_points": [
+        "Q3營收253.3億元創單季歷史新高",
+        "AMD相關FOPLP專案2027年中量產，攜博通切入光通訊",
+        "獲SK海力士Solidigm來台釋出企業級SSD大單"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏多",
+      "title": "力成今年營收逐季成長拚新高，FOPLP明年起挹注",
+      "close_price": 286.5,
+      "revenue_perf": "7、8月營收連兩月站穩80億元以上，今年可望逐季成長創新高",
+      "content": "記憶體封測稼動率拉升至85-90%且ASP調漲，高階TSV DDR5第四季起量產，今年營收可望逐季成長創新高。台灣FOPLP月產能約6,000片，其中5,000片由超微(AMD)包下，2027年中釋出明顯產能、2028年全面放量。",
+      "key_points": [
+        "記憶體封測稼動率達85-90%且ASP調漲，高階TSV DDR5 Q4量產",
+        "FOPLP月產能6,000片中5,000片由超微包下，2027-2028年放量"
+      ]
+    }
+  ]
+}

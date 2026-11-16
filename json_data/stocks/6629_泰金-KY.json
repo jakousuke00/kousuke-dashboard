@@ -1,0 +1,28 @@
+{
+  "stock_id": "6629",
+  "stock_name": "泰金-KY",
+  "industry_profile": {
+    "main_industry": "居家生活",
+    "sub_industries": [
+      "家飾鑄件"
+    ],
+    "theme_tags": [
+      "高股息",
+      "營收創高"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 11.5元。前三季EPS 9.03元賺贏去年全年並創同期新高，上半年配息4.8元。前十月營收21.4億元年增57.3%創新高，全年營收獲利估雙創高。",
+      "key_points": [
+        "前三季EPS 9.03元同期新高，上半年配息4.8元",
+        "前十月營收年增57.3%創新高"
+      ]
+    }
+  ]
+}

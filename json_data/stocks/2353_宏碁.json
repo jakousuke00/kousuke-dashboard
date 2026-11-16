@@ -1,0 +1,31 @@
+{
+  "stock_id": "2353",
+  "stock_name": "宏碁",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "AI PC",
+      "電競筆電",
+      "集團小金雞"
+    ],
+    "theme_tags": [
+      "Q3獲利年增92%",
+      "高層世代交替"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 1.7元",
+      "pe_ratio": "17倍",
+      "content": "Q3稅後純益21.35億元、年增92.3%，EPS 0.71元；前三季EPS 1.67元、年增84.8%。宣布營運長交棒薄占平，技術長由徐瑞慶擔任。",
+      "key_points": [
+        "Q3稅後純益21.35億元、年增92.3%，前三季EPS 1.67元、年增84.8%",
+        "啟動管理層交棒，薄占平任營運長、徐瑞慶任技術長"
+      ]
+    }
+  ]
+}

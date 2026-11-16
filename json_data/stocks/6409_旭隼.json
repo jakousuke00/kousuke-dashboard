@@ -1,0 +1,47 @@
+{
+  "stock_id": "6409",
+  "stock_name": "旭隼",
+  "industry_profile": {
+    "main_industry": "其他電子",
+    "sub_industries": [
+      "不斷電系統(UPS)",
+      "800VDC電源"
+    ],
+    "theme_tags": [
+      "800VDC電源送樣",
+      "前三季EPS 12.58元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "UPS不斷電系統 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-27",
+    "est_eps_2026": 30.0,
+    "est_pe": 32
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "800VDC電源新品送樣，最快明年下半年出貨",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 30.0,
+      "est_pe": 32,
+      "revenue_perf": "Q3營收56.66億元(季增2%、年增9%)，前三季EPS 12.58元",
+      "content": "董事長謝卓明表示800VDC高壓直流電源新品正送樣測試，最快明年下半年出貨；外資看好施耐德、Vertiv、伊頓等一線大廠外包趨勢擴大，預期2027年獲利反彈28%。",
+      "key_points": [
+        "800VDC電源新品送樣，最快明年下半年出貨",
+        "前三季EPS 12.58元，受惠國際大廠外包擴大"
+      ]
+    }
+  ]
+}

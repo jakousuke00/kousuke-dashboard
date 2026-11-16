@@ -1,0 +1,81 @@
+{
+  "stock_id": "6147",
+  "stock_name": "頎邦",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "驅動IC封測",
+      "封裝測試",
+      "光通訊封裝",
+      "金凸塊封裝",
+      "射頻元件封裝"
+    ],
+    "theme_tags": [
+      "2026年EPS上修",
+      "光通訊營收估翻3倍",
+      "前三季賺4.33元",
+      "萬寶估EPS 5元",
+      "三大法人買超2220張",
+      "買超3.88億",
+      "櫃買買超第七",
+      "低基期高息"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "close_price": 191.5,
+    "est_eps_2026": 5.0,
+    "est_pe": 38.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主力大戶籌碼",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "三大法人櫃買市場買超2,220張、金額3.88億元，居買超金額第七名。面板與手機驅動IC封測訂單回流，稼動率逐步改善，高殖利率提供強大下檔支撐。",
+      "key_points": [
+        "三大法人單日買超2,220張、金額3.88億元居櫃買前列。",
+        "低位階與高殖利率特性吸引避險買盤進場鎖碼。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "法人連續敲進逾2,200張，呈現量增突破底部整理之勢。"
+    },
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "頎邦前三季每股賺4.33元，光通訊明年營收估增逾3倍",
+      "close_price": 191.5,
+      "est_eps": 5.0,
+      "est_pe": 38.0,
+      "revenue_perf": "前三季營收199.69億元年增24.35%，稅後純益32.19億元年增65.59%",
+      "content": "頎邦Q3營收75.81億元創單季新高，受惠LPO放量及驅動IC封測漲價。法人估明年光通訊營收達14~16億元年增逾3倍，毛利率達35%~40%，Q4有望維持Q3水準，萬寶估EPS 5元。",
+      "key_points": [
+        "前三季每股賺4.33元年增65.6%，Q3營收創歷史單季新高",
+        "受惠LPO放量，明年光通訊營收估達14~16億元翻倍大增逾3倍"
+      ]
+    },
+    {
+      "report_date": "2026-11-05",
+      "source_section": "萬寶投顧精選圖表",
+      "estimated_eps": "2026E 6元（上調）",
+      "pe_ratio": null,
+      "content": "萬寶投顧將頎邦2026年預估EPS上調至6元。",
+      "key_points": [
+        "2026年預估EPS上調至6元"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "stock_id": "6449",
+  "stock_name": "鈺邦",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "固態電容"
+    ],
+    "theme_tags": [
+      "漲停板",
+      "AI伺服器",
+      "V-Chip"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 固態電容"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 230.0,
+    "est_eps_2026": 10.0,
+    "est_pe": 23.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "強烈偏多",
+      "title": "鈺邦強鎖漲停收230元，固態電容受惠AI伺服器",
+      "close_price": 230.0,
+      "est_eps": 10.0,
+      "est_pe": 23.0,
+      "revenue_perf": "2026預估EPS 10元，H1 EPS 4.42元",
+      "content": "全球固態電容龍頭鈺邦10/1強攻漲停收230元。AI伺服器主板對固態電容及捲繞型電容需求激增，估2026 EPS達10元，本益比僅23倍。",
+      "key_points": [
+        "10/1亮燈漲停，AI伺服器高規固態電容供不應求",
+        "估2026 EPS 10元，PE 23倍具評價優勢"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "stock_id": "6842",
+  "stock_name": "瑞宇",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "IC設計驗證",
+      "FPGA模組"
+    ],
+    "theme_tags": [
+      "創新板過關",
+      "FPGA驗證",
+      "國防航太通訊"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "新股掛牌"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "新股掛牌",
+      "stance": "偏多",
+      "title": "瑞宇創新板上市過關明年1月掛牌，FPGA通訊模組迎國防復甦",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "2025年每股賺3.77元，隨國防航太專案恢復執行目標重回高峰",
+      "content": "瑞宇通過創新板上市審議，以FPGA為核心提供半導體IC驗證平台與航太通訊控制模組，國防專案逐步重啟，目標明年營運重返高檔。",
+      "key_points": [
+        "通過創新板上市審議，預計明年1月掛牌",
+        "FPGA技術涵蓋IC設計驗證與國防航太通訊模組"
+      ]
+    }
+  ]
+}

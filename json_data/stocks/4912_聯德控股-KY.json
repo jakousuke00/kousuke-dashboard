@@ -1,0 +1,30 @@
+{
+  "stock_id": "4912",
+  "stock_name": "聯德控股-KY",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "玻纖布與電子材料"
+    ],
+    "theme_tags": [
+      "液冷浮動架構",
+      "低軌衛星",
+      "車用"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "受惠車用與低軌衛星需求，Q3營收22.33億創單季新高，前三季EPS 4.94元超去年全年，法人估全年6~7元。美系晶片廠設計的液冷浮動架構本季小量出貨。",
+      "key_points": [
+        "前三季EPS 4.94元超去年全年，法人估全年6至7元",
+        "美系晶片廠液冷浮動架構本季小量出貨，擬發5億無擔保CB"
+      ]
+    }
+  ]
+}

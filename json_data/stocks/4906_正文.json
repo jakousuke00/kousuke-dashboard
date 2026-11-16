@@ -1,0 +1,70 @@
+{
+  "stock_id": "4906",
+  "stock_name": "正文",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "網通與光收發模組",
+      "光收發模組",
+      "CPO/NPO共封裝",
+      "網通設備ODM"
+    ],
+    "theme_tags": [
+      "合資美國生產800G與1.6T光收發器",
+      "漲停收44.85元",
+      "加入三大MSA協議",
+      "美國合資1.6T",
+      "海外多地布局"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-16",
+        "source": "萬寶晚報-10_16",
+        "category_mentioned": "網通/電信與光通訊 > 網通與光通訊"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 44.85,
+    "est_eps_2026": -0.7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "中立觀察",
+      "target_price": null,
+      "estimated_eps": -0.7,
+      "estimated_pe": null,
+      "content": "宣布加入XPO、LPO與Open CPX三大光通訊協議，由可插拔延伸至CPO與NPO。與印度Dixon合作製造光模組，並與Starman New Photonics在美合資製造800G與1.6T光收發器，最快半年後量產搶攻AI資料中心。",
+      "key_points": [
+        "加入三大光協議跨足CPO先進技術，並於美國合資布局800G與1.6T光收發模組。",
+        "生產據點橫跨印度、越南與美國，搶攻北美超大型資料中心光互聯供應鏈商機。"
+      ],
+      "operational_metrics": {
+        "yoy_revenue_decline": 10.46
+      },
+      "chips_observation": "題材豐富但今年受產品調整影響預估EPS微幅虧損，靜待明年合資工廠投產效益。"
+    },
+    {
+      "date": "2026-10-16",
+      "source_file": "萬寶晚報-10_16.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "攜Starman合資美國製造800G與1.6T光收發器，最快半年後量產，強攻漲停",
+      "close_price": 44.85,
+      "price_change_pct": 9.93,
+      "volume_lots": 14919,
+      "est_eps": -0.7,
+      "est_pe": null,
+      "revenue_perf": "投資1,500萬美元持股33.3%成立Starman Gemtek，建立美國本土光收發器產線",
+      "content": "與Starman New Photonics戰略合作，合資在美國製造800G與1.6T光收發器，結合對方矽光子晶片及雷射技術與正文量產經驗，最快半年後量產，激勵股價漲停。",
+      "key_points": [
+        "合資在美國本土製造800G與1.6T光收發器",
+        "結合矽光子晶片與雷射技術，最快半年後量產"
+      ]
+    }
+  ]
+}

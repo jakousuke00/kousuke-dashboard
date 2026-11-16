@@ -1,0 +1,78 @@
+{
+  "stock_id": "5388",
+  "stock_name": "中磊",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "寬頻網通設備",
+      "光通訊與網通電信"
+    ],
+    "theme_tags": [
+      "DOCSIS 4.0",
+      "10G/50G PON",
+      "Wi-Fi 8",
+      "50G PON光纖",
+      "Wi-Fi 8閘道器",
+      "寬頻網通",
+      "三率三升",
+      "營收創高"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-07",
+        "source": "萬寶晚報-10_07",
+        "category_mentioned": "網通/電信與光通訊 > 網通廠"
+      },
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 網通"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "est_eps_2026": 5.8,
+    "est_pe": 13.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "Q3營收218.3億元創單季新高、EPS 1.75元；前三季EPS 4.34元，毛利率、營益率及淨利率三率三升，營收與獲利均已超越去年全年，今年估EPS 5.8元。",
+      "key_points": [
+        "Q3營收創單季新高，三率三升帶動前三季獲利超去年全年",
+        "今年估EPS 5.8元、本益比12倍"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "source_file": "萬寶晚報-10_07.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3營收218.3億元連六季成長，前三季590.9億元已超越去年全年",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 5.8,
+      "est_pe": 13.0,
+      "revenue_perf": "9月營收68.1億元年增47%；Q3營收218.3億元年增48%；前三季590.9億元年增54.2%",
+      "content": "電信營運商加速升級寬頻設備，DOCSIS 4.0、10G PON、5G FWA及企業級網通需求強勁，Q3營收連六季成長並創單季新高，前三季已超越去年全年540億元。",
+      "key_points": [
+        "Q3營收218.3億元連六季成長創單季新高",
+        "前三季營收590.9億元已超越去年全年"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏多",
+      "title": "中磊推50G PON光纖產品，瞄準電信網路升級",
+      "content": "推出符合ITU-T標準的50G PON超高速光纖系列產品，可與既有GPON、XGS-PON共存於同一光配線網路，涵蓋家用寬頻閘道器及SFP可插拔式ONU，並規劃結合Wi-Fi 8閘道器於美國SCTE TechExpo26展出。",
+      "key_points": [
+        "推出50G PON超高速光纖產品並結合Wi-Fi 8閘道器，搶攻電信升級商機"
+      ]
+    }
+  ]
+}

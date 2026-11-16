@@ -1,0 +1,30 @@
+{
+  "stock_id": "4572",
+  "stock_name": "駐龍",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "航太結構件",
+      "飛機零組件"
+    ],
+    "theme_tags": [
+      "波音737 Max擴產",
+      "Q3獲利大增"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-05",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 3.9元",
+      "pe_ratio": "29倍",
+      "content": "Q3營收1.98億元、年增23.8%，毛利率由29.2%跳升至36.5%，單季EPS 2.92元、年增2.63倍；前三季EPS 4.78元、年增1.4倍。受惠波音交機轉穩及FAA逐步放寬737 Max生產上限，客戶拉貨積極，仁武三廠已完成第一期。",
+      "key_points": [
+        "Q3毛利率升至36.5%、單季EPS 2.92元，前三季EPS 4.78元",
+        "FAA放寬波音737 Max生產上限，帶動客戶拉貨動能"
+      ]
+    }
+  ]
+}

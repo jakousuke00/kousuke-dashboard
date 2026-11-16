@@ -1,0 +1,71 @@
+{
+  "stock_id": "8358",
+  "stock_name": "金居",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "電解銅箔",
+      "HVLP4高階銅箔",
+      "銅箔",
+      "PCB與CCL載板"
+    ],
+    "theme_tags": [
+      "馬來西亞擴產",
+      "GP999獲輝達Meta認證",
+      "大摩目標價730元",
+      "跌深反彈",
+      "基本面佳",
+      "高頻高速銅箔"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-21",
+        "source": "萬寶晚報-10_21",
+        "category_mentioned": "PCB/MB產業 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10",
+    "close_price": 482.0,
+    "est_eps_2026": 10.0,
+    "est_pe": 48
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "頭版主筆",
+      "content": "昨日萬寶晚報精選10檔股價跌深但基本面良好個股之一，今日強勢攻上漲停板，獲三大法人上櫃買超4,600張。",
+      "key_points": [
+        "昨日跌深反彈精選股今日攻上漲停，法人買超16.84億元"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "source": "萬寶投顧精選圖表",
+      "content": "入選精選十檔跌深反彈好股，今年高點758元至近期低點301元最大跌幅達60%，11/9收盤333元；今年H1 EPS 4.22元、Q3 EPS 2.4元，預估2026年EPS 10元。",
+      "key_points": [
+        "今年累計EPS成長率1.4倍，Q3單季EPS 2.4元",
+        "最大跌幅60%仍具基本面支撐，2026預估EPS 10元"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶晚報-10_21.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "馬國新廠投資80至100億元，GP999傳獲Meta、輝達認證",
+      "close_price": 482.0,
+      "price_change_pct": 2.66,
+      "volume_lots": 15873,
+      "est_eps": 10.0,
+      "est_pe": 48,
+      "revenue_perf": "9月營收11.04億元、年增64.63%",
+      "content": "董事長李思賢表示規劃投資80至100億元在馬來西亞檳城設廠，年產能3萬噸以HVLP4為主；高散熱銅箔GP999已小量出貨，傳通過Meta ASIC主板及輝達交換器板認證。大摩維持優於大盤、合理股價730元，估2027~2028 EPS達18.59元與31.63元。",
+      "key_points": [
+        "砸80~100億元建馬國HVLP4新廠",
+        "GP999傳獲Meta及輝達認證，大摩目標價730元"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "stock_id": "2702",
+  "stock_name": "華園",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "都會老字號飯店"
+    ],
+    "theme_tags": [
+      "高雄飯店",
+      "美國飯店營運"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 都會老字號飯店"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 11.6,
+    "est_eps_2026": 0.7,
+    "est_pe": 16.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "華園9月營收年增24.3%、累計年增9.8%居冠",
+      "close_price": 11.6,
+      "price_change_5d_pct": -2.93,
+      "foreign_5d_lots": 59,
+      "est_eps": 0.7,
+      "est_pe": 16.6,
+      "revenue_perf": "9月營收年增24.3%，今年累計年增9.8%",
+      "content": "收盤11.60元，近5日下跌2.93%為表列跌幅最大，但外資近5日買超59張。9月營收年增24.3%，今年累計年增9.8%居表列較高水準；萬寶預估EPS 0.7元，預估本益比16.6倍。",
+      "key_points": [
+        "9月營收年增24.3%、今年累計年增9.8%",
+        "外資近5日買超59張，萬寶預估EPS 0.7元"
+      ]
+    }
+  ]
+}

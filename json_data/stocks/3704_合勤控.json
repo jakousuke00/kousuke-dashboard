@@ -1,0 +1,45 @@
+{
+  "stock_id": "3704",
+  "stock_name": "合勤控",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "電信寬頻設備",
+      "企業級網通",
+      "FWA固定無線終端"
+    ],
+    "theme_tags": [
+      "前三季獲利倍增",
+      "電信客戶回補",
+      "法說會釋展望"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 3.0,
+      "estimated_pe": 12.0,
+      "content": "Q3營收77.53億元、每股賺1.15元；前三季營收228.15億元年增16.2%，稅後純益10.99億元年增141%，每股純益2.71元倍增於去年同期的1.13元。受零組件漲價影響毛利率，但獲利翻倍成長，萬寶估EPS 3元。",
+      "key_points": [
+        "前三季稅後純益年增141%，每股純益2.71元繳出倍增成績單。",
+        "電信寬頻與高階網通設備庫存去化結束，本益比僅約12倍具備低檔評價優勢。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 77.53,
+        "q3_eps": 1.15,
+        "three_q_revenue": 228.15,
+        "three_q_eps": 2.71,
+        "three_q_net_income_growth": 141.0
+      },
+      "chips_observation": "法說會前夕成交量加溫，低檔價值型買盤逐步進場卡位。"
+    }
+  ]
+}

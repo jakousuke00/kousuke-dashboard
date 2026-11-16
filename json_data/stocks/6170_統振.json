@@ -1,0 +1,47 @@
+{
+  "stock_id": "6170",
+  "stock_name": "統振",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "中小型成分股"
+    ],
+    "theme_tags": [
+      "移工匯兌金流",
+      "低本益比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-19",
+        "source": "萬寶產業報告-1019",
+        "category_mentioned": "電信服務 > 中小型成分股 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-19",
+    "close_price": 49.15,
+    "est_eps_2026": 4.5,
+    "est_pe": 10.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-19",
+      "source_file": "萬寶產業報告-1019(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "9月營收年增8.7%，萬寶預估2026 EPS 4.5元、本益比10.9倍",
+      "close_price": 49.15,
+      "price_change_5d_pct": -0.71,
+      "foreign_5d_lots": 96,
+      "est_eps": 4.5,
+      "est_pe": 10.9,
+      "revenue_perf": "9月營收年增8.7%、月減1.0%",
+      "content": "收盤49.15元，近5日小跌0.71%，外資近5日買超96張；9月營收年增8.7%、月減1.0%，萬寶預估2026年EPS 4.5元，預估本益比10.9倍。",
+      "key_points": [
+        "9月營收年增8.7%",
+        "萬寶預估2026 EPS 4.5元，預估本益比10.9倍"
+      ]
+    }
+  ]
+}

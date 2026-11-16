@@ -1,0 +1,27 @@
+{
+  "stock_id": "2801",
+  "stock_name": "彰銀",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "公股銀行"
+    ],
+    "theme_tags": [
+      "前10月獲利超越去年全年"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 1.7元",
+      "pe_ratio": "16倍",
+      "content": "10月自結稅後純益16.28億元、年增14.9%；前10月稅後純益189.98億元、年增22%，EPS 1.58元，已超越去年全年獲利。",
+      "key_points": [
+        "前10月稅後純益189.98億元、年增22%，EPS 1.58元已賺贏去年全年"
+      ]
+    }
+  ]
+}

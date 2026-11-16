@@ -1,0 +1,47 @@
+{
+  "stock_id": "2889",
+  "stock_name": "國票金",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "金控",
+      "證券與票券"
+    ],
+    "theme_tags": [
+      "前三季獲利倍增",
+      "證券獲利創高"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-19",
+        "source": "萬寶晚報-10_19",
+        "category_mentioned": "證券金融全部 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-19",
+    "est_eps_2026": 1.4,
+    "est_pe": 12
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-19",
+      "source_file": "萬寶晚報-10_19.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "前三季每股賺1.01元年增逾1倍，證券獲利占比衝上52%",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 1.4,
+      "est_pe": 12,
+      "revenue_perf": "前三季稅後盈餘36.92億元(年增116.29%)，EPS 1.01元",
+      "content": "前三季稅後盈餘36.92億元、年增116.29%，EPS 1.01元，9月底每股淨值12.66元；國票證券前三季稅後盈餘32.55億元、年增302.79%創歷史新高，獲利貢獻比重拉升至52%。",
+      "key_points": [
+        "前三季EPS 1.01元、年增116.29%",
+        "國票證券前三季獲利年增302.79%創歷史新高"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "stock_id": "5269",
+  "stock_name": "祥碩",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "高速傳輸介面IC",
+      "晶圓代工與ASIC"
+    ],
+    "theme_tags": [
+      "攜手英飛凌",
+      "實體AI與機器人視覺",
+      "高速傳輸IC",
+      "AMD概念股",
+      "ASIC"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "IC設計 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "est_eps_2026": 100.0,
+    "est_pe": 15
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "Q3受惠業外收益，EPS達26.6元、毛利率51.6%；前三季EPS 78.66元已超越去年全年72.7元。超微新一代晶片組明年Q1具量產能力，第二家ASIC客戶小量出貨。",
+      "key_points": [
+        "前三季EPS 78.66元超越去年全年，估今年EPS 100元",
+        "超微新一代晶片組2027年Q1量產、Q2/Q3出貨，並參與私募成芯鼎最大股東"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "攜英飛凌推USB 20Gbps生態系，搶實體AI商機",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 100.0,
+      "est_pe": 15,
+      "revenue_perf": null,
+      "content": "英飛凌宣布與祥碩戰略合作，結合英飛凌控制器與祥碩最新USB4 40Gbps主機控制器ASM4242，建構端到端USB 20Gbps生態系統，搶攻機器學習相機與實體AI系統商機。",
+      "key_points": [
+        "攜手英飛凌建構USB 20Gbps生態系",
+        "搶攻機器學習相機與實體AI商機，預估EPS 100元"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "stock_id": "2211",
+  "stock_name": "長榮鋼",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "鋼構"
+    ],
+    "theme_tags": [
+      "Q4旺季"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 7元。受惠出貨量能彈升與建案工程推進，Q3 EPS 2.8元、單季貢獻前三季獲利近半，前三季EPS 6.06元處歷史高位，Q4旺季樂觀。",
+      "key_points": [
+        "Q3 EPS 2.8元，前三季EPS 6.06元",
+        "下半年案量結算入高峰，Q4樂觀"
+      ]
+    }
+  ]
+}

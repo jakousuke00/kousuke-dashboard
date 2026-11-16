@@ -1,0 +1,70 @@
+{
+  "stock_id": "6182",
+  "stock_name": "合晶",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "車用半導體矽晶圓",
+      "方形晶圓",
+      "中小尺寸矽晶圓",
+      "車用半導體基板",
+      "重摻矽晶圓"
+    ],
+    "theme_tags": [
+      "洽談調整報價",
+      "方形晶圓送樣驗證",
+      "車用晶圓復甦",
+      "櫃買買超張數第二",
+      "買超5650張",
+      "矽晶圓反彈",
+      "落底回溫"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "今晚產業新聞"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "close_price": 31.5,
+    "est_eps_2026": 1.2,
+    "est_pe": 26.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主力大戶籌碼",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "三大法人於櫃買市場買超5,650張、金額4.68億元，高居買超張數第二名。車用與工控半導體矽晶圓庫存去化進入尾聲，落底轉機買盤積極湧入。",
+      "key_points": [
+        "三大法人櫃買買超5,650張居張數榜第二，金額達4.68億元。",
+        "矽晶圓景氣觸底訊號顯著，低位階吸引價值型法人買盤。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "法人單日大舉買超5,650張，低檔爆量換手完成築底。"
+    },
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "今晚產業新聞",
+      "stance": "轉機向上",
+      "title": "合晶洽談調漲新單報價，方形晶圓完成送樣進入客戶驗證",
+      "close_price": 31.5,
+      "est_eps": 1.2,
+      "est_pe": 26.3,
+      "revenue_perf": "積極洽談調整新單報價，車用半導體客戶庫存去化完畢",
+      "content": "合晶受惠矽晶圓報價調漲潮，正積極與主要客戶洽談調升新單合約價。新世代方形晶圓已順利完成送樣並進入客戶驗證階段，為未來面板級封裝與特殊利基應用奠定長線成長動能。",
+      "key_points": [
+        "積極與客戶協商調漲新單報價，走出半導體庫存調整陰霾",
+        "創新方形晶圓完成送樣進入驗證，開拓高附加價值新市場"
+      ]
+    }
+  ]
+}

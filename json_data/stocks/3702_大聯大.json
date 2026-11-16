@@ -1,0 +1,29 @@
+{
+  "stock_id": "3702",
+  "stock_name": "大聯大",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "AI伺服器與工業電腦"
+    ],
+    "theme_tags": [
+      "IC通路",
+      "獲利創高"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "Q3營收5,099.96億年增108.6%，單季淨利103.9億元首破百億；前三季淨利245.59億、EPS 14.42元超越去年全年。Q4預估營收4,800億至5,300億元。",
+      "key_points": [
+        "Q3單季淨利首破百億，前三季EPS 14.42元超越去年全年",
+        "預估Q4 EPS 5.13至5.81元，今年估EPS 13.5元、本益比7倍"
+      ]
+    }
+  ]
+}

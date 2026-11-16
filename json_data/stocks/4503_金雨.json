@@ -1,0 +1,29 @@
+{
+  "stock_id": "4503",
+  "stock_name": "金雨",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "紡織、自行車、營建與其他"
+    ],
+    "theme_tags": [
+      "客戶不續約",
+      "取消越南投資"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "主要客戶樺漢採購合約8月到期不續約（去年占營收59.69%），公司指控前經理人違規將依法求償；10日辦理大量解僱並取消越南投資，前三季EPS 3.25元，估EPS 3.2元。",
+      "key_points": [
+        "主要客戶樺漢合約到期不續約，辦理大量解僱並取消越南子公司投資",
+        "可轉債4.13億元改充實營運資金，前三季EPS 3.25元"
+      ]
+    }
+  ]
+}

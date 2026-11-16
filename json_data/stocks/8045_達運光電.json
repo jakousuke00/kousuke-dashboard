@@ -1,0 +1,30 @@
+{
+  "stock_id": "8045",
+  "stock_name": "達運光電",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "軍工航太、汽車與複材"
+    ],
+    "theme_tags": [
+      "國防科技",
+      "無人機通訊",
+      "智慧安防"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "前三季EPS 0.39元，10月營收1.11億元年增92.97%。原營運長戴家欣接任董事長，未來三年鞏固DOCSIS 4.0，推進AIoT與國防科技雙引擎，整合無人機/反無人機軍民通訊中心。",
+      "key_points": [
+        "10月營收年增92.97%，前十月年增35.44%",
+        "整合無人機、反無人機及衛星通訊打造軍民通用移動通訊中心"
+      ]
+    }
+  ]
+}

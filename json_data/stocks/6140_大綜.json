@@ -1,0 +1,51 @@
+{
+  "stock_id": "6140",
+  "stock_name": "大綜",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "系統整合",
+      "AI伺服器建置"
+    ],
+    "theme_tags": [
+      "財報亮眼",
+      "Q3獲利創高",
+      "系統整合"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 資訊服務"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-09-23"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏空",
+      "title": "訊達8月自結每股虧0.1元，前八月營收年減14.40%",
+      "revenue_perf": "8月營收1.81億元（年增10.37%、月減37.29%），自結每股淨損0.1元；前8月營收年減14.40%",
+      "content": "自結8月單月淨損525萬元，每股淨損0.1元，不如去年同期獲利表現；8月營收1.81億元較7月減少37.29%，累計前8月營收13.54億元、年減14.40%。",
+      "key_points": [
+        "8月自結每股淨損0.1元，累計前8月營收年減14.40%"
+      ]
+    },
+    {
+      "report_date": "2026-11-05",
+      "source_section": "今晚產業新聞",
+      "estimated_eps": "前三季EPS 17.35元",
+      "pe_ratio": null,
+      "content": "前三季營收137.31億元、年增125.16%，EPS達17.35元；其中第三季單季EPS 6.09元創同期新高，第四季營運預估與第三季相當。",
+      "key_points": [
+        "前三季營收年增125%、EPS達17.35元",
+        "Q3單季EPS 6.09元創同期新高，Q4估持平高檔"
+      ]
+    }
+  ]
+}

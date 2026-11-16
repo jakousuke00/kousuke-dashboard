@@ -1,0 +1,28 @@
+{
+  "stock_id": "3481",
+  "stock_name": "群創",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "TFT-LCD/車用顯示"
+    ],
+    "theme_tags": [
+      "連五季獲利",
+      "車用顯示"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 1.2元。Q3營收575.78億元、毛利率14.9%年增7個百分點，業外淨收入103.27億元帶動稅後EPS 0.96元創七季高，連五季獲利；車用占營收40%居冠、非顯示器占43%。",
+      "key_points": [
+        "Q3 EPS 0.96元創七季高，連五季獲利",
+        "車用占40%居冠，Q4步入淡季商用估季減17~19%"
+      ]
+    }
+  ]
+}

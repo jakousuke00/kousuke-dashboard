@@ -1,0 +1,69 @@
+{
+  "stock_id": "2498",
+  "stock_name": "宏達電",
+  "industry_profile": {
+    "main_industry": "AI眼鏡與消費電子",
+    "sub_industries": [
+      "AI智慧眼鏡",
+      "VR/AR硬體",
+      "個人AI終端",
+      "元宇宙平台"
+    ],
+    "theme_tags": [
+      "VIVE EAGLE",
+      "AI眼鏡",
+      "AI陪伴終端",
+      "單季轉虧為盈",
+      "個人AI終端",
+      "VIVEE",
+      "新品預購"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - AI眼鏡"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 62.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "中立觀察",
+      "target_price": null,
+      "estimated_eps": -1.2,
+      "estimated_pe": null,
+      "content": "Q3每股純益0.26元轉盈，終結連續三季虧損；前三季每股淨損0.36元。推出首款個人AI產品VIVEE於美開放預購，早鳥價99.99美元，12月出貨搶攻聖誕節與電子寵物商機，萬寶估全年EPS -1.2元。",
+      "key_points": [
+        "Q3單季每股純益0.26元成功由虧轉盈，終止連三季虧損態勢。",
+        "跨足個人AI終端硬體VIVEE，12月正式於美國市場首發出貨搶市。"
+      ],
+      "operational_metrics": {
+        "q3_eps": 0.26,
+        "three_q_revenue": 20.3,
+        "three_q_eps": -0.36
+      },
+      "chips_observation": "單季轉盈消息刺激人氣，但全年仍處虧損狀態，待新產品實際銷量檢驗。"
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏多",
+      "title": "宏達電預告AI陪伴新品，Q4營運有望優於Q3",
+      "close_price": 62.0,
+      "revenue_perf": "8月營收2.46億元、月增37.7%",
+      "content": "升級版智慧眼鏡VIVE EAGLE進軍美、歐、澳後，再預告主打語音互動與情感陪伴的AI終端新品，Q4營運有望優於Q3。8月營收2.46億元、月增37.7%，AI眼鏡今年營收已超越手機，第二代VIVE EAGLE最快2027上半年推出。",
+      "key_points": [
+        "8月營收月增37.7%，AI眼鏡今年營收已超越手機，Q4有望優於Q3",
+        "預告AI情感陪伴新品，第二代VIVE EAGLE最快2027上半年推出"
+      ]
+    }
+  ]
+}

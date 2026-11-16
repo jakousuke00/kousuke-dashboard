@@ -1,0 +1,68 @@
+{
+  "stock_id": "7730",
+  "stock_name": "暉盛",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體設備",
+      "電漿製程",
+      "半導體電漿設備"
+    ],
+    "theme_tags": [
+      "Hybrid Bonding",
+      "玻璃基板電漿鑽孔",
+      "CPO",
+      "大氣電漿技術",
+      "混合鍵合Hybrid Bonding",
+      "玻璃基板與CPO電漿製程"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-19",
+        "source": "萬寶晚報-10_19",
+        "category_mentioned": "半導體產業 > 今晚爆個股"
+      },
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 半導體設備"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-19",
+    "est_eps_2026": 1.3,
+    "est_pe": 150
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-19",
+      "source_file": "萬寶晚報-10_19.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "IMAPS發表銅表面電漿去氧化技術，攻Hybrid Bonding",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 1.3,
+      "est_pe": 150,
+      "revenue_perf": null,
+      "content": "電漿製程設備廠暉盛積極布局混合鍵合(Hybrid Bonding)、玻璃基板及矽光子製程，於IMAPS研討會發表大氣壓電漿銅表面去氧化技術，並展示玻璃核心基板、FOPLP及電漿鑽孔方案。",
+      "key_points": [
+        "發表Hybrid Bonding銅表面電漿去氧化技術",
+        "布局玻璃基板電漿鑽孔與矽光子CPO製程"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏多",
+      "title": "暉盛赴美IMAPS發表大氣電漿技術，搶先進封裝",
+      "content": "將於9/28赴美參加IMAPS 2026，發表大氣壓介電阻障放電電漿去除銅表面氧化層研究，提供混合鍵合(Hybrid Bonding)前處理方案，並展示玻璃基板、FOPLP、矽光子與CPO電漿製程。",
+      "key_points": [
+        "赴美發表混合鍵合大氣電漿前處理技術，展示玻璃基板、FOPLP與CPO電漿製程"
+      ]
+    }
+  ]
+}

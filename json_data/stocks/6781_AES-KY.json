@@ -1,0 +1,57 @@
+{
+  "stock_id": "6781",
+  "stock_name": "AES-KY",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "BBU伺服器備援電池模組",
+      "BBU備援電池"
+    ],
+    "theme_tags": [
+      "Q3營收52.34億元首破50億",
+      "全年EPS估破50元",
+      "800V高壓BBU",
+      "AGV機器人"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "電子零組件 > 電池模組(BBU)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09",
+    "est_eps_2026": 50.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "Q3營收52.34億元、單季EPS 12.5元，10月營收17.81億元年增23.5%創高；BBU訂單能見度高，正負400V高壓BBU明年中量產、800V明年下半年量產，估EPS 50元。",
+      "key_points": [
+        "10月營收17.81億元創新高，前三季EPS約35.95元",
+        "明年多家新客戶加入，800V明年H2量產，資本支出拉高至8~10億"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚產業新聞",
+      "stance": "偏多",
+      "title": "BBU出貨強勁帶動9月營收17.6億元續創新高、Q3首破50億元，全年EPS估破50元",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 50.0,
+      "est_pe": null,
+      "revenue_perf": "9月營收17.6億元、年增25.5%續創新高；Q3營收52.34億元、年增26.8%首站上50億元",
+      "content": "受惠AI伺服器電池備援模組（BBU）出貨強勁，9月營收17.6億元、年增25.5%續創單月新高，Q3單季營收52.34億元、年增26.8%，單季首度站上50億元大關，法人預估全年每股純益可望首度衝破50元。",
+      "key_points": [
+        "9月營收17.6億元續創高，Q3營收52.34億元首度突破50億元",
+        "法人預估全年EPS可望首度衝破50元"
+      ]
+    }
+  ]
+}

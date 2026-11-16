@@ -1,0 +1,45 @@
+{
+  "stock_id": "6642",
+  "stock_name": "富致",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "保護元件"
+    ],
+    "theme_tags": [
+      "PPTC保險絲"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 保護元件"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 83.0,
+    "est_eps_2026": 4.5,
+    "est_pe": 18.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "富致低點彈27%，估2026 EPS達4.5元",
+      "close_price": 83.0,
+      "est_eps": 4.5,
+      "est_pe": 18.4,
+      "revenue_perf": "2026預估EPS 4.5元，H1 EPS 2.28元",
+      "content": "自復式保險絲廠富致上半年EPS 2.28元，全年估4.5元，本益比約18.4倍。10/1收83元，自7月低點反彈27%，今年累計漲幅65%。",
+      "key_points": [
+        "估2026 EPS 4.5元，PE 18.4倍穩健",
+        "自低點反彈27%，工控與車用出貨穩定"
+      ]
+    }
+  ]
+}

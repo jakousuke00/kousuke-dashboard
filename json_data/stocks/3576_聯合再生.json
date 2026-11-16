@@ -1,0 +1,49 @@
+{
+  "stock_id": "3576",
+  "stock_name": "聯合再生",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "太陽能模組與電廠",
+      "太陽能電池模組"
+    ],
+    "theme_tags": [
+      "美國太陽能模組廠",
+      "中美矽晶合資",
+      "低軌衛星太空應用",
+      "太空AI太陽能",
+      "鈣鈦礦"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 太陽能"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "SpaceX引進100GW電池產線搶太空AI商機，業界預期後段模組可能外包，聯合再生已開發鈣鈦礦矽晶疊層模組可望受惠。",
+      "key_points": [
+        "已開發鈣鈦礦矽晶疊層模組",
+        "可望受惠太空AI資料中心太陽能外包"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "中性偏多",
+      "title": "聯合再生強攻美國市場，與中美矽晶赴美建1GW模組廠",
+      "content": "今年7月與中美矽晶共同投資成立公司，規劃赴美建置年產能1GW太陽能模組廠，從產品出口走向在地製造，並關注AI資料中心能源需求與探索低軌衛星等太空應用。",
+      "key_points": [
+        "攜手中美矽晶赴美建置1GW太陽能模組廠，並探索AI資料中心與太空應用"
+      ]
+    }
+  ]
+}

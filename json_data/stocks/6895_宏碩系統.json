@@ -1,0 +1,60 @@
+{
+  "stock_id": "6895",
+  "stock_name": "宏碩系統",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "高功率真空微波管",
+      "AI液冷散熱與蒸發器",
+      "真空微波管",
+      "半導體微波加熱設備",
+      "軍工微波組件"
+    ],
+    "theme_tags": [
+      "鑽石片微通道冷板",
+      "異材質焊接蒸發器",
+      "Q3轉虧為盈",
+      "單季轉虧為盈",
+      "軍工飛彈雷達",
+      "半導體設備用管"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "中立觀察",
+      "target_price": null,
+      "estimated_eps": -2.0,
+      "estimated_pe": null,
+      "content": "Q3營收1.59億元季增43.2%，毛利率31.78%轉正，稅後純益3,683萬元、每股賺1.08元轉虧為盈；前三季每股淨損0.99元。產品供應飛彈及雷達系統微波管，近年跨足半導體製程與鋰電池應用。",
+      "key_points": [
+        "Q3毛利率成功轉正至31.78%，單季EPS 1.08元終止連續兩季虧損。",
+        "軍工真空微波管技術延伸至半導體製程與鋰電池微波乾燥等新興領域。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 1.59,
+        "q3_qoq": 43.2,
+        "q3_gross_margin": 31.78,
+        "q3_eps": 1.08
+      },
+      "chips_observation": "單季獲利由負轉正帶動低檔買盤關注，但全年累計仍受上半年虧損壓抑。"
+    },
+    {
+      "report_date": "2026-11-05",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E -2元",
+      "pe_ratio": null,
+      "content": "轉攻高階異材質焊接蒸發器市場，整合鑽石片微通道冷板模組已有成果，訂單能見度看到明年Q3。隨Q2一次性提列7,000萬元庫存損失因素消除，Q3已轉虧為盈，力拚今年全年轉正。",
+      "key_points": [
+        "整合鑽石片微通道冷板模組有成，訂單能見度達明年Q3",
+        "Q3已轉虧為盈，力拚全年獲利轉正"
+      ]
+    }
+  ]
+}

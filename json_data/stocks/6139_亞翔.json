@@ -1,0 +1,57 @@
+{
+  "stock_id": "6139",
+  "stock_name": "亞翔",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體設備與無塵室工程",
+      "先進封裝設備與材料"
+    ],
+    "theme_tags": [
+      "無塵室工程",
+      "低本益比",
+      "外資買超",
+      "32檔電子強股"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-12",
+        "source": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",
+        "category_mentioned": "設備儀器 - 重點個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 605.0,
+    "est_eps_2026": 61.0,
+    "est_pe": 9.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "source_file": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "10月營收年增62.6%，預估EPS 61.0元、本益比僅9.9倍",
+      "close_price": 605.0,
+      "price_change_5d_pct": 6.7,
+      "foreign_5d_lots": 811,
+      "est_eps": 61.0,
+      "est_pe": 9.9,
+      "revenue_perf": "10月營收年增62.6%",
+      "content": "無塵室與機電工程大廠，10月營收年增62.6%，近5日上漲6.70%收605.00元，外資近5日買超811張。萬寶預估2026年EPS高達61.0元，預估本益比僅9.9倍居表列最低。",
+      "key_points": [
+        "10月營收年增62.6%、外資買超811張，預估EPS 61.0元、本益比僅9.9倍"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "source": "精選電子股表",
+      "content": "入選32檔10月營收創新高電子股，累計營收年增53%，前三季EPS達41.25元，2026年估EPS 61元，收盤630元、本益比僅10倍。",
+      "key_points": [
+        "前三季EPS 41.25元，2026年估61元、本益比10倍"
+      ]
+    }
+  ]
+}

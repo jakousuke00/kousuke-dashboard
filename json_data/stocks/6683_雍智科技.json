@@ -1,0 +1,47 @@
+{
+  "stock_id": "6683",
+  "stock_name": "雍智科技",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "IC測試載板與探針卡"
+    ],
+    "theme_tags": [
+      "9月與Q3營收雙創高",
+      "矽光子探針卡出貨美系客戶"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "半導體產業 > 測試介面"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05",
+    "close_price": 1428.0,
+    "est_eps_2026": 28.0,
+    "est_pe": 51.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收與Q3雙創新高、單季首破7億元，已出貨矽光子探針卡給美系客戶",
+      "close_price": 1428.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 28.0,
+      "est_pe": 51.0,
+      "revenue_perf": "9月營收2.47億元，月增5.9%、年增33.6%連兩月創高；Q3營收7.11億元，季增9.1%、年增27.9%首破7億",
+      "content": "9月營收2.47億元連兩月創高，Q3營收7.11億元首度突破7億元，前九月20.27億元、年增30.26%。今年整體產能規劃至少提升五成，持續擴充高階探針卡製程，ASIC新專案下半年開始貢獻、明年放量，並已出貨矽光子探針卡給美系客戶。",
+      "key_points": [
+        "Q3營收7.11億元首破7億大關，9月與Q3雙創歷史新高",
+        "已出貨矽光子探針卡予美系客戶，ASIC新專案明年放量"
+      ]
+    }
+  ]
+}

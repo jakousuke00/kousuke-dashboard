@@ -1,0 +1,85 @@
+{
+  "stock_id": "2371",
+  "stock_name": "大同",
+  "industry_profile": {
+    "main_industry": "電機機械",
+    "sub_industries": [
+      "重電",
+      "資料中心解決方案",
+      "重電設備",
+      "太陽能/儲能",
+      "資產開發",
+      "重電與儲能"
+    ],
+    "theme_tags": [
+      "模組化資料中心",
+      "海外拓展",
+      "訴訟和解",
+      "巨額回沖",
+      "轉機股",
+      "重電本業",
+      "模組化AIDC",
+      "台電標案"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 重電設備"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10",
+    "close_price": 30.5,
+    "est_eps_2026": 1.0,
+    "est_pe": 30.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "10月營收33.92億元年減8.06%，主因精英部分出貨減少；電力事業10月營收年增9.34%。模組化AI資料中心「TTG AIDC CUBE」獲國內小量訂單，洽談逾30家，估EPS 1元。",
+      "key_points": [
+        "模組化AIDC取得國內小量訂單，洽談潛在客戶逾30家",
+        "電力事業10月營收年增9.34%，重新參與台電標案、馬達已出貨"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低布局",
+      "target_price": null,
+      "estimated_eps": 1.0,
+      "estimated_pe": 29.0,
+      "content": "華映訴訟案以人民幣7.68億元和解。因去年Q4已全額認列損失，扣除支出後可回沖人民幣20.35億元（約新台幣99.5億元），估貢獻每股稅前盈餘約4.6元，本業將聚焦重電與綠能。",
+      "key_points": [
+        "訴訟和解可望回沖近百億元台幣，估貢獻每股稅前盈餘約4.6元，最快第四季入帳。",
+        "訴訟包袱消除，經營團隊全力聚焦重電、變壓器與綠能核心業務拓展。"
+      ],
+      "operational_metrics": {
+        "settlement_amount_cny": 7.68,
+        "estimated_writeback_ntd": 99.5,
+        "pretax_eps_impact": 4.6
+      },
+      "chips_observation": "三大法人賣超15,404張，短期受大盤波及調節，但獲利回沖具顯著轉機題材。"
+    },
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "發表模組化資料中心TTG AIDC CUBE，最快180天拿下首單",
+      "close_price": 30.5,
+      "est_eps": 1.0,
+      "est_pe": 30.0,
+      "revenue_perf": "估EPS 1元，電力設備自製率近100%",
+      "content": "發表TTG AIDC CUBE模組化資料中心方案，主打電網到機櫃一站式整合，最快180天交付並已奪首單。電力設備近100%自製，海外拓展以日本進度最快。",
+      "key_points": [
+        "發表模組化資料中心方案並拿下首筆訂單",
+        "電力設備近100%自製，進軍日本市場"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "stock_id": "2369",
+  "stock_name": "菱生",
+  "industry_profile": {
+    "main_industry": "砷化鎵",
+    "sub_industries": [
+      "砷化鎵下游封裝測試"
+    ],
+    "theme_tags": [
+      "射頻封測",
+      "IC封測"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵下游封裝測試"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-02",
+    "close_price": 27.75,
+    "est_eps_2026": 0.7,
+    "est_pe": 39.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-02",
+      "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "菱生9月營收年增23.9%，近5日股價回檔3.65%",
+      "close_price": 27.75,
+      "price_change_5d_pct": -3.65,
+      "foreign_5d_lots": -312,
+      "est_eps": 0.7,
+      "est_pe": 39.6,
+      "revenue_perf": "9月營收年增23.9%",
+      "content": "收盤27.75元，近5日下跌3.65%，外資近5日賣超312張。9月營收年增23.9%維持成長，萬寶預估今年EPS 0.7元，預估本益比39.6倍。",
+      "key_points": [
+        "9月營收年增23.9%，基本面保持年增",
+        "萬寶預估EPS 0.7元，預估本益比39.6倍"
+      ]
+    }
+  ]
+}

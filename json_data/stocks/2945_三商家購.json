@@ -1,0 +1,37 @@
+{
+  "stock_id": "2945",
+  "stock_name": "三商家購",
+  "industry_profile": {
+    "main_industry": "百貨及貿易",
+    "sub_industries": [
+      "連鎖超市與零售通路"
+    ],
+    "theme_tags": [
+      "轉型眾聯投控",
+      "分割美廉社"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 零售百貨"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-09-23"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "中性",
+      "title": "三商家購轉型投控更名眾聯投控，分割美廉社",
+      "content": "宣布轉型為投資控股公司並更名「眾聯投控」，將美廉社、心樸市集等零售通路資產分割移轉給100%持股子公司富達零售，分割基準日暫定2027年1月1日。",
+      "key_points": [
+        "轉型更名眾聯投控，將美廉社分割予100%子公司富達零售"
+      ]
+    }
+  ]
+}

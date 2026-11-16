@@ -1,0 +1,42 @@
+{
+  "stock_id": "6841",
+  "stock_name": "長佳智能",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "醫療AI輔助診斷",
+      "腦神經影像AI",
+      "醫材軟體認證"
+    ],
+    "theme_tags": [
+      "美FDA許可16張",
+      "大血管阻塞AI",
+      "國際醫材取證"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "中立觀察",
+      "target_price": null,
+      "estimated_eps": 0.5,
+      "estimated_pe": 103.0,
+      "content": "大血管阻塞檢測系統獲美國FDA 510(k)許可，為第16張美國FDA許可；系統靈敏度達96%、特異度94%，整合腦出血診斷形成腦部急重症完整AI方案。累計獲58張國內外醫材許可證，萬寶估EPS 0.5元。",
+      "key_points": [
+        "取得第16張美國FDA 510(k)醫材許可，大血管阻塞AI診斷靈敏度達96%。",
+        "累計取得58張國內外醫材證照，腦部急重症AI解決方案商業化布建加速。"
+      ],
+      "operational_metrics": {
+        "fda_approvals_total": 16,
+        "global_licenses_total": 58
+      },
+      "chips_observation": "生技醫療族群逆勢抗跌，但本益比逾百倍，留意題材性與營收落地速度。"
+    }
+  ]
+}

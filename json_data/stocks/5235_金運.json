@@ -1,0 +1,44 @@
+{
+  "stock_id": "5235",
+  "stock_name": "金運",
+  "industry_profile": {
+    "main_industry": "電腦周邊",
+    "sub_industries": [
+      "AI水冷散熱",
+      "CDU冷卻系統"
+    ],
+    "theme_tags": [
+      "廣運集團",
+      "興櫃登錄",
+      "CDU水冷分配"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "興櫃搶先爆"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "興櫃搶先爆",
+      "stance": "強烈偏多",
+      "title": "廣運旗下金運科技登錄興櫃，專注AI伺服器水冷CDU解決方案",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "上半年營收2.96億年增64.32%，截至9月底營收達4.33億元",
+      "content": "廣運集團旗下金運科技29日登錄興櫃，專注AI伺服器液冷CDU冷卻系統與資料中心散熱方案，上半年營收2.96億年增64.3%，前9月營收4.33億元。",
+      "key_points": [
+        "廣運旗下興櫃登錄，專注AI水冷CDU分配系統",
+        "前9月營收4.33億元，與夥伴合攻台日資料中心市場"
+      ]
+    }
+  ]
+}

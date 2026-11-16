@@ -1,0 +1,47 @@
+{
+  "stock_id": "4162",
+  "stock_name": "智擎",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "新藥研發",
+      "抗癌標靶新藥"
+    ],
+    "theme_tags": [
+      "PEP07臨床推進",
+      "安能得授權金入帳",
+      "高毛利率93%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-30",
+        "source": "萬寶晚報-10_30",
+        "category_mentioned": "今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-30",
+    "close_price": 59.2,
+    "est_eps_2026": 3.7,
+    "est_pe": 16.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶晚報-10_30.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "智擎前三季每股賺2.87元毛利率93%，抗癌新藥PEP07推進臨床",
+      "close_price": 59.2,
+      "est_eps": 3.7,
+      "est_pe": 16.0,
+      "revenue_perf": "前三季稅後純益4.13億元每股賺2.87元，毛利率達93.25%，負債比僅2.67%",
+      "content": "智擎受惠胰臟癌新藥安能得在台健保給付及歐亞授權金，前三季EPS 2.87元毛利率93.25%。新藥PEP07朝合併療法開發，PRMT5抑制劑PEP08獲韓國臨床核准，萬寶估今年EPS 3.7元。",
+      "key_points": [
+        "前三季EPS 2.87元毛利率達93.25%，安能得歐亞授權穩定挹注",
+        "抗癌新藥PEP07臨床推進，第二代PRMT5抑制劑PEP08取得韓國核准"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "stock_id": "5522",
+  "stock_name": "遠雄",
+  "industry_profile": {
+    "main_industry": "房地產/營造",
+    "sub_industries": [
+      "營建開發與指標建商"
+    ],
+    "theme_tags": [
+      "建商交屋",
+      "高殖利率",
+      "營收大增"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營建開發與指標建商"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-01",
+    "close_price": 60.8,
+    "est_eps_2026": 6.0,
+    "est_pe": 10.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-01",
+      "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "遠雄9月營收年增262.5%，殖利率達9.05%",
+      "close_price": 60.8,
+      "price_change_5d_pct": 3.21,
+      "foreign_5d_lots": 1419,
+      "est_eps": 6.0,
+      "est_pe": 10.1,
+      "revenue_perf": "9月營收年增262.5%、月增54.0%，今年累計年增110.5%",
+      "content": "近5日上漲3.21%，9月營收年增262.5%、月增54.0%，今年累計年增110.5%表現亮眼。今年以來股價仍跌9.4%，近四季本益比6.1倍、股價淨值比1.00倍、殖利率9.05%，萬寶預估EPS 6.0元。",
+      "key_points": [
+        "9月營收年增262.5%、累計年增110.5%，交屋動能強勁",
+        "殖利率達9.05%，股價淨值比1.00倍，預估EPS 6.0元"
+      ]
+    }
+  ]
+}

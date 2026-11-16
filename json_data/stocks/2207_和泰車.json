@@ -1,0 +1,28 @@
+{
+  "stock_id": "2207",
+  "stock_name": "和泰車",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "汽車經銷與產險"
+    ],
+    "theme_tags": [
+      "高獲利",
+      "日本HINO併表"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 40元。受惠汽車本業穩健、和泰產險投資收入及4月起併表日本HINO經銷事業，前三季稅後純益177.47億元年增27.87%、EPS 31.86元創同期次高；10月與前十月營收均創同期新高。",
+      "key_points": [
+        "前三季EPS 31.86元創同期次高，賺逾三個股本",
+        "前十月營收2,671.7億元創同期新高"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "stock_id": "2739",
+  "stock_name": "寒舍",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "都會老字號飯店"
+    ],
+    "theme_tags": [
+      "高殖利率",
+      "低本益比",
+      "都會五星飯店"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 都會老字號飯店"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 33.75,
+    "est_eps_2026": 3.5,
+    "est_pe": 9.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "寒舍殖利率7.59%居冠，預估本益比9.6倍",
+      "close_price": 33.75,
+      "price_change_5d_pct": -2.74,
+      "foreign_5d_lots": -5,
+      "est_eps": 3.5,
+      "est_pe": 9.6,
+      "revenue_perf": "9月營收年減1.1%、月減15.9%",
+      "content": "殖利率7.59%為表列最高，近四季本益比8.4倍，萬寶預估2026年EPS 3.5元、預估本益比9.6倍；但近5日跌2.74%、近20日跌7.5%，9月營收年減1.1%，法人近20日賣超114張。",
+      "key_points": [
+        "現金殖利率7.59%居表列最高，預估EPS 3.5元、本益比9.6倍",
+        "9月營收年減1.1%，近20日股價回檔7.5%"
+      ]
+    }
+  ]
+}

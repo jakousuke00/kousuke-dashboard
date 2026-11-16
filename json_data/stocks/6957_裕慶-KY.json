@@ -1,0 +1,47 @@
+{
+  "stock_id": "6957",
+  "stock_name": "裕慶-KY",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "商用展示架與智能床機構件"
+    ],
+    "theme_tags": [
+      "北美Lowe's與CVS展店",
+      "前8月營收創同期高"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-02",
+        "source": "萬寶晚報-10_02",
+        "category_mentioned": "其他傳產 > 商用展示架"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-02",
+    "close_price": 380.0,
+    "est_eps_2026": 10.0,
+    "est_pe": 38.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-02",
+      "source_file": "萬寶晚報-10_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "8月每股賺0.28元，前八月營收25.77億元創三年同期新高",
+      "close_price": 380.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 10.0,
+      "est_pe": 38.0,
+      "revenue_perf": "8月營收2.45億元、月增10.6%，自結EPS 0.28元；前8月營收25.77億元、年增8.5%創近三年同期新高",
+      "content": "8月自結營收2.45億元、單月EPS 0.28元，前8月營收25.77億元創近三年同期新高。8月部分商用展示架訂單遞延至9月出貨，隨北美Lowe's、CVS等客戶陸續增加展店，訂單維持熱絡。",
+      "key_points": [
+        "前8月營收25.77億元年增8.5%創近三年同期新高",
+        "受惠北美Lowe's、CVS增加展店，遞延訂單於9月出貨"
+      ]
+    }
+  ]
+}

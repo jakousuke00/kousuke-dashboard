@@ -1,0 +1,48 @@
+{
+  "stock_id": "6715",
+  "stock_name": "嘉基",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "高速傳輸線",
+      "光通訊NPO/LPO"
+    ],
+    "theme_tags": [
+      "近封裝光學NPO",
+      "800G LPO"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-19",
+        "source": "萬寶晚報-10_19",
+        "category_mentioned": "電子零組件 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-19",
+    "close_price": 480.5,
+    "est_eps_2026": 2.0,
+    "est_pe": 240
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-19",
+      "source_file": "萬寶晚報-10_19.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月每股虧0.04元，現增18.6億元衝NPO新產線",
+      "close_price": 480.5,
+      "price_change_pct": -3.9,
+      "volume_lots": 2359,
+      "est_eps": 2.0,
+      "est_pe": 240,
+      "revenue_perf": "9月稅後淨損300萬元，每股虧損0.04元",
+      "content": "9月完成現增18.6億元全數收足，主要用於中壢廠無塵室整建與新產線設備，鎖定AI資料中心近封裝光學(NPO)及400/800G線性驅動可插拔光模組(LPO)，無塵室明年Q2完成整建、新產線明年Q4投產。",
+      "key_points": [
+        "現增18.6億元到位建置中壢廠無塵室",
+        "鎖定NPO與400/800G LPO，明年Q4投產"
+      ]
+    }
+  ]
+}

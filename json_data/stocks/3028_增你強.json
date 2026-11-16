@@ -1,0 +1,30 @@
+{
+  "stock_id": "3028",
+  "stock_name": "增你強",
+  "industry_profile": {
+    "main_industry": "電子通路",
+    "sub_industries": [
+      "IC通路",
+      "功率半導體與記憶體代理"
+    ],
+    "theme_tags": [
+      "前三季獲利創上市新高",
+      "AI伺服器電源元件"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-05",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 9元",
+      "pe_ratio": "6倍",
+      "content": "受惠AI資料中心帶動伺服器電源與周邊元件需求，Q3營收200.63億元創新高、年增82.6%，單季EPS 2.31元；前三季營收572.88億元、年增89.3%，稅後淨利17.9億元、年增277.7%，EPS達7.55元，超越去年全年並創上市新高。",
+      "key_points": [
+        "前三季EPS 7.55元、年增277.7%，創2002年上市以來新高",
+        "受惠AI伺服器電源周邊元件暢旺，本益比僅約6倍"
+      ]
+    }
+  ]
+}

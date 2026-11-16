@@ -1,0 +1,29 @@
+{
+  "stock_id": "4147",
+  "stock_name": "中裕",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "生技新藥與醫材"
+    ],
+    "theme_tags": [
+      "HIV新藥",
+      "國際期刊"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "自研長效HIV單株抗體組合療法TMB-365/TMB-380美國臨床1b/2a成果登上《The Lancet HIV》，第24週符合方案族群94%維持病毒抑制。Phase 2b預計年底讀取期中數據。",
+      "key_points": [
+        "長效HIV雙抗體療法登國際期刊，94%維持病毒抑制且無失敗案例",
+        "Phase 2b臨床預計年底讀取期中數據，推動全球開發與授權"
+      ]
+    }
+  ]
+}

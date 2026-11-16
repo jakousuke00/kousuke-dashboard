@@ -1,0 +1,172 @@
+{
+  "stock_id": "3026",
+  "stock_name": "禾伸堂",
+  "industry_profile": {
+    "main_industry": "被動元件產業",
+    "sub_industries": [
+      "高階MLCC被動元件",
+      "MLCC",
+      "被動元件",
+      "MLCC製造與代理",
+      "高階MLCC",
+      "高壓MLCC",
+      "陶瓷粉末材料",
+      "通路經銷",
+      "玻纖布與電子材料"
+    ],
+    "theme_tags": [
+      "打入輝達Vera Rubin供應鏈",
+      "高階MLCC訂單倍增漲價",
+      "輝達Vera Rubin供應鏈",
+      "南韓車廠訂單",
+      "現增700萬股",
+      "高獲利被動元件",
+      "投信認養",
+      "多頭指標",
+      "Q3賺4.36元",
+      "前三季賺逾股本",
+      "AI伺服器MLCC",
+      "三大法人買超第一",
+      "買超15.3億",
+      "逆勢強勢",
+      "被動元件轉強",
+      "高階MLCC",
+      "AI伺服器電源",
+      "擴產"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "今晚爆個股"
+      },
+      {
+        "date": "2026-10-21",
+        "source": "萬寶晚報-10_21",
+        "category_mentioned": "被動元件 > 今晚爆個股"
+      },
+      {
+        "date": "2026-10-16",
+        "source": "萬寶晚報-10_16",
+        "category_mentioned": "被動元件產業 > MLCC"
+      },
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > MLCC"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "close_price": 767.0,
+    "est_eps_2026": 15.0,
+    "est_pe": 51.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "AI伺服器電源架構升級帶動高階MLCC需求，今年產能已提升30%、2027年可望再增40%；前三季EPS 11.09元，未來五年資本支出規劃35億元以上，今日漲停561元。",
+      "key_points": [
+        "被動元件營收占比Q3達49%、Q4目標50%，今年估EPS 16元",
+        "決議現增700萬股，未來五年資本支出逾35億元擴充MLCC產能"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆 / 主力大戶籌碼",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "專欄列名27檔逆勢強勢股之一。三大法人集中市場買超2,611張、金額達15.3億元，高居集中市場買超金額榜冠軍，資金湧入高階被動元件避險與布局。",
+      "key_points": [
+        "三大法人集中市場買超金額15.3億元奪得全市場第一名。",
+        "高壓高容MLCC受惠工控與車用需求回溫，股價逆勢走強。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "三大法人買超2,611張、金額15.3億元居上市之冠，籌碼極度集中。"
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "今晚爆個股",
+      "stance": "強烈偏多",
+      "title": "禾伸堂Q3每股賺4.36元年增1.58倍，前三季估賺逾一個股本",
+      "close_price": 767.0,
+      "est_eps": 15.0,
+      "est_pe": 51.1,
+      "revenue_perf": "Q3營收45.39億年增32.2%，前三季每股估約11.09元",
+      "content": "禾伸堂Q3每股賺4.36元大增158%，前三季每股估達11.09元賺逾一個股本。高階MLCC打入AI資料中心GPU電源與BBU機櫃，TPU與ASIC需求推升拉貨，萬寶估EPS 15元。",
+      "key_points": [
+        "Q3每股賺4.36元，前三季估11.09元賺逾股本",
+        "受惠AI伺服器電源與BBU機櫃高階MLCC需求"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶晚報-10_21.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "打入南韓大型車廠供應鏈，2027年當地營收拚增5成",
+      "close_price": 815.0,
+      "price_change_pct": 2.64,
+      "volume_lots": 15597,
+      "est_eps": 15.0,
+      "est_pe": 54,
+      "revenue_perf": "2027年目標南韓營收年增逾50%",
+      "content": "已打入南韓大型車廠供應鏈，2027年當地營收目標年增逾50%；AI伺服器用高階MLCC打入輝達Vera Rubin供應鏈，今年開始出貨、2027年放量，MLCC交期逾24週，部分客戶已提前協商2028年訂單。",
+      "key_points": [
+        "高階MLCC打入輝達Vera Rubin供應鏈",
+        "打入南韓大型車廠，龍潭與日本北海道擴產"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "source_file": "萬寶晚報-10_16.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "打入輝達Vera Rubin供應鏈，高階MLCC訂單倍數增加、本季全面啟動漲價",
+      "close_price": 806.0,
+      "price_change_pct": -0.62,
+      "volume_lots": 12307,
+      "est_eps": 15.0,
+      "est_pe": 54.0,
+      "revenue_perf": "產能滿載，交期拉長到16至20周，訂單看到明年",
+      "content": "透過電源管理大廠導入的客製化高規格MLCC今年開始出貨供Vera Rubin應用，高階MLCC訂單倍數以上增加、產能滿載，本季全面啟動漲價，交期拉長至16~20周。",
+      "key_points": [
+        "打入輝達Vera Rubin電源MLCC供應鏈，訂單倍數增加",
+        "本季全面啟動漲價，交期拉長至16~20周"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表 / 頭版主筆",
+      "stance": "強烈偏多",
+      "title": "禾伸堂獲投信大買2.7萬張，成被動元件多頭總指標",
+      "close_price": 852.0,
+      "est_eps": 15.0,
+      "est_pe": 56.8,
+      "revenue_perf": "2026預估EPS 15元，H1 EPS 6.73元",
+      "content": "投信近半年大買2.7萬張力抗外資賣壓，成族群多頭新指標。股價自7月低點416.5元大彈105%收852元，距離天價1045元最近，籌碼結構在族群中最為穩定。",
+      "key_points": [
+        "投信近半年重倉2.7萬張，籌碼集中度高",
+        "反彈突破850元，距離歷史天價最近"
+      ]
+    },
+    {
+      "report_date": "2026-11-05",
+      "source_section": "包打聽快報",
+      "estimated_eps": "前三季EPS 11.09元",
+      "pe_ratio": null,
+      "content": "法說前公告辦理700萬股現金增資，募資規模估上看33億元；前三季EPS高達11.09元，惟法人提醒日系被動元件股走弱恐增添募資難度。",
+      "key_points": [
+        "前三季EPS達11.09元",
+        "擬辦理700萬股現增，募資規模估上看33億元"
+      ]
+    }
+  ]
+}

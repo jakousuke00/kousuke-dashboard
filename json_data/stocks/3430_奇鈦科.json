@@ -1,0 +1,28 @@
+{
+  "stock_id": "3430",
+  "stock_name": "奇鈦科",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "特用化學添加劑"
+    ],
+    "theme_tags": [
+      "PCB油墨",
+      "電動車與機器人"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 6元。Q3 EPS 1.46元連三季逾1元，前三季EPS 4.14元年增93.45%。光引發劑切入PCB油墨並導入電動車與人形機器人領域。",
+      "key_points": [
+        "Q3 EPS 1.46元，前三季4.14元年增93%",
+        "切入PCB油墨、電動車與人形機器人"
+      ]
+    }
+  ]
+}

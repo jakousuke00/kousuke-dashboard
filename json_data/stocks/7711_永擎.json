@@ -1,0 +1,55 @@
+{
+  "stock_id": "7711",
+  "stock_name": "永擎",
+  "industry_profile": {
+    "main_industry": "雲端運算供應鏈",
+    "sub_industries": [
+      "AI伺服器主板",
+      "GPU準系統",
+      "ASIC伺服器",
+      "伺服器主機板"
+    ],
+    "theme_tags": [
+      "Q3狂賺近20元",
+      "日系B200大單出貨",
+      "和碩ASIC出貨",
+      "強攻漲停",
+      "毛利連2季成長"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "入選22檔毛利連2季成長股，Q1~Q3毛利率12.4%/18.9%/21.1%，累計營收年增57%，前三季EPS 37.27元，2026估EPS 56元。",
+      "key_points": [
+        "Q3毛利率21.1%，前三季EPS 37.27元",
+        "2026估EPS 56元"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆 / 今晚產業新聞 / 精選圖表",
+      "investment_rating": "強力買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "受惠AMD顯卡大賣，Q3營收118.16億元、稅後純益13.95億元，EPS高達19.81元，單季賺贏歷年，前三季EPS達37.27元。日系客戶Datasection的B200大單年底前出貨完畢，與母集團和碩合作的ASIC專案持續出貨，激勵股價攻漲停。",
+      "key_points": [
+        "Q3單季每股大賺19.81元創歷史奇蹟，前三季EPS達37.27元。",
+        "日系B200大單年底前全數認列出貨，ASIC專案持續放量推升全年獲利爆衝。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 118.16,
+        "q3_eps": 19.81,
+        "three_q_eps": 37.27,
+        "q3_net_income": 13.95
+      },
+      "chips_observation": "財報獲利震撼市場，買盤強勢鎖死漲停，成為千點洗盤中最耀眼核心指標。"
+    }
+  ]
+}

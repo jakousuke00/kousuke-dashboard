@@ -1,0 +1,30 @@
+{
+  "stock_id": "5903",
+  "stock_name": "全家",
+  "industry_profile": {
+    "main_industry": "百貨通路",
+    "sub_industries": [
+      "連鎖超商",
+      "冷鏈物流"
+    ],
+    "theme_tags": [
+      "前三季獲利成長",
+      "100%持股全台物流"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-05",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 7.7元",
+      "pe_ratio": "24倍",
+      "content": "Q3稅後純益5.31億元、年增14.9%，EPS 2.38元；前三季營收865.35億元、年增6.54%，淨利13.55億元、年增10.1%，EPS 6.07元。既存店日均銷售連三季正成長，並斥資7.46億元買下伊藤忠持有的全台物流48.265%股權達100%持有。",
+      "key_points": [
+        "前三季EPS 6.07元優於去年，旗下餐飲子公司營收獲利創同期新高",
+        "斥資7.46億元收購全台物流達100%持股，並與中華郵政合作宅配"
+      ]
+    }
+  ]
+}

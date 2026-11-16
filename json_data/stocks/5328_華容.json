@@ -1,0 +1,45 @@
+{
+  "stock_id": "5328",
+  "stock_name": "華容",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "塑膠電容"
+    ],
+    "theme_tags": [
+      "低價轉機"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 塑膠電容"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 58.4,
+    "est_eps_2026": 0.9,
+    "est_pe": 64.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "中立",
+      "title": "華容今年漲幅185%，塑膠電容整理後伺機動",
+      "close_price": 58.4,
+      "est_eps": 0.9,
+      "est_pe": 64.9,
+      "revenue_perf": "2026預估EPS 0.9元，H1 EPS 0.4元",
+      "content": "塑膠薄膜電容廠華容10/1收58.4元，自7月低點54.3元小彈8%，今年受惠綠能與工控題材累計漲幅仍達185%。",
+      "key_points": [
+        "塑膠薄膜電容低點微幅回溫",
+        "今年累計漲幅高達185%"
+      ]
+    }
+  ]
+}

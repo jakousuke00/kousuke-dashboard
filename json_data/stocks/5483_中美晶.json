@@ -1,0 +1,31 @@
+{
+  "stock_id": "5483",
+  "stock_name": "中美晶",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "太陽能",
+      "綠電售電",
+      "低軌衛星太陽能晶片"
+    ],
+    "theme_tags": [
+      "前三季營收創高",
+      "低軌衛星耐輻射太陽能"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 9元",
+      "pe_ratio": "16倍",
+      "content": "Q3營收208.79億元，EPS 1.58元；前三季營收613.8億元創高，EPS 6.6元，上半年配息2.8元。子公司續升綠能累計售電近4.85億度，另開發耐輻射低軌衛星用太陽能晶片。",
+      "key_points": [
+        "前三季營收613.8億元創高，EPS 6.6元",
+        "續升綠能售電累計近4.85億度，並開發耐輻射衛星用太陽能晶片"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "stock_id": "6146",
+  "stock_name": "耕興",
+  "industry_profile": {
+    "main_industry": "半導體產業 / 設備儀器",
+    "sub_industries": [
+      "半導體測試、CoWoS/PLP設備與光學檢測",
+      "5G/AI終端與網通檢測驗證"
+    ],
+    "theme_tags": [
+      "AI伺服器檢測",
+      "AI旗艦手機檢測",
+      "Q3營收12.47億元創14季高",
+      "AI旗艦機與5G-A檢測旺季"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-20",
+        "source": "萬寶晚報-10_20",
+        "category_mentioned": "今晚產業新聞 (檢測)"
+      },
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "網通/電信產業 > 電子檢測驗證"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-20",
+    "est_eps_2026": 12.0,
+    "est_pe": 15.0,
+    "close_price": 180.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-20",
+      "source_file": "萬寶晚報-10_20.pdf",
+      "section": "今晚產業新聞 (檢測)",
+      "stance": "偏多",
+      "title": "AI設備檢測夯，耕興Q3營收創14季新高",
+      "revenue_perf": "Q3營收12.47億元、創14季新高；前三季36.81億元、年增9.66%",
+      "content": "AI伺服器與新世代終端規格升級推升檢測需求，耕興第三季營收12.47億元、創14季新高，看好第四季AI旗艦手機送測拉升驗證需求，檢測時數可望放大。",
+      "key_points": [
+        "Q3營收創14季新高，Q4受惠AI旗艦手機送測驗證放量"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3營收12.47億元創14季新高，AI旗艦手機換機潮與歐盟資安檢測推升Q4",
+      "close_price": 180.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 12.0,
+      "est_pe": 15.0,
+      "revenue_perf": "9月營收4.17億元、年增10.9%；Q3營收12.47億元、年增10.67%創14季新高；前9月36.81億元、年增9.66%",
+      "content": "受惠AI筆電與北美企業級商用AP檢測熱絡，Q3營收12.47億元創14季新高。Q4進入搭載高通驍龍新晶片的AI旗艦手機換機潮與實體AI檢測旺季，加上5G-A、手機直連衛星及歐盟資安檢測需求湧入，可望大幅推升Q4產出時數。",
+      "key_points": [
+        "Q3營收12.47億元年增10.67%，創下近14季新高",
+        "高通新晶片AI旗艦機、直連衛星與歐盟資安檢測推升Q4旺季"
+      ]
+    }
+  ]
+}

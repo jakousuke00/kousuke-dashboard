@@ -1,0 +1,48 @@
+{
+  "stock_id": "5515",
+  "stock_name": "建國",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "預拌混凝土"
+    ],
+    "theme_tags": [
+      "營造與資產",
+      "低本益比",
+      "累計營收居冠"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-23",
+        "source": "萬寶產業報告-1023",
+        "category_mentioned": "水泥 > 預拌混凝土 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-23",
+    "close_price": 49.4,
+    "est_eps_2026": 8.0,
+    "est_pe": 6.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-23",
+      "source_file": "萬寶產業報告-1023(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "今年以來大漲42.9%且累計營收年增19.8%皆居冠，預估EPS 8.0元、本益比6.2倍",
+      "close_price": 49.4,
+      "price_change_5d_pct": -4.82,
+      "foreign_5d_lots": -506,
+      "est_eps": 8.0,
+      "est_pe": 6.2,
+      "revenue_perf": "9月營收年減1.1%，今年累計營收年增19.8%",
+      "content": "近5日下跌4.8%，為表列個股中表現最弱，但今年以來上漲42.9%，仍是表列個股中年度漲幅最高者。累計營收年增19.8%居表列之冠，近四季本益比5.0倍，萬寶預估EPS 8.0元、預估本益比6.2倍；近5日外資賣超506張。",
+      "key_points": [
+        "今年累計營收年增19.8%與今年以來漲幅42.9%雙居表列個股之冠",
+        "萬寶預估EPS 8.0元，預估本益比僅6.2倍"
+      ]
+    }
+  ]
+}

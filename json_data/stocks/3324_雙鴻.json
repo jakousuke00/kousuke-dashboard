@@ -1,0 +1,80 @@
+{
+  "stock_id": "3324",
+  "stock_name": "雙鴻",
+  "industry_profile": {
+    "main_industry": "電腦及週邊",
+    "sub_industries": [
+      "散熱模組",
+      "液冷CDU與水冷板",
+      "水冷散熱模組",
+      "水冷板CDU",
+      "散熱導管",
+      "AI伺服器水冷散熱"
+    ],
+    "theme_tags": [
+      "三大法人上櫃買超第1",
+      "買超17.89億",
+      "Rubin液冷升級",
+      "三大法人賣超3.38億",
+      "散熱獲利結算",
+      "水冷龍頭",
+      "高檔整理",
+      "AI供應鏈",
+      "水冷散熱"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "上櫃三大法人買超冠軍 / 散熱焦點"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "close_price": 795.0,
+    "est_eps_2026": 36.0,
+    "est_pe": 22.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "2026年預估EPS 56元（前三季34.59元），輝達占比10~20%、非輝達10~15%，同時掌握GPU與ASIC散熱商機，受惠時程現在至長期。",
+      "key_points": [
+        "2026估EPS 56元，兼吃GPU與ASIC散熱"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主力大戶籌碼",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "三大法人於櫃買市場賣超260張、金額3.38億元，居櫃買賣超第七名。水冷散熱長期趨勢明確，短線受大盤系統性殺盤影響，法人部分獲利了結調節。",
+      "key_points": [
+        "三大法人賣超3.38億元居櫃買第七，短線換手整理。",
+        "水冷板與CDU明年放量趨勢不變，回檔提供中長線切入點。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "法人逢高調節260張，但下檔買盤具支撐力道。"
+    },
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "今晚產業新聞 / 主力大戶買超",
+      "stance": "強烈偏多",
+      "title": "雙鴻布局水冷板與分歧管，獲三大法人買超17.89億元奪上櫃冠軍",
+      "close_price": 795.0,
+      "est_eps": 36.0,
+      "est_pe": 22.1,
+      "revenue_perf": "液冷出貨比重逐季攀升，水冷板、分歧管及CDU全面放量",
+      "content": "輝達Rubin架構帶動散熱全面升級為45度液冷，雙鴻完整布局水冷板、分歧管及CDU。今日獲三大法人大舉敲進1283張（17.89億元）勇奪上櫃買超金額冠軍，外資內資全力搶籌。",
+      "key_points": [
+        "獲三大法人單日爆買1,283張敲進17.89億元，勇奪上櫃買超金額冠軍",
+        "全面布局輝達Rubin世代液冷水冷板、CDU及分歧管，長線成長明確"
+      ]
+    }
+  ]
+}

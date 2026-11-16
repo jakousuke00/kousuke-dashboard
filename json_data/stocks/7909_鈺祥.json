@@ -1,0 +1,45 @@
+{
+  "stock_id": "7909",
+  "stock_name": "鈺祥",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "先進製程AMC微污染防治濾網"
+    ],
+    "theme_tags": [
+      "3奈米AMC濾網",
+      "遞件申請上市",
+      "興櫃焦點"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-07",
+        "source": "萬寶晚報-10_07",
+        "category_mentioned": "半導體與設備檢測 > 興櫃搶先爆"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-07"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-07",
+      "source_file": "萬寶晚報-10_07.pdf",
+      "section": "興櫃搶先爆",
+      "stance": "偏多",
+      "title": "遞件申請上市，9月營收3.1億元連五月創新高、3奈米以下市占逾80%",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "9月營收3.1億元年增101.92%；Q3營收9.22億元年增110.5%；前三季20.86億元年增74.12%",
+      "content": "AMC濾網廠鈺祥於10/6遞件申請上市，最快2027年Q1掛牌。受惠先進製程與先進封裝擴產，9月營收連5月創高，在3奈米以下高階濾網市占率逾80%。",
+      "key_points": [
+        "遞件申請上市，9月與Q3營收雙創歷史新高",
+        "3奈米以下先進製程AMC濾網市占率逾80%"
+      ]
+    }
+  ]
+}

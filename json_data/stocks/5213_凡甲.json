@@ -1,0 +1,44 @@
+{
+  "stock_id": "5213",
+  "stock_name": "凡甲",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "高頻連接器",
+      "伺服器連接器"
+    ],
+    "theme_tags": [
+      "現金減資",
+      "每股退2.5元",
+      "提升ROE"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "現金減資 > 股本調整"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "現金減資",
+      "stance": "偏多",
+      "title": "凡甲董事會通過現金減資25%，每股退還現金2.5元",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "減資1688萬股，減資後資本額降至5.06億元",
+      "content": "董事會通過辦理現金減資退還股東股款，減資比率25%，每股退還現金2.5元，減資後資本額降至5.06億元。藉調整資本結構提升股東權益報酬率(ROE)，12/17召開股東臨時會。",
+      "key_points": [
+        "現金減資25%退還每股2.5元，優化資本結構",
+        "減資後資本額降至5.06億元，有助拉升每股獲利與ROE"
+      ]
+    }
+  ]
+}

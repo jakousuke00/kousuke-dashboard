@@ -1,0 +1,29 @@
+{
+  "stock_id": "7780",
+  "stock_name": "大研生醫*",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "保健食品"
+    ],
+    "theme_tags": [
+      "高濃度魚油",
+      "雙11檔期"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "前三季稅後純益3.4億元年增61.1%、EPS 0.43元已超越去年全年；10月營收2.2億元年增66.8%創歷史新高，高濃度魚油獲日本電商銷售第一，Q4雙11可期，估EPS 0.7元。",
+      "key_points": [
+        "前三季獲利年增61.1%已賺贏去年全年，10月營收創歷史新高",
+        "高濃度魚油獲日本電商銷售第一，Q4雙11檔期可望挹注營收"
+      ]
+    }
+  ]
+}

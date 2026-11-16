@@ -1,0 +1,29 @@
+{
+  "stock_id": "2314",
+  "stock_name": "台揚",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "低軌衛星與光通訊"
+    ],
+    "theme_tags": [
+      "暫停交易",
+      "私募籌資"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "因Q3財報淨值轉為負數面臨終止上市，11/10起暫停交易。公司指受產業競爭及貿易戰影響承壓，但核心客戶訂單穩定，正洽特定策略投資人拚年底引進私募，估EPS -3元。",
+      "key_points": [
+        "Q3淨值轉負11月10日起暫停交易，非停止營運或清算",
+        "正與特定策略投資人洽談，力拚年底引進私募資金"
+      ]
+    }
+  ]
+}

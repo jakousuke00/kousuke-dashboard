@@ -1,0 +1,42 @@
+{
+  "stock_id": "2467",
+  "stock_name": "志聖",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "CoWoS設備",
+      "PCB設備",
+      "先進封裝設備與材料"
+    ],
+    "theme_tags": [
+      "2026年EPS下修",
+      "先進封裝",
+      "AI PCB"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "10月自結純益1.67億元年增110%、EPS 1.05元倍增；Q3 EPS 3.51元。上半年半導體占比46%，加計先進PCB後AI業務達七成，估EPS 14.4元。",
+      "key_points": [
+        "10月EPS 1.05元倍增、Q3 EPS 3.51元年增162%",
+        "策略投資暉盛-創結合電漿表面處理，擴大先進封裝布局"
+      ]
+    },
+    {
+      "report_date": "2026-11-05",
+      "source_section": "萬寶投顧精選圖表",
+      "estimated_eps": "2026E 14.4元（下調）",
+      "pe_ratio": null,
+      "content": "萬寶投顧將志聖2026年預估EPS下調至14.4元。",
+      "key_points": [
+        "2026年預估EPS下調至14.4元"
+      ]
+    }
+  ]
+}

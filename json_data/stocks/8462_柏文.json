@@ -1,0 +1,30 @@
+{
+  "stock_id": "8462",
+  "stock_name": "柏文",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "食品成衣、內需與金融產險"
+    ],
+    "theme_tags": [
+      "健身工廠",
+      "展店擴張",
+      "預估EPS上修"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股/精選圖表",
+      "content": "Q3 EPS 3.17元創同期新高，前三季EPS 8.84元年增55.41%。今年拓展8家新店全台據點將破90家，明年拚100家達標；萬寶投顧上修2026年預估EPS至12.2元。",
+      "key_points": [
+        "Q3 EPS 3.17元創同期新高，前三季EPS 8.84元",
+        "Q4再展4處據點12月開幕，明年目標全台100家"
+      ]
+    }
+  ]
+}

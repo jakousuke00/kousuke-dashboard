@@ -1,0 +1,44 @@
+{
+  "stock_id": "3595",
+  "stock_name": "山太士",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "先進封裝與玻璃基板材料"
+    ],
+    "theme_tags": [
+      "9月與Q3營收雙創高",
+      "玻璃基板翹曲平衡膜獲試產訂單"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-06",
+        "source": "萬寶晚報-10_06",
+        "category_mentioned": "半導體產業 > 先進封裝與玻璃基板材料"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-06"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-06",
+      "source_file": "萬寶晚報-10_06.pdf",
+      "section": "今晚產業新聞",
+      "stance": "偏多",
+      "title": "9月營收與Q3營收2.57億元雙創新高，玻璃基板用翹曲平衡膜已獲試產訂單",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "9月營收9,275萬元、年增31.06%創高；Q3營收2.57億元、季增27.23%同創單季新高",
+      "content": "9月營收9,275萬元、年增31.06%，Q3營收2.57億元、季增27.23%，單月與單季同創新高。下半年半導體材料營收占比上看75%，且玻璃基板用翹曲平衡膜已獲試產訂單。",
+      "key_points": [
+        "9月營收9,275萬元與Q3營收2.57億元（季增27.23%）雙創新高",
+        "下半年半導體材料占比上看75%，玻璃基板翹曲平衡膜獲試產單"
+      ]
+    }
+  ]
+}

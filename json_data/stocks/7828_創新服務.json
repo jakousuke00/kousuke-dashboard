@@ -1,0 +1,28 @@
+{
+  "stock_id": "7828",
+  "stock_name": "創新服務",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "先進封裝設備與材料"
+    ],
+    "theme_tags": [
+      "自動化設備",
+      "32檔電子強股"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "精選電子股表",
+      "content": "入選32檔10月營收創新高電子股，累計營收年增203%，前三季EPS 8.7元，2026年估EPS 16.5元，收盤1,395元、本益比85倍。",
+      "key_points": [
+        "累計營收年增203%，前三季EPS 8.7元"
+      ]
+    }
+  ]
+}

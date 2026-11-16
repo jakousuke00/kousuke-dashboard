@@ -1,0 +1,46 @@
+{
+  "stock_id": "8928",
+  "stock_name": "鉅明",
+  "industry_profile": {
+    "main_industry": "奢華消費概念股",
+    "sub_industries": [
+      "其他（高爾夫球具）"
+    ],
+    "theme_tags": [
+      "奢華消費",
+      "高爾夫球具"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-07",
+        "source": "reports/11月份/萬寶產業報告-1107(萬寶晚報贈品).pdf",
+        "category_mentioned": "奢華消費概念股 - 其他"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-07",
+    "close_price": 20.3,
+    "est_eps_2026": 1.5,
+    "est_pe": 13.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-07",
+      "source_file": "reports/11月份/萬寶產業報告-1107(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏空",
+      "title": "9月營收年減47.9%，近5日股價下跌4.02%",
+      "close_price": 20.3,
+      "price_change_5d_pct": -4.02,
+      "foreign_5d_lots": 1,
+      "est_eps": 1.5,
+      "est_pe": 13.5,
+      "revenue_perf": "9月營收年減47.9%",
+      "content": "高爾夫球頭代工廠，9月營收大幅年減47.9%，拖累產業整體表現。近5日股價下跌4.02%收20.30元，外資近5日買超1張；萬寶預估2026年EPS 1.5元，預估本益比13.5倍。",
+      "key_points": [
+        "9月營收年減47.9%動能偏弱，預估EPS 1.5元、本益比13.5倍"
+      ]
+    }
+  ]
+}

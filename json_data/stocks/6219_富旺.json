@@ -1,0 +1,47 @@
+{
+  "stock_id": "6219",
+  "stock_name": "富旺",
+  "industry_profile": {
+    "main_industry": "地產代銷",
+    "sub_industries": [
+      "交屋認列與代銷開發"
+    ],
+    "theme_tags": [
+      "建案交屋入帳",
+      "低本益比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-05",
+        "source": "reports/11月份/萬寶產業報告-1105(萬寶晚報贈品).pdf",
+        "category_mentioned": "地產代銷 - 交屋認列與代銷開發"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-05",
+    "close_price": 9.93,
+    "est_eps_2026": 1.0,
+    "est_pe": 9.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-05",
+      "source_file": "reports/11月份/萬寶產業報告-1105(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "富旺9月營收年增逾千倍，萬寶預估本益比9.9倍",
+      "close_price": 9.93,
+      "price_change_5d_pct": -7.2,
+      "foreign_5d_lots": 9,
+      "est_eps": 1.0,
+      "est_pe": 9.9,
+      "revenue_perf": "9月營收年增104,168.0%，今年累計年增33,688.6%（去年基期極低）",
+      "content": "收盤9.93元，近5日下跌7.20%。因去年同期基期極低，9月營收年增達104,168.0%、累計年增33,688.6%，惟尚未反映在短線股價上；萬寶預估今年EPS 1.0元，預估本益比9.9倍。",
+      "key_points": [
+        "交屋入帳加計去年低基期，9月與累計營收年增逾百倍",
+        "萬寶預估EPS 1.0元，預估本益比9.9倍"
+      ]
+    }
+  ]
+}

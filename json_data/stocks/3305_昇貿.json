@@ -1,0 +1,29 @@
+{
+  "stock_id": "3305",
+  "stock_name": "昇貿",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "先進封裝設備與材料"
+    ],
+    "theme_tags": [
+      "錫膏材料",
+      "強彈前20名"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "20強彈股",
+      "content": "入選11/6低點以來最大彈幅排行前20名個股，2026年預估EPS 8元，上半年EPS 3.84元、第三季EPS 2.51元，11/10收盤105元。",
+      "key_points": [
+        "入選11/6低點以來強彈前20名個股",
+        "前三季EPS 6.35元，2026年預估EPS 8元"
+      ]
+    }
+  ]
+}

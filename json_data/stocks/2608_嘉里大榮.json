@@ -1,0 +1,47 @@
+{
+  "stock_id": "2608",
+  "stock_name": "嘉里大榮",
+  "industry_profile": {
+    "main_industry": "物流概念股",
+    "sub_industries": [
+      "陸運業"
+    ],
+    "theme_tags": [
+      "常溫與冷鏈物流",
+      "醫藥物流"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-04",
+        "source": "reports/11月份/萬寶產業報告-1104(萬寶晚報贈品).pdf",
+        "category_mentioned": "物流概念股 - 陸運業"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "close_price": 28.1,
+    "est_eps_2026": 2.0,
+    "est_pe": 14.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "reports/11月份/萬寶產業報告-1104(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "嘉里大榮9月營收年增23.6%，外資近5日買超130張",
+      "close_price": 28.1,
+      "price_change_5d_pct": -0.88,
+      "foreign_5d_lots": 130,
+      "est_eps": 2.0,
+      "est_pe": 14.1,
+      "revenue_perf": "9月營收年增23.6%、月增2.8%，今年累計年增10.9%",
+      "content": "9月營收年增23.6%、今年累計年增10.9%表現穩健；外資近5日買超130張，但近20日法人賣超1,471張。收盤28.10元接近52週低點27.85元，萬寶預估EPS 2.0元、預估本益比14.1倍。",
+      "key_points": [
+        "9月營收年增23.6%、累計年增10.9%，為陸運業成長主力",
+        "外資近5日買超130張，萬寶預估EPS 2.0元"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "stock_id": "6167",
+  "stock_name": "久正",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "中小尺寸面板模組",
+      "HMI人機介面"
+    ],
+    "theme_tags": [
+      "伺服器HMI",
+      "無人機地面控制站"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-19",
+        "source": "萬寶晚報-10_19",
+        "category_mentioned": "光電相關 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-19",
+    "est_eps_2026": -0.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-19",
+      "source_file": "萬寶晚報-10_19.pdf",
+      "section": "今晚爆個股",
+      "stance": "中性",
+      "title": "調價拚轉盈，未來兩年AI與機房管理HMI添動能",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": -0.1,
+      "est_pe": null,
+      "revenue_perf": "上半年營收6.12億元(年增6%)，每股虧損0.16元",
+      "content": "面對物料成本壓力持續與客戶協商調價，由模組製造邁向HMI整合方案，看好未來兩年資料中心伺服器與機房管理HMI產品，並以台灣廠布局無人機地面控制站去紅供應鏈。",
+      "key_points": [
+        "協商調價拚轉盈，拓展資料中心機房HMI",
+        "台灣廠布局無人機地面控制站"
+      ]
+    }
+  ]
+}

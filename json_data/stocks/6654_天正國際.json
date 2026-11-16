@@ -1,0 +1,37 @@
+{
+  "stock_id": "6654",
+  "stock_name": "天正國際",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "先進封裝與檢測設備"
+    ],
+    "theme_tags": [
+      "被動元件設備",
+      "半導體測試機台"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：先進封裝與設備"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-05-27"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "多方",
+      "title": "天正國際受惠被動元件與半導體測試機台出貨漲停",
+      "content": "受惠被動元件景氣回溫與先進封裝擴產，天正國際在被動元件機台與半導體測試機台出貨動能強勁，股價強攻漲停(+9.91%)。",
+      "key_points": [
+        "受惠被動元件與半導體測試機台出貨，強攻漲停(+9.91%)"
+      ]
+    }
+  ]
+}

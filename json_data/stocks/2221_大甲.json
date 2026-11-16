@@ -1,0 +1,29 @@
+{
+  "stock_id": "2221",
+  "stock_name": "大甲",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "化工特化與鋼鐵塑化"
+    ],
+    "theme_tags": [
+      "半導體潔淨管件",
+      "AI算力"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "受惠半導體建廠與AI算力基礎建設，Q3 EPS 2.04元、前三季EPS 3.9元已賺贏去年全年2.31元。高光滑度與抗腐蝕管配件比重提高優化毛利率，估EPS 6元。",
+      "key_points": [
+        "前三季EPS 3.9元已賺贏去年全年2.31元",
+        "半導體廠擴充先進製程與封裝帶動潔淨級管配件拉貨"
+      ]
+    }
+  ]
+}

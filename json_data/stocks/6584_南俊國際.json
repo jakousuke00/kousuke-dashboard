@@ -1,0 +1,80 @@
+{
+  "stock_id": "6584",
+  "stock_name": "南俊國際",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "伺服器滑軌",
+      "AI伺服器導軌",
+      "鋼珠導軌",
+      "散熱與滑軌"
+    ],
+    "theme_tags": [
+      "輝達Vera Rubin滑軌",
+      "AWS ASIC滑軌11月貢獻",
+      "主動ETF減碼榜第一",
+      "群益創新減碼304張",
+      "獲利了結",
+      "伺服器導軌",
+      "AI伺服器滑軌",
+      "越南廠"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "電子零組件 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10",
+    "est_eps_2026": 14.0,
+    "est_pe": 31
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股 / 萬寶投顧精選圖表",
+      "content": "隨AI伺服器比重提升，Q3毛利率42%連九季創單季新高，EPS 2.98元、前三季9.45元已超越去年全年，篤定賺逾一股本。萬寶下修2026年預估EPS至12.6元。",
+      "key_points": [
+        "Q3毛利率42%連九季創高，前三季EPS 9.45元超越去年全年",
+        "缺料改善看升本季營運，配合客戶擴建越南廠"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主動型ETF看盤",
+      "investment_rating": "中立觀察",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "主動群益科技創新(00992A)單日減碼304張，居當日主動型ETF減碼張數第一名，持股降至1,580張（佔比1.36%）。投信獲利調節賣壓顯現，短線震盪加劇。",
+      "key_points": [
+        "主動型ETF單日調節304張居減碼第一名，比重下滑0.34個百分點。",
+        "短線面臨法人提款調節，觀察季線支撐力道。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "投信主動型ETF減碼304張，籌碼浮額增加進入整理。"
+    },
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q4重返成長，AWS ASIC滑軌最快11月貢獻",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 14.0,
+      "est_pe": 31,
+      "revenue_perf": "Q3營收8.3億元(年增33.6%)，前三季25.45億元(年增47.6%)",
+      "content": "法人估Q3 EPS逾3元，Q4隨輝達Vera Rubin平台及ASIC滑軌新品出貨重返成長，單季估EPS 3.87元；AWS的ASIC滑軌已通過主要ODM認證，最快11月貢獻業績。",
+      "key_points": [
+        "AWS ASIC滑軌通過認證最快11月貢獻",
+        "Q4隨Vera Rubin滑軌出貨重返成長、單季EPS估3.87元"
+      ]
+    }
+  ]
+}

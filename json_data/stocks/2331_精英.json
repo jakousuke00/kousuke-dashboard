@@ -1,0 +1,28 @@
+{
+  "stock_id": "2331",
+  "stock_name": "精英",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "主機板與迷你電腦",
+      "邊緣AI與無人載具"
+    ],
+    "theme_tags": [
+      "轉攻地端AI與無人載具"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 1元",
+      "pe_ratio": "16倍",
+      "content": "今年OEM及通路出貨估減43%，Q4估減55.9%，上半年EPS 0.53元。轉攻地端AI、邊緣AI及無人載具（年底POC驗證、預計2027年Q1量產）。",
+      "key_points": [
+        "傳統PC OEM出貨縮減，轉攻地端AI、邊緣AI及無人載具（2027年Q1量產）"
+      ]
+    }
+  ]
+}

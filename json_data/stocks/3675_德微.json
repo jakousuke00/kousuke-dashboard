@@ -1,0 +1,86 @@
+{
+  "stock_id": "3675",
+  "stock_name": "德微",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "功率半導體",
+      "二極體與MOSFET",
+      "分離式元件"
+    ],
+    "theme_tags": [
+      "達爾轉單",
+      "分散式電源功率元件",
+      "子公司亞昕登興櫃",
+      "安世轉單",
+      "新封裝產能大增10倍",
+      "跌深反彈",
+      "基本面佳"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-22",
+        "source": "萬寶晚報-10_22",
+        "category_mentioned": "半導體產業 > 今晚爆個股"
+      },
+      {
+        "date": "2026-10-21",
+        "source": "萬寶晚報-10_21",
+        "category_mentioned": "半導體產業 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09",
+    "est_eps_2026": 9.0,
+    "est_pe": 32,
+    "close_price": 295.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "萬寶投顧精選圖表",
+      "content": "入選精選十檔跌深反彈好股，今年高點459元至近期低點201元最大跌幅56%，11/9收盤227.5元；今年H1 EPS 3.51元、Q3 EPS 2.4元，累計EPS成長率2.9倍，2026預估EPS 9元。",
+      "key_points": [
+        "今年累計EPS成長率2.9倍，2026預估EPS 9元",
+        "股價最大跌幅56%，符合跌深且今年EPS大於5元條件"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "source_file": "萬寶晚報-10_22.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "新封裝月產能明年Q2衝3,000萬顆，大增10倍",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 9.0,
+      "est_pe": 32,
+      "revenue_perf": null,
+      "content": "受惠AI電源需求與安世半導體轉單，加速擴充新封裝產能，月產能由原先300萬顆擴增至今年底2,000萬顆，明年Q2前達3,000萬顆，大增十倍；達爾占營收比重已由去年約65%升至約七成。",
+      "key_points": [
+        "受惠AI電源與安世轉單",
+        "新封裝月產能明年Q2衝3,000萬顆、大增10倍"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶晚報-10_21.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "達爾轉單挹注，在手訂單滿到明年底",
+      "close_price": 295.0,
+      "price_change_pct": 2.25,
+      "volume_lots": 1156,
+      "est_eps": 9.0,
+      "est_pe": 33,
+      "revenue_perf": null,
+      "content": "達爾二極體及MOSFET交期拉長至35~52週，承接歐美轉單後交由德微生產，訂單仍滿到明年底、稼動率85%；持股76.63%之晶圓廠亞昕科技23日以120元登錄興櫃，前八月EPS 3.46元、毛利率41.85%。",
+      "key_points": [
+        "達爾轉單挹注，訂單滿到明年底",
+        "小金雞亞昕科技23日以120元登錄興櫃"
+      ]
+    }
+  ]
+}

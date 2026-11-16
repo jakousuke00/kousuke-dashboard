@@ -1,0 +1,29 @@
+{
+  "stock_id": "4722",
+  "stock_name": "國精化",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "化工特化與鋼鐵塑化"
+    ],
+    "theme_tags": [
+      "M9高階CCL材料",
+      "先進封裝"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "Q3自結EPS 1.06元。上半年電子化學年增50.8%，M7以上CCL材料持續出貨，M9以上已通過驗證，PSMA樹脂明年首季投產；攜手Merck開發先進封裝材料，估EPS 4元。",
+      "key_points": [
+        "Q3自結EPS 1.06元，M9以上高階CCL材料已通過驗證",
+        "安南廠7月啟用年產增至5萬噸，攜手Merck開發先進封裝材料"
+      ]
+    }
+  ]
+}

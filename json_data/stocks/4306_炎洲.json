@@ -1,0 +1,28 @@
+{
+  "stock_id": "4306",
+  "stock_name": "炎洲",
+  "industry_profile": {
+    "main_industry": "塑化/材料",
+    "sub_industries": [
+      "膠帶與電子黏著材料"
+    ],
+    "theme_tags": [
+      "AI伺服器材料",
+      "先進封裝"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 1.2元。前三季EPS 0.88元已超越去年全年，子公司炎洲流通併購擴大業外收益。AI伺服器與先進封裝帶動高附加價值膠黏材料需求，開發特種膠帶。",
+      "key_points": [
+        "前三季EPS 0.88元超越去年全年",
+        "開發AI伺服器與先進封裝特種膠黏材料"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "stock_id": "4772",
+  "stock_name": "台特化",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "半導體特用氣體",
+      "矽乙烷/高純氟化氫",
+      "中美晶集團"
+    ],
+    "theme_tags": [
+      "Q3創同期新高",
+      "矽乙烷擴產40噸",
+      "AHF倍增20噸",
+      "先進製程特化",
+      "毛利連2季成長"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "入選22檔毛利連2季成長股，Q1~Q3毛利率51%/51.9%/52%，累計營收年增123%，前三季EPS 4.48元，2026估EPS 6.6元。",
+      "key_points": [
+        "Q3毛利率52%，累計營收年增123%"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": 6.6,
+      "estimated_pe": 33.0,
+      "content": "Q3每股賺1.65元創同期新高；前三季EPS 4.48元年增66.54%。AI帶動矽乙烷需求倍增，AHF加速放量，矽乙烷年產能將提升至40噸、明年Q3投產；AHF由10噸倍增至20噸、明年Q4投產；子公司弘潔科技湖口新廠明年Q2產能翻倍，萬寶估今年EPS 6.6元。",
+      "key_points": [
+        "前三季EPS 4.48元年增66.54%；矽乙烷明年Q3擴產至40噸、AHF由10噸倍增至20噸明年Q4投產。",
+        "子公司弘潔科技湖口新廠清洗液產能翻倍，全面切入台積電與先進製程供應鏈。"
+      ],
+      "operational_metrics": {
+        "q3_eps": 1.65,
+        "three_q_revenue": 27.62,
+        "three_q_eps": 4.48
+      },
+      "chips_observation": "特化族群抗跌指標，大盤下殺之際逆勢小漲收紅。"
+    }
+  ]
+}

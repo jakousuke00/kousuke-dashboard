@@ -1,0 +1,45 @@
+{
+  "stock_id": "1103",
+  "stock_name": "嘉泥",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "水泥"
+    ],
+    "theme_tags": [
+      "水泥與旅宿資產"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-23",
+        "source": "萬寶產業報告-1023",
+        "category_mentioned": "水泥 > 水泥 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-23",
+    "close_price": 13.6,
+    "est_eps_2026": 0.4,
+    "est_pe": 34.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-23",
+      "source_file": "萬寶產業報告-1023(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日上漲2.64%居次，9月營收年增6.0%",
+      "close_price": 13.6,
+      "price_change_5d_pct": 2.64,
+      "foreign_5d_lots": 612,
+      "est_eps": 0.4,
+      "est_pe": 34.0,
+      "revenue_perf": "9月營收年增6.0%",
+      "content": "收盤13.60元，近5日上漲2.64%，9月營收年增6.0%居表列個股次高，外資近5日買超612張，萬寶預估EPS 0.4元，預估本益比34.0倍。",
+      "key_points": [
+        "9月營收年增6.0%居水泥產業第二高，外資近5日買超612張"
+      ]
+    }
+  ]
+}

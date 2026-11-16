@@ -1,0 +1,27 @@
+{
+  "stock_id": "5478",
+  "stock_name": "智冠",
+  "industry_profile": {
+    "main_industry": "文創/遊戲",
+    "sub_industries": [
+      "數位點數與遊戲通路"
+    ],
+    "theme_tags": [
+      "Q4消費旺季"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 9元。Q3 EPS 2.51元，前三季EPS 7.22元已超越去年獲利9成。Q4年底消費旺季，遊戲、數位行銷及金融科技三大事業持續挹注。",
+      "key_points": [
+        "Q3 EPS 2.51元，前三季已達去年9成",
+        "三大事業持續挹注Q4旺季"
+      ]
+    }
+  ]
+}

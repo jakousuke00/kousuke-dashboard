@@ -1,0 +1,72 @@
+{
+  "stock_id": "3563",
+  "stock_name": "牧德",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "AOI光學檢測",
+      "半導體設備",
+      "PCB檢測設備",
+      "半導體先進封裝AOI"
+    ],
+    "theme_tags": [
+      "AI營收倍增",
+      "載板檢測",
+      "前三季EPS 14.92元",
+      "毛利率達60%",
+      "獲多年大單"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-30",
+        "source": "萬寶晚報-10_30",
+        "category_mentioned": "今晚爆個股"
+      },
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 半導體設備"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-30",
+    "close_price": 682.0,
+    "est_eps_2026": 22.0,
+    "est_pe": 31.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶晚報-10_30.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "牧德前三季每股賺14.92元毛利率60%，Q4將迎全年高峰",
+      "close_price": 682.0,
+      "est_eps": 22.0,
+      "est_pe": 31.0,
+      "revenue_perf": "前三季每股獲利14.92元，毛利率高達60%；Q3單季EPS 5.12元年增32.6%",
+      "content": "牧德受惠AI帶動高階PCB與半導體檢測需求，前三季EPS 14.92元。光模組龍頭已採購其mSAP設備，ABF檢測更獲全球指標客戶多年大單，Q4為營運最旺一季，萬寶估今年EPS 22元。",
+      "key_points": [
+        "前三季EPS 14.92元毛利率維持60%，Q4將為全年營運最高峰",
+        "取得光模組mSAP設備與全球ABF載板龍頭多年長期訂單"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "今晚爆個股",
+      "stance": "強烈偏多",
+      "title": "載板與半導體帶動，明年AI營收占比拚8至9成",
+      "close_price": 754.0,
+      "est_eps": 22.0,
+      "est_pe": 34.0,
+      "revenue_perf": "8月營收3.61億連6月創新高，前八月年增14.39%",
+      "content": "法說表示AI營收占比將由今年70%增至明年80%~90%。載板與半導體訂單能見度排至2027下半年，8月營收連6月創高，新增產能預計2027年1月啟用。",
+      "key_points": [
+        "明年AI營收占比衝刺8至9成",
+        "訂單能見度直達2027下半年，8月營收連6月創新高"
+      ]
+    }
+  ]
+}

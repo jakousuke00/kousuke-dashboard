@@ -1,0 +1,29 @@
+{
+  "stock_id": "6290",
+  "stock_name": "良維",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "玻纖布與電子材料"
+    ],
+    "theme_tags": [
+      "AI大電流線材",
+      "獲利創高"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "Q3淨利6.74億元季增117.3%、EPS 3.97元創單季新高；前三季EPS 8.48元年增45.5%。法人預估本季獲利可望再挑戰新高，今年全年EPS可望超過12元。",
+      "key_points": [
+        "Q3 EPS 3.97元創單季新高，前三季EPS 8.48元",
+        "法人估本季獲利續戰新高，全年純益有望逾12元"
+      ]
+    }
+  ]
+}

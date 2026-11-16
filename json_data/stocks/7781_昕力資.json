@@ -1,0 +1,30 @@
+{
+  "stock_id": "7781",
+  "stock_name": "昕力資*",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "AI軟體平台"
+    ],
+    "theme_tags": [
+      "HPE合作",
+      "主權AI",
+      "興櫃"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "興櫃搶先爆",
+      "content": "10月營收1.05億元月增47.03%、年增50.39%創22個月新高，持續推進上櫃申請；宣布攜手HPE推出地端AI開發一體機，並規劃建置AI資料中心提供算力租用。",
+      "key_points": [
+        "10月營收創22個月新高，前10月7.33億元年增21.7%",
+        "攜手HPE以Agentic AI平台OrientAI搶攻地端AI與算力租用"
+      ]
+    }
+  ]
+}

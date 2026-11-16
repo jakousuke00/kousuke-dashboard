@@ -1,0 +1,73 @@
+{
+  "stock_id": "6862",
+  "stock_name": "三集瑞-KY",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "AI伺服器與車用高階電感",
+      "被動元件",
+      "電感"
+    ],
+    "theme_tags": [
+      "9月營收創今年新高",
+      "Q3季增32.4%",
+      "TLVR與800V HVDC電感量產",
+      "新掛牌",
+      "AI伺服器電感"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-06",
+        "source": "萬寶晚報-10_06",
+        "category_mentioned": "被動元件 > 高階電感"
+      },
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 電感"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-06",
+    "close_price": 140.0,
+    "est_eps_2026": 5.0,
+    "est_pe": 28.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-06",
+      "source_file": "萬寶晚報-10_06.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收2.18億元創今年新高、Q3季增32.4%，TLVR與800V HVDC電感量產",
+      "close_price": 140.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 5.0,
+      "est_pe": 28.0,
+      "revenue_perf": "9月營收2.18億元，月增25.8%、年增20.1%創今年新高；Q3營收5.83億元、季增32.4%",
+      "content": "受惠高階雲端資料中心伺服器電源料件9月起大量出貨，9月營收2.18億元與Q3營收5.83億元同創今年高點。TLVR、800V HVDC等高階電源磁性元件陸續量產，AI伺服器、BBU及車用等新興應用合計已逾五成。",
+      "key_points": [
+        "9月營收2.18億元（年增20.1%）與Q3營收（季增32.4%）雙創今年新高",
+        "TLVR與800V HVDC高階電感量產，AI伺服器、BBU與車用占比逾五成"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "中立偏多",
+      "title": "三集瑞-KY收142元，自低點反彈23%",
+      "close_price": 142.0,
+      "est_eps": 5.0,
+      "est_pe": 28.4,
+      "revenue_perf": "2026預估EPS 5元，H1 EPS 1.68元",
+      "content": "客製化高階電感廠三集瑞-KY，自7月低點115.5元反彈23%收142元，今年累計微跌4%，隨AI伺服器電感規格升級展望轉正。",
+      "key_points": [
+        "自7月低點反彈23%",
+        "布局AI客製化電感出貨"
+      ]
+    }
+  ]
+}

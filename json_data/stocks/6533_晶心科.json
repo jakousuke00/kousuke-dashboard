@@ -1,0 +1,54 @@
+{
+  "stock_id": "6533",
+  "stock_name": "晶心科",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "IC設計",
+      "RISC-V IP",
+      "RISC-V處理器IP"
+    ],
+    "theme_tags": [
+      "RISC-V",
+      "漲停板",
+      "美股聯動",
+      "ASIC漲停"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "頭版主筆 > IP與ASIC"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "close_price": 293.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "受惠AI資金轉向ASIC概念股全面反攻，晶心科於11/13盤中拉漲停。",
+      "key_points": [
+        "ASIC概念股全面反攻，盤中拉漲停"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "頭版主筆",
+      "stance": "偏多",
+      "title": "晶心科強拉漲停板293.5元，擺脫去年賠錢陰霾",
+      "close_price": 293.5,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "去年前三季累計虧損，今年隨RISC-V架構普及迎來轉機",
+      "content": "一路賠錢的IP及ASIC股晶心科受Anthropic申請IPO振奮，強攻漲停板293.5元。市場看好其RISC-V架構在邊緣AI晶片滲透率提升，營運具轉機想像力。",
+      "key_points": [
+        "強拉漲停收293.5元，股價走出底部",
+        "受惠AI運算開源架構商機擴大"
+      ]
+    }
+  ]
+}

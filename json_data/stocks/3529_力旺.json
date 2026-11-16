@@ -1,0 +1,160 @@
+{
+  "stock_id": "3529",
+  "stock_name": "力旺",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "矽智財(IP)",
+      "ASIC設計",
+      "IC設計",
+      "矽智財IP",
+      "嵌入式非揮發性記憶體IP",
+      "安全晶片IP",
+      "先進製程IP"
+    ],
+    "theme_tags": [
+      "矽智財IP",
+      "IC設計",
+      "Q3營收首破12億元創高",
+      "PUF安全IP延伸至SSD與CXL",
+      "PUFrt硬體信任根",
+      "打進Meta與Arm資料中心處理器",
+      "Q3每股8.56元",
+      "Security IP",
+      "CXL Switch",
+      "Q3單季每股8.55元",
+      "三大法人買超3.77億",
+      "ETF微幅調節",
+      "矽智財龍頭",
+      "ASIC漲停",
+      "後量子密碼PQC"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-10",
+        "source": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
+        "category_mentioned": "IC設計 - 重點個股"
+      },
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "今晚爆個股"
+      },
+      {
+        "date": "2026-10-12",
+        "source": "萬寶晚報-10_12",
+        "category_mentioned": "半導體與設備檢測 > 矽智財"
+      },
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "IC設計 > 矽智財(IP)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "close_price": 2215.0,
+    "est_eps_2026": 32.0,
+    "est_pe": 69.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 32元。Q3 EPS 8.56元創新高，Security相關營收年增逾200%。先進製程與安全應用穩步量產帶動權利金成長，將整合PUF與PQC技術，鎖定邊緣運算與機器人應用。",
+      "key_points": [
+        "Q3 EPS 8.56元創新高，Security年增逾200%",
+        "加速多家晶圓廠2奈米及更先進製程驗證"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "source_file": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "10月營收年增16.6%，外資近5日買超796張",
+      "close_price": 2215.0,
+      "price_change_5d_pct": 2.55,
+      "foreign_5d_lots": 796,
+      "est_eps": 32.0,
+      "est_pe": 69.2,
+      "revenue_perf": "10月營收年增16.6%",
+      "content": "矽智財大廠，近5日股價上漲2.55%收2,215.00元，外資近5日買超796張。10月營收年增16.6%，萬寶預估2026年EPS 32.0元，預估本益比69.2倍。",
+      "key_points": [
+        "10月營收年增16.6%，外資近5日買超796張，預估EPS 32.0元"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "精選圖表 / 主力大戶籌碼 / 主動型ETF看盤",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "Q3單季每股賺8.55元、毛利率100%、淨利率55.1%。三大法人櫃買買超174張、金額3.77億元居第八名；主動型ETF小幅減碼16張。先進製程權利金持續推升獲利。",
+      "key_points": [
+        "Q3單季每股賺8.55元，毛利率100%、淨利率高達55.1%。",
+        "三大法人櫃買買超3.77億元，高階IP授權動能穩健。"
+      ],
+      "operational_metrics": {
+        "q3_eps": 8.55,
+        "q3_gross_margin": 100.0,
+        "q3_net_margin": 55.1
+      },
+      "chips_observation": "三大法人買超3.77億元，主動型ETF小調節16張，法人買盤總體偏多。"
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "今晚爆個股",
+      "stance": "強烈偏多",
+      "title": "力旺Q3每股賺8.56元，前三季EPS 24.3元切入CXL Switch架構",
+      "close_price": null,
+      "est_eps": 32.0,
+      "est_pe": 79.0,
+      "revenue_perf": "前三季淨利18.15億元年增55.2%，Security IP拓展至資料中心SSD",
+      "content": "力旺Q3每股賺8.56元，前三季EPS 24.3元年增55.2%。安全IP由伺服器單一晶片擴展至CPU、BMC與SSD，並切入記憶體擴充CXL Switch架構，萬寶估今年EPS 32元。",
+      "key_points": [
+        "Q3每股賺8.56元，前三季EPS 24.3元年增55%",
+        "Security IP跨入AI資料中心SSD與CXL Switch"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "source_file": "萬寶晚報-10_12.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "子公司熵碼資安IP打進Meta與安謀(Arm)共同開發之次世代資料中心處理器",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 32.0,
+      "est_pe": 89.0,
+      "revenue_perf": "卡位Meta Confidential VM機密運算硬體信任根",
+      "content": "子公司熵碼科技核心資安IP打進Arm與Meta共同開發的次世代資料中心處理器，為Meta AI代理Muse與機密運算Confidential VM提供PUFrt硬體信任根。",
+      "key_points": [
+        "子公司熵碼PUFrt資安IP打進Meta與Arm次世代資料中心CPU",
+        "卡位AI Agent機密運算最上游安全信任環節"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3營收12.1億元首度突破12億創新高，安全IP延伸至資料中心SSD及CXL交換器",
+      "close_price": 3168.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 32.0,
+      "est_pe": 99.0,
+      "revenue_perf": "9月營收1.77億元、年增13.47%創同期高；Q3營收12.1億元，季增10.4%、年增27.1%創單季新高",
+      "content": "Q3營收12.1億元首度突破12億元創單季新高，前九月34.01億元、年增21.43%。董事長徐清祥指出，安全IP應用已從AI處理器與BMC延伸至資料中心SSD及CXL交換器，隨先進製程與PUF、MTP貢獻擴大，權利金成長可望加快。",
+      "key_points": [
+        "Q3營收12.1億元季增10.4%、年增27.1%創單季歷史新高",
+        "安全IP延伸至資料中心SSD及CXL交換器，推進先進製程權利金"
+      ]
+    }
+  ]
+}

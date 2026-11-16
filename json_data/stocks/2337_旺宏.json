@@ -1,0 +1,150 @@
+{
+  "stock_id": "2337",
+  "stock_name": "旺宏",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "記憶體(NOR/NAND/eMMC)",
+      "記憶體(NAND/NOR)",
+      "NOR Flash",
+      "eMMC NAND",
+      "低軌衛星",
+      "3D NAND",
+      "記憶體",
+      "NOR/NAND Flash"
+    ],
+    "theme_tags": [
+      "eMMC與SLC NAND漲價",
+      "營收連6月創高",
+      "Q3毛利率衝70.5%",
+      "Q3 EPS 5.52元",
+      "低軌衛星三年長單",
+      "抗輻射記憶體",
+      "eMMC擴產",
+      "PE僅6倍",
+      "精選圖表上修",
+      "Q3獲利",
+      "低本益比",
+      "記憶體轉機",
+      "毛利連2季成長",
+      "外資降評"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "精選圖表 / 記憶體特輯"
+      },
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "精選圖表 / 今晚爆個股"
+      },
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "半導體產業 > 今晚爆個股"
+      },
+      {
+        "date": "2026-10-08",
+        "source": "萬寶晚報-10_08",
+        "category_mentioned": "半導體與設備檢測 > 記憶體"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 100.0,
+    "est_eps_2026": 18.0,
+    "est_pe": 5.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "入選22檔毛利連2季成長股，Q1~Q3毛利率40.8%/64.4%/70.5%，前三季EPS 10.34元(2026估18元)；惟大摩降評至中立，目標價90元。",
+      "key_points": [
+        "Q3毛利率70.5%，累計營收年增161%",
+        "大摩降評至中立、目標價90元"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "旺宏前三季每股賺10.34元，萬寶預估今年EPS 18元本益比僅5.6倍",
+      "close_price": 100.0,
+      "est_eps": 18.0,
+      "est_pe": 5.6,
+      "revenue_perf": "Q3每股賺5.52元，累計營收年增155%，今年股價漲幅153%",
+      "content": "旺宏前三季累計EPS達10.34元，Q3單季賺5.52元，累計營收年增155%。萬寶預估今年EPS達18元，收盤價100元對應本益比僅5.6倍，具備顯著獲利轉機與低估值優勢。",
+      "key_points": [
+        "Q3每股賺5.52元，前三季累計EPS達10.34元",
+        "萬寶預估全年EPS 18元，本益比僅約5.6倍"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "精選圖表 / 今晚爆個股",
+      "stance": "偏多",
+      "title": "旺宏擴產搶eMMC與96層3D NAND，萬寶估EPS 18元本益比僅6倍",
+      "close_price": 103.5,
+      "est_eps": 18.0,
+      "est_pe": 5.8,
+      "revenue_perf": "核准158億元資本支出，明年下半年至年底設備進場",
+      "content": "董事長吳敏求表示重心放在eMMC NAND，主力96層3D NAND預計明年下半年量產。資料中心帶動高容量NOR需求，各項產品報價看漲。萬寶上修今年EPS至18元，PE僅6倍。",
+      "key_points": [
+        "核准158億資本支出衝刺96層3D NAND量產",
+        "萬寶估今年EPS 18元，本益比僅6倍具評價優勢"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3每股賺5.52元，營收年增195%、毛利率70.5%",
+      "close_price": 103.0,
+      "price_change_pct": 3.52,
+      "volume_lots": 29018,
+      "est_eps": 16.0,
+      "est_pe": 6,
+      "revenue_perf": "Q3營收242.37億元(季增27%、年增195%)，前三季稅後204.66億元(EPS 10.34元)",
+      "content": "Q3毛利率衝上70.5%(季增6.1個百分點)、營益率53.4%，稅後純益109.51億元、EPS 5.52元；前三季EPS 10.34元，Q3營收結構中NAND占47%、NOR占46%。",
+      "key_points": [
+        "Q3毛利率高達70.5%，單季EPS 5.52元",
+        "前三季大賺一個股本達10.34元"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "source_file": "萬寶晚報-10_08.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收83.67億元連六月創高、年增188.2%，前三季已超越2021年全年紀錄",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 16.0,
+      "est_pe": 7.0,
+      "revenue_perf": "9月營收83.67億元年增188.2%；Q3營收242.4億元季增26.7%；前三季538.31億元年增154.5%",
+      "content": "eMMC與SLC NAND逐月議價漲價動能延續，32GB eMMC規劃Q4量產；前三季營收538.31億元已超越2021年全年505.73億元歷史最高紀錄，追加資本支出後擴產合計378億元。",
+      "key_points": [
+        "9月營收連6月創高，前三季538.31億元超越2021年全年歷史高點",
+        "eMMC與SLC NAND漲價延續，32GB eMMC Q4量產"
+      ]
+    },
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 18元",
+      "pe_ratio": "4倍",
+      "content": "美系低軌衛星龍頭客戶給出未來3年訂單預估，eMMC NAND及NOR Flash每年需求均達數百萬顆，目前產能吃緊；此外在歐洲太空總署木星探測計畫抗輻射評估中表現最佳。",
+      "key_points": [
+        "獲美系低軌衛星龍頭未來3年訂單預估，eMMC與NOR Flash年需求各達數百萬顆",
+        "歐洲太空總署木星探測計畫抗輻射評估表現最佳"
+      ]
+    }
+  ]
+}

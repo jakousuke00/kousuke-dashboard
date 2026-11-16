@@ -1,0 +1,45 @@
+{
+  "stock_id": "6937",
+  "stock_name": "天虹",
+  "industry_profile": {
+    "main_industry": "半導體產業 / 設備儀器",
+    "sub_industries": [
+      "半導體測試、CoWoS/PLP設備與光學檢測"
+    ],
+    "theme_tags": [
+      "面板級封裝(PLP)",
+      "ALD原子層沉積",
+      "矽光子與CPO磷化銦設備"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-20",
+        "source": "萬寶晚報-10_20",
+        "category_mentioned": "今晚爆個股 (半導體先進封裝設備)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-20",
+    "close_price": 280.0,
+    "est_eps_2026": 5.0,
+    "est_pe": 56.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-20",
+      "source_file": "萬寶晚報-10_20.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "面板級封裝設備追單，訂單能見度到2027年Q2",
+      "est_eps": 5.0,
+      "est_pe": 56.0,
+      "revenue_perf": "前三季營收21.64億元、年增42.07%",
+      "content": "310×310mm面板級封裝(PLP)設備陸續取得客戶追加訂單，ALD設備出貨比重提高，第四季交機可望增溫，訂單能見度延伸至2027年第二季；先進封裝設備占營收約四成，2027年初將ALD導入面板級封裝平台。9月斥資6.98億元購置湖口土地廠房，並切入矽光子與CPO磷化銦設備。",
+      "key_points": [
+        "310x310mm PLP面板級封裝設備獲追單，能見度達2027Q2",
+        "切入矽光子與CPO磷化銦設備，前三季營收年增42.07%"
+      ]
+    }
+  ]
+}

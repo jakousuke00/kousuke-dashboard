@@ -1,0 +1,28 @@
+{
+  "stock_id": "6796",
+  "stock_name": "晉弘",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "醫療影像與微創鏡頭"
+    ],
+    "theme_tags": [
+      "手術機器人",
+      "轉虧為盈"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS -0.1元。Q3受惠營收規模擴大，稅後純益1,037萬元年增3.81倍、EPS 0.26元轉盈，前三季每股虧0.28元。推動醫療耗材轉型，鏡頭技術延伸至手術機器人領域，2027年隨客戶取證擴大貢獻。",
+      "key_points": [
+        "Q3轉盈EPS 0.26元，年增3.81倍",
+        "微型鏡頭模組切入手術機器人，2027年貢獻放大"
+      ]
+    }
+  ]
+}

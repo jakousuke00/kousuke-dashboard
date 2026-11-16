@@ -1,0 +1,29 @@
+{
+  "stock_id": "6788",
+  "stock_name": "華景電",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "先進封裝設備與材料"
+    ],
+    "theme_tags": [
+      "晶圓微環境設備",
+      "強彈前20名"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "20強彈股",
+      "content": "入選11/6低點以來最大彈幅排行前20名個股，2026年預估EPS 22元，上半年EPS 9.79元、第三季EPS 6.14元，11/10收盤316元。",
+      "key_points": [
+        "入選11/6低點以來強彈前20名個股",
+        "前三季EPS達15.93元，2026年預估EPS 22元"
+      ]
+    }
+  ]
+}

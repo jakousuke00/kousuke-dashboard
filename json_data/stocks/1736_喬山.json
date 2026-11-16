@@ -1,0 +1,48 @@
+{
+  "stock_id": "1736",
+  "stock_name": "喬山",
+  "industry_profile": {
+    "main_industry": "運動健身",
+    "sub_industries": [
+      "健身房、健身器材"
+    ],
+    "theme_tags": [
+      "商用健身器材龍頭",
+      "低本益比",
+      "股價營收背離"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-06",
+        "source": "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf",
+        "category_mentioned": "運動健身 - 健身房、健身器材"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-06",
+    "close_price": 110.5,
+    "est_eps_2026": 13.0,
+    "est_pe": 8.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-06",
+      "source_file": "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "喬山9月營收年增17.1%，股價回檔預估本益比僅8.5倍",
+      "close_price": 110.5,
+      "price_change_5d_pct": -10.53,
+      "foreign_5d_lots": 233,
+      "est_eps": 13.0,
+      "est_pe": 8.5,
+      "revenue_perf": "9月營收年增17.1%、月增14.8%，今年累計年增14.5%",
+      "content": "11/6跌7.1%、近5日跌10.53%，收110.50元接近52週低點102.00元。但基本面9月營收年增17.1%、月增14.8%，累計年增14.5%，股價與營收出現落差；外資近5日買超233張，預估EPS 13.0元、本益比8.5倍。",
+      "key_points": [
+        "9月營收年增17.1%、月增14.8%，基本面強勁與短線股價出現背離",
+        "外資近5日買超233張，萬寶預估EPS 13.0元、預估本益比僅8.5倍"
+      ]
+    }
+  ]
+}

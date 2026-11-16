@@ -1,0 +1,51 @@
+{
+  "stock_id": "6282",
+  "stock_name": "康舒",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "電源供應器與充電樁",
+      "電源BBU與綠能電力"
+    ],
+    "theme_tags": [
+      "歐洲充電基建",
+      "直流充電樁電源",
+      "車載電源",
+      "HVDC電源",
+      "燃料電池",
+      "美國資料中心"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 電源供應器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "Q3營業利益3.15億元季增126%、EPS 0.25元；10月營收年增32.3%。企業用電源占比達73%，燃料電池、美國資料中心及網通需求成長，HVDC電源預計2027年量產。",
+      "key_points": [
+        "Q3營業利益季增126%，企業電源占比達73%",
+        "高壓直流(HVDC)電源產品預計2027年量產"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏多",
+      "title": "康舒推40kW、60kW充電樁電源，搶攻歐洲充電基建",
+      "content": "切入充電基礎設施，推出40kW、60kW直流充電樁電源模組，可並聯支援150kW以上高功率系統、峰值效率逾97%；車載端推出11kW整合OBC與DC-DC之2合1車載電源，參加波蘭New Mobility Congress搶攻歐洲市場。",
+      "key_points": [
+        "推出40kW/60kW直流充電樁電源模組與11kW二合一車載電源，搶攻歐洲基建"
+      ]
+    }
+  ]
+}

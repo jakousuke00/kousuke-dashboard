@@ -1,0 +1,73 @@
+{
+  "stock_id": "6825",
+  "stock_name": "和暢科技",
+  "industry_profile": {
+    "main_industry": "電腦周邊",
+    "sub_industries": [
+      "工業電腦",
+      "ARM嵌入式系統",
+      "工業物聯網IPC",
+      "AIoT與智慧空間雲端平台"
+    ],
+    "theme_tags": [
+      "30日上櫃掛牌",
+      "ARM架構IPC",
+      "新股掛牌",
+      "掛牌上櫃首日",
+      "承銷價22.81元",
+      "ARM架構智慧空間"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-30",
+        "source": "萬寶晚報-10_30",
+        "category_mentioned": "阿樂情報站 / 萬寶預估"
+      },
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "新股掛牌"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-30",
+    "close_price": 21.65,
+    "est_eps_2026": 1.5,
+    "est_pe": 14.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶晚報-10_30.pdf",
+      "section": "阿樂情報站",
+      "stance": "中立偏多",
+      "title": "和暢科技每股22.81元掛牌上櫃，深耕ARM架構智慧空間延伸至Cloud管理",
+      "close_price": 21.65,
+      "est_eps": 1.5,
+      "est_pe": 14.4,
+      "revenue_perf": "外銷佔比近七成（歐洲48%、美洲20%），打造軟硬整合雲端遠端管理平台",
+      "content": "工業電腦廠和暢以每股22.81元上櫃掛牌，受大盤影響首日未見蜜月行情。深耕ARM架構智慧辦公與AIoT，在美設立Qbic據點，開發Cloud遠端設備管理平台延伸Edge端優勢，萬寶估EPS 1.5元。",
+      "key_points": [
+        "每股承銷價22.81元正式上櫃，深耕智慧空間與會議室控制系統",
+        "以ARM架構打造Edge AI搭配Cloud遠端管理，外銷歐美佔近七成"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "新股掛牌",
+      "stance": "偏多",
+      "title": "和暢科技30日上櫃掛牌，深耕ARM架構嵌入式工業電腦",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "2025年每股賺2.67元，2026上半年每股獲利0.77元",
+      "content": "和暢科技預計30日掛牌上櫃，主攻ARM架構嵌入式系統與工業電腦，2025年EPS 2.67元，2026上半年每股獲利0.77元，拓展智慧工業應用。",
+      "key_points": [
+        "10/30掛牌上櫃，深耕ARM架構嵌入式工業電腦",
+        "上半年稅後純益2608.9萬元，每股賺0.77元"
+      ]
+    }
+  ]
+}

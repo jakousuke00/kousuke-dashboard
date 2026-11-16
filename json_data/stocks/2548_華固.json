@@ -1,0 +1,47 @@
+{
+  "stock_id": "2548",
+  "stock_name": "華固",
+  "industry_profile": {
+    "main_industry": "房地產/營造",
+    "sub_industries": [
+      "營建開發與指標建商"
+    ],
+    "theme_tags": [
+      "北部建商",
+      "商辦與住宅"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營建開發與指標建商"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-01",
+    "close_price": 90.4,
+    "est_eps_2026": 7.0,
+    "est_pe": 12.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-01",
+      "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "華固今年累計營收年增60.0%，預估EPS 7.0元",
+      "close_price": 90.4,
+      "price_change_5d_pct": -2.27,
+      "foreign_5d_lots": -936,
+      "est_eps": 7.0,
+      "est_pe": 12.9,
+      "revenue_perf": "9月營收年減21.5%，今年累計年增60.0%",
+      "content": "收盤90.40元，近5日下跌2.27%，外資近5日賣超936張。雖9月單月營收年減21.5%，但今年累計仍年增60.0%；萬寶預估2026年EPS 7.0元，預估本益比12.9倍。",
+      "key_points": [
+        "今年累計營收年增60.0%，單月受交屋認列時點影響年減21.5%",
+        "萬寶預估EPS 7.0元，預估本益比12.9倍"
+      ]
+    }
+  ]
+}

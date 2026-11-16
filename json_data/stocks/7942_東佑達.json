@@ -1,0 +1,30 @@
+{
+  "stock_id": "7942",
+  "stock_name": "東佑達",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "先進封裝設備與材料"
+    ],
+    "theme_tags": [
+      "興櫃",
+      "CPO光耦合",
+      "人形機器人"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "興櫃搶先爆",
+      "content": "受惠半導體設備需求暢旺，10月營收2.43億元年增62.3%，前十月25.45億元年增50.1%創同期新高。未來布局CPO六軸精密對位耦合與人形機器人致動器。",
+      "key_points": [
+        "10月營收年增62.3%、前十月年增50.1%創同期新高",
+        "先進製程與先進封裝帶動需求，同步卡位CPO與人形機器人"
+      ]
+    }
+  ]
+}

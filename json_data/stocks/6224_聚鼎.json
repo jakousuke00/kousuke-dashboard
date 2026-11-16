@@ -1,0 +1,46 @@
+{
+  "stock_id": "6224",
+  "stock_name": "聚鼎",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "熱敏電阻"
+    ],
+    "theme_tags": [
+      "PPTC",
+      "散熱基板"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 熱敏電阻"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 81.7,
+    "est_eps_2026": 4.0,
+    "est_pe": 20.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "聚鼎低點強彈71%，PPTC與散熱基板動能復甦",
+      "close_price": 81.7,
+      "est_eps": 4.0,
+      "est_pe": 20.4,
+      "revenue_perf": "2026預估EPS 4元，H1 EPS 1.37元",
+      "content": "高分子正溫度係數(PPTC)大廠聚鼎自7月低點47.7元大彈71%收81.7元，今年漲幅達94%，散熱基板與車用過電流保護出貨加溫。",
+      "key_points": [
+        "自7月低點強勁反彈71%",
+        "本益比約20倍，營運築底回升"
+      ]
+    }
+  ]
+}

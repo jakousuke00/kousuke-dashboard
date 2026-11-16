@@ -1,0 +1,30 @@
+{
+  "stock_id": "6922",
+  "stock_name": "宸曜",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "AI伺服器與工業電腦"
+    ],
+    "theme_tags": [
+      "邊緣AI",
+      "軍工國防",
+      "人形機器人"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "受惠軍工國防、邊緣AI及無人載具專案出貨，Q3毛利率42%、EPS 5元創上櫃新高，前三季EPS 10.63元年增83.59%。2027年布局人形機器人與醫療照護。",
+      "key_points": [
+        "Q3 EPS 5元創上櫃單季新高，前三季EPS 10.63元",
+        "AI邊緣運算電腦占前三季營收45%，2027年布局人形機器人"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "stock_id": "1785",
+  "stock_name": "光洋科",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體靶材",
+      "貴金屬回收精煉",
+      "儲存媒體靶材",
+      "貴金屬回收",
+      "前端晶圓靶材"
+    ],
+    "theme_tags": [
+      "櫃買買超張數第一",
+      "前三季穩健",
+      "半導體材料在地化",
+      "買超6730張",
+      "半導體靶材",
+      "低基期轉強"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主力大戶籌碼",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "三大法人於櫃買市場單日買超6,730張、金額5.45億元，高居櫃買買超張數榜首。半導體前段高階靶材認證通過並逐步放量，吸引法人資金逆勢大舉掃貨。",
+      "key_points": [
+        "三大法人櫃買買超6,730張奪得張數第一名，買超金額達5.45億元。",
+        "先進半導體靶材國產化推進，營運體質顯著改善。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "單日爆出逾6,700張法人買超，低檔帶量長紅突破整理區間。"
+    },
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "籌碼焦點",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 3.2,
+      "estimated_pe": 18.0,
+      "content": "三大法人單日狂掃光洋科4,945張（金額3.89億元）奪櫃買買超張數第一名、金額第二名。半導體前段先進製程高階靶材認證通過並擴大放量，受惠供應鏈在地化趨勢。",
+      "key_points": [
+        "三大法人於櫃買市場買超4,945張奪冠，買盤力道強勁無畏櫃買重挫6.4%。",
+        "半導體先進製程濺鍍靶材出貨維持雙位數增長，綠色貴金屬精煉業務獲利穩健。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "三大法人櫃買買超張數第一（+4,945張）、金額第二（+3.89億元）。"
+    }
+  ]
+}

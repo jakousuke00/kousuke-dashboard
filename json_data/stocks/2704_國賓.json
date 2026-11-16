@@ -1,0 +1,48 @@
+{
+  "stock_id": "2704",
+  "stock_name": "國賓",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "都會老字號飯店"
+    ],
+    "theme_tags": [
+      "都會飯店",
+      "資產改建",
+      "低股價淨值比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 都會老字號飯店"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 45.1,
+    "est_eps_2026": 2.5,
+    "est_pe": 18.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "國賓近5日唯一收紅，9月營收年增35.9%",
+      "close_price": 45.1,
+      "price_change_5d_pct": 0.89,
+      "foreign_5d_lots": 9,
+      "est_eps": 2.5,
+      "est_pe": 18.0,
+      "revenue_perf": "9月營收年增35.9%、月增39.5%，今年累計年增8.1%",
+      "content": "表列個股中唯一近5日上漲者(+0.89%)，收45.10元，股價淨值比0.50倍。9月營收年增35.9%、月增39.5%；近20日法人賣超203張，萬寶預估2026年EPS 2.5元，預估本益比18.0倍。",
+      "key_points": [
+        "表列唯一近5日上漲個股，股價淨值比僅0.50倍",
+        "9月營收年增35.9%、月增39.5%，預估EPS 2.5元"
+      ]
+    }
+  ]
+}

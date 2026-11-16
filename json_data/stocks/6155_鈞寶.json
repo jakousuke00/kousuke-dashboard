@@ -1,0 +1,28 @@
+{
+  "stock_id": "6155",
+  "stock_name": "鈞寶",
+  "industry_profile": {
+    "main_industry": "被動元件產業",
+    "sub_industries": [
+      "電感與磁鐵芯"
+    ],
+    "theme_tags": [
+      "車用電子",
+      "AI"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 1.5元。受惠車用與AI輕薄短小需求，前三季EPS 1.12元已賺贏過去三年各年全年；車用占22%、AI加3C占22%，平鎮廠占比約85%具非中供應鏈優勢。",
+      "key_points": [
+        "前三季EPS 1.12元賺贏過去三年全年",
+        "台灣平鎮廠占比85%受惠非中需求"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "stock_id": "8240",
+  "stock_name": "華宏",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "光學膜",
+      "熱管理材料"
+    ],
+    "theme_tags": [
+      "散熱模組",
+      "高速PCB材料"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "受消費電子疲軟與建廠影響，Q3單季EPS 0.25元、前三季1.43元；加速轉型高速傳輸PCB材料、熱管理及半導體零組件，桃園散熱與水冷產線預計年底運作，估EPS 2元。",
+      "key_points": [
+        "Q3單季EPS 0.25元，乾式機能材料Q3營收年增近60%",
+        "桃園散熱模組樣品線及水冷小量產線預計年底運作"
+      ]
+    }
+  ]
+}

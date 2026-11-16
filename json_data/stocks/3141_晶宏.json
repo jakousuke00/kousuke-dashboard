@@ -1,0 +1,49 @@
+{
+  "stock_id": "3141",
+  "stock_name": "晶宏",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "平面顯示器驅動IC",
+      "電子紙驅動IC"
+    ],
+    "theme_tags": [
+      "IC設計",
+      "驅動IC",
+      "外資買超"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-10",
+        "source": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
+        "category_mentioned": "IC設計 - 平面顯示器驅動IC"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10",
+    "close_price": 83.1,
+    "est_eps_2026": 5.0,
+    "est_pe": 16.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source_file": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日上漲15.1%、外資買超2,236張，10月營收年增54.0%",
+      "close_price": 83.1,
+      "price_change_5d_pct": 15.1,
+      "foreign_5d_lots": 2236,
+      "est_eps": 5.0,
+      "est_pe": 16.6,
+      "revenue_perf": "10月營收年增54.0%、月增13.3%",
+      "content": "近5日強勢上漲15.10%收83.10元，外資近5日大買2,236張居表列之冠。10月營收年增54.0%、月增13.3%動能強勁；萬寶預估2026年EPS 5.0元，預估本益比16.6倍。",
+      "key_points": [
+        "外資近5日買超2,236張居表列最高，股價5日漲15.10%",
+        "10月營收年增54.0%、月增13.3%，預估EPS 5.0元、PE 16.6倍"
+      ]
+    }
+  ]
+}

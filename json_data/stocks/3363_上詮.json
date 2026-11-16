@@ -1,0 +1,71 @@
+{
+  "stock_id": "3363",
+  "stock_name": "上詮",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "台積電CPO",
+      "FAU光纖陣列",
+      "光纖跳線與連接器",
+      "光纖陣列FAU",
+      "CPO光互連元件"
+    ],
+    "theme_tags": [
+      "CPO",
+      "3.2T/6.4T FAU",
+      "NPO",
+      "台積電CPO夥伴",
+      "邁威爾台鏈",
+      "主動型ETF出清"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-07",
+        "source": "萬寶晚報-10_07",
+        "category_mentioned": "網通/電信與光通訊 > 台積電CPO"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 679.0,
+    "est_eps_2026": 0.1,
+    "est_pe": 6790.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "產業新聞 / 籌碼動態",
+      "investment_rating": "中立觀察",
+      "target_price": null,
+      "estimated_eps": 3.0,
+      "estimated_pe": 40.0,
+      "content": "名列邁威爾併購案受惠鏈，在光纖陣列FAU技術上與台積電合作緊密。但籌碼面遭主動型ETF「中信台灣收益」單日出清389張居減碼第一，短線籌碼面臨調節壓力。",
+      "key_points": [
+        "CPO關鍵零組件光纖陣列FAU技術領先，但短線獲利尚未完全跟上高本益比。",
+        "遭主動型ETF單日清倉389張居減碼首位，短線等待籌碼沉澱。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "主動中信台灣收益 (00406A) 全數出清389張，居主動型ETF減碼榜第一名。"
+    },
+    {
+      "date": "2026-10-07",
+      "source_file": "萬寶晚報-10_07.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收年增28.38%，3.2T FAU第四季再放量、6.4T接棒",
+      "close_price": 679.0,
+      "price_change_pct": 4.46,
+      "volume_lots": 4759,
+      "est_eps": 0.1,
+      "est_pe": 6790.0,
+      "revenue_perf": "9月營收2.24億元，月增9.67%、年增28.38%",
+      "content": "3.2T光纖陣列(FAU) 7月起持續量產且良率明顯改善，Q4進一步放量、6.4T接棒。法人指出FAU將成2026至2028年主要成長動能，2027至2028年NPO可望率先放量。",
+      "key_points": [
+        "3.2T FAU良率改善Q4放量，6.4T接棒",
+        "2026~2028年FAU與NPO為主要成長動能"
+      ]
+    }
+  ]
+}

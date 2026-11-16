@@ -1,0 +1,30 @@
+{
+  "stock_id": "6658",
+  "stock_name": "聯策",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "PCB與CCL載板"
+    ],
+    "theme_tags": [
+      "先進封裝",
+      "ABF載板",
+      "強彈前20名"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股 / 20強彈股",
+      "content": "與印能科技簽署戰略協議，結合高溫高壓真空製程與自動化檢測，共同開發具翹曲抑制系統(WSAS)的載板設備，深化先進封裝與ABF高階布局，估EPS 6.3元。",
+      "key_points": [
+        "攜手印能科技開發翹曲抑制載板設備，推動客戶驗證導入",
+        "入選11/6低點以來強彈前20名個股，2026年預估EPS 6.3元"
+      ]
+    }
+  ]
+}

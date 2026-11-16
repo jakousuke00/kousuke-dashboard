@@ -1,0 +1,29 @@
+{
+  "stock_id": "6691",
+  "stock_name": "洋基工程",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "無塵室機電工程"
+    ],
+    "theme_tags": [
+      "在手訂單新高",
+      "美光與ASML專案"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "Q3稅後純益17.5億元年增137.3%、EPS 13.16元創新高，前三季EPS 30.62元；Q3底在手訂單571億元創新高，美光與艾司摩爾專案陸續交付，估EPS 42元。",
+      "key_points": [
+        "Q3 EPS 13.16元創新高，在手訂單571億元創歷史新高",
+        "洽談中潛在訂單超越既有在手訂單，2027年成長目標與今年相當"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stock_id": "7799",
+  "stock_name": "禾榮科",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "生技新藥與醫材"
+    ],
+    "theme_tags": [
+      "BNCT",
+      "質子治療",
+      "東南亞擴張"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "董事會通過斥資新台幣13.8億元認購新加坡上市公司SAM Holdings新股，取得50.09%控制權。將結合質子治療與自家BNCT技術，打造東南亞首座雙粒子癌症治療中心。",
+      "key_points": [
+        "斥資13.8億取得新加坡SAM 50.09%控制權，建雙粒子治療中心"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "stock_id": "6456",
+  "stock_name": "GIS-KY",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "光電與蘋果零組件"
+    ],
+    "theme_tags": [
+      "雷射封裝",
+      "CPO",
+      "營收創高"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "法說指以CW Laser Package為重心，雷射封裝產線11、12月量產，完整產能2027Q2-Q3開出並開發FAU。今年資本支出80億，10月營收133.07億年增167%創近4年高，估EPS -3元。",
+      "key_points": [
+        "雷射封裝年底量產，今年資本支出40至50億元投入雷射封裝",
+        "10月營收133.07億元年增167.49%創近4年新高，Q3每股虧2.17元"
+      ]
+    }
+  ]
+}

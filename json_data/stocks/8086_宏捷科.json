@@ -1,0 +1,101 @@
+{
+  "stock_id": "8086",
+  "stock_name": "宏捷科",
+  "industry_profile": {
+    "main_industry": "砷化鎵",
+    "sub_industries": [
+      "砷化鎵中游晶圓製造",
+      "砷化鎵晶圓代工(PA)",
+      "砷化鎵PA晶圓代工",
+      "WiFi晶片代工",
+      "VCSEL光通訊"
+    ],
+    "theme_tags": [
+      "PA晶圓代工",
+      "手機PA",
+      "PA轉單",
+      "Micro VCSEL",
+      "無人機砷化鎵太陽能",
+      "10月營收創五個月高",
+      "Q4優於Q3",
+      "非手機PA成長",
+      "轉單效應"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵中游晶圓製造"
+      },
+      {
+        "date": "2026-10-02",
+        "source": "萬寶晚報-10_02",
+        "category_mentioned": "半導體產業 > 砷化鎵PA"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "close_price": 114.5,
+    "est_eps_2026": 5.5,
+    "est_pe": 20.8
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": 5.5,
+      "estimated_pe": 19.0,
+      "content": "10月營收4.24億元創五個月新高，月增0.5%、年增3.25%。第四季訂單能見度佳，陸系手機市占提升與韓系客戶中高階轉單發酵，非手機PA出貨放量，Q4營收有望優於Q3，萬寶估今年EPS 5.5元。",
+      "key_points": [
+        "10月營收創五個月新高，Q4有望優於Q3；韓系客戶中高階轉單發酵。",
+        "積極衝刺光通訊、VCSEL及太陽能，力拚2027年手機與WiFi PA營收占比降至6成以下。"
+      ],
+      "operational_metrics": {
+        "oct_revenue": 4.24,
+        "oct_mom": 0.5,
+        "oct_yoy": 3.25
+      },
+      "chips_observation": "股價打底完成，本益比僅19倍具吸引力，內資買盤進場承接。"
+    },
+    {
+      "date": "2026-11-02",
+      "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "宏捷科外資近5日買超1,370張，預估本益比20.8倍",
+      "close_price": 114.5,
+      "price_change_5d_pct": -4.98,
+      "foreign_5d_lots": 1370,
+      "est_eps": 5.5,
+      "est_pe": 20.8,
+      "revenue_perf": "9月營收年增8.4%",
+      "content": "收盤114.50元，近5日下跌4.98%，但外資近5日逆勢買超1,370張。9月營收年增8.4%，萬寶預估今年EPS 5.5元，預估本益比20.8倍為表列最低。",
+      "key_points": [
+        "外資近5日買超1,370張，9月營收年增8.4%",
+        "萬寶預估EPS 5.5元，預估本益比20.8倍為表列最低"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "source_file": "萬寶晚報-10_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "前三季營收年增32%，投入光通訊Micro VCSEL並切入無人機太陽能訂單",
+      "close_price": 120.0,
+      "price_change_pct": 4.35,
+      "volume_lots": 8525,
+      "est_eps": 5.5,
+      "est_pe": 22.0,
+      "revenue_perf": "9月營收4.22億元、年增8.4%；Q3營收12.66億元、季減2.81%；前三季37.83億元、年增32.11%",
+      "content": "受惠中國手機市占提升與韓系大廠中高階PA轉單，Q3營收僅季減2.81%優於預期，全年營收可望創高。今年資本支出28億元多投入光通訊設備，接獲Micro VCSEL送樣急單，砷化鎵太陽能鎖定無人機已獲客戶下單。",
+      "key_points": [
+        "前三季營收37.83億元年增32.11%，受惠韓系中高階PA轉單",
+        "接獲光通訊Micro VCSEL急單及無人機砷化鎵太陽能訂單"
+      ]
+    }
+  ]
+}

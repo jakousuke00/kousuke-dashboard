@@ -1,0 +1,66 @@
+{
+  "stock_id": "3581",
+  "stock_name": "博磊",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體設備與耗材(高檔換手)",
+      "半導體設備",
+      "量子計算"
+    ],
+    "theme_tags": [
+      "半導體封測設備",
+      "處置股",
+      "英特爾概念",
+      "Classiq夥伴",
+      "漲停板"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "今晚爆個股 > 半導體設備"
+      },
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：半導體設備與代理"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28",
+    "close_price": 116.0,
+    "est_eps_2026": 2.0,
+    "est_pe": 58.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "英特爾收購Classiq，子公司科榮合作夥伴博磊受惠攻漲停",
+      "close_price": 116.0,
+      "est_eps": 2.0,
+      "est_pe": 58.0,
+      "revenue_perf": "持股65.68%轉投資科榮為英特爾關鍵合作夥伴",
+      "content": "英特爾收購量子軟體Classiq，博磊持股65.68%的科榮與Classiq合作衝刺量子市場，將成為英特爾衝刺量子運算重要夥伴。跨入量子電腦設備具強大題材，強攻漲停116元。",
+      "key_points": [
+        "英特爾收購Classiq，子公司科榮躋身核心合作夥伴",
+        "量子電腦設備與演算商機點火，亮燈漲停"
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "空方(籌碼換手)",
+      "title": "博磊因打入處置股流動性降溫重挫跌停",
+      "content": "半導體設備基本面受惠擴產，但博磊因近期週轉率過高被打入處置股，交易機制限制追價買盤導致流動性降溫，短線資金落袋為安重挫跌停(-10%)。",
+      "key_points": [
+        "因列處置股限制追價流動性，短線資金撤出重挫跌停(-10%)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "stock_id": "5227",
+  "stock_name": "立凱-KY",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "磷酸鐵鋰正極材料"
+    ],
+    "theme_tags": [
+      "北美LFP供應鏈"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS -5.6元，前三季每股虧4.27元。與北美業者簽LFP合作MOU，規劃在台合資建年產2.5萬公噸產線，認證後擬於美國量產，Q4預期虧損收斂。",
+      "key_points": [
+        "與北美業者簽MOU在台合資建2.5萬噸產線",
+        "預期Q4虧損收斂，12/21舉行法說"
+      ]
+    }
+  ]
+}

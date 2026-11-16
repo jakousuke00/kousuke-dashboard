@@ -1,0 +1,57 @@
+{
+  "stock_id": "2069",
+  "stock_name": "運錩",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "不銹鋼加工",
+      "折疊手機鈦板",
+      "不鏽鋼精密加工"
+    ],
+    "theme_tags": [
+      "蘋果折疊機鈦板供應鏈",
+      "蘋果折疊機鈦板",
+      "毛利率躍升"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-21",
+        "source": "萬寶晚報-10_21",
+        "category_mentioned": "鋼鐵 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09",
+    "est_eps_2026": 2.7,
+    "est_pe": 10
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "子公司寧波奇億切入蘋果首款折疊手機螢幕底層鈦金屬板供應並交貨，帶動Q3毛利率躍升至14.36%、單季EPS 0.77元，前三季EPS 2.43元已超越去年全年，估EPS 2.7元。",
+      "key_points": [
+        "寧波奇億取得蘋果折疊機鈦板資格並交貨，H1毛利率29.56%",
+        "Q3獲利年增103%，前三季EPS 2.43元超越去年全年1.62元"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶晚報-10_21.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "寧波奇億打造美系折疊手機鈦板供應鏈",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 2.7,
+      "est_pe": 10,
+      "revenue_perf": null,
+      "content": "全資子公司寧波奇億證實已切入美系(蘋果)折疊手機供應鏈，供應螢幕底層使用的鈦金屬材料並已開始交貨，成為Q4及明年營運新動能。",
+      "key_points": [
+        "子公司寧波奇億切入美系折疊手機鈦金屬板並已交貨"
+      ]
+    }
+  ]
+}

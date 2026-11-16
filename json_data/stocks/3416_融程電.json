@@ -1,0 +1,30 @@
+{
+  "stock_id": "3416",
+  "stock_name": "融程電",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "資安與工業電腦"
+    ],
+    "theme_tags": [
+      "邊緣AI",
+      "國防軍工",
+      "無人載具"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "前十月營收38.88億元年增32.5%改寫新高，動能來自國防軍工、半導體及邊緣AI，預估成長達5成以上且2027年再創高。推出無人載具強固AI平台，估EPS 10元。",
+      "key_points": [
+        "前十月營收改寫歷史新高，邊緣AI與國防估年增逾5成",
+        "強化美韓日生產組裝行銷及歐洲整合"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "stock_id": "8924",
+  "stock_name": "大田",
+  "industry_profile": {
+    "main_industry": "奢華消費概念股",
+    "sub_industries": [
+      "其他（高爾夫球具）"
+    ],
+    "theme_tags": [
+      "奢華消費",
+      "高爾夫球具",
+      "高殖利率"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-07",
+        "source": "reports/11月份/萬寶產業報告-1107(萬寶晚報贈品).pdf",
+        "category_mentioned": "奢華消費概念股 - 其他"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-07",
+    "close_price": 40.0,
+    "est_eps_2026": 3.0,
+    "est_pe": 13.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-07",
+      "source_file": "reports/11月份/萬寶產業報告-1107(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏空",
+      "title": "近5日跌10.1%逼近52週低點，惟9月營收月增11.5%且殖利率逾10%",
+      "close_price": 40.0,
+      "price_change_5d_pct": -10.11,
+      "foreign_5d_lots": -35,
+      "est_eps": 3.0,
+      "est_pe": 13.3,
+      "revenue_perf": "9月營收年減27.4%、月增11.5%",
+      "content": "近5日下跌10.11%收40.00元，今年以來跌幅達44.5%，接近52週低點37.30元，外資近5日賣超35張。9月營收雖年減27.4%，但月增11.5%；萬寶預估2026年EPS 3.0元、本益比13.3倍，殖利率達10.75%為表列最高。",
+      "key_points": [
+        "近5日跌10.11%接近52週低點，9月營收年減27.4%但月增11.5%",
+        "殖利率達10.75%居表列個股最高，預估EPS 3.0元"
+      ]
+    }
+  ]
+}

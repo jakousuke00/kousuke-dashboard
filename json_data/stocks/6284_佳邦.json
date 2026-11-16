@@ -1,0 +1,46 @@
+{
+  "stock_id": "6284",
+  "stock_name": "佳邦",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "保護元件",
+      "天線"
+    ],
+    "theme_tags": [
+      "華新科集團"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 保護元件"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 80.3,
+    "est_eps_2026": 2.0,
+    "est_pe": 40.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "中立偏多",
+      "title": "佳邦收80.3元低點反彈24%，華新麗華集團助攻",
+      "close_price": 80.3,
+      "est_eps": 2.0,
+      "est_pe": 40.2,
+      "revenue_perf": "2026預估EPS 2元，H1 EPS 0.91元",
+      "content": "華新科集團旗下天線與保護元件廠佳邦，10/1收80.3元，較7月低點64.9元反彈24%，今年微跌0.1%處於打底階段。",
+      "key_points": [
+        "低檔打底反彈24%",
+        "車用天線與保護元件長線需求穩定"
+      ]
+    }
+  ]
+}

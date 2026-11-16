@@ -1,0 +1,75 @@
+{
+  "stock_id": "2486",
+  "stock_name": "一詮",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "高階均熱片(Heat Spreader)與導線架",
+      "高階均熱片",
+      "LED導線架",
+      "晶圓級散熱"
+    ],
+    "theme_tags": [
+      "9月、Q3、前三季營收三創新高",
+      "散熱元件占比達48.4%",
+      "獲利年增9倍",
+      "AI客製晶片均熱片",
+      "散熱產值拚倍增",
+      "工研院水冷"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-06",
+        "source": "萬寶晚報-10_06",
+        "category_mentioned": "LED相關 / 半導體散熱元件"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "close_price": 241.0,
+    "est_eps_2026": 2.5,
+    "est_pe": 96.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": 2.5,
+      "estimated_pe": 71.0,
+      "content": "前三季稅後純益3.74億元、年增889.57%，每股賺1.59元，超越去年全年。高階均熱片受惠AI伺服器與客製化晶片拉貨，Q3毛利率達20.35%。五股與三重擴產，散熱月產值朝5億元邁進、目標年底10億元，並攜手工研院進軍晶圓晶片液冷，估今年EPS 2.5元。",
+      "key_points": [
+        "前三季獲利暴衝年增889.57%，每股賺1.59元大幅超越去年全年。",
+        "散熱片月產值目標年底衝上10億元倍增，並結盟工研院成立惠智先進進軍晶片液冷。"
+      ],
+      "operational_metrics": {
+        "q3_net_income": 1.62,
+        "three_q_net_income": 3.74,
+        "three_q_eps": 1.59,
+        "q3_gross_margin": 20.35
+      },
+      "chips_observation": "獲利大翻倍獲市場重視，股價抗跌收紅展現散熱黑馬氣勢。"
+    },
+    {
+      "date": "2026-10-06",
+      "source_file": "萬寶晚報-10_06.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月、Q3、前三季營收三創新高，9月散熱元件營收年增117%、占比逼近五成",
+      "close_price": 241.0,
+      "price_change_pct": -2.43,
+      "volume_lots": 6450,
+      "est_eps": 2.5,
+      "est_pe": 96.0,
+      "revenue_perf": "9月營收7.84億元、年增56.83%；Q3營收23.01億元、季增11.65%；前三季59.84億元、年增32.98%，三創歷史新高",
+      "content": "受惠高階散熱出貨放量，9月營收7.84億元、Q3營收23.01億元及前三季59.84億元同創歷史新高。9月散熱元件營收3.8億元、年增117%，占比拉升至48.4%，明年將跨越五成；五股廠陸續進駐設備，三重廠2027年Q1投產。",
+      "key_points": [
+        "9月、Q3及前三季營收三創歷史新高",
+        "9月散熱元件營收年增117%、占比升至48.4%，美系CSP訂單續揚"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "stock_id": "3707",
+  "stock_name": "漢磊",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "第三代化合物半導體(SiC/GaN)"
+    ],
+    "theme_tags": [
+      "AI資料中心GaN電源",
+      "8吋SiC擴產"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-08",
+        "source": "萬寶晚報-10_08",
+        "category_mentioned": "半導體與設備檢測 > 化合物半導體"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-08",
+    "est_eps_2026": -1.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-08",
+      "source_file": "萬寶晚報-10_08.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "GaN產能塞爆、客戶需求是產能兩倍，SiC下半年營收暴增1.2倍",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": -1.5,
+      "est_pe": null,
+      "revenue_perf": "SiC下半年營收估較上半年大增120%，GaN全年營收增約五成",
+      "content": "碳化矽(SiC)稼動率由上半年不到30%升至Q3 60%、Q4 80%，明年首季部分產品調漲；氮化鎵(GaN)受惠AI資料中心電源產能滿載，與世界先進合作的8吋SiC良率逾95%。",
+      "key_points": [
+        "GaN受惠AI資料中心電源產能滿載，需求為產能2倍",
+        "SiC下半年營收較上半年增120%，明年首季部分調漲"
+      ]
+    }
+  ]
+}

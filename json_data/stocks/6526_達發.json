@@ -1,0 +1,40 @@
+{
+  "stock_id": "6526",
+  "stock_name": "達發",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "光纖固網寬頻晶片",
+      "藍牙音訊晶片",
+      "光通訊PAM4 DSP"
+    ],
+    "theme_tags": [
+      "逆勢強勢股",
+      "聯發科子公司",
+      "光通訊DSP晶片",
+      "急拉反彈"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "列名頭版27檔逆勢強勢股。聯發科旗下IC設計小金雞，受惠歐美基礎建設光纖升級與PAM4 DSP光通訊晶片放量，股價抗跌強勁彈升。",
+      "key_points": [
+        "列名27檔逆勢強勢指標，母集團資源共享。",
+        "光通訊DSP與高階藍牙晶片出貨維持穩健擴張。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "內資主力買盤逢低護盤，下檔支撐力道強。"
+    }
+  ]
+}

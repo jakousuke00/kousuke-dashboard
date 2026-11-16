@@ -1,0 +1,51 @@
+{
+  "stock_id": "4541",
+  "stock_name": "晟田",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "航太發動機機匣",
+      "半導體設備精密零組件",
+      "起落架零件",
+      "精密零件加工"
+    ],
+    "theme_tags": [
+      "逆勢強勢股",
+      "航太客機交機潮",
+      "半導體零組件",
+      "轉機向上",
+      "半導體真空泵浦",
+      "航太"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 4.6元。獲日本荏原製作所及樫山工業真空泵浦新訂單，前三季EPS 3.06元，航太自購料元件營收年增70.5%；完成SPO募資近8億元擴產。",
+      "key_points": [
+        "獲日本荏原、樫山真空泵浦新單",
+        "完成SPO募資近8億元擴建路竹新廠"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "列名頭版27檔逆勢強勢抗跌股。波音與空巴交機潮推動發動機零組件拉貨，加上半導體前端設備零組件出貨增溫，營運轉機確立，股價逆勢大漲。",
+      "key_points": [
+        "列名27檔逆勢強勢指標，雙引擎推升營運。",
+        "航太與半導體零組件訂單飽滿，營收獲利持穩向上。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "主力資金逆勢進駐，技術面守穩均線多頭排列。"
+    }
+  ]
+}

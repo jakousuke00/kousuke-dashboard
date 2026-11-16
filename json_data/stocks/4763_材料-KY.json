@@ -1,0 +1,61 @@
+{
+  "stock_id": "4763",
+  "stock_name": "材料*-KY",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "醋酸纖維絲束",
+      "醋片",
+      "特用化學",
+      "醋酸纖維"
+    ],
+    "theme_tags": [
+      "收購Cerdia全部股權",
+      "10月營收年增33%",
+      "併購效益",
+      "產能擴張"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 特用化學"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 46.85,
+    "est_eps_2026": 4.0,
+    "est_pe": 12.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "併購Cerdia效益發酵，Q4湧入半年以上訂單",
+      "close_price": 46.85,
+      "est_eps": 4.0,
+      "est_pe": 12.0,
+      "revenue_perf": "估EPS 4元，絲束年產能達16.4萬噸",
+      "content": "全球醋纖需求回升，併購同業Cerdia後客戶提前拉貨湧入半年以上訂單。絲束年產能增至16.4萬噸，醋酸報價上漲支撐價格，原物料漲價與併購綜效明年顯現。",
+      "key_points": [
+        "併購Cerdia效益顯現，Q4湧入半年長單",
+        "絲束年產達16.4萬噸，本益比僅12倍"
+      ]
+    },
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 4元",
+      "pe_ratio": "11倍",
+      "content": "10月營收10.52億元、年增33%，前10月97.3億元。9月宣布向黑石集團旗下基金收購Cerdia全部股權，客戶因安全採購提前拉貨。",
+      "key_points": [
+        "10月營收10.52億元、年增33%，受惠客戶安全採購提前拉貨",
+        "收購黑石旗下Cerdia全部股權強化全球市占"
+      ]
+    }
+  ]
+}

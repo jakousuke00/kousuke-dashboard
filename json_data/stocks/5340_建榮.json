@@ -1,0 +1,95 @@
+{
+  "stock_id": "5340",
+  "stock_name": "建榮",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "電子級玻纖布",
+      "玻纖布",
+      "日東紡供應鏈",
+      "高階玻纖布",
+      "低損耗玻纖紗布",
+      "日東紡合作"
+    ],
+    "theme_tags": [
+      "9月自結獲利年增53%",
+      "高階玻纖布",
+      "強勢漲停",
+      "玻纖布雙雄",
+      "日東紡技術支援",
+      "逆勢強勢股",
+      "高階低損耗玻纖布",
+      "日東紡供應鏈",
+      "轉機向上"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "頭版主筆 / 漲停焦點"
+      },
+      {
+        "date": "2026-10-22",
+        "source": "萬寶晚報-10_22",
+        "category_mentioned": "PCB/MB產業 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "close_price": 58.5,
+    "est_eps_2026": 2.5,
+    "est_pe": 23.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "列名頭版27檔逆勢強勢股。母公司日東紡技術奧援，高階超低損耗電子級玻纖布產能稼動率滿載，受惠AI伺服器PCB材料大升級，展現強勁防禦力。",
+      "key_points": [
+        "列名27檔逆勢抗跌指標，玻纖布族群代表股之一。",
+        "高階低損耗布出貨攀升，獲利結構持續優化。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "主力買盤鎖碼，技術線型維持強勢多頭排列。"
+    },
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "頭版主筆",
+      "stance": "強烈偏多",
+      "title": "建榮跟隨富喬攜手亮燈漲停，高階玻纖布缺貨催化強勁漲升行情",
+      "close_price": 58.5,
+      "est_eps": 2.5,
+      "est_pe": 23.4,
+      "revenue_perf": "日東紡高階特殊玻纖布在台唯一代工與合作夥伴",
+      "content": "受惠全球AI伺服器高階玻纖布產能緊繃，日東紡大廠技術支援的建榮與富喬攜手鎖死漲停板。玻纖布成為今日盤面最抗跌且漲幅最凌厲之多頭族群，引領中小型櫃買指數率先翻揚。",
+      "key_points": [
+        "攜手富喬雙雙亮燈漲停，引領櫃買市場中小型股率先反攻",
+        "受惠日東紡高階玻纖布擴產與轉單，AI伺服器材料需求暢旺"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "source_file": "萬寶晚報-10_22.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月自結淨利4,900萬元年增53%，每股0.25元",
+      "close_price": 90.9,
+      "price_change_pct": -5.02,
+      "volume_lots": 15720,
+      "est_eps": 2.0,
+      "est_pe": 45,
+      "revenue_perf": "9月自結稅後淨利4,900萬元(年增53%)，EPS 0.25元",
+      "content": "印刷電路玻纖布廠建榮因股價飆漲公告自結9月單月稅後淨利4,900萬元、年增53%，每股稅後純益0.25元；今年Q2單季淨利1.06億元。",
+      "key_points": [
+        "9月自結稅後淨利4,900萬元、年增53%，EPS 0.25元"
+      ]
+    }
+  ]
+}

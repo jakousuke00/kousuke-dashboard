@@ -1,0 +1,35 @@
+{
+  "stock_id": "4755",
+  "stock_name": "三福化",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "精密化學品"
+    ],
+    "theme_tags": [
+      "預估EPS上調",
+      "CoWoS"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "列入萬寶投顧2026年預估EPS上調名單，2026年預估EPS上調至6元。",
+      "key_points": [
+        "2026年預估EPS上調至6元"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "content": "2026估EPS上調至6元。Q3 EPS 2.63元年增176%，前三季EPS 4.96元年增107%。CoWoS先進封裝化學品Q4出貨優於Q3，將斥資15億元建橋頭新廠。",
+      "key_points": [
+        "前三季EPS 4.96元年增107%",
+        "斥資15億元於橋頭建先進封裝化學品新廠"
+      ]
+    }
+  ]
+}

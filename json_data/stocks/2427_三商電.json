@@ -1,0 +1,35 @@
+{
+  "stock_id": "2427",
+  "stock_name": "三商電",
+  "industry_profile": {
+    "main_industry": "系統整合",
+    "sub_industries": [
+      "資訊服務",
+      "系統整合"
+    ],
+    "theme_tags": [
+      "預估EPS下調",
+      "預估EPS下修"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "列入萬寶投顧2026年預估EPS下修名單，2026年預估EPS下調至0.1元。",
+      "key_points": [
+        "2026年預估EPS下調至0.1元"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "content": "萬寶投顧2026年預估EPS下調至0.1元。",
+      "key_points": [
+        "2026預估EPS下調至0.1元"
+      ]
+    }
+  ]
+}

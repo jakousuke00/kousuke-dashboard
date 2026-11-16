@@ -1,0 +1,38 @@
+{
+  "stock_id": "8155",
+  "stock_name": "博智",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "伺服器與IPC用板",
+      "伺服器/工業電腦板"
+    ],
+    "theme_tags": [
+      "AI伺服器",
+      "低軌衛星",
+      "高階交換器"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 14元。受惠AI伺服器主板、CPU板及IC測試板需求，Q3毛利率26.85%寫17季新高、EPS 4.46元創新高，前三季EPS 11.15元。明年資本支出由25億元增至35~40億元，越南廠2027Q2量產。",
+      "key_points": [
+        "Q3 EPS 4.46元創新高，今年獲利可望改寫紀錄",
+        "伺服器占約82%，將布局高階交換器"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 14元。法說指出伺服器訂單能見度6至8個月、IPC 6至12個月、IC Test 3至6個月；正切入衛星端並參與伺服器送太空新專案，越南新廠為下一動能。",
+      "key_points": [
+        "伺服器訂單能見度6至8個月",
+        "切入衛星與太空伺服器新專案"
+      ]
+    }
+  ]
+}

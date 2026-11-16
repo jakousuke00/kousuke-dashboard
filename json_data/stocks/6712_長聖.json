@@ -1,0 +1,61 @@
+{
+  "stock_id": "6712",
+  "stock_name": "長聖",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "細胞治療CDMO",
+      "CAR-T新藥",
+      "外泌體",
+      "細胞治療",
+      "CAR-T"
+    ],
+    "theme_tags": [
+      "CAR001實體癌臨床",
+      "CDMO成長",
+      "FDA孤兒藥",
+      "營收創高"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 生技醫療"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "est_eps_2026": 4.7,
+    "est_pe": 34.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收創今年新高，CAR001獲美FDA孤兒藥資格",
+      "close_price": null,
+      "est_eps": 4.7,
+      "est_pe": 34.0,
+      "revenue_perf": "9月營收1.1億元年增21%，前三季營收7.79億元",
+      "content": "9月營收1.1億元創今年新高年增21%。異體CAR-T新藥CAR001獲美國FDA膠質瘤孤兒藥資格享有7年獨佔期，現正進行臨床IIa期並規劃多國多中心授權。",
+      "key_points": [
+        "9月營收創今年新高年增21%",
+        "CAR001獲美FDA孤兒藥資格享7年獨占權"
+      ]
+    },
+    {
+      "report_date": "2026-11-05",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 4.7元",
+      "pe_ratio": "31倍",
+      "content": "受惠細胞治療CDMO業務成長，Q3稅後純益1.22億元，前三季稅後純益3.45億元、年增11.2%，EPS 3.42元。異體CAR-T新藥CAR001鎖定實體腫瘤，預計2027年完成二期a，最快2028年爭取台灣附款許可；外泌體新藥規劃2027年申請臨床。",
+      "key_points": [
+        "前三季EPS 3.42元，CDMO業務穩健貢獻獲利",
+        "CAR001預計2027年完成二期a臨床，最快2028年爭取台灣附款許可"
+      ]
+    }
+  ]
+}

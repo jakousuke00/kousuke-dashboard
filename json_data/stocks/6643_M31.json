@@ -1,0 +1,38 @@
+{
+  "stock_id": "6643",
+  "stock_name": "M31",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "矽智財IP",
+      "矽智財(IP)"
+    ],
+    "theme_tags": [
+      "2奈米授權案",
+      "權利金創高",
+      "ASIC漲停"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "黃仁勳卸任輝達CEO後市場資金轉進非輝達與ASIC族群，M31於11/13盤中強攻漲停。",
+      "key_points": [
+        "ASIC概念股全面反攻，盤中拉漲停"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "Q3營收4.95億元年增39.6%，單季EPS 0.35元本業轉盈；首度取得北美行動晶片龍頭2奈米以下授權案，權利金創15季新高，明年營收挑戰成長30%以上，估EPS 1元。",
+      "key_points": [
+        "Q3營益率回升至1.5%、EPS 0.35元本業轉盈，權利金創15季高",
+        "取得北美大廠2奈米以下授權案，明年營收挑戰年增逾3成"
+      ]
+    }
+  ]
+}

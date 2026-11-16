@@ -1,0 +1,46 @@
+{
+  "stock_id": "4995",
+  "stock_name": "晶達",
+  "industry_profile": {
+    "main_industry": "電腦及週邊 / 工業電腦",
+    "sub_industries": [
+      "工業顯示器",
+      "軌道交通螢幕",
+      "軍工顯示模組"
+    ],
+    "theme_tags": [
+      "前三季獲利增165%",
+      "軌道博弈訂單",
+      "軍工出貨",
+      "毛利率破30%"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 3.5,
+      "estimated_pe": 12.0,
+      "content": "前三季營收10.94億元年增17.3%，毛利率穩於30%以上，稅後純益1.14億元年增165%，每股純益2.68元。捷運高鐵與東南亞軌道螢幕訂單滾動增長，且已出貨F35模擬機及軍艦螢幕，萬寶估今年EPS 3.5元。",
+      "key_points": [
+        "前三季獲利暴增165%、每股賺2.68元，毛利率穩守30%以上，本益比僅約12倍。",
+        "深耕博弈、軌道交通顯示器，並成功打入F35軍用模擬機與潛艦顯示供應鏈。"
+      ],
+      "operational_metrics": {
+        "three_q_revenue": 10.94,
+        "three_q_gross_margin": 30.0,
+        "three_q_net_income": 1.14,
+        "three_q_eps": 2.68,
+        "net_income_growth": 165.0
+      },
+      "chips_observation": "獲利翻倍且切入軍工題材，股價位階具備顯著保護。"
+    }
+  ]
+}

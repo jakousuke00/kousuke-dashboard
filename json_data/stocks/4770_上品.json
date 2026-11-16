@@ -1,0 +1,52 @@
+{
+  "stock_id": "4770",
+  "stock_name": "上品",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "氟素樹脂襯裡設備",
+      "半導體化學槽",
+      "電子級管線",
+      "化工特化與鋼鐵塑化"
+    ],
+    "theme_tags": [
+      "逆勢強勢股",
+      "先進製程建廠",
+      "氟素樹脂設備",
+      "長線看好",
+      "氟素設備",
+      "在手訂單75億"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "出貨動能升溫，Q3 EPS 4.27元、前三季9.9元。10月營收年增79.26%，在手訂單約75億元，離型膜小量出貨；通過3.695億購置彰濱廠房擴產台灣槽車，估EPS 14元。",
+      "key_points": [
+        "Q3純益年增39.89%、10月營收年增79.26%，在手訂單約75億元",
+        "擴充台灣槽車月產能由80台升至140台，明年增至170台"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "列名頭版27檔逆勢強勢股。半導體化學品儲槽與內襯設備市占率高，受惠台美先進晶圓廠擴產建廠需求，在手訂單充沛，股價逆勢抗震走揚。",
+      "key_points": [
+        "列名27檔逆勢抗跌名單，氟素內襯設備壁壘極高。",
+        "台美晶圓廠新廠建置如期推展，長線獲利維持高水準。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "法人籌碼逢低承接，技術面穩守重要均線。"
+    }
+  ]
+}

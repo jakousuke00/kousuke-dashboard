@@ -1,0 +1,67 @@
+{
+  "stock_id": "6143",
+  "stock_name": "振曜",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "電子紙模組",
+      "閱讀器",
+      "電子書閱讀器"
+    ],
+    "theme_tags": [
+      "精選圖表下修",
+      "萬寶下修",
+      "電子紙應用"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "精選圖表"
+      },
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "精選圖表 > 預估調整"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29",
+    "est_eps_2026": 4.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "精選圖表",
+      "stance": "中立偏空",
+      "title": "萬寶精選圖表下修振曜2026年預估EPS至4.5元",
+      "close_price": null,
+      "est_eps": 4.5,
+      "est_pe": null,
+      "revenue_perf": "受消費電子換機步調與新機出貨時程影響",
+      "content": "萬寶投顧精選圖表下修振曜2026年預估EPS至4.5元，短期受消費電子換機步調與彩色電子紙出貨時程影響。",
+      "key_points": [
+        "萬寶將2026年預估EPS下修至4.5元",
+        "追蹤大尺寸彩色電子標籤拉貨動能"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "精選圖表",
+      "stance": "中立",
+      "title": "萬寶投顧調整振曜2026年預估EPS至4.5元",
+      "close_price": null,
+      "est_eps": 4.5,
+      "est_pe": null,
+      "revenue_perf": "2026年預估EPS微調至4.5元",
+      "content": "萬寶投顧最新精選圖表將電子紙整機與彩色閱讀器組裝廠振曜2026年預估EPS調整為4.5元，持續受惠彩色電子書換機潮與電子貨架標籤需求擴展。",
+      "key_points": [
+        "萬寶精選圖表調整2026預估EPS為4.5元",
+        "觀察彩色電子紙換機拉貨力道"
+      ]
+    }
+  ]
+}

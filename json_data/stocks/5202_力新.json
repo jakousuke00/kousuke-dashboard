@@ -1,0 +1,44 @@
+{
+  "stock_id": "5202",
+  "stock_name": "力新",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "系統整合與工程軟體 (其他)"
+    ],
+    "theme_tags": [
+      "AI辦公軟體"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-22",
+        "source": "萬寶產業報告-1022",
+        "category_mentioned": "綜合資訊軟體服務 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-22",
+    "close_price": 15.55,
+    "est_eps_2026": -2.0,
+    "est_pe": null
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-22",
+      "source_file": "萬寶產業報告-1022(萬寶晚報贈品).pdf",
+      "section": "五、重點個股 & 三、營運基本面",
+      "stance": "中性偏弱 (基本面落後)",
+      "title": "近5日上漲10.68%惟9月營收年減25.2%，預估EPS -2.0元",
+      "close_price": 15.55,
+      "price_change_5d_pct": 10.68,
+      "est_eps": -2.0,
+      "foreign_5d_lots": 913,
+      "revenue_perf": "9月營收年減25.2%",
+      "content": "雖受資服族群連動近5日上漲10.68%、外資買超913張，但基本面9月營收年減25.2%，萬寶預估2026年EPS為-2.0元，表現相對落後。",
+      "key_points": [
+        "9月營收年減25.2%，預估2026仍處虧損(EPS -2.0元)"
+      ]
+    }
+  ]
+}

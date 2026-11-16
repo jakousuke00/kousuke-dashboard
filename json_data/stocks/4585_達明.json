@@ -1,0 +1,46 @@
+{
+  "stock_id": "4585",
+  "stock_name": "達明",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "協作機器人",
+      "人形機器人"
+    ],
+    "theme_tags": [
+      "獲利暴增2.8倍",
+      "高負載機器人",
+      "AI智慧製造"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "今晚爆個股 > 機器人概念"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28",
+    "est_eps_2026": 3.4,
+    "est_pe": 78.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "今晚爆個股",
+      "stance": "強烈偏多",
+      "title": "達明前三季每股賺2.64元大增2.8倍，布局高負載與人形機器人",
+      "close_price": null,
+      "est_eps": 3.4,
+      "est_pe": 78.0,
+      "revenue_perf": "前三季純益2.77億元年增279.72%，毛利率高達51.83%",
+      "content": "前三季營收14.95億元年增11.02%，純益年增近2.8倍，EPS達2.64元。隨半導體與AI伺服器製造自動化需求大增，積極布局高負載及人形機器人，營運延續高成長動能。",
+      "key_points": [
+        "前三季純益大增279.72%，毛利率達51.83%",
+        "切入高負載與人形機器人應用拓展新藍海"
+      ]
+    }
+  ]
+}

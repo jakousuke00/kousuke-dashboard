@@ -1,0 +1,60 @@
+{
+  "stock_id": "6831",
+  "stock_name": "邁科",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "散熱模組",
+      "水冷散熱板",
+      "伺服器散熱"
+    ],
+    "theme_tags": [
+      "萬寶2026預估EPS下修",
+      "主動ETF清倉120張",
+      "兆豐豐收出清",
+      "散熱獲利結算",
+      "減碼第三名"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "華山論劍精選圖表 - 萬寶投顧2026年預估EPS"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "est_eps_2026": 10.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主動型ETF看盤",
+      "investment_rating": "中立觀察",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "主動兆豐台灣豐收(00996A)單日清倉120張，主動型ETF持股降至129張（比重大幅減少0.78個百分點至0.25%），高居主動型ETF減碼第三名，短線賣壓沉重。",
+      "key_points": [
+        "主動兆豐豐收ETF清倉120張，比重降至0.25%。",
+        "法人退場導致籌碼鬆動，待下檔支撐確認。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "主動型ETF單日大幅減持120張接近出清，籌碼面轉趨保守。"
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "華山論劍精選圖表",
+      "stance": "中性偏保守(EPS下修)",
+      "title": "萬寶投顧調整邁科2026年預估EPS為10元",
+      "est_eps": 10.0,
+      "content": "華山論劍精選圖表列示萬寶投顧最新2026年獲利預估調整，邁科(6831) 2026年預估EPS下修（↓）至10元。",
+      "key_points": [
+        "萬寶投顧下修2026年預估EPS至10元"
+      ]
+    }
+  ]
+}

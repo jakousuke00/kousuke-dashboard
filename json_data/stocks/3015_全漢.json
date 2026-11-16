@@ -1,0 +1,44 @@
+{
+  "stock_id": "3015",
+  "stock_name": "全漢",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "電源供應器"
+    ],
+    "theme_tags": [
+      "AI冗餘電源",
+      "BBU備援"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 電源供應器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "est_eps_2026": 2.5,
+    "est_pe": 22.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "AI冗餘電源與BBU帶動，前三季獲利勝去年全年",
+      "close_price": null,
+      "est_eps": 2.5,
+      "est_pe": 22.0,
+      "revenue_perf": "估EPS 2.5元，前三季獲利將勝去年全年",
+      "content": "3600W伺服器冗餘電源已量產，正開發4800W至6000W；內含BBU電源年底量產。在伺服器高規電源出貨加持下，外界預期前三季獲利將超越去年全年。",
+      "key_points": [
+        "3600W冗餘電源量產，BBU電源年底放量",
+        "伺服器電源拉貨帶動，前三季獲利勝去年全年"
+      ]
+    }
+  ]
+}

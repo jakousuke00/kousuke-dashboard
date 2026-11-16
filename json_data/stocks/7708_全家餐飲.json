@@ -1,0 +1,45 @@
+{
+  "stock_id": "7708",
+  "stock_name": "全家餐飲",
+  "industry_profile": {
+    "main_industry": "食品與民生消費",
+    "sub_industries": [
+      "連鎖連鎖餐飲",
+      "日式定食",
+      "韓式炸雞與燒肉"
+    ],
+    "theme_tags": [
+      "獲利逼近去年",
+      "展店效應",
+      "IP聯名行銷",
+      "內需成長"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 8.0,
+      "estimated_pe": 11.0,
+      "content": "Q3營收7.81億元、EPS 2.2元創同期新高；前三季營收22.49億元、稅後純益1.62億元年增25.9%，EPS 6.35元逼近去年全年。受惠大戶屋、IKIGAI燒肉熱銷與展店，9月底全台77家店，萬寶估全年EPS 8元。",
+      "key_points": [
+        "前三季每股賺6.35元逼近去年全年水準，Q3單季EPS 2.2元刷新同期紀錄。",
+        "年底餐飲旺季展店腳步加快，大戶屋進駐南港並將於11月續展店，本益比僅11倍。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 7.81,
+        "q3_eps": 2.2,
+        "three_q_revenue": 22.49,
+        "three_q_eps": 6.35
+      },
+      "chips_observation": "內需餐飲獲利爆發，本益比偏低且籌碼穩定，具備防禦避險特質。"
+    }
+  ]
+}

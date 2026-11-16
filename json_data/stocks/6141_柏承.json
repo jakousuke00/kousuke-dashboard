@@ -1,0 +1,45 @@
+{
+  "stock_id": "6141",
+  "stock_name": "柏承",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "HDI與高階光模組PCB"
+    ],
+    "theme_tags": [
+      "800G光模組HDI小量出貨",
+      "2027年有望轉虧為盈"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "PCB/MB產業 > 光模組PCB"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05",
+    "est_eps_2026": -2.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "高階800G光模組HDI板通過認證小量出貨，2027年有望轉虧為盈",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": -2.0,
+      "est_pe": null,
+      "revenue_perf": "8月營收2.73億元、年增98.64%創29個月新高；累計營收年增32.20%",
+      "content": "高階光模組板已陸續通過多家客戶認證並小量出貨，南通廠約17萬平方呎壓合產能可轉向光模組客戶，800G光模組HDI平均售價約20美元，毛利率優於既有產品，2027年Q1貢獻明顯。8月營收創29個月新高，2027年有望轉虧為盈。",
+      "key_points": [
+        "800G光模組HDI板通過認證小量出貨，2027年Q1顯著放量",
+        "8月營收2.73億元年增98.64%創29個月新高，明年拚轉盈"
+      ]
+    }
+  ]
+}

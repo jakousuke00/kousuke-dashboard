@@ -1,0 +1,104 @@
+{
+  "stock_id": "3035",
+  "stock_name": "智原",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "ASIC與矽智財(IP)",
+      "IC設計",
+      "ASIC設計服務"
+    ],
+    "theme_tags": [
+      "MIPI PHY IP通過聯電14奈米驗證",
+      "視覺AI與車用感測",
+      "三星2奈米",
+      "NRE創高",
+      "精選圖表上修",
+      "雲端AI",
+      "連二漲停",
+      "ASIC漲停"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "頭版主筆 / 產業焦點"
+      },
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "精選圖表 / 今晚爆個股"
+      },
+      {
+        "date": "2026-10-14",
+        "source": "萬寶晚報-10_14",
+        "category_mentioned": "半導體與設備檢測 > ASIC與IP"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "close_price": 231.5,
+    "est_eps_2026": 3.3,
+    "est_pe": 70.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "受惠AI資金轉向ASIC概念股全面反攻，智原於11/13盤中拉漲停。",
+      "key_points": [
+        "ASIC概念股全面反攻，盤中拉漲停"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "頭版主筆 / 產業焦點",
+      "stance": "強烈偏多",
+      "title": "智原奪美系客戶2奈米雲端AI專案，強鎖連二漲停板",
+      "close_price": 231.5,
+      "est_eps": 3.3,
+      "est_pe": 70.2,
+      "revenue_perf": "委託設計金額數千萬美元，預計2027上半年開始認列收入",
+      "content": "智原宣布奪下美系客戶2奈米GAA雲端AI大型NRE專案，委託設計金額數千萬美元，預計2027上半年認列收入。股價連拉第二根漲停收231.5元，法人買超9,108張。",
+      "key_points": [
+        "奪美系2奈米雲端AI大型專案，委託設計達數千萬美元",
+        "外資內資力挺，強勢連拉第二根漲停板231.5元"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "精選圖表 / 今晚爆個股",
+      "stance": "偏多",
+      "title": "智原攜三星接美系2奈米AI大單，萬寶上調今年EPS至3.3元",
+      "close_price": 210.5,
+      "est_eps": 3.3,
+      "est_pe": 63.8,
+      "revenue_perf": "Q3營收36.6億季增10.6%，IP營收4.48億元創單季新高",
+      "content": "法說表示拿下美系2奈米雲端AI晶片NRE大單，合約數千萬美元。Q3稅後純益2.79億元，萬寶上修今年EPS至3.3元，股價跳空漲停收210.5元，明年營運重返雙位數成長。",
+      "key_points": [
+        "攜手三星奪美系2奈米AI雲端晶片大單",
+        "萬寶上修2026年預估EPS至3.3元，跳空漲停"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "source_file": "萬寶晚報-10_14.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "MIPI C/D Combo PHY IP通過聯電14奈米驗證，漲停收211元",
+      "close_price": 211.0,
+      "price_change_pct": 9.9,
+      "volume_lots": 5691,
+      "est_eps": 2.7,
+      "est_pe": 78.0,
+      "revenue_perf": "新IP可縮減逾30%晶粒面積，搶攻邊緣AI與車用智慧感測",
+      "content": "推出MIPI C/D Combo PHY IP通過聯電14奈米FinFET製程矽驗證，鎖定視覺AI、機器視覺及車用感測器SoC，激勵股價漲停收211元。",
+      "key_points": [
+        "MIPI C/D Combo PHY IP通過聯電14奈米FinFET驗證",
+        "縮減逾30%晶粒面積，搶攻邊緣AI與機器視覺"
+      ]
+    }
+  ]
+}

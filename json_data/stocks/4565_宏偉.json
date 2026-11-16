@@ -1,0 +1,47 @@
+{
+  "stock_id": "4565",
+  "stock_name": "宏偉",
+  "industry_profile": {
+    "main_industry": "電機機械",
+    "sub_industries": [
+      "電梯製造",
+      "半導體無塵室貨梯"
+    ],
+    "theme_tags": [
+      "上半年EPS 5.66元",
+      "年增78%",
+      "半導體無塵室貨梯"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "興櫃搶先報"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-02",
+    "close_price": 125.0,
+    "est_eps_2026": 11.5,
+    "est_pe": 10.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "興櫃搶先報",
+      "stance": "強烈偏多",
+      "title": "宏偉上櫃前業績發表，上半年每股賺5.66元年增78%",
+      "close_price": 125.0,
+      "est_eps": 11.5,
+      "est_pe": 10.9,
+      "revenue_perf": "上半年營收10.2億元，稅後純益3.9億元年增78%，毛利率達43%",
+      "content": "宏偉舉辦上櫃前業績發表會。深耕電梯逾四十年並成功切入半導體供應鏈無塵室貨梯，新機毛利率43%、維修保養毛利率逾50%。上半年每股賺5.66元年增78%，未來聚焦高科技客製商機。",
+      "key_points": [
+        "深耕電梯40年成功切入半導體無塵室貨梯，上半年每股大賺5.66元",
+        "新機毛利率達43%、維保逾50%，將於近期正式掛牌上櫃"
+      ]
+    }
+  ]
+}

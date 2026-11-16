@@ -1,0 +1,28 @@
+{
+  "stock_id": "3048",
+  "stock_name": "益登",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "IC通路"
+    ],
+    "theme_tags": [
+      "AI伺服器",
+      "網通"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 6元。受惠AI伺服器、網通需求，Q3營收423.8億元創單季新高、EPS 1.77元(前三季4.91元)。今年處分蜜望實持股獲利約16.6億元直接認列股東權益。",
+      "key_points": [
+        "Q3營收創新高，前三季EPS 4.91元",
+        "處分蜜望實獲利16.6億元充實營運資金"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stock_id": "9955",
+  "stock_name": "佳龍",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "化工特化與鋼鐵塑化"
+    ],
+    "theme_tags": [
+      "轉虧為盈",
+      "環保複合板材"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "Q3本業由盈轉虧但靠業外轉正，EPS 0.13元、前三季EPS 1.1元轉盈。Q4營運望優於Q2與Q3；將拉升毛利率30%-50%的非貴金屬業務，CLGM板材2027年放量，估EPS 1.4元。",
+      "key_points": [
+        "前三季EPS 1.1元較去年同期轉虧為盈，Q4營運看升",
+        "CLGM環保複合板材2027年起放量，力拚2028年占比三成"
+      ]
+    }
+  ]
+}

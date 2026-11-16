@@ -1,0 +1,58 @@
+{
+  "stock_id": "6112",
+  "stock_name": "邁達特",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "雲端架構整合",
+      "AI企業應用代理",
+      "Splunk大數據資安",
+      "軟體、AI Agent與資服"
+    ],
+    "theme_tags": [
+      "佳世達集團",
+      "AWS最高級夥伴",
+      "Splunk代理",
+      "企業AI",
+      "AI Agent",
+      "AWS夥伴",
+      "雲端服務"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "前三季營收189.99億年增17%、EPS 1.78元；雲服務年增46%最快，AI運算營收占57.2%。2027年企業將走向正式導入AI Agent，今年取得AWS最高等級夥伴資格。",
+      "key_points": [
+        "前三季營業利益年增68%、EPS 1.78元，今年估3.5元",
+        "取得AWS最高等級夥伴資格，2027年金融/製造/政府AI Agent導入升溫"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 3.5,
+      "estimated_pe": 13.0,
+      "content": "前三季營收約190億元年增17%，歸屬母公司淨利3.36億元、每股1.78元年增48%。Q3營業利益1.34億元，惟受金融評價影響單季淨損1,300萬。取得AWS最高夥伴資格並代理Splunk，萬寶估今年EPS 3.5元。",
+      "key_points": [
+        "前三季每股賺1.78元年增48%，營業本業維持穩健成長，第四季迎接企業IT驗收旺季。",
+        "取得AWS最高等級合作夥伴資格，並代理Splunk深耕資安與AI數據中心市場。"
+      ],
+      "operational_metrics": {
+        "three_q_revenue": 190.0,
+        "three_q_net_income": 3.36,
+        "three_q_eps": 1.78,
+        "three_q_eps_growth": 48.0
+      },
+      "chips_observation": "本益比僅約13倍，評價處於歷史偏低區間，防禦性極佳。"
+    }
+  ]
+}

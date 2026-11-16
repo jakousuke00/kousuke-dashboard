@@ -1,0 +1,28 @@
+{
+  "stock_id": "6535",
+  "stock_name": "順藥",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "新藥開發"
+    ],
+    "theme_tags": [
+      "中風新藥",
+      "CAR-T"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS -2.5元。法說揭示2.0策略，集中資源推進中風新藥LT3001臨床，206探索性試驗已完成首位受試者入組，與上海醫藥合作之中國二/三期試驗啟動收案；同步布局CAR-T與CRISPR基因編輯。",
+      "key_points": [
+        "2.0策略聚焦中風新藥LT3001臨床",
+        "細胞治療採分靶點授權CAR-T並布局CRISPR"
+      ]
+    }
+  ]
+}

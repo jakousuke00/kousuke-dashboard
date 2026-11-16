@@ -1,0 +1,1277 @@
+{
+  "processed_files": {
+    "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-01",
+      "report_type": "萬寶產業報告",
+      "main_topic": "房地產/營造產業報告：大盤重挫下抗跌，外資五日買超5.3萬張",
+      "extracted_stocks_count": 12
+    },
+    "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-02",
+      "report_type": "萬寶產業報告",
+      "main_topic": "砷化鎵產業報告：穩懋五日漲21%，投信五日買超3.3萬張",
+      "extracted_stocks_count": 11
+    },
+    "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-03",
+      "report_type": "萬寶產業報告",
+      "main_topic": "觀光飯店產業報告：大盤重挫下僅跌0.5%，9月營收年增14.1%",
+      "extracted_stocks_count": 10
+    }
+  },
+  "industries_updates": [
+    {
+      "main_industry": "房地產/營造",
+      "wanbao_70_sector": "房地產/營造產業",
+      "sub_categories": {
+        "地產借殼": {
+          "description": "近5日上漲0.9%，近20日成交值239億元居各細分類之冠；近5日法人買超1.1萬張，9月營收34.9億元、年增267.6%。",
+          "stocks": [
+            {"id": "6199", "name": "天品", "role": "9月營收年增146.6%、累計年增431.2%，近5日漲8.45%居冠"},
+            {"id": "4714", "name": "永捷", "role": "9月營收年增62.2%，近5日漲2.89%"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "營造/公共工程": {
+          "description": "近5日上漲0.9%，近20日成交值135億元；近5日法人買超8,841張，9月營收306.6億元、年增19.8%，為營收規模最大的細分類。",
+          "stocks": [
+            {"id": "2516", "name": "新建", "role": "近5日漲7.26%，9月營收年減45.5%"},
+            {"id": "2535", "name": "達欣工", "role": "近5日漲5.08%，9月營收年增21.6%"},
+            {"id": "9933", "name": "中鼎", "role": "外資近5日買超13,158張，9月營收年增4.3%"},
+            {"id": "2597", "name": "潤弘", "role": "近5日漲0.89%，萬寶預估EPS 10.6元"},
+            {"id": "2504", "name": "國產", "role": "外資近5日買超3,273張，預估本益比10.7倍"},
+            {"id": "2515", "name": "中工", "role": "9月營收年增24.0%，外資近5日賣超10,734張"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "營建開發與指標建商": {
+          "description": "涵蓋北中南指標營建股，建商月營收受交屋認列時點影響大，9月整體產業營收年增45.1%。",
+          "stocks": [
+            {"id": "1808", "name": "潤隆", "role": "9月營收因低基期年增63,462.8%，外資近5日買超10,840張"},
+            {"id": "5522", "name": "遠雄", "role": "9月營收年增262.5%、累計年增110.5%"},
+            {"id": "2542", "name": "興富發", "role": "9月營收年增103.7%、累計年增228.4%，外資近5日買超13,156張"},
+            {"id": "2548", "name": "華固", "role": "9月營收年減21.5%，今年累計年增60.0%"},
+            {"id": "5534", "name": "長虹", "role": "9月營收年減50.5%，今年累計年增33.7%"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        }
+      },
+      "report_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "report_type": "萬寶產業報告",
+        "stance": "抗跌偏多",
+        "headline": "房地產/營造產業報告：大盤重挫下抗跌，外資五日買超5.3萬張",
+        "market_performance": "10/30台股重挫，本產業僅跌1.1%明顯抗跌；近5日大致持平，近20日漲0.3%優於大盤；上週五成交值30.6億元占大盤0.27%。",
+        "industry_dynamics": "建商月營收受交屋認列時點影響大，興富發9月營收年增103.7%、前9月累計年增228.4%，兼具規模與成長。",
+        "chips_and_funds": "近5日三大法人買超4.9萬張，主力為外資買超5.3萬張，投信賣超1,510張；近20日外資買超11.3萬張，呈現外資偏多、內資偏空分歧，近5日融資減5,747張。",
+        "fundamentals": "9月營收合計746.9億元，月增29.6%、年增45.1%，累計年增23.8%；遠雄、興富發、天品、潤隆單月年增突出。",
+        "sub_sector_breakdown": "地產借殼近20日成交值239億元居冠；營造/公共工程9月營收306.6億元規模最大；台南營建股近5日漲1.1%最佳，中台灣營建股跌4.5%最深。",
+        "future_watch": "觀察大盤修正期間抗跌輪動與成交占比、外資買盤延續性、10月交屋認列進度，以及天品等高評價股量能變化。"
+      }
+    },
+    {
+      "main_industry": "砷化鎵",
+      "wanbao_70_sector": "砷化鎵產業",
+      "sub_categories": {
+        "砷化鎵中游晶圓製造": {
+          "description": "共3檔，近5日上漲15.2%表現最強，近20日成交值3,499億元居首；近5日法人買超2.7萬張，9月營收28.9億元、年增33.9%。",
+          "stocks": [
+            {"id": "3105", "name": "穩懋", "role": "中游晶圓代工龍頭，受惠航太衛星與光通訊，近5日大漲21.0%"},
+            {"id": "8086", "name": "宏捷科", "role": "中游PA晶圓代工，9月營收年增8.4%，近5日跌4.98%"},
+            {"id": "4991", "name": "環宇-KY", "role": "化合物半導體晶圓代工，9月營收年增112.9%、月增65.9%"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "砷化鎵下游封裝測試": {
+          "description": "共4檔，近5日上漲2.6%，近20日成交值3,359億元；近5日法人賣超5,206張，9月營收920.0億元、年增44.5%，占產業營收絕大部分。",
+          "stocks": [
+            {"id": "3711", "name": "日月光投控", "role": "封測龍頭，上修資本支出與LEAP先進封裝預估，9月營收年增45.5%"},
+            {"id": "6271", "name": "同欣電", "role": "RF與混合積體電路封測，11/2單日大漲9.9%，9月營收年增22.1%"},
+            {"id": "2369", "name": "菱生", "role": "封測廠，9月營收年增23.9%，近5日跌3.65%"},
+            {"id": "6257", "name": "矽格", "role": "封測廠，9月營收年增26.3%，近5日跌9.27%"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "砷化鎵上游磊晶片、IC設計": {
+          "description": "共4檔，近5日大致持平，近20日成交值2,900億元；近5日法人賣超2,003張，9月營收14.3億元、年增48.7%居各細類最高。",
+          "stocks": [
+            {"id": "3081", "name": "聯亞", "role": "上游磊晶片，9月營收年增190.2%居冠，帶動細類營收成長"},
+            {"id": "2455", "name": "全新", "role": "上游磊晶片龍頭，9月營收年增29.5%"},
+            {"id": "4971", "name": "IET-KY", "role": "MBE磊晶片廠，9月營收年增11.4%"},
+            {"id": "4968", "name": "立積", "role": "射頻IC設計，9月營收與去年同期持平"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        }
+      },
+      "report_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "report_type": "萬寶產業報告",
+        "stance": "偏多",
+        "headline": "砷化鎵產業報告：穩懋五日漲21%，投信五日買超3.3萬張",
+        "market_performance": "11/2逆勢上漲1.1%，近5日漲3.4%在萬寶70大產業排第2；今年以來累計大漲189.2%，單日成交值479.6億元占大盤5.1%，資金明顯升溫。",
+        "industry_dynamics": "穩懋Q3受惠航太衛星與光通訊挹注，毛利率拉高、EPS創近年新高，Q4預估營收季增低個位數；日月光投控上修資本支出與先進封裝LEAP營收預估。",
+        "chips_and_funds": "近5日三大法人買超2.0萬張，投信買超3.3萬張最積極、外資賣超1.4萬張；外資集中買超穩懋2.2萬張，日月光投控則呈現土洋對作。",
+        "fundamentals": "9月營收合計963.1億元，月增6.8%、年增44.2%，累計年增30.0%；除立積持平外其餘10檔皆年增，聯亞年增190.2%居冠、環宇-KY年增112.9%。",
+        "sub_sector_breakdown": "中游晶圓製造近5日漲15.2%最強；下游封測營收規模最大（920億元）；上游磊晶片與IC設計9月營收年增48.7%最高。",
+        "future_watch": "觀察穩懋航太衛星與光通訊專案在10-11月營收表現、日月光投控土洋籌碼拉鋸、成交占比5.1%熱度延續性，及聯亞與環宇-KY高成長續航力。"
+      }
+    },
+    {
+      "main_industry": "觀光飯店",
+      "wanbao_70_sector": "觀光飯店產業",
+      "sub_categories": {
+        "連鎖飯店品牌": {
+          "description": "受惠半導體展、中秋連假及企業尾牙外燴訂單，指標品牌營運穩健。",
+          "stocks": [
+            {"id": "2707", "name": "晶華", "role": "連鎖飯店龍頭，9月營收創同期新高年增9.2%，近20日成交值5.3億元居首"},
+            {"id": "2748", "name": "雲品", "role": "連鎖餐旅與飯店，9月營收年增28.2%，近5日跌1.70%"},
+            {"id": "5704", "name": "老爺知", "role": "溫泉度假連鎖飯店，9月營收年增26.7%，預估本益比7.3倍"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "都會老字號飯店": {
+          "description": "涵蓋台北與高雄都會區老字號飯店，營運與股價表現分歧。",
+          "stocks": [
+            {"id": "2704", "name": "國賓", "role": "近5日唯一上漲(+0.89%)，9月營收年增35.9%、月增39.5%"},
+            {"id": "2739", "name": "寒舍", "role": "9月營收年減1.1%，殖利率7.59%為表列最高"},
+            {"id": "2706", "name": "第一店", "role": "9月營收持平，外資近5日買超68張"},
+            {"id": "2702", "name": "華園", "role": "9月營收年增24.3%，近5日跌2.93%"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "休閒度假與主題樂園": {
+          "description": "結合主題樂園、休閒度假與娛樂業務之觀光業者。",
+          "stocks": [
+            {"id": "2705", "name": "六福", "role": "9月營收年增26.5%，外資近5日買超574張居冠"},
+            {"id": "2722", "name": "夏都", "role": "9月營收年增40.6%為表列最高，預估EPS -0.6元"},
+            {"id": "3252", "name": "海灣", "role": "9月營收年減15.4%，近5日跌0.34%"}
+          ],
+          "mentioned_unlisted_or_peers": []
+        }
+      },
+      "report_entry": {
+        "date": "2026-11-03",
+        "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "report_type": "萬寶產業報告",
+        "stance": "中性抗跌",
+        "headline": "觀光飯店產業報告：大盤重挫下僅跌0.5%，9月營收年增14.1%",
+        "market_performance": "11/3台股重挫，觀光飯店僅跌0.5%，近5日跌1.0%在68個產業排第12名，展現防禦抗跌性，惟單日成交值僅0.5億元較為清淡。",
+        "industry_dynamics": "晶華9月營收創同期新高，受惠半導體展、中秋連假與精品周年慶，Q4積極爭取尾牙外燴訂單，並看待國際品牌飯店加入屬良性競爭有助推升房價。",
+        "chips_and_funds": "近5日三大法人買超886張（外資買超857張為主），買超占成交量比重排第7名；外資近5日買超最多為六福574張、晶華122張。",
+        "fundamentals": "9月營收合計20.9億元，月減4.9%、年增14.1%，累計年增1.8%；夏都年增40.6%、國賓35.9%、雲品28.2%、老爺知26.7%、六福26.5%表現突出。",
+        "sub_sector_breakdown": "萬寶細分類中歸為「其他」共14檔，依營運型態分為連鎖飯店品牌（晶華成交值最高）、都會老字號飯店（國賓近5日唯一收紅）、休閒度假與主題樂園（夏都營收年增最高）。",
+        "future_watch": "觀察抗跌表現與外資回補延續性、10月營收動能、Q4尾牙外燴與旅展實際營收貢獻，以及國際品牌飯店加入對房價與住房率影響。"
+      }
+    }
+  ],
+  "stocks_updates": [
+    {
+      "stock_id": "6199",
+      "stock_name": "天品",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["地產借殼"],
+      "theme_tags": ["地產借殼", "營收高成長", "52週新高"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 地產借殼"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "天品近5日漲8.45%居冠，9月營收年增146.6%",
+        "close_price": 160.50,
+        "price_change_5d_pct": 8.45,
+        "foreign_5d_lots": 1298,
+        "est_eps": 4.0,
+        "est_pe": 40.1,
+        "revenue_perf": "9月營收年增146.6%，今年累計年增431.2%",
+        "content": "近5日上漲8.45%居表列個股之首，近20日漲27.4%、今年以來漲48.6%，收盤160.50元創52週高點。近20日成交值205.5億元為表列最高；9月營收年增146.6%、累計年增431.2%，萬寶預估EPS 4.0元，預估本益比40.1倍。",
+        "key_points": [
+          "股價創52週高點，近20日成交值205.5億元居表列之冠",
+          "9月營收年增146.6%、累計年增431.2%，預估EPS 4.0元"
+        ]
+      }
+    },
+    {
+      "stock_id": "2516",
+      "stock_name": "新建",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["營造/公共工程"],
+      "theme_tags": ["公共工程", "營造"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營造/公共工程"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性偏多",
+        "title": "新建近5日上漲7.26%，外資買超486張",
+        "close_price": 16.25,
+        "price_change_5d_pct": 7.26,
+        "foreign_5d_lots": 486,
+        "est_eps": 1.2,
+        "est_pe": 13.5,
+        "revenue_perf": "9月營收年減45.5%",
+        "content": "收盤16.25元，近5日逆勢上漲7.26%居表列第二，外資近5日買超486張。雖9月單月營收年減45.5%，但萬寶預估2026年EPS為1.2元，預估本益比13.5倍。",
+        "key_points": [
+          "近5日上漲7.26%，股價表現強於大盤",
+          "萬寶預估2026年EPS 1.2元，預估本益比13.5倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "2535",
+      "stock_name": "達欣工",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["營造/公共工程"],
+      "theme_tags": ["營造", "廠房工程", "低本益比"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營造/公共工程"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "達欣工近5日漲5.08%，預估EPS達10.0元",
+        "close_price": 93.00,
+        "price_change_5d_pct": 5.08,
+        "foreign_5d_lots": 1034,
+        "est_eps": 10.0,
+        "est_pe": 9.3,
+        "revenue_perf": "9月營收年增21.6%",
+        "content": "收盤93.00元，近5日上漲5.08%，外資近5日買超1,034張。9月營收年增21.6%，萬寶預估2026年EPS達10.0元，預估本益比僅9.3倍，兼具獲利與低評價優勢。",
+        "key_points": [
+          "9月營收年增21.6%，外資近5日買超1,034張",
+          "萬寶預估EPS 10.0元，預估本益比9.3倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "1808",
+      "stock_name": "潤隆",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["營建開發與指標建商"],
+      "theme_tags": ["建商交屋", "外資買超", "低本益比"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營建開發與指標建商"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "潤隆外資近5日買超逾萬張，預估本益比9.0倍",
+        "close_price": 35.95,
+        "price_change_5d_pct": 4.66,
+        "foreign_5d_lots": 10840,
+        "est_eps": 4.0,
+        "est_pe": 9.0,
+        "revenue_perf": "9月營收年增63,462.8%（去年同期基期極低）",
+        "content": "收盤35.95元，近5日上漲4.66%，外資近5日大舉買超10,840張。9月營收因去年同期基期極低，年增率高達63,462.8%；萬寶預估2026年EPS 4.0元，預估本益比9.0倍。",
+        "key_points": [
+          "外資近5日買超10,840張，推升股價近5日漲4.66%",
+          "萬寶預估EPS 4.0元，預估本益比9.0倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "9933",
+      "stock_name": "中鼎",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["營造/公共工程"],
+      "theme_tags": ["統包工程", "外資買超"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營造/公共工程"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "中鼎外資近5日買超1.3萬張居冠，今年大漲51.1%",
+        "close_price": 45.30,
+        "price_change_5d_pct": 3.66,
+        "foreign_5d_lots": 13158,
+        "est_eps": 5.0,
+        "est_pe": 9.1,
+        "revenue_perf": "9月營收年增4.3%，今年累計年減12.0%",
+        "content": "上週五下跌5.4%，但近5日仍上漲3.66%，今年以來上漲51.1%。外資近5日買超13,158張居表列最高，近20日三大法人買超2.6萬張；9月營收年增4.3%，萬寶預估EPS 5.0元、預估本益比9.1倍。",
+        "key_points": [
+          "外資近5日買超13,158張居冠，近20日法人買超2.6萬張",
+          "萬寶預估EPS 5.0元，預估本益比9.1倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "5522",
+      "stock_name": "遠雄",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["營建開發與指標建商"],
+      "theme_tags": ["建商交屋", "高殖利率", "營收大增"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營建開發與指標建商"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "遠雄9月營收年增262.5%，殖利率達9.05%",
+        "close_price": 60.80,
+        "price_change_5d_pct": 3.21,
+        "foreign_5d_lots": 1419,
+        "est_eps": 6.0,
+        "est_pe": 10.1,
+        "revenue_perf": "9月營收年增262.5%、月增54.0%，今年累計年增110.5%",
+        "content": "近5日上漲3.21%，9月營收年增262.5%、月增54.0%，今年累計年增110.5%表現亮眼。今年以來股價仍跌9.4%，近四季本益比6.1倍、股價淨值比1.00倍、殖利率9.05%，萬寶預估EPS 6.0元。",
+        "key_points": [
+          "9月營收年增262.5%、累計年增110.5%，交屋動能強勁",
+          "殖利率達9.05%，股價淨值比1.00倍，預估EPS 6.0元"
+        ]
+      }
+    },
+    {
+      "stock_id": "4714",
+      "stock_name": "永捷",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["地產借殼"],
+      "theme_tags": ["地產借殼", "營收成長"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 地產借殼"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "永捷9月營收年增62.2%，近5日上漲2.89%",
+        "close_price": 12.45,
+        "price_change_5d_pct": 2.89,
+        "foreign_5d_lots": -700,
+        "est_eps": -0.2,
+        "est_pe": null,
+        "revenue_perf": "9月營收年增62.2%",
+        "content": "收盤12.45元，近5日上漲2.89%，9月營收年增62.2%。外資近5日賣超700張，萬寶預估2026年EPS為-0.2元。",
+        "key_points": [
+          "9月營收年增62.2%，近5日股價上漲2.89%",
+          "外資近5日賣超700張，預估EPS -0.2元"
+        ]
+      }
+    },
+    {
+      "stock_id": "2597",
+      "stock_name": "潤弘",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["營造/公共工程"],
+      "theme_tags": ["預鑄工法", "營造高獲利"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營造/公共工程"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性偏多",
+        "title": "潤弘萬寶預估EPS達10.6元居表列最高",
+        "close_price": 170.50,
+        "price_change_5d_pct": 0.89,
+        "foreign_5d_lots": 485,
+        "est_eps": 10.6,
+        "est_pe": 16.1,
+        "revenue_perf": "9月營收年減3.8%",
+        "content": "收盤170.50元，近5日小漲0.89%，外資近5日買超485張。9月營收年減3.8%，萬寶預估2026年EPS達10.6元為表列最高，預估本益比16.1倍。",
+        "key_points": [
+          "萬寶預估2026年EPS 10.6元居表列之冠",
+          "外資近5日買超485張，股價抗跌收紅"
+        ]
+      }
+    },
+    {
+      "stock_id": "2504",
+      "stock_name": "國產",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["營造/公共工程"],
+      "theme_tags": ["預拌混凝土", "外資買超"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營造/公共工程"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性偏多",
+        "title": "國產外資近5日買超3,273張，預估本益比10.7倍",
+        "close_price": 32.20,
+        "price_change_5d_pct": 0.31,
+        "foreign_5d_lots": 3273,
+        "est_eps": 3.0,
+        "est_pe": 10.7,
+        "revenue_perf": "9月營收年減2.3%",
+        "content": "收盤32.20元，近5日微漲0.31%，外資近5日買超3,273張。9月營收年減2.3%，萬寶預估2026年EPS 3.0元，預估本益比10.7倍。",
+        "key_points": [
+          "外資近5日買超3,273張，籌碼穩健",
+          "萬寶預估EPS 3.0元，預估本益比10.7倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "2542",
+      "stock_name": "興富發",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["營建開發與指標建商"],
+      "theme_tags": ["營建龍頭", "高殖利率", "外資買超", "低本益比"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營建開發與指標建商"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "興富發前9月營收年增228.4%，外資5日買超1.3萬張",
+        "close_price": 39.30,
+        "price_change_5d_pct": -2.00,
+        "foreign_5d_lots": 13156,
+        "est_eps": 4.5,
+        "est_pe": 8.7,
+        "revenue_perf": "9月營收年增103.7%、月增102.4%，前9月累計年增228.4%",
+        "content": "近5日下跌2.0%，但外資近5日買超13,156張、近20日三大法人買超4.0萬張。9月營收年增103.7%、前9月累計年增228.4%，殖利率10.18%，萬寶預估EPS 4.5元、預估本益比8.7倍為表列最低。",
+        "key_points": [
+          "9月營收年增103.7%、前9月累計年增228.4%，規模與成長兼具",
+          "外資近5日買超13,156張，預估本益比8.7倍為表列最低、殖利率10.18%"
+        ]
+      }
+    },
+    {
+      "stock_id": "2548",
+      "stock_name": "華固",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["營建開發與指標建商"],
+      "theme_tags": ["北部建商", "商辦與住宅"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營建開發與指標建商"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "華固今年累計營收年增60.0%，預估EPS 7.0元",
+        "close_price": 90.40,
+        "price_change_5d_pct": -2.27,
+        "foreign_5d_lots": -936,
+        "est_eps": 7.0,
+        "est_pe": 12.9,
+        "revenue_perf": "9月營收年減21.5%，今年累計年增60.0%",
+        "content": "收盤90.40元，近5日下跌2.27%，外資近5日賣超936張。雖9月單月營收年減21.5%，但今年累計仍年增60.0%；萬寶預估2026年EPS 7.0元，預估本益比12.9倍。",
+        "key_points": [
+          "今年累計營收年增60.0%，單月受交屋認列時點影響年減21.5%",
+          "萬寶預估EPS 7.0元，預估本益比12.9倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "5534",
+      "stock_name": "長虹",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["營建開發與指標建商"],
+      "theme_tags": ["北部建商", "商辦與住宅"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營建開發與指標建商"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "長虹累計營收年增33.7%，外資近5日買超556張",
+        "close_price": 67.70,
+        "price_change_5d_pct": -2.87,
+        "foreign_5d_lots": 556,
+        "est_eps": 6.0,
+        "est_pe": 11.3,
+        "revenue_perf": "9月營收年減50.5%，今年累計年增33.7%",
+        "content": "收盤67.70元，近5日下跌2.87%，外資近5日買超556張。9月營收年減50.5%，但今年累計年增33.7%；萬寶預估2026年EPS 6.0元，預估本益比11.3倍。",
+        "key_points": [
+          "今年累計營收年增33.7%，外資近5日買超556張",
+          "萬寶預估EPS 6.0元，預估本益比11.3倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "2515",
+      "stock_name": "中工",
+      "main_industry": "房地產/營造",
+      "sub_industries": ["營造/公共工程"],
+      "theme_tags": ["公共工程", "都更開發", "低股價淨值比"],
+      "classification_entry": {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營造/公共工程"
+      },
+      "analysis_entry": {
+        "date": "2026-11-01",
+        "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性偏空",
+        "title": "中工外資近5日賣超逾萬張，股價接近52週低點",
+        "close_price": 11.35,
+        "price_change_5d_pct": -3.81,
+        "foreign_5d_lots": -10734,
+        "est_eps": 0.6,
+        "est_pe": 18.9,
+        "revenue_perf": "9月營收年增24.0%",
+        "content": "近5日下跌3.81%，外資近5日賣超10,734張為表列賣超最多者；收盤11.35元接近52週低點11.10元，股價淨值比0.79倍。9月營收年增24.0%，萬寶預估EPS 0.6元。",
+        "key_points": [
+          "外資近5日賣超10,734張最多，股價接近52週低點",
+          "9月營收年增24.0%，股價淨值比0.79倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "3105",
+      "stock_name": "穩懋",
+      "main_industry": "砷化鎵",
+      "sub_industries": ["砷化鎵中游晶圓製造"],
+      "theme_tags": ["PA晶圓代工", "航太衛星", "光通訊", "外資投信同買"],
+      "classification_entry": {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵中游晶圓製造"
+      },
+      "analysis_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "穩懋近5日大漲21%，受惠航太衛星與光通訊挹注",
+        "close_price": 588.00,
+        "price_change_5d_pct": 20.99,
+        "foreign_5d_lots": 22125,
+        "est_eps": 13.0,
+        "est_pe": 45.2,
+        "revenue_perf": "9月營收年增30.0%、月增4.8%，今年累計年增32.6%",
+        "content": "收588.00元，近5日大漲21.0%居冠，今年累計大漲221.3%。Q3受惠航太衛星與光通訊挹注，毛利率拉高、EPS創近年新高；近5日外資買超2.2萬張、投信買超2,956張，萬寶預估EPS 13.0元。",
+        "key_points": [
+          "Q3受惠航太衛星與光通訊，毛利率拉高，Q4預估營收季增低個位數",
+          "近5日外資買超2.2萬張、投信買超2,956張，股價近5日大漲21%"
+        ]
+      }
+    },
+    {
+      "stock_id": "3711",
+      "stock_name": "日月光投控",
+      "main_industry": "砷化鎵",
+      "sub_industries": ["砷化鎵下游封裝測試"],
+      "theme_tags": ["先進封裝LEAP", "資本支出上修", "土洋對作"],
+      "classification_entry": {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵下游封裝測試"
+      },
+      "analysis_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "日月光投控上修資本支出與先進封裝預估，投信大買2.3萬張",
+        "close_price": 674.00,
+        "price_change_5d_pct": 3.06,
+        "foreign_5d_lots": -26025,
+        "est_eps": 21.0,
+        "est_pe": 32.1,
+        "revenue_perf": "9月營收年增45.5%、月增7.2%",
+        "content": "收674.00元，近5日上漲3.06%。法說會上修今年資本支出預算與先進封裝(LEAP)營收預估；籌碼面外資近5日賣超2.6萬張、投信買超2.3萬張激烈對作，9月營收年增45.5%，預估EPS 21.0元。",
+        "key_points": [
+          "再度上修今年資本支出與先進封裝(LEAP)營收預估",
+          "9月營收年增45.5%，近5日投信買超2.3萬張、外資賣超2.6萬張"
+        ]
+      }
+    },
+    {
+      "stock_id": "3081",
+      "stock_name": "聯亞",
+      "main_industry": "砷化鎵",
+      "sub_industries": ["砷化鎵上游磊晶片、IC設計"],
+      "theme_tags": ["光通訊磊晶", "矽光子", "營收高成長"],
+      "classification_entry": {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵上游磊晶片、IC設計"
+      },
+      "analysis_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "聯亞9月營收年增190.2%居冠，股價達2,415元",
+        "close_price": 2415.00,
+        "price_change_5d_pct": 1.68,
+        "foreign_5d_lots": -2084,
+        "est_eps": 21.0,
+        "est_pe": 115.0,
+        "revenue_perf": "9月營收年增190.2%，今年累計年增136.3%",
+        "content": "收盤2,415.00元，近5日上漲1.68%，外資近5日賣超2,084張。9月營收年增190.2%、今年累計年增136.3%，成長幅度居表列之冠，帶動上游細類表現；萬寶預估EPS 21.0元。",
+        "key_points": [
+          "9月營收年增190.2%、累計年增136.3%，成長幅度居全表之冠",
+          "萬寶預估2026年EPS 21.0元，預估本益比115.0倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "6271",
+      "stock_name": "同欣電",
+      "main_industry": "砷化鎵",
+      "sub_industries": ["砷化鎵下游封裝測試"],
+      "theme_tags": ["RF封裝", "陶瓷基板", "低本益比"],
+      "classification_entry": {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵下游封裝測試"
+      },
+      "analysis_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "同欣電單日強漲9.9%居冠，9月營收年增22.1%",
+        "close_price": 216.50,
+        "price_change_5d_pct": 0.70,
+        "foreign_5d_lots": 8,
+        "est_eps": 10.0,
+        "est_pe": 21.7,
+        "revenue_perf": "9月營收年增22.1%",
+        "content": "11/2單日大漲9.9%為表列漲幅最大，收216.50元，近5日累計上漲0.70%。9月營收年增22.1%，近四季本益比19.3倍，萬寶預估今年EPS 10.0元、預估本益比21.7倍。",
+        "key_points": [
+          "11/2單日大漲9.9%居表列之冠，9月營收年增22.1%",
+          "萬寶預估EPS 10.0元，預估本益比21.7倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "2369",
+      "stock_name": "菱生",
+      "main_industry": "砷化鎵",
+      "sub_industries": ["砷化鎵下游封裝測試"],
+      "theme_tags": ["射頻封測", "IC封測"],
+      "classification_entry": {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵下游封裝測試"
+      },
+      "analysis_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "菱生9月營收年增23.9%，近5日股價回檔3.65%",
+        "close_price": 27.75,
+        "price_change_5d_pct": -3.65,
+        "foreign_5d_lots": -312,
+        "est_eps": 0.7,
+        "est_pe": 39.6,
+        "revenue_perf": "9月營收年增23.9%",
+        "content": "收盤27.75元，近5日下跌3.65%，外資近5日賣超312張。9月營收年增23.9%維持成長，萬寶預估今年EPS 0.7元，預估本益比39.6倍。",
+        "key_points": [
+          "9月營收年增23.9%，基本面保持年增",
+          "萬寶預估EPS 0.7元，預估本益比39.6倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "2455",
+      "stock_name": "全新",
+      "main_industry": "砷化鎵",
+      "sub_industries": ["砷化鎵上游磊晶片、IC設計"],
+      "theme_tags": ["MOCVD磊晶", "光電子與微電子"],
+      "classification_entry": {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵上游磊晶片、IC設計"
+      },
+      "analysis_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "全新9月營收年增29.5%，外資近5日賣超5,604張",
+        "close_price": 449.50,
+        "price_change_5d_pct": -3.75,
+        "foreign_5d_lots": -5604,
+        "est_eps": 5.5,
+        "est_pe": 81.7,
+        "revenue_perf": "9月營收年增29.5%",
+        "content": "收盤449.50元，近5日下跌3.75%，外資近5日賣超5,604張。9月營收年增29.5%，萬寶預估今年EPS 5.5元，預估本益比81.7倍。",
+        "key_points": [
+          "9月營收年增29.5%，惟外資近5日調節賣超5,604張",
+          "萬寶預估EPS 5.5元，預估本益比81.7倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "4971",
+      "stock_name": "IET-KY",
+      "main_industry": "砷化鎵",
+      "sub_industries": ["砷化鎵上游磊晶片、IC設計"],
+      "theme_tags": ["MBE磊晶", "磷化銦", "砷化鎵"],
+      "classification_entry": {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵上游磊晶片、IC設計"
+      },
+      "analysis_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "IET-KY 9月營收年增11.4%，預估EPS 6.0元",
+        "close_price": 432.00,
+        "price_change_5d_pct": -4.00,
+        "foreign_5d_lots": 52,
+        "est_eps": 6.0,
+        "est_pe": 72.0,
+        "revenue_perf": "9月營收年增11.4%",
+        "content": "收盤432.00元，近5日下跌4.00%，外資近5日小買52張。9月營收年增11.4%，萬寶預估今年EPS 6.0元，預估本益比72.0倍。",
+        "key_points": [
+          "9月營收年增11.4%，外資近5日買超52張",
+          "萬寶預估EPS 6.0元，預估本益比72.0倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "4968",
+      "stock_name": "立積",
+      "main_industry": "砷化鎵",
+      "sub_industries": ["砷化鎵上游磊晶片、IC設計"],
+      "theme_tags": ["射頻前端IC", "Wi-Fi FEM"],
+      "classification_entry": {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵上游磊晶片、IC設計"
+      },
+      "analysis_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "立積9月營收持平，預估EPS 3.0元",
+        "close_price": 87.90,
+        "price_change_5d_pct": -4.04,
+        "foreign_5d_lots": -141,
+        "est_eps": 3.0,
+        "est_pe": 29.3,
+        "revenue_perf": "9月營收年增0.0%（與去年同期持平）",
+        "content": "收盤87.90元，近5日下跌4.04%，外資近5日賣超141張。9月營收與去年同期持平，為表列11檔中唯一未呈現年增者；萬寶預估今年EPS 3.0元，預估本益比29.3倍。",
+        "key_points": [
+          "9月營收與去年同期持平，近5日下跌4.04%",
+          "萬寶預估EPS 3.0元，預估本益比29.3倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "8086",
+      "stock_name": "宏捷科",
+      "main_industry": "砷化鎵",
+      "sub_industries": ["砷化鎵中游晶圓製造"],
+      "theme_tags": ["PA晶圓代工", "手機PA"],
+      "classification_entry": {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵中游晶圓製造"
+      },
+      "analysis_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "宏捷科外資近5日買超1,370張，預估本益比20.8倍",
+        "close_price": 114.50,
+        "price_change_5d_pct": -4.98,
+        "foreign_5d_lots": 1370,
+        "est_eps": 5.5,
+        "est_pe": 20.8,
+        "revenue_perf": "9月營收年增8.4%",
+        "content": "收盤114.50元，近5日下跌4.98%，但外資近5日逆勢買超1,370張。9月營收年增8.4%，萬寶預估今年EPS 5.5元，預估本益比20.8倍為表列最低。",
+        "key_points": [
+          "外資近5日買超1,370張，9月營收年增8.4%",
+          "萬寶預估EPS 5.5元，預估本益比20.8倍為表列最低"
+        ]
+      }
+    },
+    {
+      "stock_id": "4991",
+      "stock_name": "環宇-KY",
+      "main_industry": "砷化鎵",
+      "sub_industries": ["砷化鎵中游晶圓製造"],
+      "theme_tags": ["光電與RF晶圓代工", "營收大幅跳升"],
+      "classification_entry": {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵中游晶圓製造"
+      },
+      "analysis_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性偏多",
+        "title": "環宇-KY 9月營收年增112.9%、月增65.9%單月跳升最明顯",
+        "close_price": 391.50,
+        "price_change_5d_pct": -5.66,
+        "foreign_5d_lots": 227,
+        "est_eps": 5.5,
+        "est_pe": 71.2,
+        "revenue_perf": "9月營收年增112.9%、月增65.9%，今年累計年增54.6%",
+        "content": "9月營收年增112.9%、月增65.9%，今年累計年增54.6%，單月跳升最明顯且動能強勁；惟股價近5日下跌5.66%、近20日跌19.8%，股價與營收出現落差。萬寶預估EPS 5.5元。",
+        "key_points": [
+          "9月營收年增112.9%、月增65.9%，營運成長強勁",
+          "近5日股價回檔5.66%，外資小幅買超227張，預估EPS 5.5元"
+        ]
+      }
+    },
+    {
+      "stock_id": "6257",
+      "stock_name": "矽格",
+      "main_industry": "砷化鎵",
+      "sub_industries": ["砷化鎵下游封裝測試"],
+      "theme_tags": ["IC封測", "射頻與網通晶片測試"],
+      "classification_entry": {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵下游封裝測試"
+      },
+      "analysis_entry": {
+        "date": "2026-11-02",
+        "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性偏空",
+        "title": "矽格9月營收年增26.3%，近5日回檔9.27%",
+        "close_price": 210.50,
+        "price_change_5d_pct": -9.27,
+        "foreign_5d_lots": -3961,
+        "est_eps": 10.0,
+        "est_pe": 21.1,
+        "revenue_perf": "9月營收年增26.3%",
+        "content": "近5日下跌9.27%為表列最弱，外資近5日賣超3,961張。不過基本面9月營收年增26.3%，萬寶預估今年EPS 10.0元，預估本益比21.1倍。",
+        "key_points": [
+          "近5日下跌9.27%，外資近5日賣超3,961張",
+          "9月營收年增26.3%，萬寶預估EPS 10.0元、預估本益比21.1倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "2704",
+      "stock_name": "國賓",
+      "main_industry": "觀光飯店",
+      "sub_industries": ["都會老字號飯店"],
+      "theme_tags": ["都會飯店", "資產改建", "低股價淨值比"],
+      "classification_entry": {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 都會老字號飯店"
+      },
+      "analysis_entry": {
+        "date": "2026-11-03",
+        "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "國賓近5日唯一收紅，9月營收年增35.9%",
+        "close_price": 45.10,
+        "price_change_5d_pct": 0.89,
+        "foreign_5d_lots": 9,
+        "est_eps": 2.5,
+        "est_pe": 18.0,
+        "revenue_perf": "9月營收年增35.9%、月增39.5%，今年累計年增8.1%",
+        "content": "表列個股中唯一近5日上漲者(+0.89%)，收45.10元，股價淨值比0.50倍。9月營收年增35.9%、月增39.5%；近20日法人賣超203張，萬寶預估2026年EPS 2.5元，預估本益比18.0倍。",
+        "key_points": [
+          "表列唯一近5日上漲個股，股價淨值比僅0.50倍",
+          "9月營收年增35.9%、月增39.5%，預估EPS 2.5元"
+        ]
+      }
+    },
+    {
+      "stock_id": "2705",
+      "stock_name": "六福",
+      "main_industry": "觀光飯店",
+      "sub_industries": ["休閒度假與主題樂園"],
+      "theme_tags": ["主題樂園", "觀光飯店", "外資買超"],
+      "classification_entry": {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 休閒度假與主題樂園"
+      },
+      "analysis_entry": {
+        "date": "2026-11-03",
+        "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性偏多",
+        "title": "六福外資近5日買超574張居冠，9月營收年增26.5%",
+        "close_price": 14.85,
+        "price_change_5d_pct": -0.34,
+        "foreign_5d_lots": 574,
+        "est_eps": 1.0,
+        "est_pe": 14.9,
+        "revenue_perf": "9月營收年增26.5%",
+        "content": "外資近5日買超574張為表列最多，近20日法人也買超363張；收盤14.85元與52週低點相同，近5日小跌0.34%。9月營收年增26.5%，萬寶預估2026年EPS 1.0元，預估本益比14.9倍。",
+        "key_points": [
+          "外資近5日買超574張居冠，9月營收年增26.5%",
+          "萬寶預估EPS 1.0元，預估本益比14.9倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "3252",
+      "stock_name": "海灣",
+      "main_industry": "觀光飯店",
+      "sub_industries": ["休閒度假與主題樂園"],
+      "theme_tags": ["休閒飯店"],
+      "classification_entry": {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 休閒度假與主題樂園"
+      },
+      "analysis_entry": {
+        "date": "2026-11-03",
+        "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性偏空",
+        "title": "海灣9月營收年減15.4%，預估EPS -0.1元",
+        "close_price": 14.60,
+        "price_change_5d_pct": -0.34,
+        "foreign_5d_lots": -9,
+        "est_eps": -0.1,
+        "est_pe": null,
+        "revenue_perf": "9月營收年減15.4%",
+        "content": "收盤14.60元，近5日小跌0.34%，外資近5日賣超9張。9月營收年減15.4%為表列衰退較多者，萬寶預估2026年EPS為-0.1元。",
+        "key_points": [
+          "9月營收年減15.4%，萬寶預估2026年EPS -0.1元",
+          "近5日股價小跌0.34%，成交相對清淡"
+        ]
+      }
+    },
+    {
+      "stock_id": "2707",
+      "stock_name": "晶華",
+      "main_industry": "觀光飯店",
+      "sub_industries": ["連鎖飯店品牌"],
+      "theme_tags": ["觀光飯店龍頭", "尾牙外燴", "高殖利率"],
+      "classification_entry": {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 連鎖飯店品牌"
+      },
+      "analysis_entry": {
+        "date": "2026-11-03",
+        "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "偏多",
+        "title": "晶華9月營收創同期新高，Q4掌握尾牙外燴訂單",
+        "close_price": 173.50,
+        "price_change_5d_pct": -0.86,
+        "foreign_5d_lots": 122,
+        "est_eps": 13.7,
+        "est_pe": 12.7,
+        "revenue_perf": "9月營收年增9.2%創同期新高，今年累計年增5.9%",
+        "content": "收盤173.50元，近5日跌0.86%，外資近5日買超122張、近20日法人買超474張居冠。9月營收創同期新高年增9.2%，Q4掌握不少尾牙外燴訂單；殖利率6.14%，萬寶預估EPS 13.7元、本益比12.7倍。",
+        "key_points": [
+          "9月營收創同期新高年增9.2%，Q4積極搶攻尾牙外燴訂單",
+          "近20日法人買超474張居冠，預估EPS 13.7元、殖利率6.14%"
+        ]
+      }
+    },
+    {
+      "stock_id": "2706",
+      "stock_name": "第一店",
+      "main_industry": "觀光飯店",
+      "sub_industries": ["都會老字號飯店"],
+      "theme_tags": ["都會飯店", "租金收益"],
+      "classification_entry": {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 都會老字號飯店"
+      },
+      "analysis_entry": {
+        "date": "2026-11-03",
+        "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "第一店9月營收持平，外資近5日買超68張",
+        "close_price": 12.05,
+        "price_change_5d_pct": -1.23,
+        "foreign_5d_lots": 68,
+        "est_eps": 0.6,
+        "est_pe": 20.1,
+        "revenue_perf": "9月營收年減0.0%（與去年同期持平）",
+        "content": "收盤12.05元，近5日下跌1.23%，外資近5日買超68張，但近20日法人賣超139張。9月營收與去年同期持平，萬寶預估2026年EPS 0.6元，預估本益比20.1倍。",
+        "key_points": [
+          "9月營收與去年同期持平，外資近5日買超68張",
+          "萬寶預估EPS 0.6元，預估本益比20.1倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "2748",
+      "stock_name": "雲品",
+      "main_industry": "觀光飯店",
+      "sub_industries": ["連鎖飯店品牌"],
+      "theme_tags": ["日月潭雲品", "君品Collection", "尾牙宴會"],
+      "classification_entry": {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 連鎖飯店品牌"
+      },
+      "analysis_entry": {
+        "date": "2026-11-03",
+        "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性偏多",
+        "title": "雲品9月營收年增28.2%，預估EPS 2.2元",
+        "close_price": 37.50,
+        "price_change_5d_pct": -1.70,
+        "foreign_5d_lots": -7,
+        "est_eps": 2.2,
+        "est_pe": 17.0,
+        "revenue_perf": "9月營收年增28.2%",
+        "content": "收盤37.50元，近5日下跌1.70%，外資近5日小賣7張。9月營收年增28.2%成長顯著，萬寶預估2026年EPS 2.2元，預估本益比17.0倍。",
+        "key_points": [
+          "9月營收年增28.2%，營運成長動能佳",
+          "萬寶預估EPS 2.2元，預估本益比17.0倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "5704",
+      "stock_name": "老爺知",
+      "main_industry": "觀光飯店",
+      "sub_industries": ["連鎖飯店品牌"],
+      "theme_tags": ["溫泉飯店", "國旅度假", "低本益比"],
+      "classification_entry": {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 連鎖飯店品牌"
+      },
+      "analysis_entry": {
+        "date": "2026-11-03",
+        "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "老爺知9月營收年增26.7%，預估本益比7.3倍最低",
+        "close_price": 21.90,
+        "price_change_5d_pct": -2.01,
+        "foreign_5d_lots": -13,
+        "est_eps": 3.0,
+        "est_pe": 7.3,
+        "revenue_perf": "9月營收年增26.7%，今年累計年減38.5%",
+        "content": "收盤21.90元，近5日下跌2.01%，外資近5日賣超13張。9月單月營收年增26.7%，但今年累計仍年減38.5%；萬寶預估2026年EPS 3.0元，預估本益比7.3倍為表列最低。",
+        "key_points": [
+          "9月單月營收年增26.7%，惟今年累計仍年減38.5%",
+          "萬寶預估EPS 3.0元，預估本益比7.3倍為表列最低"
+        ]
+      }
+    },
+    {
+      "stock_id": "2739",
+      "stock_name": "寒舍",
+      "main_industry": "觀光飯店",
+      "sub_industries": ["都會老字號飯店"],
+      "theme_tags": ["高殖利率", "低本益比", "都會五星飯店"],
+      "classification_entry": {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 都會老字號飯店"
+      },
+      "analysis_entry": {
+        "date": "2026-11-03",
+        "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "寒舍殖利率7.59%居冠，預估本益比9.6倍",
+        "close_price": 33.75,
+        "price_change_5d_pct": -2.74,
+        "foreign_5d_lots": -5,
+        "est_eps": 3.5,
+        "est_pe": 9.6,
+        "revenue_perf": "9月營收年減1.1%、月減15.9%",
+        "content": "殖利率7.59%為表列最高，近四季本益比8.4倍，萬寶預估2026年EPS 3.5元、預估本益比9.6倍；但近5日跌2.74%、近20日跌7.5%，9月營收年減1.1%，法人近20日賣超114張。",
+        "key_points": [
+          "現金殖利率7.59%居表列最高，預估EPS 3.5元、本益比9.6倍",
+          "9月營收年減1.1%，近20日股價回檔7.5%"
+        ]
+      }
+    },
+    {
+      "stock_id": "2722",
+      "stock_name": "夏都",
+      "main_industry": "觀光飯店",
+      "sub_industries": ["休閒度假與主題樂園"],
+      "theme_tags": ["墾丁度假飯店", "單月營收成長"],
+      "classification_entry": {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 休閒度假與主題樂園"
+      },
+      "analysis_entry": {
+        "date": "2026-11-03",
+        "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性偏空",
+        "title": "夏都9月營收年增40.6%最高，惟預估EPS為-0.6元",
+        "close_price": 19.45,
+        "price_change_5d_pct": -2.75,
+        "foreign_5d_lots": 44,
+        "est_eps": -0.6,
+        "est_pe": null,
+        "revenue_perf": "9月營收年增40.6%",
+        "content": "9月營收年增40.6%為表列最高，外資近5日買超44張；但萬寶預估2026年EPS為-0.6元，今年以來下跌25.6%為表列跌幅最大，收盤19.45元接近52週低點19.20元。",
+        "key_points": [
+          "9月營收年增40.6%居表列最高，外資近5日買超44張",
+          "萬寶預估2026年EPS -0.6元，收盤19.45元接近52週低點"
+        ]
+      }
+    },
+    {
+      "stock_id": "2702",
+      "stock_name": "華園",
+      "main_industry": "觀光飯店",
+      "sub_industries": ["都會老字號飯店"],
+      "theme_tags": ["高雄飯店", "美國飯店營運"],
+      "classification_entry": {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 都會老字號飯店"
+      },
+      "analysis_entry": {
+        "date": "2026-11-03",
+        "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "section": "五、重點個股",
+        "stance": "中性",
+        "title": "華園9月營收年增24.3%、累計年增9.8%居冠",
+        "close_price": 11.60,
+        "price_change_5d_pct": -2.93,
+        "foreign_5d_lots": 59,
+        "est_eps": 0.7,
+        "est_pe": 16.6,
+        "revenue_perf": "9月營收年增24.3%，今年累計年增9.8%",
+        "content": "收盤11.60元，近5日下跌2.93%為表列跌幅最大，但外資近5日買超59張。9月營收年增24.3%，今年累計年增9.8%居表列較高水準；萬寶預估EPS 0.7元，預估本益比16.6倍。",
+        "key_points": [
+          "9月營收年增24.3%、今年累計年增9.8%",
+          "外資近5日買超59張，萬寶預估EPS 0.7元"
+        ]
+      }
+    }
+  ],
+  "chips_updates": [
+    {
+      "stock_id": "9933",
+      "stock_name": "中鼎",
+      "date": "2026-11-01",
+      "category": "外資買超",
+      "detail": "外資近5日買超13,158張，近20日三大法人合計買超2.6萬張。"
+    },
+    {
+      "stock_id": "2542",
+      "stock_name": "興富發",
+      "date": "2026-11-01",
+      "category": "外資買超",
+      "detail": "外資近5日買超13,156張、近20日三大法人合計買超4.0萬張，投信近5日則賣超1,560張。"
+    },
+    {
+      "stock_id": "1808",
+      "stock_name": "潤隆",
+      "date": "2026-11-01",
+      "category": "外資買超",
+      "detail": "外資近5日買超10,840張。"
+    },
+    {
+      "stock_id": "2504",
+      "stock_name": "國產",
+      "date": "2026-11-01",
+      "category": "外資買超",
+      "detail": "外資近5日買超3,273張。"
+    },
+    {
+      "stock_id": "2515",
+      "stock_name": "中工",
+      "date": "2026-11-01",
+      "category": "外資賣超",
+      "detail": "外資近5日賣超10,734張，為房地產/營造表列個股中外資賣超最多者。"
+    },
+    {
+      "stock_id": "3105",
+      "stock_name": "穩懋",
+      "date": "2026-11-02",
+      "category": "法人同買",
+      "detail": "近5日三大法人買超2.6萬張，其中外資買超22,125張、投信買超2,956張。"
+    },
+    {
+      "stock_id": "3711",
+      "stock_name": "日月光投控",
+      "date": "2026-11-02",
+      "category": "土洋對作",
+      "detail": "近5日外資賣超26,025張、投信買超2.3萬張，雙方對作最激烈。"
+    },
+    {
+      "stock_id": "2455",
+      "stock_name": "全新",
+      "date": "2026-11-02",
+      "category": "外資賣超",
+      "detail": "外資近5日賣超5,604張。"
+    },
+    {
+      "stock_id": "6257",
+      "stock_name": "矽格",
+      "date": "2026-11-02",
+      "category": "外資賣超",
+      "detail": "外資近5日賣超3,961張。"
+    },
+    {
+      "stock_id": "3081",
+      "stock_name": "聯亞",
+      "date": "2026-11-02",
+      "category": "外資賣超",
+      "detail": "外資近5日賣超2,084張。"
+    },
+    {
+      "stock_id": "2705",
+      "stock_name": "六福",
+      "date": "2026-11-03",
+      "category": "外資買超",
+      "detail": "外資近5日買超574張為觀光飯店表列最多，法人近20日買超363張。"
+    },
+    {
+      "stock_id": "2707",
+      "stock_name": "晶華",
+      "date": "2026-11-03",
+      "category": "法人買超",
+      "detail": "外資近5日買超122張，法人近20日買超474張為表列最多。"
+    }
+  ]
+}

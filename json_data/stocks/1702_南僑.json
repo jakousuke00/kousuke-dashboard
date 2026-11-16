@@ -1,0 +1,66 @@
+{
+  "stock_id": "1702",
+  "stock_name": "南僑",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "烘焙油脂與餐飲控股",
+      "烘焙油脂與食品"
+    ],
+    "theme_tags": [
+      "連鎖餐飲",
+      "法人買超",
+      "食用油成本高漲",
+      "中聯油品損失"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-08",
+        "source": "reports/11月份/萬寶產業報告-1108(萬寶晚報贈品).pdf",
+        "category_mentioned": "連鎖餐飲 - 其他"
+      },
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 食品"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-08",
+    "close_price": 31.15,
+    "est_eps_2026": 0.6,
+    "est_pe": 51.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-08",
+      "source_file": "reports/11月份/萬寶產業報告-1108(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "9月營收年增10.6%，近20日法人大買1,956張",
+      "close_price": 31.15,
+      "price_change_5d_pct": -5.46,
+      "foreign_5d_lots": 181,
+      "est_eps": 0.6,
+      "est_pe": 51.9,
+      "revenue_perf": "9月營收年增10.6%",
+      "content": "9月營收年增10.6%表現穩健；近5日下跌5.46%收31.15元，外資近5日買超181張，近20日三大法人累計買超1,956張居表列第2。萬寶預估2026年EPS 0.6元，預估本益比51.9倍。",
+      "key_points": [
+        "9月營收年增10.6%，近20日法人買超1,956張、近5日外資買超181張"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏空(獲利承壓)",
+      "title": "南僑Q3拚不虧，食用油價高漲壓獲利",
+      "revenue_perf": "上半年營收115.3億元、年減約1%，稅後純益6,027萬元、年減約65%，EPS 0.24元",
+      "content": "受油價上漲帶動油脂下半年走高、中聯油品事件損失於7-8月認列及中秋烘焙旺季不旺影響，Q3獲利承壓目標力拚不虧；上半年稅後純益年減約65%、EPS 0.24元，大陸內捲下半年逐月改善。",
+      "key_points": [
+        "上半年EPS 0.24元、獲利年減65%，受油脂漲價與油品事件影響Q3力拚不虧"
+      ]
+    }
+  ]
+}

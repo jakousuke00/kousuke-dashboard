@@ -1,0 +1,72 @@
+{
+  "stock_id": "6834",
+  "stock_name": "天二科技",
+  "industry_profile": {
+    "main_industry": "被動元件產業",
+    "sub_industries": [
+      "晶片電阻",
+      "被動元件"
+    ],
+    "theme_tags": [
+      "800VDC超高壓電阻",
+      "9月自結EPS 0.46元",
+      "AI占比挑戰20%",
+      "漲停板",
+      "今年狂飆322%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-14",
+        "source": "萬寶晚報-10_14",
+        "category_mentioned": "被動元件產業 > 晶片電阻"
+      },
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 晶片電阻"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-14",
+    "close_price": 162.5,
+    "est_eps_2026": 2.8,
+    "est_pe": 58.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-14",
+      "source_file": "萬寶晚報-10_14.pdf",
+      "section": "今晚爆個股與包打聽快報",
+      "stance": "偏多",
+      "title": "800VDC超高壓電阻明年首季出貨，9月自結EPS 0.46元、前三季EPS 2.75元年增逾10倍",
+      "close_price": 162.5,
+      "price_change_pct": 1.88,
+      "volume_lots": 32131,
+      "est_eps": 2.8,
+      "est_pe": 58.0,
+      "revenue_perf": "9月自結稅後純益4,100萬元、EPS 0.46元；前三季純益2.44億元、年增1,009%，EPS 2.75元",
+      "content": "今年AI營收比重已達12%、2027年挑戰20%，電源大客戶800VDC機櫃用超高壓電阻明年Q1出貨；電阻稼動率突破90%。10/15晚報公布9月自結EPS 0.46元，前三季EPS 2.75元遠超過過去四年總和。",
+      "key_points": [
+        "電源大客戶800VDC超高壓電阻明年Q1出貨",
+        "前三季自結EPS 2.75元、年增1,009%"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "強烈偏多",
+      "title": "天二科技拉漲停收119.5元，今年累計大漲322%",
+      "close_price": 119.5,
+      "est_eps": 2.8,
+      "est_pe": 42.7,
+      "revenue_perf": "2026預估EPS 2.8元，H1 EPS 1.6元",
+      "content": "厚膜與金屬板精密電阻廠天二科技10/1亮燈漲停收119.5元。自低點反彈達70%，今年累計漲幅高達322%，電源管理與工控需求熱絡。",
+      "key_points": [
+        "10/1攻上漲停板，今年大漲逾3.2倍",
+        "上半年EPS 1.6元超過去年全年"
+      ]
+    }
+  ]
+}

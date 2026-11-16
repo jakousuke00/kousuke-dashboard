@@ -1,0 +1,48 @@
+{
+  "stock_id": "6505",
+  "stock_name": "台塑化",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "煉油與烯烴石化"
+    ],
+    "theme_tags": [
+      "Q3 EPS 2.76元創高",
+      "投信連買冠軍",
+      "EPS上修至9.6元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-12",
+        "source": "萬寶晚報-10_12",
+        "category_mentioned": "傳產製造 > 台塑四寶"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-12",
+    "close_price": 108.5,
+    "est_eps_2026": 9.6,
+    "est_pe": 12.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-12",
+      "source_file": "萬寶晚報-10_12.pdf",
+      "section": "今晚爆個股與精選圖表",
+      "stance": "偏多",
+      "title": "Q3每股賺2.76元創新高、前三季EPS 7.08元，萬寶10/13上修今年EPS至9.6元",
+      "close_price": 108.5,
+      "price_change_pct": -1.81,
+      "volume_lots": 41246,
+      "est_eps": 9.6,
+      "est_pe": 12.0,
+      "revenue_perf": "Q3營收2,436.54億元、季增33.2%，稅後利益262.89億元、EPS 2.76元；前三季EPS 7.08元",
+      "content": "Q3中東原油到貨回穩，煉油廠產能利用率回升至91.2%，單季EPS 2.76元創單季新高、前三季EPS 7.08元。10/13萬寶將2026年預估EPS由8.8元上修至9.6元。",
+      "key_points": [
+        "Q3單季EPS 2.76元、前三季EPS 7.08元改寫同期新高",
+        "10/13萬寶上修2026 EPS至9.6元"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "stock_id": "6756",
+  "stock_name": "威鋒電子",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "IC設計",
+      "高速傳輸介面IC",
+      "USB控制IC"
+    ],
+    "theme_tags": [
+      "USB集線器晶片",
+      "機器人與遊戲機導入",
+      "威盛集團",
+      "跌深反彈",
+      "漲停板"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "頭版主筆 > IP與中小型股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28",
+    "close_price": 133.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "頭版主筆",
+      "stance": "偏多",
+      "title": "威鋒電子自低檔94.6元強彈，拉出漲停收133.5元",
+      "close_price": 133.5,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "10月中旬低點94.6元快速反彈逾41%",
+      "content": "威盛集團旗下的威鋒電子靠著市場想像力強勁彈升，股價從10月中旬94.6元一路攀升，今日強攻漲停板收133.5元，成為集團與中小型IC股的反彈指標。",
+      "key_points": [
+        "半個月內自低點急彈逾41%，強鎖漲停",
+        "中小型IC設計股轉機題材發酵"
+      ]
+    },
+    {
+      "report_date": "2026-11-05",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 2.5元",
+      "pe_ratio": "43倍",
+      "content": "Q3營收5.78億元、年增76.7%，毛利率約44%，EPS 0.68元；前三季EPS 1.92元。美國大型客戶新主機採用其10G USB集線器並於9月出貨，聯想顯示器與多款機器人亦導入，預估2027年營收至少成長個位數、挑戰雙位數。",
+      "key_points": [
+        "Q3 EPS 0.68元、前三季EPS 1.92元，獲利年增逾378%",
+        "打入美系大客戶新主機與多款機器人，明年營收挑戰雙位數成長"
+      ]
+    }
+  ]
+}

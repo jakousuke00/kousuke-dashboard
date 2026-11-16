@@ -1,0 +1,29 @@
+{
+  "stock_id": "6987",
+  "stock_name": "寶晶能源*",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "電源BBU與綠能電力"
+    ],
+    "theme_tags": [
+      "AIDC綠電",
+      "興櫃搶先爆"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "興櫃搶先爆",
+      "content": "受惠南台灣日照充足，10月營收1.1億元，前十月11.22億年增10.55%優於同業。年底前有兩個第三型案場併網，明年衝兩位數新增併網，並成立專案小組搶AIDC電力商機。",
+      "key_points": [
+        "前十月營收年增10.55%，明年拚兩位數新增併網容量",
+        "已與AIDC電力供應潛在客戶接觸並成立專案小組"
+      ]
+    }
+  ]
+}

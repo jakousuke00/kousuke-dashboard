@@ -1,0 +1,47 @@
+{
+  "stock_id": "9933",
+  "stock_name": "中鼎",
+  "industry_profile": {
+    "main_industry": "房地產/營造",
+    "sub_industries": [
+      "營造/公共工程"
+    ],
+    "theme_tags": [
+      "統包工程",
+      "外資買超"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營造/公共工程"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-01",
+    "close_price": 45.3,
+    "est_eps_2026": 5.0,
+    "est_pe": 9.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-01",
+      "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "中鼎外資近5日買超1.3萬張居冠，今年大漲51.1%",
+      "close_price": 45.3,
+      "price_change_5d_pct": 3.66,
+      "foreign_5d_lots": 13158,
+      "est_eps": 5.0,
+      "est_pe": 9.1,
+      "revenue_perf": "9月營收年增4.3%，今年累計年減12.0%",
+      "content": "上週五下跌5.4%，但近5日仍上漲3.66%，今年以來上漲51.1%。外資近5日買超13,158張居表列最高，近20日三大法人買超2.6萬張；9月營收年增4.3%，萬寶預估EPS 5.0元、預估本益比9.1倍。",
+      "key_points": [
+        "外資近5日買超13,158張居冠，近20日法人買超2.6萬張",
+        "萬寶預估EPS 5.0元，預估本益比9.1倍"
+      ]
+    }
+  ]
+}

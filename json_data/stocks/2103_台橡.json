@@ -1,0 +1,29 @@
+{
+  "stock_id": "2103",
+  "stock_name": "台橡",
+  "industry_profile": {
+    "main_industry": "化學與特化",
+    "sub_industries": [
+      "合成橡膠"
+    ],
+    "theme_tags": [
+      "轉型效益",
+      "醫療彈性體"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "轉型效益浮現，前三季EPS 2.52元獲利增逾十倍，10月營收37.42億元年增33.37%；明年以高性能輪胎材料SSBR、醫療級彈性體及新產線擴建為三大引擎，估EPS 3元。",
+      "key_points": [
+        "前三季EPS 2.52元，Q3單季EPS 0.26元較去年同期轉盈",
+        "10月營收年增33%，推出再生熱可塑性彈性體搶攻減碳需求"
+      ]
+    }
+  ]
+}

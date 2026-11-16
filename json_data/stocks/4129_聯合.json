@@ -1,0 +1,28 @@
+{
+  "stock_id": "4129",
+  "stock_name": "聯合",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "生技新藥與醫材"
+    ],
+    "theme_tags": [
+      "骨科醫材",
+      "擴產"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "11日舉行南科高雄二廠動土典禮，預計2028年底完工、2029年下半年啟用，最大年產能約40萬套人工關節，較現有產能提升2.5倍，今年估EPS 5元。",
+      "key_points": [
+        "高雄二廠動土，2029年啟用後最大年產能增2.5倍至40萬套"
+      ]
+    }
+  ]
+}

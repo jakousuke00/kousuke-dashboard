@@ -1,0 +1,44 @@
+{
+  "stock_id": "1609",
+  "stock_name": "大亞",
+  "industry_profile": {
+    "main_industry": "電機電纜",
+    "sub_industries": [
+      "特高壓電纜",
+      "綠能儲能系統",
+      "漆包線"
+    ],
+    "theme_tags": [
+      "前三季EPS 2.61元",
+      "儲能減損一次性提列",
+      "強韌電網標案",
+      "低本益比"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 3.5,
+      "estimated_pe": 9.0,
+      "content": "Q3因儲能供過於求提列設備減損逾3億元，每股獲利影響0.37元，單季每股賺0.37元；前三季EPS 2.61元為同期次高。受銅價上漲帶動，公司持續爭取台電強韌電網標案與半導體廠線纜訂單，萬寶估今年EPS 3.5元，本益比僅9倍。",
+      "key_points": [
+        "Q3提列一次性儲能設備減損逾3億元利空出盡，前三季EPS仍達2.61元同期次高。",
+        "萬寶估今年EPS 3.5元，本益比僅9倍具備高殖利率與價值投資吸引力。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 100.69,
+        "q3_eps": 0.37,
+        "three_q_eps": 2.61
+      },
+      "chips_observation": "提列減損利空獲市場充分消化，本益比僅個位數吸引長線價值資金。"
+    }
+  ]
+}

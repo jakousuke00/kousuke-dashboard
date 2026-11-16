@@ -1,0 +1,41 @@
+{
+  "stock_id": "2397",
+  "stock_name": "友通",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "AI伺服器與工業電腦",
+      "嵌入式系統與算力平台"
+    ],
+    "theme_tags": [
+      "工業電腦",
+      "NVIDIA Thor",
+      "邊緣AI",
+      "機器人",
+      "低軌衛星Edge AI"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 4.6元。Q3接單優於出貨，看好Q4與明年上半年。算力平台拓展日韓印美，涵蓋半導體AOI、手術機器人控制系統、醫療滅菌HMI及衛星通訊Edge AI。",
+      "key_points": [
+        "Q3接單優於出貨，看好明年上半年",
+        "算力平台切入日韓印美多領域應用"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "前三季EPS 3.34元已超越去年全年，Q3平均B/B值約1.6接單強勁，10月營收年增22.77%；NVIDIA Thor邊緣AI平台合作已陸續取得訂單。",
+      "key_points": [
+        "前三季EPS 3.34元超越去年，今年估EPS 3.6元",
+        "Q3 B/B值達1.6，NVIDIA Thor邊緣AI平台已陸續接單"
+      ]
+    }
+  ]
+}

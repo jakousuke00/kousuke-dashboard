@@ -1,0 +1,46 @@
+{
+  "stock_id": "2428",
+  "stock_name": "興勤",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "熱敏電阻"
+    ],
+    "theme_tags": [
+      "高EPS",
+      "車用保護"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 熱敏電阻"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 261.0,
+    "est_eps_2026": 14.0,
+    "est_pe": 18.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "興勤獲利優異估EPS 14元，收盤261元低點彈33%",
+      "close_price": 261.0,
+      "est_eps": 14.0,
+      "est_pe": 18.6,
+      "revenue_perf": "2026預估EPS 14元，H1 EPS 7.55元",
+      "content": "熱敏電阻龍頭興勤上半年EPS達7.55元，全年估14元，本益比僅約18.6倍。10/1收261元，較7月低點196元反彈33%，具高獲利價值優勢。",
+      "key_points": [
+        "預估EPS 14元，本益比不到19倍",
+        "車用傳感器與過溫保護市占穩健"
+      ]
+    }
+  ]
+}

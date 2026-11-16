@@ -1,0 +1,29 @@
+{
+  "stock_id": "2641",
+  "stock_name": "正德",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "散裝航運"
+    ],
+    "theme_tags": [
+      "新船交付",
+      "長約租約"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "10月營收2.15億元年增12.4%，9艘新造船陸續投入營運效益顯現；去年至今訂造11艘1.74萬噸多用途船已取得歐洲大航商租約，預計2027年Q2起交船，估EPS 2.3元。",
+      "key_points": [
+        "10月營收年增12.4%，訂造11艘多用途船獲歐洲大航商租約",
+        "預期Q4散裝市場維持強勢，2027年新船交付恐使供需轉寬鬆"
+      ]
+    }
+  ]
+}

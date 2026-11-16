@@ -1,0 +1,96 @@
+{
+  "stock_id": "3131",
+  "stock_name": "弘塑",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "CoWoS濕製程設備與化材",
+      "半導體設備",
+      "CoWoS濕製程設備",
+      "單晶圓旋轉清洗機",
+      "蝕刻設備",
+      "濕製程設備"
+    ],
+    "theme_tags": [
+      "CoWoS先進封裝設備",
+      "Q3營收創高",
+      "美星設子公司",
+      "設備交期拉長",
+      "CoWoS與SoIC",
+      "2026年EPS下調至64元",
+      "萬寶估2026 EPS 64元",
+      "下修EPS",
+      "先進封裝設備",
+      "高價股整理",
+      "Q3單季EPS前十"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-12",
+        "source": "萬寶晚報-10_12",
+        "category_mentioned": "半導體與設備檢測 > 半導體設備"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "est_eps_2026": 66.0,
+    "est_pe": 38.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "11/13新公布Q3單季EPS 13.38元（年增28.7%）居上櫃第1，季營收22.2億元年增48.7%、毛利率36.6%、淨利率17.4%。",
+      "key_points": [
+        "Q3單季EPS 13.38元奪上櫃單季EPS冠軍"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "精選圖表",
+      "investment_rating": "中立觀察",
+      "target_price": null,
+      "estimated_eps": 64.0,
+      "estimated_pe": null,
+      "content": "萬寶投顧2026年最新預估EPS下修至64元。CoWoS濕製程設備接單依舊飽滿，惟客戶擴產裝機驗收時程部分遞延，股價進入高檔本益比修正整理。",
+      "key_points": [
+        "萬寶投顧預估2026年EPS下修至64元。",
+        "先進封裝濕製程龍頭地位穩固，等待新一波擴產動能再起。"
+      ],
+      "operational_metrics": {
+        "estimated_eps_2026": 64.0
+      },
+      "chips_observation": "高價設備股浮額沉澱，短線區間整理。"
+    },
+    {
+      "date": "2026-10-12",
+      "source_file": "萬寶晚報-10_12.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收7.47億元創同期新高，Q3營收22.21億元改寫單季新高",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 66.0,
+      "est_pe": 38.0,
+      "revenue_perf": "9月營收7.47億元年增61.8%；Q3營收22.21億元，季增28.6%、年增48.7%創高",
+      "content": "Q3營收22.21億元改寫單季新高，下半年營運優於上半年；為因應客戶海外擴廠維修需求，將在美國與新加坡設立子公司。",
+      "key_points": [
+        "Q3營收22.21億元季增28.6%改寫單季新高",
+        "於美國與新加坡設立子公司就近服務先進封裝客戶"
+      ]
+    },
+    {
+      "report_date": "2026-11-05",
+      "source_section": "今晚爆個股 / 精選圖表",
+      "estimated_eps": "2026E 64元（微幅下調）",
+      "pe_ratio": "24倍",
+      "content": "Q3營收22.21億元、年增48.73%創新高，單季EPS 13.36元；前三季EPS 40.65元。隨台積電CoWoS、SoIC及面板級封裝擴產，混合鍵合與HBM帶動濕製程設備需求，交期拉長至10~12個月，訂單能見度延伸至2028年。",
+      "key_points": [
+        "Q3 EPS 13.36元、前三季EPS 40.65元，今年估出機220~240台",
+        "擴充香山二期及台中產能，訂單能見度達2028年"
+      ]
+    }
+  ]
+}

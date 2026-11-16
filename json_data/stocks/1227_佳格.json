@@ -1,0 +1,44 @@
+{
+  "stock_id": "1227",
+  "stock_name": "佳格",
+  "industry_profile": {
+    "main_industry": "食品與民生消費",
+    "sub_industries": [
+      "食用油品",
+      "營養保健品",
+      "燕麥奶製品"
+    ],
+    "theme_tags": [
+      "商用油大單",
+      "原料成本回落",
+      "進軍東南亞",
+      "高防禦"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 1.5,
+      "estimated_pe": 19.0,
+      "content": "油品事件帶動商用食用油訂單湧入，燕麥與乳品擴大餐飲及空廚通路；Q4進軍星馬電商。前三季營收218.77億元，上半年獲利年增51.7%。新季葵花籽產量估增15%帶動成本回落，萬寶估今年EPS 1.5元。",
+      "key_points": [
+        "商用食用油與餐飲通路需求強勁，國際葵花油原料成本大幅回落帶動毛利率改善。",
+        "第四季透過健康內容電商進軍新加坡與馬來西亞，擴大海外市場版圖。"
+      ],
+      "operational_metrics": {
+        "three_q_revenue": 218.77,
+        "three_q_revenue_yoy": 7.57,
+        "h1_net_income_growth": 51.7
+      },
+      "chips_observation": "傳產防禦型民生消費股，在大盤震盪之際展現抗跌特質。"
+    }
+  ]
+}

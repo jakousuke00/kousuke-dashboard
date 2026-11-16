@@ -1,0 +1,48 @@
+{
+  "stock_id": "2348",
+  "stock_name": "海悅",
+  "industry_profile": {
+    "main_industry": "地產代銷",
+    "sub_industries": [
+      "交屋認列與代銷開發"
+    ],
+    "theme_tags": [
+      "代銷龍頭",
+      "高殖利率",
+      "營收高成長"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-05",
+        "source": "reports/11月份/萬寶產業報告-1105(萬寶晚報贈品).pdf",
+        "category_mentioned": "地產代銷 - 交屋認列與代銷開發"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-05",
+    "close_price": 66.0,
+    "est_eps_2026": 5.0,
+    "est_pe": 13.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-05",
+      "source_file": "reports/11月份/萬寶產業報告-1105(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "海悅9月營收年增96.3%、累計年增83.3%，預估EPS 5.0元",
+      "close_price": 66.0,
+      "price_change_5d_pct": -5.44,
+      "foreign_5d_lots": 137,
+      "est_eps": 5.0,
+      "est_pe": 13.2,
+      "revenue_perf": "9月營收年增96.3%，今年累計年增83.3%",
+      "content": "收66.00元貼近52週低點65.00元，近5日跌5.44%。9月營收年增96.3%、今年累計年增83.3%，近20日法人買超798張；殖利率8.26%，萬寶預估今年EPS 5.0元居表列最高，預估本益比13.2倍。",
+      "key_points": [
+        "9月營收年增96.3%、累計年增83.3%，近20日法人買超798張",
+        "萬寶預估EPS 5.0元居表列之冠，預估本益比13.2倍、殖利率8.26%"
+      ]
+    }
+  ]
+}

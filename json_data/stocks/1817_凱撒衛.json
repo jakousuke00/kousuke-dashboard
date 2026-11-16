@@ -1,0 +1,48 @@
+{
+  "stock_id": "1817",
+  "stock_name": "凱撒衛",
+  "industry_profile": {
+    "main_industry": "玻璃陶瓷",
+    "sub_industries": [
+      "衛浴與建材"
+    ],
+    "theme_tags": [
+      "衛浴設備",
+      "高殖利率",
+      "低本益比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-20",
+        "source": "萬寶產業報告-1020",
+        "category_mentioned": "玻璃陶瓷 > 衛浴與建材 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-20",
+    "close_price": 39.75,
+    "est_eps_2026": 5.0,
+    "est_pe": 8.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-20",
+      "source_file": "萬寶產業報告-1020(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "9月營收年增15.9%，殖利率5.53%、預估本益比僅8.0倍",
+      "close_price": 39.75,
+      "price_change_5d_pct": 0.13,
+      "foreign_5d_lots": -8,
+      "est_eps": 5.0,
+      "est_pe": 8.0,
+      "revenue_perf": "9月營收年增15.9%、今年累計年增4.2%",
+      "content": "收盤39.75元，近5日上漲0.1%，股價位於52週區間38.00元至42.70元的偏低位置。9月營收年增15.9%、累計年增4.2%，殖利率5.53%，萬寶預估EPS 5.0元，預估本益比8.0倍。",
+      "key_points": [
+        "9月營收年增15.9%，在衛浴建材中表現最佳",
+        "殖利率5.53%，萬寶預估EPS 5.0元、本益比8.0倍"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "stock_id": "2368",
+  "stock_name": "金像電",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "PCB/MB與電源連接線器",
+      "伺服器-PCB",
+      "高階AI伺服器與交換器PCB",
+      "AI伺服器與交換器PCB",
+      "高階PCB與CCL",
+      "PCB",
+      "高多層板",
+      "伺服器PCB"
+    ],
+    "theme_tags": [
+      "AI伺服器PCB",
+      "800G交換器板",
+      "投信買超",
+      "AI伺服器PCB指標",
+      "10/5漲停收1215元",
+      "ASIC多階HDI",
+      "1.6T交換器PCB",
+      "主動ETF連買",
+      "ASIC伺服器PCB",
+      "1.6T交換器",
+      "HDI混壓",
+      "谷歌TPU",
+      "34-40層板",
+      "ETF連日加碼",
+      "AI供應鏈",
+      "主動ETF增持"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-11",
+        "source": "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf",
+        "category_mentioned": "PCB/MB產業 - 伺服器-PCB"
+      },
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "產業新聞 / 主動型ETF加碼"
+      },
+      {
+        "date": "2026-10-28",
+        "source": "萬寶產業報告-1028",
+        "category_mentioned": "NB/PC產業 > PCB/MB (重點個股)"
+      },
+      {
+        "date": "2026-10-08",
+        "source": "萬寶晚報-10_08",
+        "category_mentioned": "PCB/MB產業 > 伺服器PCB"
+      },
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "PCB/MB產業 > AI伺服器PCB"
+      },
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - PCB"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "close_price": 1050.0,
+    "est_eps_2026": 40.0,
+    "est_pe": 26.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "2026年預估EPS 40元（前三季28.41元），輝達占比<5%、非輝達10~15%，受惠時程為中期至長期；11月獲五檔熱門主動型ETF全數增持。",
+      "key_points": [
+        "2026估EPS 40元，非輝達占比10~15%",
+        "獲五檔熱門主動型ETF全數增持"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "source_file": "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "10月營收年增76.2%、近5日漲8.9%，投信買超2,767張",
+      "close_price": 1050.0,
+      "price_change_5d_pct": 8.92,
+      "foreign_5d_lots": -2464,
+      "est_eps": 40.0,
+      "est_pe": 26.3,
+      "revenue_perf": "10月營收年增76.2%、累計年增69.9%",
+      "content": "11/11上漲6.8%、近5日上漲8.92%收1,050.00元；10月營收年增76.2%、累計年增69.9%。近5日投信買超2,767張（外資賣超2,464張），萬寶預估2026年EPS 40.0元，預估本益比26.3倍。",
+      "key_points": [
+        "10月營收年增76.2%、累計年增69.9%，AI伺服器PCB需求強勁",
+        "近5日投信買超2,767張，預估EPS 40.0元、本益比26.3倍"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "產業新聞",
+      "stance": "偏多",
+      "title": "金像電切入谷歌TPU新平台，主機板層數躍升至34至40層",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "高階AI伺服器板層數提升帶動ASP與毛利率同步擴張",
+      "content": "金像電成功切入美系客戶新一代TPU平台，主機板層數由24層顯著提升至34至40層，單價與毛利大增。主動型ETF連日大幅加碼410張，延續多頭買氣。",
+      "key_points": [
+        "切入美系CSP新一代TPU平台，板層數大幅提升至34~40層",
+        "獲主動型ETF多檔持續買超加碼410張"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶產業報告-1028(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "9月營收年增55.5%，萬寶預估2026 EPS 40.0元、本益比29.6倍",
+      "close_price": 1185.0,
+      "price_change_5d_pct": -5.2,
+      "foreign_5d_lots": -3641,
+      "est_eps": 40.0,
+      "est_pe": 29.6,
+      "revenue_perf": "9月營收年增55.5%",
+      "content": "收盤1,185.00元，近5日回檔5.20%，9月營收年增55.5%，萬寶預估2026年EPS 40.0元，預估本益比29.6倍。",
+      "key_points": [
+        "9月營收年增55.5%，萬寶預估2026 EPS 40.0元"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "source_file": "萬寶晚報-10_08.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3營收297.18億元創新高，新世代ASIC PCB升級多階HDI",
+      "close_price": 1285.0,
+      "price_change_pct": 3.21,
+      "volume_lots": 9696,
+      "est_eps": 40.0,
+      "est_pe": 32.0,
+      "revenue_perf": "9月營收93.20億元年增55.46%；Q3營收297.18億元，季增22.21%、年增69.55%創高",
+      "content": "美系CSP相關PCB於Q3、Q4陸續放量，另有其他CSP及1.6T交換器新品訂單；新世代ASIC PCB將由多層板升級至多階HDI，預計2027年起放量推升單位產值。",
+      "key_points": [
+        "Q3營收297.18億元年增69.55%創單季新高",
+        "新世代ASIC PCB升級多階HDI，另有1.6T交換器訂單"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "專欄與精選圖表",
+      "stance": "偏多",
+      "title": "AI伺服器PCB指標股10/5強勢漲停收1,215元，前8月營收年增71%",
+      "close_price": 1215.0,
+      "price_change_pct": 10.0,
+      "volume_lots": null,
+      "est_eps": 40.0,
+      "est_pe": 30.4,
+      "revenue_perf": "1-8月累計營收年增71%，H1 EPS 16.17元",
+      "content": "作為AI伺服器PCB代表股，金像電10/5領軍PCB族群強勢亮燈漲停收1,215元。上半年EPS 16.17元，1-8月累計營收年增71%，萬寶預估2026年全年EPS達40元。",
+      "key_points": [
+        "10/5強勢漲停收1,215元",
+        "1-8月營收年增71%，預估2026年EPS 40元"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏多",
+      "title": "金像電8月營收103.84億元創高，法人估Q3季增逾兩成",
+      "close_price": 1140.0,
+      "revenue_perf": "8月營收103.84億元、年增76.39%，連兩月創高",
+      "content": "受惠ASIC伺服器與1.6T交換器使PCB升至44-52層、材料升至M8/M9，兩大美系ASIC客戶新品採HDI與HLC混壓設計，並於蘇州及泰國擴增HDI厚板產能。8月營收103.84億元連兩月創高，法人估Q3季增逾兩成、毛利率回升至38%左右。",
+      "key_points": [
+        "受惠美系ASIC與1.6T交換器升級，8月營收103.84億元連兩月創高",
+        "法人估Q3營收季增逾兩成，毛利率回升至38%左右"
+      ]
+    }
+  ]
+}

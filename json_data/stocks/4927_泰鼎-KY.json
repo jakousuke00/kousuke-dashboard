@@ -1,0 +1,47 @@
+{
+  "stock_id": "4927",
+  "stock_name": "泰鼎-KY",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "PCB硬板"
+    ],
+    "theme_tags": [
+      "PCB",
+      "營收創高",
+      "外資大買"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-11",
+        "source": "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf",
+        "category_mentioned": "PCB/MB產業 - 重點個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "close_price": 59.5,
+    "est_eps_2026": -9.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source_file": "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "10月營收創高年增87.0%，外資近5日狂買1.8萬張推升股價漲18.3%",
+      "close_price": 59.5,
+      "price_change_5d_pct": 18.29,
+      "foreign_5d_lots": 17962,
+      "est_eps": -9.0,
+      "est_pe": null,
+      "revenue_perf": "10月營收創高，年增87.0%、月增10.8%",
+      "content": "10月營收創新高，年增87.0%、月增10.8%；外資近5日大買17,962張居表列之冠，帶動近5日股價大漲18.29%收59.50元。惟萬寶預估2026年EPS為-9.0元，全年仍處虧損。",
+      "key_points": [
+        "10月營收創高、年增87.0%，外資近5日大買17,962張推升股價漲18.3%",
+        "萬寶預估2026年EPS -9.0元，仍處虧損階段"
+      ]
+    }
+  ]
+}

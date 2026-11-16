@@ -1,0 +1,56 @@
+{
+  "stock_id": "3034",
+  "stock_name": "聯詠",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "驅動IC",
+      "邊緣AI影像晶片",
+      "車用晶片"
+    ],
+    "theme_tags": [
+      "Q3每股賺9.99元",
+      "前三季賺26.58元",
+      "邊緣AI影像辨識",
+      "毛利率40.89%",
+      "車用TDDI",
+      "消費性電子修正"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "Q3營收309.7億元季增8.1%，單季EPS 9.99元、前三季26.58元；因記憶體排擠與年底控管庫存，Q4營收估季減5.7%至9.6%，車用eDP TDDI Q4量產，估EPS 36元。",
+      "key_points": [
+        "Q3 EPS 9.99元，毛利率40.89%；Q4營收估季減5.7%~9.6%",
+        "車用eDP TDDI於Q4量產，估今年EPS 36元"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "今晚產業新聞 / 精選圖表",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "Q3營收309.71億元、毛利率40.89%、稅後純益60.76億元，每股賺9.99元；前三季EPS 26.58元。下半年消費電子雖放緩但手機客戶備貨仍在，邊緣AI影像辨識晶片持續成長。",
+      "key_points": [
+        "Q3單季每股賺9.99元，前三季EPS達26.58元獲利穩健。",
+        "毛利率維持40.89%高檔水準，邊緣AI影像辨識晶片出貨維持成長。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 309.71,
+        "q3_eps": 9.99,
+        "q3_gross_margin": 40.89,
+        "three_q_eps": 26.58
+      },
+      "chips_observation": "高獲利基本面支撐股價抗震，投信與內資籌碼維持平穩。"
+    }
+  ]
+}

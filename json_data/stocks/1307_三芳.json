@@ -1,0 +1,47 @@
+{
+  "stock_id": "1307",
+  "stock_name": "三芳",
+  "industry_profile": {
+    "main_industry": "運動健身",
+    "sub_industries": [
+      "運動鞋代工及鞋材"
+    ],
+    "theme_tags": [
+      "鞋材人工皮革",
+      "低本益比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-06",
+        "source": "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf",
+        "category_mentioned": "運動健身 - 運動鞋代工及鞋材"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-06",
+    "close_price": 29.8,
+    "est_eps_2026": 3.0,
+    "est_pe": 9.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-06",
+      "source_file": "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "三芳預估本益比9.9倍，9月營收微幅年增0.2%",
+      "close_price": 29.8,
+      "price_change_5d_pct": -3.4,
+      "foreign_5d_lots": -591,
+      "est_eps": 3.0,
+      "est_pe": 9.9,
+      "revenue_perf": "9月營收年增0.2%",
+      "content": "收盤29.80元，近5日下跌3.40%，外資近5日賣超591張。9月營收年增0.2%大致持平，萬寶預估2026年EPS 3.0元，預估本益比9.9倍。",
+      "key_points": [
+        "9月營收年增0.2%，萬寶預估EPS 3.0元、預估本益比9.9倍",
+        "外資近5日調節賣超591張"
+      ]
+    }
+  ]
+}

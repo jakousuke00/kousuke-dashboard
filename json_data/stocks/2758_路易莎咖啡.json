@@ -1,0 +1,38 @@
+{
+  "stock_id": "2758",
+  "stock_name": "路易莎咖啡",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "連鎖咖啡與餐飲"
+    ],
+    "theme_tags": [
+      "咖啡期貨漲價",
+      "多品牌展店"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 餐飲"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-09-23"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "中性",
+      "title": "路易莎上半年淨利年減68.61%，下半年拚跳增",
+      "revenue_perf": "前8月營收21.09億元、年增12.07%；上半年稅後淨利約670.5萬元、年減68.61%",
+      "content": "前8月營收年增12.07%，但因咖啡期貨大漲、購置自動化設備與多品牌展店，上半年淨利年減68.61%至670.5萬元；公司預期投資效益顯現下，下半年獲利將大幅跳增，今年預計再開30家直營店。",
+      "key_points": [
+        "受咖啡豆大漲與設備投資影響上半年淨利年減68.61%，預期下半年獲利跳增"
+      ]
+    }
+  ]
+}

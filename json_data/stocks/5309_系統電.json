@@ -1,0 +1,88 @@
+{
+  "stock_id": "5309",
+  "stock_name": "系統電",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "BBU備援電池模組與UPS",
+      "BBU備援電池模組",
+      "強固型工業電腦",
+      "電源BBU與綠能電力"
+    ],
+    "theme_tags": [
+      "9月與Q3營收雙創高",
+      "BBU 10月起出貨CSP客戶",
+      "德州廠擴產",
+      "3kW BBU量產",
+      "AI資料中心電力",
+      "BBU",
+      "Mini UPS",
+      "營收創高"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-08",
+        "source": "萬寶晚報-10_08",
+        "category_mentioned": "AI伺服器硬體 > BBU與IPC"
+      },
+      {
+        "date": "2026-10-06",
+        "source": "萬寶晚報-10_06",
+        "category_mentioned": "電子零組件 > BBU備援電池"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "est_eps_2026": 0.3,
+    "est_pe": 226.0,
+    "close_price": 67.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "Q3營收10.24億創單季新高並轉虧為盈(EPS 0.09元)；10月營收3.84億年增43.18%連四創高。11kW BBU於10月正式出貨鎖定四大雲端業者，明年訂單可望倍增。",
+      "key_points": [
+        "Q3轉盈、10月營收連四月創高",
+        "11kW機櫃式Mini UPS明年訂單可望倍增，3kW/5.5kW BBU陸續貢獻"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "source_file": "萬寶晚報-10_08.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "3kW BBU第四季量產，明年BBU業績估成長2至5倍",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 0.3,
+      "est_pe": 226.0,
+      "revenue_perf": "強固型電腦帶動營收連三個月創新高，2028年營收挑戰百億元",
+      "content": "3kW BBU第四季開始量產出貨，明年BBU業績預估成長2至5倍、強固型電腦再成長約50%，第二條全自動產線已完成改良，明年再擴3至4條。",
+      "key_points": [
+        "3kW BBU第四季量產出貨，明年業績估成長2~5倍",
+        "強固型電腦明年再成長約50%，2028年營收挑戰百億"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "source_file": "萬寶晚報-10_06.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收連三月創新高、Q3破10億元，伺服器BBU自10月起正式出貨CSP客戶",
+      "close_price": 67.2,
+      "price_change_pct": 0.15,
+      "volume_lots": 8031,
+      "est_eps": 0.3,
+      "est_pe": 224.0,
+      "revenue_perf": "9月營收3.67億元，月增12.04%、年增17.87%連三月創高；Q3營收約10.14億元、年增24.35%創高",
+      "content": "9月營收3.67億元連三個月創新高，Q3營收約10.14億元同步改寫紀錄。伺服器機櫃式BBU/Mini UPS自10月起出貨CSP客戶，明年放量帶動獲利提升；台灣兩條全自動BBU產線已建置完成，美國德州Plano廠明年再建兩條使產能倍增。",
+      "key_points": [
+        "9月營收3.67億元與Q3營收10.14億元雙創歷史新高",
+        "機櫃式BBU自10月起出貨CSP客戶，明年美國德州廠產能倍增"
+      ]
+    }
+  ]
+}

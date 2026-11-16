@@ -1,0 +1,47 @@
+{
+  "stock_id": "9910",
+  "stock_name": "豐泰",
+  "industry_profile": {
+    "main_industry": "運動健身",
+    "sub_industries": [
+      "運動鞋代工及鞋材"
+    ],
+    "theme_tags": [
+      "運動鞋代工",
+      "外資買超"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-06",
+        "source": "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf",
+        "category_mentioned": "運動健身 - 運動鞋代工及鞋材"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-06",
+    "close_price": 69.6,
+    "est_eps_2026": 4.0,
+    "est_pe": 17.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-06",
+      "source_file": "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "豐泰外資近5日買超2,290張，股價抗跌持穩",
+      "close_price": 69.6,
+      "price_change_5d_pct": -0.29,
+      "foreign_5d_lots": 2290,
+      "est_eps": 4.0,
+      "est_pe": 17.4,
+      "revenue_perf": "9月營收年減4.8%",
+      "content": "收盤69.60元，近5日僅小跌0.29%，外資近5日買超2,290張且近20日持續買超。9月營收年減4.8%，萬寶預估2026年EPS 4.0元，預估本益比17.4倍。",
+      "key_points": [
+        "外資近5日買超2,290張，大盤重挫下股價高度抗跌",
+        "萬寶預估EPS 4.0元，預估本益比17.4倍"
+      ]
+    }
+  ]
+}

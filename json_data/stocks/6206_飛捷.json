@@ -1,0 +1,28 @@
+{
+  "stock_id": "6206",
+  "stock_name": "飛捷",
+  "industry_profile": {
+    "main_industry": "工業電腦",
+    "sub_industries": [
+      "POS系統/支付整合"
+    ],
+    "theme_tags": [
+      "獲利創高",
+      "支付整合"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 11元。受惠美洲市場強勁及支付整合產品放量，Q3 EPS 2.72元年增74%，前三季EPS 8.65元創同期新高並超越歷年任一全年。支付整合在手訂單已超今年全年業績，明年料況已掌握。",
+      "key_points": [
+        "前三季EPS 8.65元超越歷年任一全年",
+        "支付整合在手訂單已超今年全年業績"
+      ]
+    }
+  ]
+}

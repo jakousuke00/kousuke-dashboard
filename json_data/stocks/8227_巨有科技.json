@@ -1,0 +1,26 @@
+{
+  "stock_id": "8227",
+  "stock_name": "巨有科技",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "ASIC設計服務"
+    ],
+    "theme_tags": [
+      "ASIC漲停"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "受惠AI資金轉向ASIC概念股全面反攻，巨有科技於11/13盤中拉漲停。",
+      "key_points": [
+        "ASIC概念股全面反攻，盤中拉漲停"
+      ]
+    }
+  ]
+}

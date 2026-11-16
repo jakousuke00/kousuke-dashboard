@@ -1,0 +1,27 @@
+{
+  "stock_id": "8087",
+  "stock_name": "麗升能源",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "太陽能電廠與綠電售電"
+    ],
+    "theme_tags": [
+      "綠電轉供"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 0.1元。前三季營收6.06億元年增178.18%、EPS 0.29元。轉向綠電售電等經常性收益，預計年底在手轉供訂單達17.1億度年增250%。",
+      "key_points": [
+        "前三季營收年增178%，EPS 0.29元",
+        "年底在手綠電轉供訂單估達17.1億度"
+      ]
+    }
+  ]
+}

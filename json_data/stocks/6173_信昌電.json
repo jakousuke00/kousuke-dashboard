@@ -1,0 +1,73 @@
+{
+  "stock_id": "6173",
+  "stock_name": "信昌電",
+  "industry_profile": {
+    "main_industry": "被動元件產業",
+    "sub_industries": [
+      "大尺寸高壓電容",
+      "陶瓷粉末",
+      "被動元件",
+      "上游材料"
+    ],
+    "theme_tags": [
+      "Mega Cap獲BBU電源廠包產能",
+      "訂單見度12個月",
+      "介電粉末",
+      "籌碼乾淨"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "被動元件 > 今晚爆個股"
+      },
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 上游材料"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-27",
+    "close_price": 277.0,
+    "est_eps_2026": 7.5,
+    "est_pe": 37
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Mega Cap傳獲電源大廠包產能，Q3營收年增52%",
+      "close_price": 277.0,
+      "price_change_pct": -5.62,
+      "volume_lots": 12954,
+      "est_eps": 7.5,
+      "est_pe": 37,
+      "revenue_perf": "Q3營收16.16億元(季增16.9%、年增52.2%)，上半年EPS 3.18元",
+      "content": "耕耘堆疊型電容(Mega Cap)，傳獲電源大廠包下產能用於可插拔備援電池(BBU)，訂單能見度長達12個月；Q3營收16.16億元、年增52.2%為史上第三高。",
+      "key_points": [
+        "Mega Cap傳獲BBU電源大廠包產能，能見度12個月",
+        "Q3營收年增52.2%寫歷史第三高"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表 / 頭版主筆",
+      "stance": "強烈偏多",
+      "title": "信昌電籌碼乾淨彈幅達128%，值得特別關注",
+      "close_price": 302.5,
+      "est_eps": 7.5,
+      "est_pe": 40.3,
+      "revenue_perf": "2026預估EPS 7.5元，H1 EPS 2.98元",
+      "content": "介電陶瓷粉末廠信昌電籌碼相對乾淨，股價自7月低點132.5元大漲128%重返300元大關收302.5元，今年漲幅達352%，獲主筆特別點名值得注意。",
+      "key_points": [
+        "籌碼面較國巨乾淨，獲專欄特別看好",
+        "低點反彈高達128%，今年漲幅逾3.5倍"
+      ]
+    }
+  ]
+}

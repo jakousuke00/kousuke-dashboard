@@ -1,0 +1,47 @@
+{
+  "stock_id": "7885",
+  "stock_name": "宏羚",
+  "industry_profile": {
+    "main_industry": "其他電子",
+    "sub_industries": [
+      "辦公自動化OA",
+      "企業智能租賃"
+    ],
+    "theme_tags": [
+      "1.92億收購佳能國際OA",
+      "前九月營收年增3.43%",
+      "客戶逾四萬家"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "興櫃搶先報"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-02",
+    "close_price": 32.5,
+    "est_eps_2026": 2.1,
+    "est_pe": 15.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "興櫃搶先報",
+      "stance": "偏多",
+      "title": "宏羚擬以1.92億元收購佳能國際OA事業群，累計服務客戶逾四萬家",
+      "close_price": 32.5,
+      "est_eps": 2.1,
+      "est_pe": 15.5,
+      "revenue_perf": "前九月營收11.08億元年增3.43%，收購完成後佳能國際持股18.21%",
+      "content": "能率創新旗下興櫃宏羚擬以1.92億元收購佳能國際OA事業群，發行新股加現金支付，佳能國際持股將達18.21%。前九月營收11.08億元，累計服務逾四萬家企業，深化OA租賃整合。",
+      "key_points": [
+        "以1.92億元收購佳能國際OA事業群，預計年底完成併購整合",
+        "累計企業服務客戶逾4萬家，強化全台企業租賃與耗材銷售網絡"
+      ]
+    }
+  ]
+}

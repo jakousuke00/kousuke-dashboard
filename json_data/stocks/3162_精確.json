@@ -1,0 +1,29 @@
+{
+  "stock_id": "3162",
+  "stock_name": "精確",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "電動車電池盒"
+    ],
+    "theme_tags": [
+      "AI散熱",
+      "機器人",
+      "美國製造"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 0.1元。Q3稅後純益年增47.3%，前十月營收89.1億元年增41.18%全年拚破百億。跨足AI散熱與機器人，董事會通過赴美設子公司建自動化產線。",
+      "key_points": [
+        "前十月營收年增41%，全年拚破百億",
+        "赴美設子公司建置自動化產線明年貢獻"
+      ]
+    }
+  ]
+}

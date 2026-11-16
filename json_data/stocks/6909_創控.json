@@ -1,0 +1,27 @@
+{
+  "stock_id": "6909",
+  "stock_name": "創控",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "AMC微污染監控設備"
+    ],
+    "theme_tags": [
+      "AI預警方案"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 1元。Q3營收1.85億元年增55.39%、毛利率61.01%、EPS 0.59元，前三季EPS 0.75元創同期新高。Q4為傳統最旺季，已推出半導體工廠微污染AI預警方案。",
+      "key_points": [
+        "Q3獲利年增1.4倍，前三季EPS 0.75元新高",
+        "Q4傳統最旺季，推出微污染AI預警方案"
+      ]
+    }
+  ]
+}

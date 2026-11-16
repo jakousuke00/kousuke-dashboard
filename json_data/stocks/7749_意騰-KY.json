@@ -1,0 +1,38 @@
+{
+  "stock_id": "7749",
+  "stock_name": "意騰-KY",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "晶圓代工與ASIC",
+      "AI語音處理ASIC"
+    ],
+    "theme_tags": [
+      "語音AI",
+      "遊戲機",
+      "ASIC漲停"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "受惠AI資金轉向ASIC概念股全面反攻，意騰-KY於11/13盤中拉漲停。",
+      "key_points": [
+        "ASIC概念股全面反攻，盤中拉漲停"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "Q3營收5.7億元、EPS 4.38元創雙高，前三季EPS 11.95元已超越去年全年。記憶體漲價影響Q4估回落，但遊戲機、耳機新品帶動2027Q1回升，估EPS 16元。",
+      "key_points": [
+        "Q3營收獲利創新高，前三季EPS 11.95元超越去年全年",
+        "新一代遊戲主機、耳機新品及語音AI推進，2027Q1可望回升"
+      ]
+    }
+  ]
+}

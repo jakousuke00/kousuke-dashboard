@@ -1,0 +1,47 @@
+{
+  "stock_id": "3530",
+  "stock_name": "晶相光",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "CMOS影像感測器(CIS)"
+    ],
+    "theme_tags": [
+      "前三季營收年增30.8%",
+      "Global Shutter搶攻機器視覺"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "IC設計 > CMOS影像感測器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05",
+    "close_price": 60.0,
+    "est_eps_2026": 2.4,
+    "est_pe": 25.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "安防需求回溫帶動前三季營收年增30.83%，投入Global Shutter搶攻機器人視覺",
+      "close_price": 60.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 2.4,
+      "est_pe": 25.0,
+      "revenue_perf": "9月營收1.72億元；前三季營收16.62億元、年增30.83%；Q2 EPS 0.64元轉盈",
+      "content": "受惠安防監控需求回溫，前三季營收16.62億元、年增30.83%，Q2單季EPS 0.64元（去年同期為虧損0.44元）。目前正擴大大尺寸BSI產品線鎖定高階安防與無人載具，並投入Global Shutter搶攻機器人與機器視覺。",
+      "key_points": [
+        "前三季營收16.62億元年增30.83%，Q2單季EPS 0.64元轉盈",
+        "擴大BSI與Global Shutter布局無人載具與機器人視覺"
+      ]
+    }
+  ]
+}

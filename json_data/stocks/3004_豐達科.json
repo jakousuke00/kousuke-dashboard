@@ -1,0 +1,44 @@
+{
+  "stock_id": "3004",
+  "stock_name": "豐達科",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "航太發動機扣件",
+      "車削精密零組件",
+      "客機維修扣件"
+    ],
+    "theme_tags": [
+      "前三季EPS 6.54元新高",
+      "10月營收年增51%",
+      "航太扣件占比9成",
+      "馬來西亞擴產"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": 8.0,
+      "estimated_pe": 16.0,
+      "content": "受惠商用客機交機潮與維修需求，前三季稅後純益4.21億元年增71.58%、每股賺6.54元創同期新高。10月營收5.45億元年增51.09%。航太扣件及車削件占營收9成，馬來西亞M1廠明年Q2量產、M3廠提前試產，萬寶估今年EPS 8元。",
+      "key_points": [
+        "商用客機復甦推升維修商機，前三季EPS 6.54元創歷史同期新高，10月營收年增51%。",
+        "馬來西亞M1廠預計明年第二季量產、M3廠第三季提前試產，全球產能布局擴大。"
+      ],
+      "operational_metrics": {
+        "oct_revenue": 5.45,
+        "oct_yoy": 51.09,
+        "three_q_eps": 6.54
+      },
+      "chips_observation": "航太產業長期訂單能見度清晰，獲利爆發推升股價維持高姿態整理。"
+    }
+  ]
+}

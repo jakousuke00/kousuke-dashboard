@@ -1,0 +1,27 @@
+{
+  "stock_id": "2926",
+  "stock_name": "誠品生活",
+  "industry_profile": {
+    "main_industry": "百貨零售",
+    "sub_industries": [
+      "文化百貨與電商"
+    ],
+    "theme_tags": [
+      "虛實融合"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 0.6元。前三季終端營收193億元、EPS 0.47元，誠品線上年增逾兩成；10月底取得台北捷運中山站商鋪使用權預計2027Q1開幕，Q4依商圈策畫推動虛實融合。",
+      "key_points": [
+        "前三季EPS 0.47元，線上營收年增逾兩成",
+        "取得北捷中山站商鋪預計2027Q1開幕"
+      ]
+    }
+  ]
+}

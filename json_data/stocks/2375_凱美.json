@@ -1,0 +1,45 @@
+{
+  "stock_id": "2375",
+  "stock_name": "凱美",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "鋁質電容"
+    ],
+    "theme_tags": [
+      "國巨集團"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 鋁質電容"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 124.5,
+    "est_eps_2026": 4.0,
+    "est_pe": 31.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "中立偏多",
+      "title": "凱美鋁電隨集團回穩，10/1收124.5元",
+      "close_price": 124.5,
+      "est_eps": 4.0,
+      "est_pe": 31.1,
+      "revenue_perf": "2026預估EPS 4元，H1 EPS 1.85元",
+      "content": "國巨集團旗下鋁電與電阻廠凱美，自7月低點103.5元反彈20%，10/1收盤124.5元，估2026全年EPS 4元，評價隨族群反彈而回升。",
+      "key_points": [
+        "受惠國巨集團資源整合",
+        "自低點溫和反彈2成"
+      ]
+    }
+  ]
+}

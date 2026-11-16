@@ -1,0 +1,57 @@
+{
+  "stock_id": "2357",
+  "stock_name": "華碩",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "品牌電腦",
+      "AI PC",
+      "品牌PC與伺服器"
+    ],
+    "theme_tags": [
+      "PC漲價",
+      "商用PC成長",
+      "低本益比",
+      "AI伺服器"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "今晚爆個股 > PC龍頭"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 988.0,
+    "est_eps_2026": 72.0,
+    "est_pe": 13.7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 72元。Q3品牌營收2,587.88億元、毛利率15.9%、EPS 29.1元，單季賺近三個股本。AI伺服器基礎方案事業群占營收升至30%，Q4伺服器營收估季增100%。",
+      "key_points": [
+        "Q3 EPS 29.1元，單季賺近三個股本",
+        "Q4伺服器營收估季增100%、年增280%"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "華碩看好明年上半年PC價格漲逾5%，今年估賺72元PE僅14倍",
+      "close_price": 988.0,
+      "est_eps": 72.0,
+      "est_pe": 13.7,
+      "revenue_perf": "預估明年上半年PC價格較Q4再漲5%以上",
+      "content": "高層表示因記憶體與硬碟漲價，商用PC價格明年上半年估漲5%以上。華碩提前備料控制成本，預估明年商用PC出貨持平至成長。今年估賺72元，PE僅14倍，收988元。",
+      "key_points": [
+        "成本轉嫁順利，明年上半年PC價格看漲5%以上",
+        "估全年EPS 72元，本益比僅14倍具高安全邊際"
+      ]
+    }
+  ]
+}

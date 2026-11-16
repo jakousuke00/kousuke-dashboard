@@ -1,0 +1,48 @@
+{
+  "stock_id": "3059",
+  "stock_name": "華晶科",
+  "industry_profile": {
+    "main_industry": "智能辨識概念股",
+    "sub_industries": [
+      "人臉辨識概念股",
+      "AI視覺晶片與光學"
+    ],
+    "theme_tags": [
+      "智能辨識",
+      "AI視覺",
+      "外資買超冠"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-13",
+        "source": "reports/11月份/萬寶產業報告-1113(萬寶晚報贈品).pdf",
+        "category_mentioned": "智能辨識概念股 - 人臉辨識概念股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "close_price": 37.0,
+    "est_eps_2026": 1.2,
+    "est_pe": 30.8
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "source_file": "reports/11月份/萬寶產業報告-1113(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "外資近5日買超1,440張居冠，帶動股價5日大漲14.73%",
+      "close_price": 37.0,
+      "price_change_5d_pct": 14.73,
+      "foreign_5d_lots": 1440,
+      "est_eps": 1.2,
+      "est_pe": 30.8,
+      "revenue_perf": "10月營收年增13.1%",
+      "content": "外資近5日大買1,440張居表列智能辨識股之冠，推升近5日股價上漲14.73%收37.00元。10月營收年增13.1%，萬寶預估2026年EPS 1.2元，預估本益比30.8倍。",
+      "key_points": [
+        "外資近5日買超1,440張居冠、股價5日漲14.73%，10月營收年增13.1%"
+      ]
+    }
+  ]
+}

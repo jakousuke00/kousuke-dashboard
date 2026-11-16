@@ -1,0 +1,47 @@
+{
+  "stock_id": "2611",
+  "stock_name": "志信",
+  "industry_profile": {
+    "main_industry": "陸海空運輸",
+    "sub_industries": [
+      "貨運承攬與陸運"
+    ],
+    "theme_tags": [
+      "陸運物流",
+      "營收高成長"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-18",
+        "source": "萬寶產業報告-1018",
+        "category_mentioned": "陸海空運輸 > 陸運股 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-18",
+    "close_price": 16.4,
+    "est_eps_2026": 1.6,
+    "est_pe": 10.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-18",
+      "source_file": "萬寶產業報告-1018(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "陸運股近20日上漲17.1%，9月營收年增51.3%、累計年增62.7%",
+      "close_price": 16.4,
+      "price_change_5d_pct": 7.89,
+      "foreign_5d_lots": 495,
+      "est_eps": 1.6,
+      "est_pe": 10.2,
+      "revenue_perf": "9月營收年增51.3%、月增37.0%，今年累計年增62.7%",
+      "content": "陸運股，近5日上漲7.89%、近20日上漲17.1%；9月營收年增51.3%、月增37.0%，今年累計年增62.7%，成長幅度突出。萬寶預估2026年EPS 1.6元，預估本益比10.2倍。",
+      "key_points": [
+        "9月營收年增51.3%、月增37.0%，累計年增達62.7%",
+        "近5日上漲7.89%、近20日上漲17.1%"
+      ]
+    }
+  ]
+}

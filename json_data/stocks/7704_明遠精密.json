@@ -1,0 +1,44 @@
+{
+  "stock_id": "7704",
+  "stock_name": "明遠精密",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "設備子系統技術服務",
+      "射頻電源系統",
+      "半導體零組件維修"
+    ],
+    "theme_tags": [
+      "半導體設備服務",
+      "前三季獲利倍增",
+      "高成長興櫃轉上櫃"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 3.5,
+      "estimated_pe": 22.0,
+      "content": "Q3營收1.89億元、稅後純益3,771.8萬元，每股純益1.12元。前三季營收5.59億元、稅後純益1.03億元年增128.5%，每股賺3.06元，獲利成長大幅優於營收，萬寶估全年EPS 3.5元。",
+      "key_points": [
+        "前三季稅後純益1.03億元大增128.5%，每股純益3.06元，設備子系統維護毛利持續拉升。",
+        "受惠晶圓代工與先進製程設備在地化維修技術服務剛性需求。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 1.89,
+        "q3_eps": 1.12,
+        "three_q_eps": 3.06,
+        "three_q_net_income_growth": 128.5
+      },
+      "chips_observation": "籌碼沉澱良好，成交量維持3,500張，獲利爆發吸引長線投資買盤。"
+    }
+  ]
+}

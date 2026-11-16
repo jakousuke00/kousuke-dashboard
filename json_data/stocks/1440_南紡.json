@@ -1,0 +1,44 @@
+{
+  "stock_id": "1440",
+  "stock_name": "南紡",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "紡織",
+      "半導體材料轉投資"
+    ],
+    "theme_tags": [
+      "南美特薄膜材料",
+      "ALD/CVD",
+      "切入晶圓代工"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "產業新聞"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "產業新聞",
+      "stance": "偏多",
+      "title": "南紡轉投資南美特布局CVD/ALD材料，切入半導體大廠",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "透過南帝持股南美特，已順利切入晶圓代工供應鏈",
+      "content": "南紡透過南帝轉投資南美特布局CVD與ALD薄膜沉積化學材料，已順利切入半導體龍頭大廠供應鏈，展現傳統產業轉型半導體材料效益。",
+      "key_points": [
+        "轉投資南美特切入CVD/ALD沉積材料",
+        "成功打入半導體大廠供應鏈體系"
+      ]
+    }
+  ]
+}

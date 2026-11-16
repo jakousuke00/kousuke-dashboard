@@ -1,0 +1,185 @@
+{
+  "stock_id": "4967",
+  "stock_name": "十銓",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "記憶體模組",
+      "DDR5電競與工控記憶體",
+      "SSD",
+      "電競記憶體",
+      "DRAM模組",
+      "SSD固態硬碟",
+      "利基型記憶體",
+      "電子組裝",
+      "通訊晶片",
+      "記憶體與模組"
+    ],
+    "theme_tags": [
+      "企業級與工控記憶體",
+      "Q3營收破百億",
+      "萬寶上調2026預估EPS至118元",
+      "7月低點之上強勢股",
+      "估2026年EPS 118元",
+      "Q3創新高",
+      "前三季賺9個股本",
+      "B2B高佔比",
+      "記憶體大漲",
+      "DDR5供不應求",
+      "獲利創歷史高",
+      "超級週期",
+      "Q3每股賺37.51元",
+      "年增1496%",
+      "毛利率49.3%",
+      "財報大黑馬",
+      "企業級SSD",
+      "LPCAMM2",
+      "CUDIMM",
+      "毛利連2季成長"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "精選圖表 / 今晚爆個股"
+      },
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "NB/PC產業 > 萬寶投顧精選圖表"
+      },
+      {
+        "date": "2026-10-08",
+        "source": "萬寶晚報-10_08",
+        "category_mentioned": "半導體與設備檢測 > 記憶體模組"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "est_eps_2026": 118.0,
+    "est_pe": 2.4,
+    "close_price": 286.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "入選22檔毛利連2季成長股，Q1~Q3毛利率38%/42.8%/49.3%，累計營收年增95%，前三季EPS 90.95元，2026估EPS 118元。",
+      "key_points": [
+        "Q3毛利率49.3%，前三季EPS 90.95元",
+        "2026估EPS 118元"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股 / 產業新聞",
+      "content": "10月營收28.58億元年增159.4%創同期新高，前三季EPS 90.95元，法人看好全年破百。受惠企業級與工控拓展，預期Q4至2027Q2供應最緊張，估EPS 118元。",
+      "key_points": [
+        "前三季EPS 90.95元，10月營收年增159.4%、前十月年增95.18%",
+        "LPCAMM2與CUDIMM獲台灣精品獎，加速伺服器與邊緣運算導入"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "精選圖表",
+      "investment_rating": "強力買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "Q3營收101.4億元年增143.5%，毛利率49.3%（年增35.99個百分點），單季EPS高達37.51元，較去年同期的2.35元暴增1496.2%，淨利率達35.7%，居上市公司財報亞軍。",
+      "key_points": [
+        "Q3單季EPS達37.51元狂增近15倍，毛利率達49.3%。",
+        "獲利大爆衝成為全市場最受矚目之高成長黑馬股。"
+      ],
+      "operational_metrics": {
+        "q3_eps": 37.51,
+        "q3_revenue": 101.4,
+        "q3_gross_margin": 49.3,
+        "eps_yoy": 1496.2
+      },
+      "chips_observation": "獲利翻倍暴衝吸引特定主力鎖碼，財報公布後市場高度關注。"
+    },
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "財報精選 / 今晚爆個股",
+      "investment_rating": "強力買進",
+      "target_price": null,
+      "estimated_eps": 118.0,
+      "estimated_pe": 2.0,
+      "content": "法說表示最缺貨落在今年Q4至2027年Q2，供需平衡需待2028下半年；現貨價高合約價3至5成，每季估漲3至4成。前三季每股狂賺90.95元，DDR5占DRAM比重逾85%，萬寶估今年EPS 118元。",
+      "key_points": [
+        "法說預告記憶體供不應求延續至2028下半年，合約價每季維持3至4成漲幅預期。",
+        "前三季每股賺90.95元創歷史天價，萬寶預估今年EPS上看118元，本益比僅2倍。"
+      ],
+      "operational_metrics": {
+        "q3_eps": 37.51,
+        "three_q_eps": 90.95,
+        "ddr5_revenue_ratio": 85.0
+      },
+      "chips_observation": "高獲利下逢大盤回檔抗跌，長線低本益比與高庫存獲利爆發受內外資關注。"
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "今晚爆個股",
+      "stance": "強烈偏多",
+      "title": "十銓Q3每股賺37.19元創單季新高，前三季大賺逾9個股本",
+      "close_price": 286.5,
+      "est_eps": 118.0,
+      "est_pe": 2.4,
+      "revenue_perf": "前三季稅後純益83.24億元，每股賺90.95元超越歷年總和",
+      "content": "十銓Q3每股賺37.19元創單季新高，前三季EPS達90.95元賺逾九個股本。B2B營收比重已逾四成，新購新北千坪廠房明年Q2投產增產50%，萬寶預估今年EPS 118元。",
+      "key_points": [
+        "Q3單季每股獲利37.19元創歷史新高，前三季EPS 90.95元",
+        "擴建千坪廠房明年投產增產5成，萬寶估EPS 118元"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "萬寶投顧上調十銓2026年預估EPS至118元",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 118.0,
+      "est_pe": null,
+      "revenue_perf": null,
+      "content": "受惠DRAM與NAND合約價大漲及B2B高毛利占比提升，萬寶投顧於10/27精選圖表中將十銓2026年預估EPS大幅上調至118元。",
+      "key_points": [
+        "萬寶上調2026年預估EPS至118元"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "source_file": "萬寶晚報-10_08.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3營收101.39億元首破百億創單季新高，預估本益比僅3倍",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 90.0,
+      "est_pe": 3.0,
+      "revenue_perf": "9月營收40.81億元年增109.69%；Q3營收101.39億元，季增33.61%、年增143.53%",
+      "content": "以企業級及工控業務為重心，受惠記憶體價格上揚與邊緣運算需求，Q3營收首度突破百億元達101.39億元；Q4受惠DRAM與NAND合約價續漲10%~20%。",
+      "key_points": [
+        "Q3營收101.39億元首破百億創單季新高",
+        "萬寶預估2026 EPS 90元、本益比3倍"
+      ]
+    },
+    {
+      "report_date": "2026-11-06",
+      "source_section": "萬寶投顧精選圖表",
+      "estimated_eps": "2026E 118元",
+      "pe_ratio": null,
+      "content": "列入股價仍在7月低點以上的強勢股，累計營收年增90%，2026年預估EPS達118元，11/06逆勢上漲2.49%收205.5元。",
+      "key_points": [
+        "2026年預估EPS高達118元，累計營收年增90%，股價逆勢漲2.49%守穩7月低點之上"
+      ]
+    }
+  ]
+}

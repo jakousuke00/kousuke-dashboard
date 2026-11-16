@@ -1,0 +1,47 @@
+{
+  "stock_id": "6281",
+  "stock_name": "全國電",
+  "industry_profile": {
+    "main_industry": "3C消費通路",
+    "sub_industries": [
+      "3C零售通路個股"
+    ],
+    "theme_tags": [
+      "3C家電零售",
+      "高殖利率"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-24",
+        "source": "萬寶產業報告-1024",
+        "category_mentioned": "3C消費通路 > 3C零售通路個股 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-24",
+    "close_price": 50.5,
+    "est_eps_2026": 4.0,
+    "est_pe": 12.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-24",
+      "source_file": "萬寶產業報告-1024(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "9月營收年增10.1%，殖利率6.53%、預估今年EPS 4.0元(本益比12.6倍)",
+      "close_price": 50.5,
+      "price_change_5d_pct": -0.98,
+      "foreign_5d_lots": -35,
+      "est_eps": 4.0,
+      "est_pe": 12.6,
+      "revenue_perf": "9月營收年增10.1%",
+      "content": "9月營收年增10.1%，但今年以來股價下跌16.0%，股價表現與營運動能出現落差。收盤50.50元、近5日下跌0.98%，殖利率6.53%、萬寶預估今年EPS 4.0元，預估本益比12.6倍。",
+      "key_points": [
+        "9月營收年增10.1%，殖利率達6.53%",
+        "萬寶預估今年EPS 4.0元，預估本益比12.6倍"
+      ]
+    }
+  ]
+}

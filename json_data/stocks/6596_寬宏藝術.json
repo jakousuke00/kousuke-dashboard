@@ -1,0 +1,27 @@
+{
+  "stock_id": "6596",
+  "stock_name": "寬宏藝術",
+  "industry_profile": {
+    "main_industry": "文創/娛樂",
+    "sub_industries": [
+      "展演活動"
+    ],
+    "theme_tags": [
+      "演唱會經濟"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 9元。前三季EPS 9.84元，法人估全年有機會賺一股本創高。明年2月BIGBANG高雄世運加唱一場，三場滿座票房8至9億元估貢獻EPS 1.5至3元。",
+      "key_points": [
+        "前三季EPS 9.84元，全年拚賺一股本",
+        "BIGBANG高雄三場滿座估貢獻EPS 1.5~3元"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "stock_id": "1305",
+  "stock_name": "華夏",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "化工特化與鋼鐵塑化"
+    ],
+    "theme_tags": [
+      "PVC",
+      "10月營收成長"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "產業新聞",
+      "content": "第三季由盈轉虧每股虧0.5元，但10月營收年增46.98%；公司看好第四季PVC供需與報價逐步改善。",
+      "key_points": [
+        "10月營收年增46.98%，看好Q4 PVC供需與報價改善"
+      ]
+    }
+  ]
+}

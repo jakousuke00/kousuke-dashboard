@@ -1,0 +1,359 @@
+{
+  "last_updated": "2026-11-16T18:51:52+08:00",
+  "processed_files": {
+    "reports/10月份/萬寶產業報告-1022(萬寶晚報贈品).pdf": {
+      "processed_at": "2026-11-16T00:08:00+08:00",
+      "report_date": "2026-10-22",
+      "report_type": "萬寶產業報告",
+      "main_topic": "綜合資訊軟體服務產業報告",
+      "extracted_stocks_count": 12
+    },
+    "reports/10月份/萬寶晚報-10_20.pdf": {
+      "processed_at": "2026-11-16T00:08:00+08:00",
+      "report_date": "2026-10-20",
+      "report_type": "萬寶晚報",
+      "main_topic": "外資做空週三決算，TPCA展與光通訊/半導體設備焦點",
+      "extracted_stocks_count": 26
+    },
+    "reports/10月份/萬寶IA組合週報-1010.pdf": {
+      "processed_at": "2026-11-16T00:08:00+08:00",
+      "report_date": "2026-10-10",
+      "report_type": "萬寶IA組合週報",
+      "main_topic": "AI算力推升網通儲存大爆發，綠能基建與先進封裝迎超級循環",
+      "extracted_stocks_count": 21
+    },
+    "reports/10月份/萬寶產業報告-1018(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/10月份/萬寶產業報告-1019(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/10月份/萬寶產業報告-1020(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/10月份/萬寶產業報告-1021(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/10月份/萬寶產業報告-1023(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/10月份/萬寶產業報告-1024(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/10月份/萬寶產業報告-1025(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/10月份/萬寶產業報告-1027(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/10月份/萬寶產業報告-1028(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/10月份/萬寶產業報告-1029(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/10月份/萬寶產業報告-1030(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/10月份/萬寶產業報告-1031(萬寶晚報贈品).pdf": {
+      "status": "processed"
+    },
+    "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-01",
+      "report_type": "萬寶產業報告",
+      "main_topic": "房地產/營造產業報告：大盤重挫下抗跌，外資五日買超5.3萬張",
+      "extracted_stocks_count": 12
+    },
+    "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-02",
+      "report_type": "萬寶產業報告",
+      "main_topic": "砷化鎵產業報告：穩懋五日漲21%，投信五日買超3.3萬張",
+      "extracted_stocks_count": 11
+    },
+    "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-03",
+      "report_type": "萬寶產業報告",
+      "main_topic": "觀光飯店產業報告：大盤重挫下僅跌0.5%，9月營收年增14.1%",
+      "extracted_stocks_count": 10
+    },
+    "reports/11月份/萬寶產業報告-1104(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-04",
+      "report_type": "萬寶產業報告",
+      "main_topic": "物流概念股產業報告：9月營收年增47.4%，大盤重挫下相對抗跌",
+      "extracted_stocks_count": 5
+    },
+    "reports/11月份/萬寶產業報告-1105(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-05",
+      "report_type": "萬寶產業報告",
+      "main_topic": "地產代銷產業報告：9月營收年增132.9%，70大產業居冠",
+      "extracted_stocks_count": 6
+    },
+    "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-06",
+      "report_type": "萬寶產業報告",
+      "main_topic": "運動健身產業報告：五日逆勢上漲0.3%，外資五日買超4.3萬張",
+      "extracted_stocks_count": 13
+    },
+    "reports/11月份/萬寶產業報告-1107(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-07",
+      "report_type": "萬寶產業報告",
+      "main_topic": "奢華消費概念股產業報告：五日僅跌0.6%，外資逆勢買超6,149張",
+      "extracted_stocks_count": 8
+    },
+    "reports/11月份/萬寶產業報告-1108(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-08",
+      "report_type": "萬寶產業報告",
+      "main_topic": "連鎖餐飲產業報告：加權指數五日跌12.2%，餐飲股僅跌3.9%",
+      "extracted_stocks_count": 10
+    },
+    "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-10",
+      "report_type": "萬寶產業報告",
+      "main_topic": "IC設計產業報告：10月營收年增89.1%，ASIC近5日漲4.6%",
+      "extracted_stocks_count": 13
+    },
+    "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-11",
+      "report_type": "萬寶產業報告",
+      "main_topic": "PCB/MB產業報告：10月營收年增50.3%，投信五日買超近8萬張",
+      "extracted_stocks_count": 13
+    },
+    "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-12",
+      "report_type": "萬寶產業報告",
+      "main_topic": "設備儀器產業報告：10月營收年增69.9%，近5日反彈6.8%",
+      "extracted_stocks_count": 13
+    },
+    "reports/11月份/萬寶產業報告-1113(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-13",
+      "report_type": "萬寶產業報告",
+      "main_topic": "智能辨識概念股產業報告：近5日漲20.6%，10月營收年增35.0%",
+      "extracted_stocks_count": 9
+    },
+    "reports/10月份/萬寶IA倚天日報-0527.pdf": {
+      "report_date": "2026-05-27",
+      "report_type": "萬寶IA倚天日報",
+      "main_topic": "【萬寶 IA 選股】士電 (1503)：AI 算力引爆電力剛需，低基期重電領頭羊強勢表態「評等:A+」暨江湖風雲股報多空8大族群盤點",
+      "extracted_stocks_count": 24
+    },
+    "reports/10月份/萬寶晚報-10_02.pdf": {
+      "processed_at": "2026-11-16T03:15:00+08:00",
+      "report_date": "2026-10-02",
+      "report_type": "萬寶晚報",
+      "main_topic": "今天上櫃漲幅近2%勝於上市7倍！被動元件→光通訊，PCB全系列都大漲！",
+      "extracted_stocks_count": 43
+    },
+    "reports/10月份/萬寶晚報-10_05.pdf": {
+      "processed_at": "2026-11-16T03:26:00+08:00",
+      "report_date": "2026-10-05",
+      "report_type": "萬寶晚報",
+      "main_topic": "外資被軋大買回補，台股直奔5萬點！PCB上中下游最強，多頭個股ASIC、鏡頭股輪攻！",
+      "extracted_stocks_count": 50
+    },
+    "reports/10月份/萬寶晚報-10_06.pdf": {
+      "processed_at": "2026-11-16T03:52:00+08:00",
+      "report_date": "2026-10-06",
+      "report_type": "萬寶晚報",
+      "main_topic": "逼近5萬、外資投信聯手賣，誰會漲？鴻海不如緯穎？蘇媽來台，誰樂？世芯終於大翻身",
+      "extracted_stocks_count": 46
+    },
+    "reports/10月份/萬寶晚報-10_07.pdf": {
+      "processed_at": "2026-11-16T02:45:00+08:00",
+      "report_date": "2026-10-07",
+      "report_type": "萬寶晚報",
+      "main_topic": "有人暗中拉，今昔萬元股跌停，光通訊才是新主流！",
+      "extracted_stocks_count": 62
+    },
+    "reports/10月份/萬寶晚報-10_08.pdf": {
+      "processed_at": "2026-11-16T02:45:00+08:00",
+      "report_date": "2026-10-08",
+      "report_type": "萬寶晚報",
+      "main_topic": "5萬有壓，4萬9有守，外資賣，免驚！萬元股有難，五千級有撐，好戲仍在千金股！",
+      "extracted_stocks_count": 68
+    },
+    "reports/10月份/萬寶晚報-10_12.pdf": {
+      "processed_at": "2026-11-16T02:55:00+08:00",
+      "report_date": "2026-10-12",
+      "report_type": "萬寶晚報",
+      "main_topic": "今年台股大贏韓股18.7%，外資連賣四天，大立光長榮旺矽漲停vs漢測跌停！",
+      "extracted_stocks_count": 64
+    },
+    "reports/10月份/萬寶晚報-10_13.pdf": {
+      "processed_at": "2026-11-16T02:55:00+08:00",
+      "report_date": "2026-10-13",
+      "report_type": "萬寶晚報",
+      "main_topic": "營收創新高，急跌近二千點，為什麼？陳福陽喊崩記憶體，台股二大拚萬元新指標火種！",
+      "extracted_stocks_count": 48
+    },
+    "reports/10月份/萬寶晚報-10_14.pdf": {
+      "processed_at": "2026-11-16T03:06:00+08:00",
+      "report_date": "2026-10-14",
+      "report_type": "萬寶晚報",
+      "main_topic": "今年外資三度大賣，究竟怕誰下跌？台積電南亞科悶，創意精材台塑四寶漲，合理嗎？",
+      "extracted_stocks_count": 46
+    },
+    "reports/10月份/萬寶晚報-10_15.pdf": {
+      "processed_at": "2026-11-16T03:06:00+08:00",
+      "report_date": "2026-10-15",
+      "report_type": "萬寶晚報",
+      "main_topic": "韓股崩、外資狂賣三千億，台積能救？台積電Q3每股賺29.43元創新高、法說全解析",
+      "extracted_stocks_count": 42
+    },
+    "reports/10月份/萬寶晚報-10_16.pdf": {
+      "processed_at": "2026-11-16T03:06:00+08:00",
+      "report_date": "2026-10-16",
+      "report_type": "萬寶晚報",
+      "main_topic": "外資股匯雙殺，台股還能攻上5萬？十月賣超5883億比3月、7月少，更易反彈！",
+      "extracted_stocks_count": 45
+    },
+    "reports/11月份/萬寶晚報-11_05.pdf": {
+      "report_date": "2026-11-05",
+      "report_type": "萬寶晚報",
+      "main_topic": "長黑打垮下影線，AI股本益比都下修；德州變色衝擊AI，韓股跌逾5%，台股融資大洗盤",
+      "extracted_stocks_count": 37
+    },
+    "reports/10月份/萬寶IA組合週報-1010(雙十促銷預購，10_10(六)晚上七點出刊).pdf": {
+      "report_date": "2026-10-10",
+      "report_type": "萬寶IA組合週報 (預購同刊本)",
+      "main_topic": "與 萬寶IA組合週報-1010.pdf 內容相同",
+      "extracted_stocks_count": 21
+    },
+    "reports/10月份/萬寶晚報0923-測試版.pdf": {
+      "report_date": "2026-09-23",
+      "report_type": "萬寶晚報",
+      "main_topic": "外資連5買，內資腳軟怕連假，中秋變盤？台積電鴻海撐盤、櫃買翻黑；健策散熱領漲、友達跌逾5%",
+      "extracted_stocks_count": 37
+    },
+    "reports/11月份/萬寶晚報-11_06.pdf": {
+      "report_date": "2026-11-06",
+      "report_type": "萬寶晚報",
+      "main_topic": "倚天劍制衡屠龍刀，台股轉機要看誰？外資賣壓變少，融資清理，二招選強勢股反攻！",
+      "extracted_stocks_count": 68
+    },
+    "reports/10月份/萬寶晚報-1001.pdf": {
+      "processed_at": "2026-11-16T07:25:00+08:00",
+      "report_date": "2026-10-01",
+      "report_type": "萬寶晚報",
+      "main_topic": "10月好彩頭上4萬8，向5萬點招手！被動元件有機會復活嗎？",
+      "extracted_stocks_count": 56
+    },
+    "reports/10月份/萬寶晚報-10_28.pdf": {
+      "processed_at": "2026-11-16T07:35:00+08:00",
+      "report_date": "2026-10-28",
+      "report_type": "萬寶晚報",
+      "main_topic": "外資被軋空回補 光復台股漲上4萬7 / AI大咖IPO救美股，亞股反攻，創意漲停拚萬元？",
+      "extracted_stocks_count": 32
+    },
+    "reports/10月份/萬寶晚報-10_29.pdf": {
+      "processed_at": "2026-11-16T07:45:00+08:00",
+      "report_date": "2026-10-29",
+      "report_type": "萬寶晚報",
+      "main_topic": "外資昨買今賣，漲多跌少內資仍軋空 / 外資又大賣超，內資繼續買！聯電跌停v.s智原漲停",
+      "extracted_stocks_count": 50
+    },
+    "reports/10月份/萬寶晚報-10_30.pdf": {
+      "processed_at": "2026-11-16T08:05:00+08:00",
+      "report_date": "2026-10-30",
+      "report_type": "萬寶晚報",
+      "main_topic": "昨怕谷歌，又怕亞馬遜，最後補跌嗎 / 台達電、致茂好股也跌停，11月台股整軍反攻",
+      "extracted_stocks_count": 50
+    },
+    "reports/11月份/萬寶晚報-11_02.pdf": {
+      "processed_at": "2026-11-16T08:15:00+08:00",
+      "report_date": "2026-11-02",
+      "report_type": "萬寶晚報",
+      "main_topic": "投信今年大買破兆，能軋空外資嗎？ / 美股跌 v.s 韓港陸股漲，玻纖布漲停，內資反攻！",
+      "extracted_stocks_count": 52
+    },
+    "reports/11月份/萬寶晚報-11_03.pdf": {
+      "processed_at": "2026-11-16T08:25:00+08:00",
+      "report_date": "2026-11-03",
+      "report_type": "萬寶晚報",
+      "main_topic": "AI股殺紅眼，美股弱再度拖累亞股！ / 費半重挫但油價跌，台玻逆勢強，下探4萬3支撐",
+      "extracted_stocks_count": 56
+    },
+    "reports/11月份/萬寶晚報-11_04.pdf": {
+      "processed_at": "2026-11-16T08:45:00+08:00",
+      "report_date": "2026-11-04",
+      "report_type": "萬寶晚報",
+      "main_topic": "連3黑破4萬2，急拉千點洗盤見底？ / 川普大敗，利空出盡？融資大減，麗臺永擎拉漲停",
+      "extracted_stocks_count": 90
+    },
+    "reports/11月份/萬寶晚報-11_09.pdf": {
+      "report_date": "2026-11-09",
+      "report_type": "萬寶晚報",
+      "main_topic": "世芯群聯跳空漲停，台股大反攻看誰？強彈二千點，外資仍做空，精選十檔跌深反彈好股！",
+      "extracted_stocks_count": 69
+    },
+    "reports/11月份/萬寶晚報-11_10.pdf": {
+      "report_date": "2026-11-10",
+      "report_type": "萬寶晚報",
+      "main_topic": "3天強彈5298點，11月選好股拚半年線！ASIC、玻纖布、低軌衛星強勢，前二十名強彈股出列！",
+      "extracted_stocks_count": 112
+    },
+    "reports/11月份/萬寶晚報-11_11.pdf": {
+      "report_date": "2026-11-11",
+      "report_type": "萬寶晚報",
+      "main_topic": "台股連漲三天軋外資，4萬5近在眼前！營收創新高支持台股大漲，萬寶精選32檔電子強股！",
+      "extracted_stocks_count": 107
+    },
+    "reports/10月份/萬寶晚報-10_19.pdf": {
+      "file_path": "reports/10月份/萬寶晚報-10_19.pdf",
+      "report_date": "2026-10-19",
+      "report_type": "萬寶晚報",
+      "main_topic": "外資狂賣破2兆，台股漲幅勝費半！大摩由降評轉升評大立光，ASIC雙雄強勢突圍！",
+      "extracted_stocks_count": 32
+    },
+    "reports/10月份/萬寶晚報-10_21.pdf": {
+      "file_path": "reports/10月份/萬寶晚報-10_21.pdf",
+      "report_date": "2026-10-21",
+      "report_type": "萬寶晚報",
+      "main_topic": "股匯同步大反轉，外資認輸回補了嗎？外銷訂單暴增62%！聯茂、精材領軍AI五大族群翻身",
+      "extracted_stocks_count": 31
+    },
+    "reports/10月份/萬寶晚報-10_22.pdf": {
+      "file_path": "reports/10月份/萬寶晚報-10_22.pdf",
+      "report_date": "2026-10-22",
+      "report_type": "萬寶晚報",
+      "main_topic": "颱風假攪局的連假殺盤，4萬6是底？美股漲、亞股跌，AI吸金大法妖術，等待光復！",
+      "extracted_stocks_count": 32
+    },
+    "reports/10月份/萬寶晚報-10_27.pdf": {
+      "file_path": "reports/10月份/萬寶晚報-10_27.pdf",
+      "report_date": "2026-10-27",
+      "report_type": "萬寶晚報",
+      "main_topic": "躲過連假劫，小漲等11月再大反攻！外資今日賣超為本月1%，還能賣多少？準備反攻",
+      "extracted_stocks_count": 37
+    },
+    "reports/11月份/萬寶晚報-11_12.pdf": {
+      "report_date": "2026-11-12",
+      "report_type": "萬寶晚報",
+      "main_topic": "外資台指期翻多，黃小四嚇到大跌千點！精選22檔毛利成長股",
+      "extracted_stocks_count": 92
+    },
+    "reports/11月份/萬寶晚報-11_13.pdf": {
+      "report_date": "2026-11-13",
+      "report_type": "萬寶晚報",
+      "main_topic": "黃仁勳下台，外資才翻多，誰領軍？ASIC崛起宣告新時代！台廠AI供應鏈營收純度與受惠時程",
+      "extracted_stocks_count": 79
+    },
+    "reports/11月份/萬寶產業報告-1114(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-14",
+      "report_type": "萬寶產業報告",
+      "main_topic": "航太概念股產業報告：事欣科五日漲逾三成，外資五日買超1.8萬張",
+      "extracted_stocks_count": 16
+    },
+    "reports/11月份/萬寶產業報告-1115(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-15",
+      "report_type": "萬寶產業報告",
+      "main_topic": "汽車電子產業報告：AR HUD五日漲逾三成，外資五日買超5.4萬張",
+      "extracted_stocks_count": 18
+    },
+    "reports/11月份/萬寶晚報-11_16.pdf": {
+      "report_date": "2026-11-16",
+      "report_type": "萬寶晚報",
+      "main_topic": "貝森特狠話震撼彈！台股暴跌2635點！黃仁勳溢價暫退潮，資安、生技、成衣、運輸資金避險",
+      "extracted_stocks_count": 85
+    }
+  }
+}

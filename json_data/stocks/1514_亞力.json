@@ -1,0 +1,57 @@
+{
+  "stock_id": "1514",
+  "stock_name": "亞力",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "重電與AIDC電力設備",
+      "重電與儲能"
+    ],
+    "theme_tags": [
+      "強韌電網",
+      "半導體擴廠重電",
+      "AIDC機房訂單",
+      "半導體擴廠"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-07",
+        "source": "萬寶晚報-10_07",
+        "category_mentioned": "綠能基建、重電與特殊材料 > 重電廠"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10",
+    "est_eps_2026": 3.6,
+    "est_pe": 29.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "產業新聞",
+      "content": "受惠台電強韌電網計畫及半導體、AI資料中心訂單，10月營收9.34億元年增9.25%，前十月89.59億元年增8.35%，目前在手訂單逾130億元。",
+      "key_points": [
+        "10月營收年增9.25%、前十月年增8.35%，在手訂單逾130億元"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "source_file": "萬寶晚報-10_07.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "在手訂單逾130億元創新高，接獲國外AI機房與NVIDIA轉投資海外訂單",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 3.6,
+      "est_pe": 29.0,
+      "revenue_perf": "9月營收9.8億元年增10.4%，前三季80.24億元年增8.24%均創同期新高",
+      "content": "在手訂單逾130億元創新高（半導體占35%、台電30%、軌道15%、AIDC機房5%~10%），已完成中華電信大型雲端機房，並接獲國外大廠AI機房及NVIDIA轉投資中南美子公司訂單，能見度至少三年。",
+      "key_points": [
+        "在手訂單逾130億元創新高，訂單能見度至少3年",
+        "切入國外大廠AI機房及NVIDIA轉投資海外訂單"
+      ]
+    }
+  ]
+}

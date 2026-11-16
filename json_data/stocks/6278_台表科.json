@@ -1,0 +1,44 @@
+{
+  "stock_id": "6278",
+  "stock_name": "台表科",
+  "industry_profile": {
+    "main_industry": "電子製造與SMT代工",
+    "sub_industries": [
+      "SMT表面黏著",
+      "光通訊模組代工",
+      "伺服器控制板"
+    ],
+    "theme_tags": [
+      "1.6T光模組提前試產",
+      "Q3獲利16季新高",
+      "DDR5放量"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 12.0,
+      "estimated_pe": 19.0,
+      "content": "Q3營收144.58億元創15季新高，每股純益3.38元創16季新高，前三季EPS 8.31元。DDR5出貨季增30%，光通訊800G放量且1.6T試產提前至今年，2027年將新增美系大規模客戶。",
+      "key_points": [
+        "Q3每股賺3.38元創16季新高，高不帶料代工比重拉升帶動毛利率季增2.36個百分點。",
+        "光通訊布局大幅超前，1.6T光模組提前於今年試產，萬寶估全年EPS上看12元。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 144.58,
+        "q3_gross_margin": 14.15,
+        "q3_eps": 3.38,
+        "three_q_eps": 8.31
+      },
+      "chips_observation": "成交量維持1萬張以上，獲利穩健推升評價回歸。"
+    }
+  ]
+}

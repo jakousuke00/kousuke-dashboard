@@ -1,0 +1,48 @@
+{
+  "stock_id": "2515",
+  "stock_name": "中工",
+  "industry_profile": {
+    "main_industry": "房地產/營造",
+    "sub_industries": [
+      "營造/公共工程"
+    ],
+    "theme_tags": [
+      "公共工程",
+      "都更開發",
+      "低股價淨值比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營造/公共工程"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-01",
+    "close_price": 11.35,
+    "est_eps_2026": 0.6,
+    "est_pe": 18.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-01",
+      "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏空",
+      "title": "中工外資近5日賣超逾萬張，股價接近52週低點",
+      "close_price": 11.35,
+      "price_change_5d_pct": -3.81,
+      "foreign_5d_lots": -10734,
+      "est_eps": 0.6,
+      "est_pe": 18.9,
+      "revenue_perf": "9月營收年增24.0%",
+      "content": "近5日下跌3.81%，外資近5日賣超10,734張為表列賣超最多者；收盤11.35元接近52週低點11.10元，股價淨值比0.79倍。9月營收年增24.0%，萬寶預估EPS 0.6元。",
+      "key_points": [
+        "外資近5日賣超10,734張最多，股價接近52週低點",
+        "9月營收年增24.0%，股價淨值比0.79倍"
+      ]
+    }
+  ]
+}

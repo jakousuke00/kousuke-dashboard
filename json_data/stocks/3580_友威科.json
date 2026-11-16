@@ -1,0 +1,47 @@
+{
+  "stock_id": "3580",
+  "stock_name": "友威科",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "真空濺(蒸)鍍"
+    ],
+    "theme_tags": [
+      "真空濺鍍設備",
+      "FOPLP先進封裝"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-21",
+        "source": "萬寶產業報告-1021",
+        "category_mentioned": "機殼相關 > 真空濺(蒸)鍍 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-21",
+    "close_price": 116.0,
+    "est_eps_2026": 1.5,
+    "est_pe": 77.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶產業報告-1021(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "9月營收年增110.1%翻倍成長居次高，短線股價回檔4.13%",
+      "close_price": 116.0,
+      "price_change_5d_pct": -4.13,
+      "foreign_5d_lots": -748,
+      "est_eps": 1.5,
+      "est_pe": 77.3,
+      "revenue_perf": "9月營收年增110.1%",
+      "content": "9月營收年增110.1%，在機殼相關表列個股中僅次於營邦，營收成長幅度大但股價短線回檔，近5日下跌4.13%收116.00元。萬寶預估2026年EPS 1.5元，預估本益比77.3倍。",
+      "key_points": [
+        "9月營收年增110.1%翻倍成長，居全產業第二高",
+        "萬寶預估2026 EPS 1.5元"
+      ]
+    }
+  ]
+}

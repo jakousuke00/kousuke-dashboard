@@ -1,0 +1,29 @@
+{
+  "stock_id": "8261",
+  "stock_name": "富鼎",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "晶圓代工與ASIC"
+    ],
+    "theme_tags": [
+      "MOSFET",
+      "強彈前20名"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "20強彈股",
+      "content": "入選11/6低點以來最大彈幅排行前20名個股，2026年預估EPS 6.6元，上半年EPS 3.07元、第三季EPS 1.5元，11/10收盤126元。",
+      "key_points": [
+        "入選11/6低點以來強彈前20名個股",
+        "2026年預估EPS 6.6元，前三季EPS達4.57元"
+      ]
+    }
+  ]
+}

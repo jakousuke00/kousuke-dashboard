@@ -1,0 +1,48 @@
+{
+  "stock_id": "2643",
+  "stock_name": "捷迅",
+  "industry_profile": {
+    "main_industry": "物流概念股",
+    "sub_industries": [
+      "貨運承攬"
+    ],
+    "theme_tags": [
+      "空運承攬",
+      "AI伺服器物流",
+      "高殖利率"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-04",
+        "source": "reports/11月份/萬寶產業報告-1104(萬寶晚報贈品).pdf",
+        "category_mentioned": "物流概念股 - 貨運承攬"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "close_price": 67.1,
+    "est_eps_2026": 5.4,
+    "est_pe": 12.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "reports/11月份/萬寶產業報告-1104(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "捷迅單日漲停10%、近5日漲6.85%居冠，殖利率7.38%",
+      "close_price": 67.1,
+      "price_change_5d_pct": 6.85,
+      "foreign_5d_lots": -2,
+      "est_eps": 5.4,
+      "est_pe": 12.4,
+      "revenue_perf": "9月營收年增12.3%、月減1.4%，今年累計年減7.1%",
+      "content": "11/4大漲10.0%，近5日上漲6.85%為表列唯一上漲者，收67.10元。9月營收年增12.3%，近四季本益比7.7倍、殖利率7.38%；萬寶預估2026年EPS 5.4元，預估本益比12.4倍。",
+      "key_points": [
+        "11/4強漲10.0%，近5日漲6.85%為表列唯一收紅個股",
+        "9月營收年增12.3%，殖利率7.38%，萬寶預估EPS 5.4元"
+      ]
+    }
+  ]
+}

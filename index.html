@@ -1,0 +1,1211 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>萬寶投顧 產業分類 ⇄ 個股分析 雙向知識庫（全58期完整版）</title>
+  <script src="./json_data/stocks_master.js"></script>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --panel: #1e293b;
+      --panel-hover: #26354d;
+      --border: #334155;
+      --text: #f1f5f9;
+      --muted: #94a3b8;
+      --primary: #38bdf8;
+      --accent: #f59e0b;
+      --bull: #ef4444;   /* 台股紅漲/多方 */
+      --bear: #10b981;   /* 台股綠跌/空方 */
+      --tag-bg: #1e3a8a;
+      --tag-text: #bfdbfe;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Microsoft JhengHei", "PingFang TC", -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding-bottom: 60px;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%);
+      border-bottom: 1px solid var(--border);
+      padding: 20px 28px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    header h1 { font-size: 1.45rem; font-weight: 700; letter-spacing: 0.5px; }
+    header .sub { color: var(--muted); font-size: 0.88rem; margin-top: 4px; }
+    .stats-bar {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .stat-pill {
+      background: rgba(15, 23, 42, 0.7);
+      border: 1px solid var(--border);
+      padding: 6px 14px;
+      border-radius: 999px;
+      font-size: 0.85rem;
+      color: var(--primary);
+    }
+    .container {
+      max-width: 1400px;
+      margin: 24px auto;
+      padding: 0 20px;
+      display: grid;
+      grid-template-columns: 360px 1fr;
+      gap: 24px;
+    }
+    @media (max-width: 960px) {
+      .container { grid-template-columns: 1fr; }
+    }
+    .sidebar {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px;
+    }
+    .search-box {
+      width: 100%;
+      padding: 12px 14px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: #0f172a;
+      color: var(--text);
+      font-size: 0.95rem;
+      outline: none;
+    }
+    .search-box:focus { border-color: var(--primary); }
+    .tabs {
+      display: flex;
+      gap: 8px;
+      margin-top: 12px;
+    }
+    .tab-btn {
+      flex: 1;
+      padding: 8px 10px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: #0f172a;
+      color: var(--muted);
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.9rem;
+      transition: 0.15s;
+    }
+    .tab-btn.active, .tab-btn:hover {
+      background: var(--primary);
+      color: #0f172a;
+      border-color: var(--primary);
+    }
+    .nav-list {
+      max-height: 68vh;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      padding-right: 4px;
+    }
+    .nav-item {
+      padding: 11px 14px;
+      border-radius: 8px;
+      background: rgba(15, 23, 42, 0.55);
+      border: 1px solid transparent;
+      cursor: pointer;
+      transition: 0.15s;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .nav-item:hover, .nav-item.active {
+      background: var(--panel-hover);
+      border-color: var(--primary);
+    }
+    .badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 6px;
+      font-size: 0.76rem;
+      font-weight: 600;
+      background: var(--tag-bg);
+      color: var(--tag-text);
+    }
+    .badge.multi { background: #7c2d12; color: #fed7aa; }
+    .badge.bull { background: rgba(239, 68, 68, 0.2); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.4); }
+    .badge.bear { background: rgba(16, 185, 129, 0.2); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.4); }
+    .badge.chip { background: rgba(245, 158, 11, 0.2); color: #fde68a; border: 1px solid rgba(245, 158, 11, 0.4); }
+    .tag-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 5px 11px;
+      border-radius: 999px;
+      font-size: 0.82rem;
+      background: #1e3a8a;
+      color: #e0f2fe;
+      border: 1px solid #3b82f6;
+      cursor: pointer;
+      margin: 4px 6px 4px 0;
+      transition: 0.15s;
+    }
+    .tag-btn:hover {
+      background: var(--primary);
+      color: #0f172a;
+    }
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 12px;
+      margin: 16px 0;
+    }
+    .metric-box {
+      background: rgba(15, 23, 42, 0.65);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px 14px;
+    }
+    .metric-box .label { font-size: 0.8rem; color: var(--muted); }
+    .metric-box .val { font-size: 1.25rem; font-weight: 700; color: var(--primary); margin-top: 2px; }
+    .timeline-item {
+      border-left: 3px solid var(--primary);
+      padding-left: 18px;
+      margin: 20px 0;
+      position: relative;
+    }
+    .timeline-item::before {
+      content: "";
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      background: var(--primary);
+      position: absolute;
+      left: -7px;
+      top: 6px;
+    }
+    . peer-box {
+      background: rgba(15, 23, 42, 0.5);
+      border: 1px dashed var(--border);
+      border-radius: 10px;
+      padding: 14px;
+      margin: 14px 0;
+    }
+    .sub-cat-card {
+      background: rgba(15, 23, 42, 0.6);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px;
+      margin-bottom: 12px;
+    }
+    .filter-group {
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px solid var(--border);
+    }
+    .filter-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 6px;
+      display: block;
+    }
+    .filter-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .filter-pill {
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 0.78rem;
+      background: #0f172a;
+      color: var(--muted);
+      border: 1px solid var(--border);
+      cursor: pointer;
+      transition: 0.15s;
+    }
+    .filter-pill.active, .filter-pill:hover {
+      background: rgba(56, 189, 248, 0.18);
+      color: var(--primary);
+      border-color: var(--primary);
+    }
+    .trend-card {
+      background: rgba(15, 23, 42, 0.65);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px 18px;
+      margin-bottom: 14px;
+      transition: 0.15s;
+    }
+    .trend-card.highlight {
+      border: 2px solid var(--primary);
+      background: rgba(56, 189, 248, 0.08);
+    }
+    h2 { font-size: 1.35rem; margin-bottom: 8px; }
+    h3 { font-size: 1.05rem; color: var(--primary); margin: 16px 0 8px; }
+    ul.kp { padding-left: 20px; margin-top: 8px; color: #cbd5e1; }
+    ul.kp li { margin-bottom: 4px; }
+
+    /* 密碼防護鎖定層樣式 */
+    #lockScreen {
+      position: fixed;
+      top: 0; left: 0; width: 100vw; height: 100vh;
+      background: radial-gradient(circle at 50% 30%, #1e293b 0%, #0f172a 100%);
+      z-index: 99999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .lock-box {
+      background: rgba(30, 41, 59, 0.9);
+      border: 1px solid rgba(56, 189, 248, 0.35);
+      backdrop-filter: blur(16px);
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8), 0 0 35px rgba(56, 189, 248, 0.2);
+      border-radius: 18px;
+      padding: 38px 34px;
+      width: 100%;
+      max-width: 420px;
+      text-align: center;
+    }
+    .lock-icon {
+      font-size: 3.2rem;
+      margin-bottom: 12px;
+      display: inline-block;
+      animation: floatLock 3s ease-in-out infinite;
+    }
+    @keyframes floatLock {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-6px); }
+    }
+    .lock-title {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      margin-bottom: 6px;
+      letter-spacing: 0.5px;
+    }
+    .lock-desc {
+      font-size: 0.88rem;
+      color: #94a3b8;
+      margin-bottom: 24px;
+      line-height: 1.5;
+    }
+    .lock-input-group {
+      position: relative;
+      margin-bottom: 18px;
+    }
+    .lock-input {
+      width: 100%;
+      padding: 13px 44px 13px 18px;
+      background: #0f172a;
+      border: 1px solid #334155;
+      border-radius: 10px;
+      color: #f8fafc;
+      font-size: 1.15rem;
+      letter-spacing: 3px;
+      text-align: center;
+      transition: all 0.2s;
+    }
+    .lock-input:focus {
+      outline: none;
+      border-color: #38bdf8;
+      box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.25);
+    }
+    .lock-toggle-pwd {
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: #94a3b8;
+      cursor: pointer;
+      font-size: 1.2rem;
+      padding: 4px;
+    }
+    .lock-btn {
+      width: 100%;
+      padding: 13px;
+      background: linear-gradient(135deg, #0284c7 0%, #2563eb 100%);
+      border: none;
+      border-radius: 10px;
+      color: #ffffff;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4);
+    }
+    .lock-btn:hover {
+      background: linear-gradient(135deg, #0369a1 0%, #1d4ed8 100%);
+      transform: translateY(-1px);
+    }
+    .lock-btn:active {
+      transform: translateY(1px);
+    }
+    .lock-error {
+      color: #ef4444;
+      font-size: 0.88rem;
+      margin-top: 12px;
+      min-height: 20px;
+      font-weight: 500;
+    }
+    .shake {
+      animation: shake 0.4s ease-in-out;
+    }
+    @keyframes shake {
+      0%, 100% { transform: translateX(0); }
+      20%, 60% { transform: translateX(-8px); }
+      40%, 80% { transform: translateX(8px); }
+    }
+    #mainAppContent {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <!-- 密碼保護全螢幕鎖定畫面 -->
+  <div id="lockScreen">
+    <div class="lock-box" id="lockBox">
+      <div class="lock-icon">🔒</div>
+      <div class="lock-title">萬寶投顧內部資料庫</div>
+      <div class="lock-desc">受保護的私有研究系統<br/>請輸入存取密碼以解鎖完整知識庫</div>
+      <div class="lock-input-group">
+        <input type="password" id="accessPassword" class="lock-input" placeholder="請輸入存取密碼" autofocus />
+        <button type="button" class="lock-toggle-pwd" onclick="togglePasswordVisibility()" title="顯示/隱藏密碼">👁️</button>
+      </div>
+      <button class="lock-btn" onclick="verifyAccessPassword()">解鎖存取系統</button>
+      <div class="lock-error" id="lockError"></div>
+    </div>
+  </div>
+
+  <div id="mainAppContent">
+  <header>
+    <div>
+      <h1>📊 萬寶投顧 產業分類 ⇄ 個股分析 雙向知識庫（全61期完整版）</h1>
+      <div class="sub">支援：正向查「產業 ➔ 細分類 ➔ 個股」｜反向查「個股 ➔ 所屬細分類 ➔ 一鍵拉出同業兄弟股」｜跨日期看法演變與籌碼熱絡度追蹤</div>
+    </div>
+    <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+      <div class="stats-bar" id="statsBar"></div>
+      <button onclick="lockScreenAgain()" class="stat-pill" style="cursor:pointer; background:rgba(239,68,68,0.18); border-color:rgba(239,68,68,0.4); color:#fca5a5; transition:all 0.2s;" title="立即鎖定系統">🔒 鎖定</button>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="sidebar">
+      <div class="card">
+        <input type="text" id="searchInput" class="search-box" placeholder="🔍 搜尋股號、股名、產業、國家或趨勢 (如: 德州、DDR4、2028、SpaceX)..." />
+        <div class="tabs">
+          <button class="tab-btn active" id="tabIndustries" onclick="switchMode('industries')">🏭 依產業</button>
+          <button class="tab-btn" id="tabStocks" onclick="switchMode('stocks')">📈 依個股</button>
+          <button class="tab-btn" id="tabTrends" onclick="switchMode('trends')">🌐 國際趨勢</button>
+        </div>
+        <div id="trendFilters" style="display:none;"></div>
+      </div>
+      <div class="card">
+        <div id="listHeader" style="font-size:0.85rem;color:var(--muted);margin-bottom:10px;"></div>
+        <div class="nav-list" id="navList"></div>
+      </div>
+    </div>
+
+    <div class="main-content">
+      <div class="card" id="detailPane"></div>
+    </div>
+  </div>
+
+  <script>
+    let DB = window.WANBAO_DB || null;
+    let currentMode = 'industries';
+    let selectedKey = null;
+    let trendFilterCategory = 'ALL';
+    let trendFilterCountry = 'ALL';
+    let trendFilterThread = 'ALL';
+
+    async function init() {
+      if (!DB) {
+        try {
+          const res = await fetch('./json_data/stocks_master.json');
+          DB = await res.json();
+        } catch (e) {
+          document.getElementById('detailPane').innerHTML = `<p>無法載入資料庫：${e.message}</p>`;
+          return;
+        }
+      }
+      renderStats();
+      document.getElementById('searchInput').addEventListener('input', onSearch);
+      switchMode('industries');
+    }
+
+    function renderStats() {
+      const s = DB.stats;
+      document.getElementById('statsBar').innerHTML = `
+        <span class="stat-pill">📄 已解析 PDF：<b>${s.processed_pdfs_count}</b> 份</span>
+        <span class="stat-pill">🏭 產業大類：<b>${s.industries_count}</b> 類</span>
+        <span class="stat-pill">📈 個股獨立 JSON：<b>${s.detailed_stocks_count}</b> 檔</span>
+        <span class="stat-pill">🔥 籌碼追蹤個股：<b>${s.chip_tracked_stocks_count}</b> 檔</span>
+        <span class="stat-pill">🌐 國際/產業趨勢：<b>${s.macro_trends_count || 0}</b> 筆</span>
+      `;
+    }
+
+    function switchMode(mode, targetKey = null) {
+      currentMode = mode;
+      document.getElementById('tabIndustries').classList.toggle('active', mode === 'industries');
+      document.getElementById('tabStocks').classList.toggle('active', mode === 'stocks');
+      document.getElementById('tabTrends').classList.toggle('active', mode === 'trends');
+      const tf = document.getElementById('trendFilters');
+      if (mode === 'trends') {
+        tf.style.display = 'block';
+        renderTrendFilters();
+      } else {
+        tf.style.display = 'none';
+      }
+      const q = document.getElementById('searchInput').value.trim();
+      updateTabCounts(q);
+      renderSidebar(q, targetKey);
+    }
+
+    function onSearch(e) {
+      const q = e.target.value.trim();
+      updateTabCounts(q);
+      renderSidebar(q);
+    }
+
+    function calcTrendRelevance(tr, q) {
+      if (!q) return 0;
+      let score = 0;
+      const title = (tr.title || '').toLowerCase();
+      const countries = (tr.countries || []).join(' ').toLowerCase();
+      const cat = (tr.category || '').toLowerCase();
+      const org = (tr.source_org || '').toLowerCase();
+      const horizon = (tr.impact_horizon || '').toLowerCase();
+      const inds = (tr.affected_industries || []).join(' ').toLowerCase();
+      const stocks = (tr.related_stocks || []).map(s => `${s.id} ${s.name}`).join(' ').toLowerCase();
+      const summary = (tr.summary || '').toLowerCase();
+
+      if (title.includes(q)) score += 1500;
+      if (countries.includes(q) || stocks.includes(q)) score += 1000;
+      if (inds.includes(q) || cat.includes(q) || horizon.includes(q) || org.includes(q)) score += 500;
+      if (summary.includes(q)) score += 100;
+      return score;
+    }
+
+    function updateTabCounts(query) {
+      const q = (query || '').toLowerCase();
+      const indBtn = document.getElementById('tabIndustries');
+      const stkBtn = document.getElementById('tabStocks');
+      const trdBtn = document.getElementById('tabTrends');
+      if (!q) {
+        indBtn.textContent = '🏭 依產業';
+        stkBtn.textContent = '📈 依個股';
+        trdBtn.textContent = '🌐 國際趨勢';
+        return;
+      }
+      const indCount = Object.entries(DB.industries || {}).filter(([n, o]) => calcIndustryRelevance(n, o, q) > 0).length;
+      const stkCount = Object.values(DB.stocks || {}).filter(s => calcStockRelevance(s, q) > 0).length;
+      const trdCount = (DB.macro_trends || []).filter(t => calcTrendRelevance(t, q) > 0).length;
+      indBtn.textContent = `🏭 依產業 (${indCount})`;
+      stkBtn.textContent = `📈 依個股 (${stkCount})`;
+      trdBtn.textContent = `🌐 國際趨勢 (${trdCount})`;
+    }
+
+    function renderTrendFilters() {
+      const trends = DB.macro_trends || [];
+      const catCounts = {};
+      const countryCounts = {};
+      const threadCounts = {};
+      trends.forEach(tr => {
+        const c = tr.category || '其他';
+        catCounts[c] = (catCounts[c] || 0) + 1;
+        (tr.countries || []).forEach(ct => {
+          countryCounts[ct] = (countryCounts[ct] || 0) + 1;
+        });
+        if (tr.topic_thread) {
+          threadCounts[tr.topic_thread] = (threadCounts[tr.topic_thread] || 0) + 1;
+        }
+      });
+
+      const catPills = [`<button class="filter-pill ${trendFilterCategory === 'ALL' ? 'active' : ''}" onclick="setTrendFilter('cat','ALL')">全部 (${trends.length})</button>`]
+        .concat(Object.entries(catCounts).map(([c, cnt]) =>
+          `<button class="filter-pill ${trendFilterCategory === c ? 'active' : ''}" onclick="setTrendFilter('cat','${c}')">${c} (${cnt})</button>`
+        )).join('');
+
+      const countryPills = [`<button class="filter-pill ${trendFilterCountry === 'ALL' ? 'active' : ''}" onclick="setTrendFilter('country','ALL')">全部國家</button>`]
+        .concat(Object.entries(countryCounts).sort((a, b) => b[1] - a[1]).map(([ct, cnt]) =>
+          `<button class="filter-pill ${trendFilterCountry === ct ? 'active' : ''}" onclick="setTrendFilter('country','${ct}')">${ct} (${cnt})</button>`
+        )).join('');
+
+      const threadPills = [`<button class="filter-pill ${trendFilterThread === 'ALL' ? 'active' : ''}" onclick="setTrendFilter('thread','ALL')">全部主線</button>`]
+        .concat(Object.entries(threadCounts).sort((a, b) => b[1] - a[1]).map(([th, cnt]) =>
+          `<button class="filter-pill ${trendFilterThread === th ? 'active' : ''}" onclick="setTrendFilter('thread','${th}')">🔗 ${th} (${cnt})</button>`
+        )).join('');
+
+      document.getElementById('trendFilters').innerHTML = `
+        <div class="filter-group">
+          <span class="filter-label">📌 類型篩選：</span>
+          <div class="filter-pills">${catPills}</div>
+        </div>
+        <div class="filter-group">
+          <span class="filter-label">🗺️ 國家／地區連動：</span>
+          <div class="filter-pills">${countryPills}</div>
+        </div>
+        <div class="filter-group">
+          <span class="filter-label">🔗 重大事件主線脈絡 (累積3筆以上)：</span>
+          <div class="filter-pills">${threadPills}</div>
+        </div>
+      `;
+    }
+
+    function setTrendFilter(kind, val) {
+      if (kind === 'cat') trendFilterCategory = val;
+      if (kind === 'country') trendFilterCountry = val;
+      if (kind === 'thread') trendFilterThread = val;
+      renderTrendFilters();
+      renderSidebar(document.getElementById('searchInput').value.trim());
+    }
+
+    function calcStockRelevance(st, q) {
+      if (!q) return 0;
+      let score = 0;
+      const sId = (st.stock_id || '').toLowerCase();
+      const sName = (st.stock_name || '').toLowerCase();
+      
+      // 1. 股號完全匹配 (最高權重)
+      if (sId === q) score += 10000;
+      else if (sId.startsWith(q)) score += 3000;
+      else if (sId.includes(q)) score += 1500;
+
+      // 2. 股名完全匹配
+      if (sName === q) score += 8000;
+      else if (sName.startsWith(q)) score += 2500;
+      else if (sName.includes(q)) score += 1200;
+
+      // 3. 產業與題材標籤
+      const mainInd = (st.industry_profile?.main_industry || '').toLowerCase();
+      const subInds = (st.industry_profile?.sub_industries || []).join(' ').toLowerCase();
+      const tags = (st.industry_profile?.theme_tags || []).join(' ').toLowerCase();
+      if (mainInd.includes(q)) score += 400;
+      if (subInds.includes(q)) score += 400;
+      if (tags.includes(q)) score += 300;
+
+      // 4. 內文或關聯個股提及 (若前項皆無，才檢查全文)
+      if (score === 0) {
+        const fullJson = JSON.stringify(st).toLowerCase();
+        if (fullJson.includes(q)) score += 10;
+      }
+      return score;
+    }
+
+    function calcIndustryRelevance(indName, indObj, q) {
+      if (!q) return 0;
+      let score = 0;
+      const n = indName.toLowerCase();
+      if (n === q) score += 10000;
+      else if (n.startsWith(q)) score += 3000;
+      else if (n.includes(q)) score += 1500;
+
+      for (const [subName, sub] of Object.entries(indObj.sub_categories || {})) {
+        if (subName.toLowerCase().includes(q)) score += 500;
+        for (const s of (sub.stocks || [])) {
+          if (s.id.toLowerCase() === q) score += 4000;
+          else if (s.name.toLowerCase() === q) score += 3000;
+          else if (s.id.toLowerCase().includes(q) || s.name.toLowerCase().includes(q)) score += 600;
+        }
+      }
+
+      if (score === 0) {
+        if (JSON.stringify(indObj).toLowerCase().includes(q)) score += 10;
+      }
+      return score;
+    }
+
+    function renderSidebar(query = '', forceSelectKey = null) {
+      const nav = document.getElementById('navList');
+      const header = document.getElementById('listHeader');
+      nav.innerHTML = '';
+      const q = query.toLowerCase();
+
+      if (currentMode === 'industries') {
+        let entries = Object.entries(DB.industries);
+        if (q) {
+          entries = entries
+            .map(([name, obj]) => ({ name, obj, score: calcIndustryRelevance(name, obj, q) }))
+            .filter(item => item.score > 0)
+            .sort((a, b) => b.score - a.score)
+            .map(item => [item.name, item.obj]);
+        }
+
+        const autoSelectKey = forceSelectKey || (entries.length > 0 ? entries[0][0] : null);
+        header.textContent = `共 ${entries.length} 個主產業分類${q ? ` (符合「${q}」)` : '（點擊查看細項與歷史報告）'}`;
+        
+        entries.forEach(([indName, indObj]) => {
+          const subCount = Object.keys(indObj.sub_categories || {}).length;
+          const rptCount = (indObj.reports_timeline || []).length;
+          const isSelected = (autoSelectKey === indName);
+          const div = document.createElement('div');
+          div.className = 'nav-item' + (isSelected ? ' active' : '');
+          div.innerHTML = `
+            <div>
+              <div style="font-weight:700;">${indName}</div>
+              <div style="font-size:0.78rem;color:var(--muted);">${subCount} 個細分類 ｜ ${rptCount} 篇報告紀錄</div>
+            </div>
+            <span class="badge">產業</span>
+          `;
+          div.onclick = () => {
+            document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
+            div.classList.add('active');
+            renderIndustryDetail(indName);
+          };
+          nav.appendChild(div);
+          if (isSelected) {
+            renderIndustryDetail(indName);
+          }
+        });
+      } else if (currentMode === 'stocks') {
+        let entries = Object.values(DB.stocks);
+        if (q) {
+          entries = entries
+            .map(st => ({ st, score: calcStockRelevance(st, q) }))
+            .filter(item => item.score > 0)
+            .sort((a, b) => {
+              if (b.score !== a.score) return b.score - a.score;
+              return (b.st.analysis_timeline.length - a.st.analysis_timeline.length) || a.st.stock_id.localeCompare(b.st.stock_id);
+            })
+            .map(item => item.st);
+        } else {
+          entries.sort((a, b) => (b.analysis_timeline.length - a.analysis_timeline.length) || a.stock_id.localeCompare(b.stock_id));
+        }
+
+        // 精準選取邏輯：優先選取股號/股名完全吻合者
+        let autoSelectId = forceSelectKey;
+        if (!autoSelectId && q && entries.length > 0) {
+          const exact = entries.find(s => s.stock_id.toLowerCase() === q || s.stock_name.toLowerCase() === q);
+          autoSelectId = exact ? exact.stock_id : entries[0].stock_id;
+        } else if (!autoSelectId && entries.length > 0) {
+          autoSelectId = entries[0].stock_id;
+        }
+
+        header.textContent = `共 ${entries.length} 檔個股 JSON${q ? ` (符合「${q}」)` : '（🔥 標記代表跨多期報告追蹤）'}`;
+        entries.forEach((st) => {
+          const multiCount = st.analysis_timeline.length;
+          const hasChips = (st.chip_records || []).length > 0;
+          const isSelected = (autoSelectId === st.stock_id);
+          const isExact = q && (st.stock_id.toLowerCase() === q || st.stock_name.toLowerCase() === q);
+          const isPeerMention = q && !isExact && !st.stock_id.toLowerCase().includes(q) && !st.stock_name.toLowerCase().includes(q) && !(st.industry_profile?.main_industry || '').toLowerCase().includes(q);
+
+          const div = document.createElement('div');
+          div.className = 'nav-item' + (isSelected ? ' active' : '');
+          div.innerHTML = `
+            <div>
+              <div style="font-weight:700;">
+                ${st.stock_id} ${st.stock_name}
+                ${isExact ? '<span class="badge" style="background:#16a34a;color:#fff;margin-left:4px;">🎯 精確符合</span>' : ''}
+              </div>
+              <div style="font-size:0.78rem;color:var(--muted);">${st.industry_profile.main_industry}</div>
+            </div>
+            <div style="display:flex;gap:4px;align-items:center;">
+              ${isPeerMention ? '<span class="badge" style="background:#334155;color:#94a3b8;">關聯提及</span>' : ''}
+              ${multiCount > 1 ? `<span class="badge multi">🔥 ${multiCount}期演變</span>` : ''}
+              ${hasChips ? `<span class="badge chip">籌碼</span>` : ''}
+            </div>
+          `;
+          div.onclick = () => {
+            document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
+            div.classList.add('active');
+            renderStockDetail(st.stock_id);
+          };
+          nav.appendChild(div);
+          if (isSelected) {
+            renderStockDetail(st.stock_id);
+          }
+        });
+      } else if (currentMode === 'trends') {
+        let entries = (DB.macro_trends || []).filter(tr => {
+          if (trendFilterCategory !== 'ALL' && tr.category !== trendFilterCategory) return false;
+          if (trendFilterCountry !== 'ALL' && !(tr.countries || []).includes(trendFilterCountry)) return false;
+          if (trendFilterThread !== 'ALL' && tr.topic_thread !== trendFilterThread) return false;
+          if (q && calcTrendRelevance(tr, q) === 0) return false;
+          return true;
+        });
+
+        const autoSelectId = forceSelectKey || (entries.length > 0 ? entries[0].id : null);
+        header.textContent = `共 ${entries.length} 筆國際情勢／產業趨勢${q ? ` (符合「${q}」)` : '（依日期由新到舊排列）'}`;
+
+        if (entries.length === 0) {
+          document.getElementById('detailPane').innerHTML = `<p style="color:var(--muted);">沒有符合目前篩選條件的趨勢紀錄，請嘗試清除搜尋或切換國家／類型。</p>`;
+          return;
+        }
+
+        entries.forEach(tr => {
+          const isSelected = (autoSelectId === tr.id);
+          const div = document.createElement('div');
+          div.className = 'nav-item' + (isSelected ? ' active' : '');
+          div.innerHTML = `
+            <div style="min-width:0;">
+              <div style="font-size:0.76rem;color:var(--primary);font-weight:700;">📅 ${tr.date} ｜ ${tr.category}</div>
+              <div style="font-weight:700;font-size:0.9rem;margin-top:2px;line-height:1.35;">${tr.title}</div>
+              <div style="font-size:0.76rem;color:var(--muted);margin-top:3px;">🗺️ ${(tr.countries || []).join('、')}</div>
+            </div>
+          `;
+          div.onclick = () => {
+            document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
+            div.classList.add('active');
+            renderTrendTimeline(entries, tr.id);
+          };
+          nav.appendChild(div);
+        });
+        renderTrendTimeline(entries, autoSelectId);
+      }
+    }
+
+    function renderTrendCardHtml(tr, highlightId = null) {
+      const isHi = tr.id === highlightId;
+      const sentClass = (tr.sentiment || '').includes('空') || (tr.sentiment || '').includes('降') ? 'bear' : ((tr.sentiment || '').includes('多') ? 'bull' : '');
+      const countryBtns = (tr.countries || []).map(c =>
+        `<button class="tag-btn" style="background:#0f172a;border-color:#475569;" onclick="jumpToCountry('${c}')">🗺️ ${c}</button>`
+      ).join('');
+      const indBtns = (tr.affected_industries || []).map(ind =>
+        `<button class="tag-btn" onclick="jumpToIndustry('${ind}')">🏭 ${ind}</button>`
+      ).join('');
+      const stockBtns = (tr.related_stocks || []).map(s => {
+        if (s.id) {
+          return `<button class="tag-btn" onclick="jumpToStock('${s.id}')">📈 ${s.id} ${s.name}</button>`;
+        }
+        return `<span class="badge" style="margin-right:4px;">🏢 ${s.name}</span>`;
+      }).join('');
+      const threadBtn = tr.topic_thread
+        ? `<button class="tag-btn" style="background:rgba(245,158,11,0.15);border-color:#f59e0b;color:#fde68a;" onclick="setTrendFilter('thread','${tr.topic_thread}')">🔗 主線：${tr.topic_thread}</button>`
+        : '';
+
+      return `
+        <div class="trend-card ${isHi ? 'highlight' : ''}" id="card_${tr.id}">
+          <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:8px;">
+            <span class="badge" style="font-size:0.84rem;">📅 ${tr.date}</span>
+            <span class="badge">${tr.category}</span>
+            ${tr.sentiment ? `<span class="badge ${sentClass}">${tr.sentiment}</span>` : ''}
+            ${tr.impact_horizon ? `<span class="badge chip">⏳ 影響時程：${tr.impact_horizon}</span>` : ''}
+            ${tr.source_org ? `<span style="font-size:0.82rem;color:var(--muted);">🏛️ 來源：${tr.source_org}</span>` : ''}
+          </div>
+          <div style="font-weight:700;font-size:1.12rem;color:#f8fafc;margin-bottom:8px;">${tr.title}</div>
+          <p style="font-size:0.93rem;color:#cbd5e1;line-height:1.65;margin-bottom:10px;">${tr.summary}</p>
+          <div style="display:flex;flex-wrap:wrap;align-items:center;gap:4px;margin-bottom:6px;">
+            ${countryBtns}
+            ${threadBtn}
+          </div>
+          <div style="display:flex;flex-wrap:wrap;align-items:center;gap:4px;margin-bottom:6px;">
+            ${indBtns}
+            ${stockBtns}
+          </div>
+          <div style="font-size:0.78rem;color:var(--muted);margin-top:6px;">📄 出處：${tr.source_pdf || ''} ${tr.source_page || ''}</div>
+        </div>
+      `;
+    }
+
+    function renderTrendTimeline(entries, focusId = null) {
+      const pane = document.getElementById('detailPane');
+      const cardsHtml = entries.map(tr => renderTrendCardHtml(tr, focusId)).join('');
+      pane.innerHTML = `
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:14px;">
+          <div>
+            <h2>🌐 國際情勢與產業預期趨勢（共 ${entries.length} 筆）</h2>
+            <div style="font-size:0.86rem;color:var(--muted);">點擊國家標籤可快速篩選該國事件；點擊產業或台股標籤可直接跳轉雙向查詢</div>
+          </div>
+        </div>
+        ${cardsHtml}
+      `;
+      if (focusId) {
+        const el = document.getElementById('card_' + focusId);
+        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+    }
+
+    // 正向查詢：顯示產業 -> 細分類 -> 所屬股票清單 + 產業報告歷史時間軸
+    function renderIndustryDetail(indName, highlightSubCat = null) {
+      const ind = DB.industries[indName];
+      if (!ind) return;
+      const pane = document.getElementById('detailPane');
+
+      let subCatsHtml = '';
+      for (const [subName, subObj] of Object.entries(ind.sub_categories || {})) {
+        const isHighlight = highlightSubCat === subName;
+        const stockButtons = (subObj.stocks || []).map(s => {
+          const hasDetail = !!DB.stocks[s.id];
+          const epsText = hasDetail && DB.stocks[s.id].latest_metrics?.est_eps_2026 != null
+            ? ` (估EPS: ${DB.stocks[s.id].latest_metrics.est_eps_2026}元)` : '';
+          return `<button class="tag-btn" onclick="jumpToStock('${s.id}')" title="${s.role || ''}">
+            📈 <b>${s.id} ${s.name}</b>${epsText}
+          </button>`;
+        }).join('');
+
+        const peersNote = (subObj.mentioned_unlisted_or_peers || []).length
+          ? `<div style="font-size:0.8rem;color:var(--muted);margin-top:6px;">📌 報告提及同業共振：${subObj.mentioned_unlisted_or_peers.join('、')}</div>`
+          : '';
+
+        subCatsHtml += `
+          <div class="sub-cat-card" style="${isHighlight ? 'border:2px solid var(--accent);background:rgba(245,158,11,0.08);' : ''}">
+            <div style="display:flex;justify-content:space-between;align-items:center;">
+              <strong style="font-size:1.02rem;color:#fde68a;">📂 細分類：${subName}</strong>
+              <span class="badge">${(subObj.stocks || []).length} 檔核心個股</span>
+            </div>
+            <div style="font-size:0.88rem;color:#cbd5e1;margin:4px 0 8px;">${subObj.description || ''}</div>
+            <div>${stockButtons}</div>
+            ${peersNote}
+          </div>
+        `;
+      }
+
+      let timelineHtml = '';
+      for (const rpt of (ind.reports_timeline || [])) {
+        let subBreakHtml = '';
+        if (rpt.sub_sector_breakdown) {
+          subBreakHtml = `<div style="margin-top:10px;background:rgba(15,23,42,0.5);padding:10px 14px;border-radius:8px;">
+            <div style="font-weight:700;font-size:0.88rem;color:var(--primary);margin-bottom:4px;">🔎 當期細分類數據觀察：</div>
+            <ul class="kp">${Object.entries(rpt.sub_sector_breakdown).map(([k, v]) => `<li><b>${k}</b>：${v}</li>`).join('')}</ul>
+          </div>`;
+        }
+        let watchHtml = '';
+        if (rpt.future_watch && rpt.future_watch.length) {
+          watchHtml = `<div style="margin-top:8px;">
+            <div style="font-weight:700;font-size:0.88rem;color:#fca5a5;">🎯 後市觀察重點：</div>
+            <ul class="kp">${rpt.future_watch.map(w => `<li>${w}</li>`).join('')}</ul>
+          </div>`;
+        }
+
+        timelineHtml += `
+          <div class="timeline-item">
+            <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+              <span class="badge" style="font-size:0.85rem;">📅 ${rpt.date}</span>
+              <span class="badge bull">${rpt.stance || ''}</span>
+              <span style="font-size:0.82rem;color:var(--muted);">來源：${rpt.source_file}</span>
+            </div>
+            <div style="font-weight:700;font-size:1.08rem;margin:6px 0;">${rpt.headline}</div>
+            ${rpt.market_performance ? `<p style="font-size:0.9rem;color:#cbd5e1;margin-bottom:6px;"><b>📊 盤勢表現：</b>${rpt.market_performance}</p>` : ''}
+            ${rpt.industry_dynamics ? `<p style="font-size:0.9rem;color:#cbd5e1;margin-bottom:6px;"><b>🚀 產業動態：</b>${rpt.industry_dynamics}</p>` : ''}
+            ${rpt.chips_and_funds ? `<p style="font-size:0.9rem;color:#cbd5e1;margin-bottom:6px;"><b>💰 資金與籌碼：</b>${rpt.chips_and_funds}</p>` : ''}
+            ${rpt.fundamentals ? `<p style="font-size:0.9rem;color:#cbd5e1;margin-bottom:6px;"><b>📈 營運基本面：</b>${rpt.fundamentals}</p>` : ''}
+            ${subBreakHtml}
+            ${watchHtml}
+          </div>
+        `;
+      }
+
+      const indTrendsHtml = renderRelatedTrendsBox(ind.macro_trends || []);
+
+      pane.innerHTML = `
+        <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:10px;">
+          <div>
+            <h2>🏭 ${ind.main_industry}</h2>
+            <div style="color:var(--muted);font-size:0.9rem;">萬寶產業對應：${ind.wanbao_70_sector || ind.main_industry}</div>
+          </div>
+        </div>
+        ${indTrendsHtml}
+        <h3>一、 產業細項分類與關聯個股（點擊個股即可反向查詢該股詳細分析）</h3>
+        ${subCatsHtml}
+        <h3>二、 歷次產業報告看法時間軸（依日期新 ➔ 舊排列，觀察多空看法轉變）</h3>
+        ${timelineHtml}
+      `;
+    }
+
+    function renderRelatedTrendsBox(trends) {
+      if (!trends || trends.length === 0) return '';
+      const items = trends.map(tr => {
+        const sentClass = (tr.sentiment || '').includes('空') || (tr.sentiment || '').includes('降') ? 'bear' : ((tr.sentiment || '').includes('多') ? 'bull' : '');
+        return `
+          <div style="padding:8px 10px;border-radius:8px;background:rgba(15,23,42,0.55);border:1px solid rgba(56,189,248,0.25);margin-top:8px;cursor:pointer;" onclick="jumpToTrend('${tr.id}')">
+            <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
+              <span class="badge">${tr.date}</span>
+              <span class="badge">${tr.category}</span>
+              ${tr.sentiment ? `<span class="badge ${sentClass}">${tr.sentiment}</span>` : ''}
+              ${tr.impact_horizon ? `<span class="badge chip">⏳ ${tr.impact_horizon}</span>` : ''}
+              <span style="font-size:0.78rem;color:var(--muted);">🗺️ ${(tr.countries || []).join('、')}</span>
+            </div>
+            <div style="font-weight:700;color:#e0f2fe;margin-top:4px;font-size:0.93rem;">${tr.title} <span style="font-size:0.76rem;color:var(--primary);font-weight:400;">(點擊查看完整脈絡 ➔)</span></div>
+            <div style="font-size:0.84rem;color:#cbd5e1;margin-top:3px;line-height:1.5;">${tr.summary}</div>
+          </div>
+        `;
+      }).join('');
+      return `
+        <div class="sub-cat-card" style="border-color:rgba(56,189,248,0.45);background:rgba(56,189,248,0.06);margin:14px 0;">
+          <div style="font-weight:700;color:#38bdf8;margin-bottom:4px;">🌐 近期相關國際情勢與產業預期需求（自動關聯自 macro_trends.json）</div>
+          ${items}
+        </div>
+      `;
+    }
+
+    // 反向查詢：顯示個股 -> 所屬產業與細項標籤 -> 同細項兄弟股一鍵拉出 + 個股歷次分析與籌碼紀錄
+    function renderStockDetail(stockId) {
+      const st = DB.stocks[stockId];
+      if (!st) {
+        alert(`此試跑版尚未建立 ${stockId} 的獨立明細檔`);
+        return;
+      }
+      const pane = document.getElementById('detailPane');
+      const m = st.latest_metrics || {};
+
+      // 雙向查詢：所屬產業按鈕 + 同細分類兄弟股
+      const mainInd = st.industry_profile.main_industry;
+      let matchedIndKey = Object.keys(DB.industries).find(k => k.includes(mainInd.split('/')[0].trim()) || mainInd.includes(k));
+
+      let peerGroupsHtml = '';
+      const peersMap = st.bidirectional_peers || {};
+      for (const [subName, peers] of Object.entries(peersMap)) {
+        const peerBtns = peers.map(p => {
+          const pDetail = DB.stocks[p.id];
+          const eps = pDetail?.latest_metrics?.est_eps_2026 != null ? ` (EPS ${pDetail.latest_metrics.est_eps_2026})` : '';
+          return `<button class="tag-btn" onclick="jumpToStock('${p.id}')">🔗 ${p.id} ${p.name}${eps}</button>`;
+        }).join('');
+        peerGroupsHtml += `
+          <div style="margin-top:8px;">
+            <span style="font-size:0.86rem;color:#fde68a;font-weight:600;">
+              👉 同屬【${subName}】的關聯個股（點擊直接切換比對）：
+            </span>
+            <div style="margin-top:4px;">${peerBtns || '<span style="font-size:0.82rem;color:var(--muted);">目前為該細類唯一代表股</span>'}</div>
+          </div>
+        `;
+      }
+
+      // 歷次分類寫法演變
+      const classHistHtml = (st.industry_profile.classification_history || []).map(c =>
+        `<div style="font-size:0.84rem;color:#cbd5e1;margin-bottom:3px;">• <b>${c.date}</b> (${c.source})：歸類為 <span class="badge">${c.category_mentioned}</span></div>`
+      ).join('');
+
+      // 籌碼參考紀錄 (來自 chips.json)
+      let chipsHtml = '';
+      if (st.chip_records && st.chip_records.length > 0) {
+        chipsHtml = `
+          <div class="sub-cat-card" style="border-color:rgba(245,158,11,0.5);background:rgba(245,158,11,0.07);margin-top:14px;">
+            <div style="font-weight:700;color:#fde68a;margin-bottom:6px;">🔥 近期籌碼上榜紀錄（自動關聯自 chips.json 供判斷熱絡時期）</div>
+            ${st.chip_records.map(c => `
+              <div style="font-size:0.88rem;margin-bottom:4px;">
+                <span class="badge chip">${c.date}</span>
+                <b style="color:#fef08a;margin:0 6px;">[${c.category}]</b>
+                <span>${c.detail}</span>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+
+      // 個股基本面與EPS分析時間軸
+      const timelineHtml = (st.analysis_timeline || []).map(item => `
+        <div class="timeline-item">
+          <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+            <span class="badge" style="font-size:0.85rem;">📅 ${item.date}</span>
+            <span class="badge ${item.stance && item.stance.includes('空') ? 'bear' : 'bull'}">${item.stance || '個股分析'}</span>
+            ${item.est_eps != null ? `<span class="badge" style="background:#065f46;color:#a7f3d0;">當期估 EPS: ${item.est_eps} 元</span>` : ''}
+            ${item.est_pe != null ? `<span class="badge" style="background:#065f46;color:#a7f3d0;">本益比: ${item.est_pe} 倍</span>` : ''}
+            ${item.close_price != null ? `<span style="font-size:0.82rem;color:var(--muted);">收盤價: ${item.close_price} 元</span>` : ''}
+            ${item.source_file ? `<span style="font-size:0.82rem;color:var(--muted);">📄 ${item.source_file} ${item.section ? `(${item.section})` : ''}</span>` : ''}
+          </div>
+          ${item.title ? `<div style="font-weight:700;font-size:1.1rem;margin:8px 0;color:#f8fafc;">${item.title}</div>` : ''}
+          ${item.revenue_perf ? `<div style="font-size:0.88rem;color:#38bdf8;margin-bottom:6px;"><b>📊 營收與獲利數據：</b>${item.revenue_perf}</div>` : ''}
+          <p style="font-size:0.92rem;color:#cbd5e1;margin-bottom:8px;">${item.content}</p>
+          ${item.key_points && item.key_points.length ? `
+            <div style="background:rgba(15,23,42,0.55);padding:10px 14px;border-radius:8px;">
+              <div style="font-size:0.84rem;font-weight:700;color:var(--primary);">💡 核心重點提取：</div>
+              <ul class="kp">${item.key_points.map(k => `<li>${k}</li>`).join('')}</ul>
+            </div>
+          ` : ''}
+        </div>
+      `).join('');
+
+      pane.innerHTML = `
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
+          <div>
+            <h2>📈 ${st.stock_id} ${st.stock_name}</h2>
+            <div style="font-size:0.85rem;color:var(--muted);">獨立檔案路徑：<code>json_data/stocks/${st.stock_id}_${st.stock_name.replace('*','')}.json</code></div>
+          </div>
+          ${matchedIndKey ? `<button class="tag-btn" onclick="jumpToIndustry('${matchedIndKey}')">🏭 返回【${matchedIndKey}】產業總覽</button>` : ''}
+        </div>
+
+        <div class="metrics-grid">
+          <div class="metric-box">
+            <div class="label">萬寶最新預估 2026 EPS</div>
+            <div class="val">${m.est_eps_2026 != null ? m.est_eps_2026 + ' 元' : '未提供'}</div>
+          </div>
+          <div class="metric-box">
+            <div class="label">最新預估本益比 (PE)</div>
+            <div class="val">${m.est_pe != null ? m.est_pe + ' 倍' : '—'}</div>
+          </div>
+          <div class="metric-box">
+            <div class="label">最新基準日收盤價</div>
+            <div class="val">${m.close_price != null ? m.close_price + ' 元' : '—'}</div>
+          </div>
+          <div class="metric-box">
+            <div class="label">資料更新基準日</div>
+            <div class="val" style="font-size:1.05rem;">${m.as_of_date || '—'}</div>
+          </div>
+        </div>
+
+        <div class="peer-box">
+          <div style="font-weight:700;color:var(--primary);margin-bottom:6px;">🔄 產業分類與雙向關聯查詢（三層標籤架構）</div>
+          <div style="margin-bottom:8px;">
+            <span style="font-size:0.85rem;color:var(--muted);">主產業与細分類：</span>
+            ${matchedIndKey ? `<button class="tag-btn" onclick="jumpToIndustry('${matchedIndKey}')">🏭 ${st.industry_profile.main_industry}</button>` : `<span class="badge">${st.industry_profile.main_industry}</span>`}
+            ${(st.industry_profile.sub_industries || []).map(sub =>
+              matchedIndKey
+                ? `<button class="tag-btn" onclick="jumpToIndustry('${matchedIndKey}', '${sub}')">📂 ${sub}</button>`
+                : `<span class="badge">${sub}</span>`
+            ).join('')}
+          </div>
+          <div style="margin-bottom:10px;">
+            <span style="font-size:0.85rem;color:var(--muted);">熱門題材標籤 (點擊可搜尋同題材股票)：</span>
+            ${(st.industry_profile.theme_tags || []).map(t =>
+              `<button class="tag-btn" style="background:#0f172a;border-color:#475569;" onclick="searchByTag('${t}')">#${t}</button>`
+            ).join('')}
+          </div>
+          <div style="border-top:1px solid var(--border);padding-top:8px;margin-top:8px;">
+            <div style="font-size:0.84rem;color:var(--muted);margin-bottom:4px;">🕒 不同報告日期的分類寫法紀錄：</div>
+            ${classHistHtml}
+          </div>
+          ${peerGroupsHtml}
+        </div>
+
+        ${chipsHtml}
+        ${renderRelatedTrendsBox(st.macro_trends || [])}
+
+        <h3>📜 歷次報告基本面、業績與看法時間軸（共 ${st.analysis_timeline.length} 筆紀錄）</h3>
+        ${timelineHtml}
+      `;
+    }
+
+    function jumpToStock(stockId) {
+      if (!DB.stocks[stockId]) {
+        alert(`股票 ${stockId} 目前僅在產業同業名單中被提及，尚未有獨立個股分析段落。`);
+        return;
+      }
+      switchMode('stocks', stockId);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function jumpToIndustry(indKey, subCat = null) {
+      switchMode('industries', indKey);
+      if (subCat) {
+        renderIndustryDetail(indKey, subCat);
+      }
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function jumpToTrend(trendId) {
+      trendFilterCategory = 'ALL';
+      trendFilterCountry = 'ALL';
+      trendFilterThread = 'ALL';
+      switchMode('trends', trendId);
+    }
+
+    function jumpToCountry(country) {
+      trendFilterCountry = country;
+      switchMode('trends');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function searchByTag(tag) {
+      const input = document.getElementById('searchInput');
+      input.value = tag;
+      switchMode('stocks');
+    }
+
+    /* 密碼防護邏輯 (SHA-256 比對) */
+    const HASH_TARGET = "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f";
+    let isAppInitialized = false;
+
+    async function sha256(str) {
+      try {
+        if (window.crypto && crypto.subtle) {
+          const buffer = new TextEncoder().encode(str);
+          const hashBuffer = await crypto.subtle.digest("SHA-256", buffer);
+          const hashArray = Array.from(new Uint8Array(hashBuffer));
+          return hashArray.map(b => b.toString(16).padStart(2, "0")).join("");
+        }
+      } catch (e) {
+        console.warn("Crypto API fallback", e);
+      }
+      return str === "12345678" ? HASH_TARGET : "wrong";
+    }
+
+    async function verifyAccessPassword() {
+      const pwdInput = document.getElementById("accessPassword");
+      const pwd = pwdInput ? pwdInput.value.trim() : "";
+      const err = document.getElementById("lockError");
+      const box = document.getElementById("lockBox");
+      const computed = await sha256(pwd);
+
+      if (computed === HASH_TARGET || pwd === "12345678") {
+        sessionStorage.setItem("wb_vault_token", "authorized");
+        document.getElementById("lockScreen").style.display = "none";
+        document.getElementById("mainAppContent").style.display = "block";
+        document.body.style.overflow = "auto";
+        if (err) err.innerText = "";
+        if (!isAppInitialized) {
+          isAppInitialized = true;
+          init();
+        }
+      } else {
+        if (err) err.innerText = "❌ 密碼錯誤，請重新輸入";
+        if (box) {
+          box.classList.remove("shake");
+          void box.offsetWidth;
+          box.classList.add("shake");
+        }
+        if (pwdInput) {
+          pwdInput.value = "";
+          pwdInput.focus();
+        }
+      }
+    }
+
+    function togglePasswordVisibility() {
+      const input = document.getElementById("accessPassword");
+      if (input) {
+        input.type = input.type === "password" ? "text" : "password";
+      }
+    }
+
+    function lockScreenAgain() {
+      sessionStorage.removeItem("wb_vault_token");
+      location.reload();
+    }
+
+    function checkExistingAuth() {
+      if (sessionStorage.getItem("wb_vault_token") === "authorized") {
+        document.getElementById("lockScreen").style.display = "none";
+        document.getElementById("mainAppContent").style.display = "block";
+        document.body.style.overflow = "auto";
+        if (!isAppInitialized) {
+          isAppInitialized = true;
+          init();
+        }
+      } else {
+        document.getElementById("lockScreen").style.display = "flex";
+        document.getElementById("mainAppContent").style.display = "none";
+        document.body.style.overflow = "hidden";
+        setTimeout(() => {
+          const pwdInput = document.getElementById("accessPassword");
+          if (pwdInput) pwdInput.focus();
+        }, 100);
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      const pwdInput = document.getElementById("accessPassword");
+      if (pwdInput) {
+        pwdInput.addEventListener("keydown", (e) => {
+          if (e.key === "Enter") {
+            verifyAccessPassword();
+          }
+        });
+      }
+      checkExistingAuth();
+    });
+  </script>
+  </div> <!-- #mainAppContent -->
+</body>
+</html>

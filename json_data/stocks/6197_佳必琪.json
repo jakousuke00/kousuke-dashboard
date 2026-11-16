@@ -1,0 +1,44 @@
+{
+  "stock_id": "6197",
+  "stock_name": "佳必琪",
+  "industry_profile": {
+    "main_industry": "連接線器",
+    "sub_industries": [
+      "高速高頻傳輸線",
+      "伺服器連接線",
+      "AI線束模組"
+    ],
+    "theme_tags": [
+      "前三季賺逾10元",
+      "CSP改下長單",
+      "提前備料減空運",
+      "獲利超去年"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 14.0,
+      "estimated_pe": 19.0,
+      "content": "前三季稅後純益12.68億元、年增70.32%，每股賺10.28元提前超越去年全年。因原材料短缺，CSP客戶改以長單因應，提高訂單能見度並有助提前備料、減少空運費用，萬寶估今年EPS 14元。",
+      "key_points": [
+        "前三季EPS 10.28元超越去年全年；公司獲挪威主權基金投資約0.13%股權肯定。",
+        "CSP客戶改下長單大幅提升能見度，減少空運成本有助毛利率持續正面推升。"
+      ],
+      "operational_metrics": {
+        "q3_net_income": 4.12,
+        "q3_eps": 3.29,
+        "three_q_eps": 10.28
+      },
+      "chips_observation": "高檔震盪整理，本益比僅19倍，前三季賺逾一個股本具高防禦性。"
+    }
+  ]
+}

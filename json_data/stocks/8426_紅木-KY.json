@@ -1,0 +1,28 @@
+{
+  "stock_id": "8426",
+  "stock_name": "紅木-KY",
+  "industry_profile": {
+    "main_industry": "居家/裝潢",
+    "sub_industries": [
+      "精品店裝潢"
+    ],
+    "theme_tags": [
+      "私有化",
+      "終止上櫃"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "通過與STARLITE CAPITAL進行反向三角合併，支付股東每股現金24.5元私有化，暫定明年3月15日為合併基準日並申請終止上櫃。",
+      "key_points": [
+        "每股現金24.5元私有化",
+        "明年3月15日合併並申請終止上櫃"
+      ]
+    }
+  ]
+}

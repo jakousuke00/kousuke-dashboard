@@ -1,0 +1,45 @@
+{
+  "stock_id": "7867",
+  "stock_name": "特力屋",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "居家修繕零售與到府管家服務"
+    ],
+    "theme_tags": [
+      "10月底掛牌上市",
+      "13萬張待安裝訂單",
+      "上半年毛利率38.91%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-06",
+        "source": "萬寶晚報-10_06",
+        "category_mentioned": "百貨及賣場 > 阿樂情報站"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-06"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-06",
+      "source_file": "萬寶晚報-10_06.pdf",
+      "section": "阿樂情報站",
+      "stance": "偏多",
+      "title": "手握13萬張待安裝訂單，特力屋管家帶動上半年毛利率升至38.91%，今年目標40%",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "2026上半年營業毛利率達38.91%（今年目標40%），上半年EPS 3.06元已超越過往各全年",
+      "content": "特力屋重新定位並擴大招募「特力屋管家」切入免費丈量與一站式裝修方案，手握13萬張待安裝訂單，部分管家單人年業績破千萬元。服務業務帶動營業毛利率由2022年的35.71%升至2026上半年38.91%，今年目標達40%。",
+      "key_points": [
+        "手握13萬張待安裝訂單，特力屋管家打造新零售高獲利引擎",
+        "上半年營業毛利率升至38.91%，今年目標挑戰40%"
+      ]
+    }
+  ]
+}

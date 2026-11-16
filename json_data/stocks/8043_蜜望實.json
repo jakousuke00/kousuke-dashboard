@@ -1,0 +1,44 @@
+{
+  "stock_id": "8043",
+  "stock_name": "蜜望實",
+  "industry_profile": {
+    "main_industry": "電子通路",
+    "sub_industries": [
+      "被動元件通路"
+    ],
+    "theme_tags": [
+      "太陽誘電代理"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 通路"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 138.5,
+    "est_eps_2026": 3.0,
+    "est_pe": 46.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "蜜望實受惠太陽誘電大漲，低點反彈22%",
+      "close_price": 138.5,
+      "est_eps": 3.0,
+      "est_pe": 46.2,
+      "revenue_perf": "2026預估EPS 3元，H1 EPS 1.7元",
+      "content": "代理日本太陽誘電MLCC之通路商蜜望實，隨日股太陽誘電狂飆8.3%跟進轉強。10/1收138.5元，自7月低點113.5元反彈22%，今年漲幅62%。",
+      "key_points": [
+        "受惠代理原廠太陽誘電大漲連動",
+        "自低點反彈22%"
+      ]
+    }
+  ]
+}

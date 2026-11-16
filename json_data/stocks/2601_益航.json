@@ -1,0 +1,44 @@
+{
+  "stock_id": "2601",
+  "stock_name": "益航",
+  "industry_profile": {
+    "main_industry": "中國消費通路",
+    "sub_industries": [
+      "其他 (百貨、餐飲茶飲與通路)"
+    ],
+    "theme_tags": [
+      "百貨與散裝航運"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-30",
+        "source": "萬寶產業報告-1030",
+        "category_mentioned": "中國消費通路 > 其他 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-30",
+    "close_price": 5.68,
+    "est_eps_2026": -0.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶產業報告-1030(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "保守",
+      "title": "近5日下跌5.33%，9月營收年減55.4%、累計年減55.3%",
+      "close_price": 5.68,
+      "price_change_5d_pct": -5.33,
+      "foreign_5d_lots": -1121,
+      "est_eps": -0.5,
+      "est_pe": null,
+      "revenue_perf": "9月營收年減55.4%、今年累計年減55.3%",
+      "content": "收盤5.68元，近5日下跌5.33%，9月營收年減55.4%、今年累計年減55.3%，萬寶預估2026年EPS為-0.5元。",
+      "key_points": [
+        "9月營收年減55.4%、累計年減55.3%"
+      ]
+    }
+  ]
+}

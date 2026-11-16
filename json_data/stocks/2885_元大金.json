@@ -1,0 +1,29 @@
+{
+  "stock_id": "2885",
+  "stock_name": "元大金",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "食品成衣、內需與金融產險"
+    ],
+    "theme_tags": [
+      "金控",
+      "證券龍頭"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "10月自結稅後純益46.47億，前十月596.06億元、EPS 4.3元，金控/證券/期貨10月獲利創同期新高。元大證券前十月賺414.37億(EPS 5.82元)、銀行132.28億。",
+      "key_points": [
+        "受惠台股交易熱絡，金控、證券、期貨10月獲利創同期新高",
+        "前十月EPS 4.3元，今年估EPS 5元、本益比14倍"
+      ]
+    }
+  ]
+}

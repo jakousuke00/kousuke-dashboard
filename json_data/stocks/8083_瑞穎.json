@@ -1,0 +1,45 @@
+{
+  "stock_id": "8083",
+  "stock_name": "瑞穎",
+  "industry_profile": {
+    "main_industry": "精密機械與零組件",
+    "sub_industries": [
+      "物流輸送軸承",
+      "自動化倉儲零件",
+      "精密五金零件"
+    ],
+    "theme_tags": [
+      "賺逾一個股本",
+      "自動化倉儲",
+      "訂單滿檔",
+      "海關退稅入帳"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 11.0,
+      "estimated_pe": 14.0,
+      "content": "前三季營收11.3億元、稅後純益3.3億元，每股賺9.4元逼近去年全年的9.8元。毛利高的運輸軸承占營收逾7成，美國客戶擴增自動化倉儲，11、12月訂單滿檔看至明年Q1，加上退稅入帳，萬寶估EPS 11元。",
+      "key_points": [
+        "前三季EPS達9.4元，美國自動化倉儲大單滿載直達明年Q1，估全年賺超過一個股本。",
+        "高毛利運輸軸承比重逾七成，且美國海關退稅將於第四季入帳，獲利續攻高峰。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 3.63,
+        "q3_eps": 3.08,
+        "three_q_revenue": 11.3,
+        "three_q_eps": 9.4
+      },
+      "chips_observation": "籌碼集中度高，獲利爆發且本益比僅約14倍，具備高防禦與高配息潛力。"
+    }
+  ]
+}

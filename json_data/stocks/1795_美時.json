@@ -1,0 +1,28 @@
+{
+  "stock_id": "1795",
+  "stock_name": "美時",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "特殊學名藥/品牌藥"
+    ],
+    "theme_tags": [
+      "併購效應",
+      "FDA核准"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 12元。受惠併購Alvogen及B2B成長，前三季營收248.18億元年增74%創高，惟業外拖累Q3單季轉虧約0.47元（前三季EPS 4.18元）。美國兩項重點產品合計市場約30億美元，可望近期獲FDA核准。",
+      "key_points": [
+        "前三季營收248.18億元創同期新高",
+        "美國兩項重點產品可望近期獲FDA核准"
+      ]
+    }
+  ]
+}

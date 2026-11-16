@@ -1,0 +1,29 @@
+{
+  "stock_id": "6435",
+  "stock_name": "大中",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "晶圓代工與ASIC"
+    ],
+    "theme_tags": [
+      "MOSFET",
+      "強彈前20名"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "20強彈股",
+      "content": "入選11/6低點以來最大彈幅排行前20名個股，2026年預估EPS 16元，上半年EPS 7.35元，11/10收盤206.5元。",
+      "key_points": [
+        "今年EPS大於5元且股價百元以上強彈精選股",
+        "2026年預估EPS 16元，上半年已賺7.35元"
+      ]
+    }
+  ]
+}

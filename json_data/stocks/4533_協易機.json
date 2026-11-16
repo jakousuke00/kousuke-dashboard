@@ -1,0 +1,86 @@
+{
+  "stock_id": "4533",
+  "stock_name": "協易機",
+  "industry_profile": {
+    "main_industry": "工具機",
+    "sub_industries": [
+      "工具機全部",
+      "精密傳動與沖床設備",
+      "伺服沖床",
+      "汽車板金沖壓設備",
+      "綠能航太加工機"
+    ],
+    "theme_tags": [
+      "伺服沖床",
+      "自動化設備",
+      "三大法人買超2269張",
+      "工具機抗跌",
+      "伺服沖床節能",
+      "櫃買買超第四"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶產業報告-1027",
+        "category_mentioned": "工具機 > 工具機全部 (重點個股)"
+      },
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：機器人與自動化"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "close_price": 29.15,
+    "est_eps_2026": 0.5,
+    "est_pe": 58.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主力大戶籌碼 / 產業漲跌幅",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "三大法人櫃買買超2,269張、金額0.71億元，居買超張數第四名。受惠伺服沖床節能減碳趨勢與車用沖壓訂單增溫，跟隨工具機產業逆勢抗跌上揚。",
+      "key_points": [
+        "三大法人櫃買買超2,269張居張數榜第四名。",
+        "工具機產業逆勢上漲+1.07%，伺服沖床出貨穩健。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "法人單日大買逾2,200張，技術面帶量突破均線糾結。"
+    },
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶產業報告-1027(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日上漲10.84%，9月營收年增28.2%、預估EPS 0.5元",
+      "close_price": 29.15,
+      "price_change_5d_pct": 10.84,
+      "foreign_5d_lots": -11,
+      "est_eps": 0.5,
+      "est_pe": 58.3,
+      "revenue_perf": "9月營收年增28.2%",
+      "content": "收盤29.15元，近5日上漲10.84%，9月營收年增28.2%，萬寶預估2026年EPS 0.5元，預估本益比58.3倍。",
+      "key_points": [
+        "近5日上漲10.84%，9月營收年增28.2%"
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "空方(觀望沉澱)",
+      "title": "協易機隨自動化族群拉回修正估值",
+      "content": "伺服沖床雖具轉型潛力，但隨智慧工廠與機器人題材在COMPUTEX後降溫，面臨估值修正壓力，股價顯著拉回(-6.57%)，需等待自動化需求實質復甦數據支撐。",
+      "key_points": [
+        "題材降溫面臨估值修正拉回(-6.57%)，待自動化實質復甦支撐"
+      ]
+    }
+  ]
+}

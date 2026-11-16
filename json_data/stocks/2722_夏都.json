@@ -1,0 +1,46 @@
+{
+  "stock_id": "2722",
+  "stock_name": "夏都",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "休閒度假與主題樂園"
+    ],
+    "theme_tags": [
+      "墾丁度假飯店",
+      "單月營收成長"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 休閒度假與主題樂園"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 19.45,
+    "est_eps_2026": -0.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏空",
+      "title": "夏都9月營收年增40.6%最高，惟預估EPS為-0.6元",
+      "close_price": 19.45,
+      "price_change_5d_pct": -2.75,
+      "foreign_5d_lots": 44,
+      "est_eps": -0.6,
+      "est_pe": null,
+      "revenue_perf": "9月營收年增40.6%",
+      "content": "9月營收年增40.6%為表列最高，外資近5日買超44張；但萬寶預估2026年EPS為-0.6元，今年以來下跌25.6%為表列跌幅最大，收盤19.45元接近52週低點19.20元。",
+      "key_points": [
+        "9月營收年增40.6%居表列最高，外資近5日買超44張",
+        "萬寶預估2026年EPS -0.6元，收盤19.45元接近52週低點"
+      ]
+    }
+  ]
+}

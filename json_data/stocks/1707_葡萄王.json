@@ -1,0 +1,29 @@
+{
+  "stock_id": "1707",
+  "stock_name": "葡萄王",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "保健食品"
+    ],
+    "theme_tags": [
+      "上海逆勢成長",
+      "直銷促銷旺季"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "10月營收7.48億元年減30.77%，主因去年同期高基期；上海葡萄王10月營收逆勢年增33.29%，馬來西亞直銷逐月成長，Q4進入直銷促銷旺季，估EPS 6.3元。",
+      "key_points": [
+        "10月營收年減30.77%，上海事業體受惠盒馬鮮生合作年增33%",
+        "Q4進入直銷促銷旺季，對全年營運審慎樂觀，估EPS 6.3元"
+      ]
+    }
+  ]
+}

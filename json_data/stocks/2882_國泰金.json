@@ -1,0 +1,31 @@
+{
+  "stock_id": "2882",
+  "stock_name": "國泰金",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "金控",
+      "壽險銀行證券"
+    ],
+    "theme_tags": [
+      "獲利創歷史新高",
+      "FVOCI超亮眼",
+      "前十月賺逾千億"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-16"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-16",
+      "content": "前十月稅後淨利1,145億元、EPS 7.56元；加計FVOCI股票處分利益後，保留盈餘影響數達2,457億元、每股達16.5元續創歷史新高。國泰世華銀、國泰產險、國泰證券、國泰投信累計獲利均創同期新高，2026預估EPS 8.5元。",
+      "key_points": [
+        "前十月稅後淨利1145億",
+        "加計FVOCI每股達16.5元創歷史新高",
+        "旗下銀行產險證券投信齊創新高"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "stock_id": "2105",
+  "stock_name": "正新",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "輪胎",
+      "橡膠",
+      "輪胎製造",
+      "電動車胎",
+      "輻射層卡車胎"
+    ],
+    "theme_tags": [
+      "2026年EPS下修",
+      "萬寶估2026 EPS 1.8元",
+      "下修EPS",
+      "橡膠原材料波動",
+      "傳產整理"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "精選圖表",
+      "investment_rating": "中立",
+      "target_price": null,
+      "estimated_eps": 1.8,
+      "estimated_pe": null,
+      "content": "萬寶投顧最新預估2026年EPS下修至1.8元。受全球車市增長趨緩及天然橡膠原料價格波動影響，獲利能見度稍顯壓抑，維持區間整理走勢。",
+      "key_points": [
+        "萬寶投顧預估2026年EPS由高點下修至1.8元。",
+        "電動車胎新產品拓展持續進行，靜待全球車市需求復甦。"
+      ],
+      "operational_metrics": {
+        "estimated_eps_2026": 1.8
+      },
+      "chips_observation": "籌碼面法人維持小額進出，股價低檔築底。"
+    },
+    {
+      "report_date": "2026-11-05",
+      "source_section": "萬寶投顧精選圖表",
+      "estimated_eps": "2026E 1.8元（下調）",
+      "pe_ratio": null,
+      "content": "萬寶投顧將正新2026年預估EPS下調至1.8元。",
+      "key_points": [
+        "2026年預估EPS下調至1.8元"
+      ]
+    }
+  ]
+}

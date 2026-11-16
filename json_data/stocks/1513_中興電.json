@@ -1,0 +1,30 @@
+{
+  "stock_id": "1513",
+  "stock_name": "中興電",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "重電與儲能"
+    ],
+    "theme_tags": [
+      "強韌電網",
+      "AI資料中心",
+      "營收創高"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "產業新聞",
+      "content": "受惠台電強韌電網、半導體擴廠及AI資料中心訂單，10月營收26.22億元年增18.21%，前十月239.75億元雙創同期新高，在手訂單達431億元，能見度看至2029年。",
+      "key_points": [
+        "10月與前十月營收雙創同期新高，在手訂單431億元",
+        "國內唯一取得345kV GIS認證廠商，訂單能見度看到2029年"
+      ]
+    }
+  ]
+}

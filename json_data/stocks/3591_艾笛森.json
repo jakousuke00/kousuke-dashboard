@@ -1,0 +1,28 @@
+{
+  "stock_id": "3591",
+  "stock_name": "艾笛森",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "車用/照明光學設計"
+    ],
+    "theme_tags": [
+      "CPO光學",
+      "合資併表"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 3元。法說公告透過子公司與宏巍國際合資設艾斯光學（持股55%），投入車用、照明及紅外線光學設計，雙方可望合併報表；第二階段將投入CPO、NPO光學設計，2027年展望不悲觀。",
+      "key_points": [
+        "合資設艾斯光學持股55%拿回光學設計主導權",
+        "第二階段瞄準CPO、NPO光學設計"
+      ]
+    }
+  ]
+}

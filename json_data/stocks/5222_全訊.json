@@ -1,0 +1,30 @@
+{
+  "stock_id": "5222",
+  "stock_name": "全訊",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "軍工航太、汽車與複材"
+    ],
+    "theme_tags": [
+      "軍工國防",
+      "商用衛星",
+      "無人機反制"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "前三季EPS 0.88元、毛利率維持50%以上。已通過12項國防部軍品認證，前三季海外軍工年增逾2成，今年插旗印度Q4開始出貨，2027年大幅成長，並切入商用衛星。",
+      "key_points": [
+        "Q4軍工出貨可望轉強，印度訂單Q4開始出貨",
+        "切入商用衛星及無人機反制系統，今年估EPS 2元"
+      ]
+    }
+  ]
+}

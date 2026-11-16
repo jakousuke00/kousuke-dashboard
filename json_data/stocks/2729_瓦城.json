@@ -1,0 +1,47 @@
+{
+  "stock_id": "2729",
+  "stock_name": "瓦城",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "鍋物與主題餐廳",
+      "泰式主題餐飲"
+    ],
+    "theme_tags": [
+      "連鎖餐飲",
+      "主題餐廳"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-08",
+        "source": "reports/11月份/萬寶產業報告-1108(萬寶晚報贈品).pdf",
+        "category_mentioned": "連鎖餐飲 - 鍋物與主題餐廳"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-08",
+    "close_price": 145.0,
+    "est_eps_2026": 6.0,
+    "est_pe": 24.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-08",
+      "source_file": "reports/11月份/萬寶產業報告-1108(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "9月營收年增8.9%，近5日股價下跌5.23%",
+      "close_price": 145.0,
+      "price_change_5d_pct": -5.23,
+      "foreign_5d_lots": 20,
+      "est_eps": 6.0,
+      "est_pe": 24.2,
+      "revenue_perf": "9月營收年增8.9%",
+      "content": "主題餐廳大廠，9月營收維持年增8.9%穩健成長；近5日隨大盤拉回下跌5.23%收145.00元，外資近5日小買20張。萬寶預估2026年EPS 6.0元，預估本益比24.2倍。",
+      "key_points": [
+        "9月營收年增8.9%，外資小買20張，預估EPS 6.0元、PE 24.2倍"
+      ]
+    }
+  ]
+}

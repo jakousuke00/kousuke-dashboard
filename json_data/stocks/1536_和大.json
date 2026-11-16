@@ -1,0 +1,44 @@
+{
+  "stock_id": "1536",
+  "stock_name": "和大",
+  "industry_profile": {
+    "main_industry": "工具機",
+    "sub_industries": [
+      "工具機零組件"
+    ],
+    "theme_tags": [
+      "電動車與機器人齒輪"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶產業報告-1027",
+        "category_mentioned": "工具機 > 工具機零組件 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-27",
+    "close_price": 45.45,
+    "est_eps_2026": -2.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶產業報告-1027(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "近5日上漲2.02%，9月營收年減13.8%",
+      "close_price": 45.45,
+      "price_change_5d_pct": 2.02,
+      "foreign_5d_lots": 258,
+      "est_eps": -2.0,
+      "est_pe": null,
+      "revenue_perf": "9月營收年減13.8%",
+      "content": "收盤45.45元，近5日上漲2.02%，9月營收年減13.8%，外資近5日買超258張，萬寶預估2026年EPS為-2.0元。",
+      "key_points": [
+        "近5日上漲2.02%，9月營收年減13.8%"
+      ]
+    }
+  ]
+}

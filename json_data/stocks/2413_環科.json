@@ -1,0 +1,35 @@
+{
+  "stock_id": "2413",
+  "stock_name": "環科",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "變壓器與電源",
+      "變壓器/電源供應器"
+    ],
+    "theme_tags": [
+      "預估EPS下調",
+      "預估EPS下修"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "列入萬寶投顧2026年預估EPS下修名單，2026年預估EPS下調至2.5元。",
+      "key_points": [
+        "2026年預估EPS下調至2.5元"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "content": "萬寶投顧2026年預估EPS下調至2.5元。",
+      "key_points": [
+        "2026預估EPS下調至2.5元"
+      ]
+    }
+  ]
+}

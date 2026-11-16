@@ -1,0 +1,43 @@
+{
+  "stock_id": "4960",
+  "stock_name": "誠美材",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "偏光板",
+      "車用光學膜",
+      "先進封裝材料"
+    ],
+    "theme_tags": [
+      "產品轉型",
+      "半導體封裝材料",
+      "虧損收斂"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "中立觀察",
+      "target_price": null,
+      "estimated_eps": -1.0,
+      "estimated_pe": null,
+      "content": "Q3營收18.61億元，每股虧損0.41元；前三季每股虧1.01元，虧損較去年同期大幅收斂。公司大幅調降消費性比重，轉型高階車用、工控偏光板，並跨足半導體先進封裝材料領域。",
+      "key_points": [
+        "前三季每股虧1.01元較去年收斂，積極擺脫大宗消費性面板偏光板紅海競爭。",
+        "切入高附加價值之半導體先進封裝材料與車用顯示模組。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 18.61,
+        "q3_eps": -0.41,
+        "three_q_eps": -1.01
+      },
+      "chips_observation": "成交量維持3.2萬張，籌碼靜待轉型效益顯現與單季轉虧為盈點。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "stock_id": "1786",
+  "stock_name": "科妍",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "醫療器材",
+      "醫美注射劑"
+    ],
+    "theme_tags": [
+      "陸三類醫材證",
+      "首款含利多卡因",
+      "萬寶估2元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29",
+    "est_eps_2026": 2.0,
+    "est_pe": 22.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "科妍玻尿酸新品獲中國三類醫材證，為台灣首款准入醫美針劑",
+      "close_price": null,
+      "est_eps": 2.0,
+      "est_pe": 22.0,
+      "revenue_perf": "法思麗輕感皮下填補劑獲准在大陸上市，搶攻2000億人民幣商機",
+      "content": "科妍法思麗皮下填補劑獲中國大陸三類醫材證，為台灣首款獲准在大陸上市的含利多卡因玻尿酸，搶攻逾2,000億人民幣市場，萬寶預估今年EPS 2元。",
+      "key_points": [
+        "取得大陸第三類醫材註冊證，為台廠首例",
+        "跨足大陸逾2,000億人民幣注射醫美市場"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "stock_id": "1434",
+  "stock_name": "福懋",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "紡織",
+      "封測轉投資"
+    ],
+    "theme_tags": [
+      "福懋科稼動率高",
+      "DDR5 RDIMM",
+      "轉投資挹注"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "產業新聞"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "產業新聞",
+      "stance": "偏多",
+      "title": "福懋轉投資福懋科稼動率超九成，五廠試產DDR5模組封裝",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "福懋科四座廠產能滿載，五廠鎖定DDR5 RDIMM小量試產",
+      "content": "福懋持股約三成之封測廠福懋科四座廠稼動率達九成以上，五廠本季小量試產，鎖定DDR5 RDIMM高階伺服器模組封裝，受惠記憶體景氣大好。",
+      "key_points": [
+        "福懋科稼動率超九成，五廠試產DDR5封裝",
+        "受惠伺服器DDR5換代潮與封裝需求"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "stock_id": "5392",
+  "stock_name": "能率",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "金屬沖壓",
+      "控股集團",
+      "智能製造"
+    ],
+    "theme_tags": [
+      "能率集團",
+      "金屬沖壓",
+      "豐田機器人",
+      "Digit",
+      "集團母公司"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "今晚產業新聞 > 人形機器人"
+      },
+      {
+        "date": "2026-10-21",
+        "source": "萬寶產業報告-1021",
+        "category_mentioned": "機殼相關 > 金屬沖壓 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28",
+    "close_price": 37.95,
+    "est_eps_2026": 0.7,
+    "est_pe": 54.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "今晚產業新聞",
+      "stance": "偏多",
+      "title": "能率旗下新創Digit獲豐田導入，卡位人形機器人千億市場",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "豐田分拆Walden估值11億美元，2035年全球市占挑戰8%",
+      "content": "豐田加速在汽車產線部署40萬台機器人，能率集團旗下人形機器人新創Agility導入Digit人形機器人，高盛估豐田2035年市占率達3%至8%，帶動能率集團身價水漲船高。",
+      "key_points": [
+        "旗下投資Agility切入豐田汽車產線人形機器人",
+        "集團成員佳能、IKKA-KY全面搶攻豐田供應鏈"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶產業報告-1021(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "近5日小跌0.91%，9月營收年減2.0%、預估EPS 0.7元",
+      "close_price": 37.95,
+      "price_change_5d_pct": -0.91,
+      "foreign_5d_lots": -648,
+      "est_eps": 0.7,
+      "est_pe": 54.2,
+      "revenue_perf": "9月營收年減2.0%",
+      "content": "收盤37.95元，近5日下跌0.91%，9月營收年減2.0%，外資近5日賣超648張，萬寶預估2026年EPS 0.7元，預估本益比54.2倍。",
+      "key_points": [
+        "9月營收年減2.0%，萬寶預估2026 EPS 0.7元"
+      ]
+    }
+  ]
+}

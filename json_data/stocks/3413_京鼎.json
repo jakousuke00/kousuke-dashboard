@@ -1,0 +1,36 @@
+{
+  "stock_id": "3413",
+  "stock_name": "京鼎",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體設備與耗材(高檔換手)"
+    ],
+    "theme_tags": [
+      "半導體設備代工"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：半導體設備與代理"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-05-27"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "空方(籌碼換手)",
+      "title": "京鼎創高後遭法人調節，觀察季線支撐",
+      "content": "受部分設備專案驗收與機台交付時程微調影響，京鼎在股價創高後遭遇法人調節賣壓(-9.1%)，屬於高檔籌碼換手，建議觀察季線支撐與後續營收認列狀況。",
+      "key_points": [
+        "創高後遭法人調節(-9.1%)，建議觀察季線支撐與營收認列"
+      ]
+    }
+  ]
+}

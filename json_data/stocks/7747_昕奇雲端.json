@@ -1,0 +1,47 @@
+{
+  "stock_id": "7747",
+  "stock_name": "昕奇雲端",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "雲端服務",
+      "AI平台"
+    ],
+    "theme_tags": [
+      "Q3獲利翻倍創高",
+      "GCP雲端服務"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-19",
+        "source": "萬寶晚報-10_19",
+        "category_mentioned": "軟體業 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-19",
+    "est_eps_2026": 6.0,
+    "est_pe": 18
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-19",
+      "source_file": "萬寶晚報-10_19.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3每股賺1.55元創新高，前三季已超越去年全年",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 6.0,
+      "est_pe": 18,
+      "revenue_perf": "Q3營收4.30億元(年增20.3%)、稅後0.46億元(年增101%)，前三季EPS 4.29元",
+      "content": "Q3歸屬母公司淨利0.46億元、年增101%，EPS 1.55元創單季新高；前三季淨利1.29億元、年增73.1%，EPS 4.29元已超越去年全年。將進軍澳洲市場並推出具AI Chatbot的ARMIN 2.0平台。",
+      "key_points": [
+        "Q3 EPS 1.55元創高，前三季4.29元超越去年全年",
+        "進軍澳洲市場並推出ARMIN 2.0 AI平台"
+      ]
+    }
+  ]
+}

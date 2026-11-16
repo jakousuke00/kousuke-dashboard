@@ -1,0 +1,43 @@
+{
+  "stock_id": "6908",
+  "stock_name": "宏碁遊戲",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "遊戲主機代理",
+      "遊戲軟體發行",
+      "遊戲開發投資"
+    ],
+    "theme_tags": [
+      "宏碁集團",
+      "轉投資認損",
+      "法說會前夕"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "中立觀察",
+      "target_price": null,
+      "estimated_eps": 1.0,
+      "estimated_pe": 22.0,
+      "content": "宏碁旗下宏碁遊戲Q3營收12.64億元微增，毛利率11.3%；惟受轉投資唯晶科技虧損拖累，單季稅後淨損2,912萬元、每股虧0.8元；前三季每股虧損0.35元。公司訂於26日舉行法說會，萬寶估EPS 1元。",
+      "key_points": [
+        "受轉投資唯晶科技虧損衝擊，第三季單季轉虧每股損0.8元。",
+        "前三季累計每股虧損0.35元，市場靜待26日法說會釋出營運轉機與新品展望。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 12.64,
+        "q3_eps": -0.8,
+        "three_q_eps": -0.35
+      },
+      "chips_observation": "籌碼面呈現觀望，等待法說會釐清海外轉投資虧損認列與代理業務動能。"
+    }
+  ]
+}

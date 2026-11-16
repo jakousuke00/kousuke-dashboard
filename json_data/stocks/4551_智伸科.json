@@ -1,0 +1,29 @@
+{
+  "stock_id": "4551",
+  "stock_name": "智伸科",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "機器人與精密機械"
+    ],
+    "theme_tags": [
+      "AI散熱零件",
+      "半導體零件"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股 / 萬寶投顧精選圖表",
+      "content": "受惠半導體及AI伺服器散熱零件訂單增長，Q3 EPS 2.36元，前三季EPS 7.13元已賺贏去年全年6.04元；10月營收年增33.83%。萬寶下修2026年預估EPS至10元。",
+      "key_points": [
+        "前三季EPS 7.13元已賺贏去年全年6.04元",
+        "10月營收8.16億元年增33.83%，AI散熱訂單增長"
+      ]
+    }
+  ]
+}

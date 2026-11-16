@@ -1,0 +1,72 @@
+{
+  "stock_id": "6610",
+  "stock_name": "安成生技",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "罕見皮膚病新藥研發",
+      "皮膚科新藥",
+      "外用JAK抑制劑"
+    ],
+    "theme_tags": [
+      "泡泡龍新藥AC-203第四季解盲",
+      "力拚2027上半年送藥證",
+      "圓禿新藥二期獲准",
+      "台大雙和收案",
+      "降低全身性副作用"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "興櫃搶先報"
+      },
+      {
+        "date": "2026-10-06",
+        "source": "萬寶晚報-10_06",
+        "category_mentioned": "生技化工 > 新藥解盲"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-02",
+    "close_price": 45.0,
+    "est_eps_2026": -1.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "興櫃搶先報",
+      "stance": "偏多",
+      "title": "安成生技圓禿外用新藥AC-1101獲准二期臨床，預計年底啟動",
+      "close_price": 45.0,
+      "est_eps": -1.5,
+      "est_pe": null,
+      "revenue_perf": "鎖定輕中度圓禿患者外用局部塗抹，最快2027年第三季取得初步結果",
+      "content": "治療圓禿的外用新藥AC-1101獲食藥署核准進行二期臨床，預計年底啟動由台大及雙和收案，最快2027年Q3取得初步數據。外用局部塗抹可望降低口服JAK抑制劑副作用，利基突出。",
+      "key_points": [
+        "圓禿外用新藥AC-1101獲准二期臨床，年底由台大與雙和啟動收案",
+        "採局部塗抹降低口服副作用，最快2027年第三季產出臨床數據"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "source_file": "萬寶晚報-10_06.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "治療泡泡龍全球樞紐臨床AC-203預計Q4解盲，力拚2027上半年向FDA申請藥證",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "AC-203預計2026年Q4解盲，美國潛在年治療價格約10多萬至30多萬美元",
+      "content": "治療單純型表皮分解性水皰症（泡泡龍）的AC-203全球樞紐試驗橫跨19國、37個臨床中心，預計Q4解盲，若達標將力拚2027上半年向FDA提出藥證申請並爭取優先審查券（PRV）；美歐授權最快明年初明朗。",
+      "key_points": [
+        "泡泡龍新藥AC-203全球樞紐試驗預計Q4解盲",
+        "力拚2027上半年申請FDA藥證並爭取優先審查券，美歐授權明年初明朗"
+      ]
+    }
+  ]
+}

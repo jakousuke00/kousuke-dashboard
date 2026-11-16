@@ -1,0 +1,47 @@
+{
+  "stock_id": "6928",
+  "stock_name": "攸泰科技",
+  "industry_profile": {
+    "main_industry": "電腦及週邊",
+    "sub_industries": [
+      "強固移動電腦",
+      "無人機地面控制器"
+    ],
+    "theme_tags": [
+      "簽美AeroVironment MOU",
+      "手持GCS出貨歐美",
+      "低軌衛星"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "今晚產業新聞"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-02",
+    "close_price": 76.0,
+    "est_eps_2026": 3.8,
+    "est_pe": 20.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "今晚產業新聞",
+      "stance": "強烈偏多",
+      "title": "攸泰與美AeroVironment簽MOU，手持GCS已出貨歐美客戶",
+      "close_price": 76.0,
+      "est_eps": 3.8,
+      "est_pe": 20.0,
+      "revenue_perf": "手持式GCS已出貨歐美客戶，無人機地面控制站進入收割期",
+      "content": "攸泰與美國無人機軍工巨頭AeroVironment簽署MOU開發通用控制器，旗下手持式GCS地面控制站已成功出貨歐美軍工客戶，結合衛星通訊模組打造一體化戰術終端，長線成長爆發力強。",
+      "key_points": [
+        "攜手美軍工大廠AeroVironment簽署MOU共同開發通用控制器",
+        "手持式GCS地面站已出貨歐美客戶，搶佔無人載具關鍵防商機"
+      ]
+    }
+  ]
+}

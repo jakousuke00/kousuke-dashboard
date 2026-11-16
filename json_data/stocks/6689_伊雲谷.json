@@ -1,0 +1,30 @@
+{
+  "stock_id": "6689",
+  "stock_name": "伊雲谷",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "軟體、AI Agent與資服"
+    ],
+    "theme_tags": [
+      "AWS雲端",
+      "日本合資",
+      "AI應用"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "與日本東京證交所Prime上市公司C&R締結策略聯盟，合資成立C&R eCloud Partners，鎖定日本企業雲端、資安及AI應用需求，為首度透過合資拓展海外市場。",
+      "key_points": [
+        "攜手日本C&R合資搶進日本企業雲端與AI市場，客戶管道逾5萬家",
+        "估今年EPS 2.2元、本益比35倍"
+      ]
+    }
+  ]
+}

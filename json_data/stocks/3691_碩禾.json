@@ -1,0 +1,44 @@
+{
+  "stock_id": "3691",
+  "stock_name": "碩禾",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "導電銀漿",
+      "太陽能導電漿",
+      "海外供應鏈材料"
+    ],
+    "theme_tags": [
+      "9月轉虧為盈",
+      "賺贏上半年",
+      "受惠美禁中供應鏈",
+      "印度市場大單"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "包打聽快報",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 2.5,
+      "estimated_pe": 20.0,
+      "content": "9月自結每股賺0.42元由虧轉盈並賺贏上半年。受惠印度龐大太陽能建置需求及美國嚴格限制中國供應鏈，海外導電漿出貨大攀升，前三季營收77.14億元大增112%。",
+      "key_points": [
+        "9月單月EPS 0.42元由虧轉盈且超越上半年總和，導電漿海外出貨翻倍增長。",
+        "受惠美中貿易戰去中化轉單及印度太陽能爆發，前三季營收翻倍成長112%。"
+      ],
+      "operational_metrics": {
+        "sep_eps": 0.42,
+        "three_q_revenue": 77.14,
+        "three_q_revenue_yoy": 112.0
+      },
+      "chips_observation": "營收與獲利倍增轉機強勁，吸引特定外資與轉機買盤逢低布局。"
+    }
+  ]
+}

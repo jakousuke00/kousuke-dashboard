@@ -1,0 +1,28 @@
+{
+  "stock_id": "1308",
+  "stock_name": "亞聚",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "化工特化與鋼鐵塑化"
+    ],
+    "theme_tags": [
+      "塑化",
+      "10月營收成長"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "產業新聞",
+      "content": "第三季每股虧損0.27元、前三季累計每股虧損0.42元；不過10月營收表現回溫，年增率達48.47%。",
+      "key_points": [
+        "Q3每股虧0.27元，10月營收年增48.47%"
+      ]
+    }
+  ]
+}

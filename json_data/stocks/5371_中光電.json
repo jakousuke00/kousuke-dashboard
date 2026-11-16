@@ -1,0 +1,47 @@
+{
+  "stock_id": "5371",
+  "stock_name": "中光電",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "背光模組",
+      "智能物流與無人機"
+    ],
+    "theme_tags": [
+      "無人機獲美軍工單",
+      "智能物流轉盈",
+      "全年營收持平去年"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "今晚產業新聞"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-02",
+    "close_price": 72.5,
+    "est_eps_2026": 3.2,
+    "est_pe": 22.7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "今晚產業新聞",
+      "stance": "偏多",
+      "title": "中光電投控擴大無人機與物流，與AEVEX合作提升產能",
+      "close_price": 72.5,
+      "est_eps": 3.2,
+      "est_pe": 22.7,
+      "revenue_perf": "全年營收估持平去年，智能物流第三季轉盈取得航空客戶訂單",
+      "content": "中光電投控本季出貨估季減約一成，全年營收持平去年。與AEVEX合作3D列印提升無人機產能，智能物流Q3已轉虧為盈並取得航空公司訂單，軍民兩用無人機佈局逐步發酵。",
+      "key_points": [
+        "攜手美廠AEVEX合作3D列印加速無人機產能，拓展海外國防市場",
+        "智能物流事業第三季轉虧為盈，順利取得大型航空公司實質訂單"
+      ]
+    }
+  ]
+}

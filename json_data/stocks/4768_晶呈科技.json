@@ -1,0 +1,56 @@
+{
+  "stock_id": "4768",
+  "stock_name": "晶呈科技",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "特用氣體",
+      "先進封裝材料",
+      "先進封裝設備與材料"
+    ],
+    "theme_tags": [
+      "大尺寸玻璃載板",
+      "CPO光纖陣列",
+      "先進封裝",
+      "特氣鋼瓶",
+      "TGV"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "產業新聞"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "前十月營收13.29億元年增79.32%。今年維持成長目標30%，特殊氣體出貨穩定且TGV客戶持續下單；Q3特氣鋼瓶出貨估6,700~6,900支，Q4可望增至7,400~7,600支。",
+      "key_points": [
+        "前十月營收年增79.32%，氣體訂單能見度約一年",
+        "Q4特氣鋼瓶出貨估增至7,400~7,600支"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "產業新聞",
+      "stance": "偏多",
+      "title": "晶呈科技建置大尺寸玻璃載板與CPO光纖陣列基座量產線",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "兩條量產產線就緒，搶攻AI高階封裝新材料",
+      "content": "晶呈已建置大尺寸IC玻璃載板及一體成形CPO光纖陣列單元基座兩條量產線，搶攻新世代AI封裝商機，法人提示目前多處研發驗證階段。",
+      "key_points": [
+        "建置大尺寸玻璃載板與CPO光纖基座量產線",
+        "布局先進封裝與光互連關鍵零組件"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "stock_id": "8438",
+  "stock_name": "昶昕",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "特用化學品",
+      "金屬廢液回收"
+    ],
+    "theme_tags": [
+      "Q3創新高",
+      "前三季超過去年",
+      "AI伺服器PCB"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29",
+    "est_eps_2026": 4.4,
+    "est_pe": 15.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "今晚爆個股",
+      "stance": "強烈偏多",
+      "title": "昶昕Q3每股賺1.26元創新高，前三季營收超過去年全年",
+      "close_price": null,
+      "est_eps": 4.4,
+      "est_pe": 15.0,
+      "revenue_perf": "Q3純益8829萬年增1.2倍，前三季純益2.39億每股賺3.42元",
+      "content": "昶昕Q3每股賺1.26元創新高，前三季營收39.11億已超過去年全年，EPS達3.42元。受惠AI伺服器高階多層板帶動酸性蝕刻液需求，萬寶估今年EPS 4.4元。",
+      "key_points": [
+        "Q3每股賺1.26元創新高，前三季超越去年全年",
+        "受惠AI高階多層板帶動蝕刻化學品與銅回收業務"
+      ]
+    }
+  ]
+}

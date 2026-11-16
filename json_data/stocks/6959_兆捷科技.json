@@ -1,0 +1,30 @@
+{
+  "stock_id": "6959",
+  "stock_name": "兆捷科技",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體特殊氣體"
+    ],
+    "theme_tags": [
+      "先進製程",
+      "自製清潔氣體",
+      "興櫃"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "興櫃搶先爆",
+      "content": "受惠植入氣體出貨成長，10月營收0.76億元年增59%，累計營收年增率轉正；植入氣體切入先進製程供應鏈，銅鑼廠自製氟系清潔氣體產線已完工待驗證導入。",
+      "key_points": [
+        "10月營收年增59%，植入氣體已切入半導體先進製程供應鏈",
+        "銅鑼廠自製清潔氣體產線建置完成，待驗證後提高自製比重"
+      ]
+    }
+  ]
+}

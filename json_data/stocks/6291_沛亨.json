@@ -1,0 +1,29 @@
+{
+  "stock_id": "6291",
+  "stock_name": "沛亨",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "光通訊連接器"
+    ],
+    "theme_tags": [
+      "併購建毅",
+      "資料中心"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "董事會通過現金3億元收購建毅科技100%股權，結合超昱光電光纖線材補強光通訊連接器被動元件產線，瞄準AI、高速運算及資料中心傳輸需求，估EPS 15元。",
+      "key_points": [
+        "3億元收購建毅100%股權，累積上百件專利並涵蓋光纖連接系統廠",
+        "整合光纖線材與連接器搶攻AI資料中心傳輸，估EPS 15元"
+      ]
+    }
+  ]
+}

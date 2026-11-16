@@ -1,0 +1,746 @@
+{
+  "processed_files": {
+    "reports/10月份/萬寶IA倚天日報-0527.pdf": {
+      "report_date": "2026-05-27",
+      "report_type": "萬寶IA倚天日報",
+      "main_topic": "【萬寶 IA 選股】士電 (1503)：AI 算力引爆電力剛需，低基期重電領頭羊強勢表態「評等:A+」暨江湖風雲股報多空8大族群盤點",
+      "extracted_stocks_count": 24
+    }
+  },
+  "industries_updates": [
+    {
+      "main_industry": "重電與能源基建",
+      "sub_categories": {
+        "重電變壓器與電網升級": {
+          "description": "AI資料中心邁入GW等級推升電力剛需，全球變壓器高階交期拉長至127週以上，加上台電強韌電網計畫與北美外銷訂單滿載至2028年。",
+          "stocks": [
+            {"id": "1503", "name": "士電", "role": "重電領頭羊(+8.87%)，訂單直達2028年，3月新單漲價15-20%，法人估2026 EPS 9.8元"},
+            {"id": "1519", "name": "華城", "role": "受惠變壓器外銷北美與台電大單(+3.17%)，產能持續擴充"}
+          ]
+        },
+        "AI電源與液冷基建": {
+          "description": "資料中心轉向800V HVDC架構與液冷散熱解決方案。",
+          "stocks": [
+            {"id": "2308", "name": "台達電", "role": "具備800V HVDC與液冷一條龍方案(+7.23%)，深度綁定CSP巨頭"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "report_type": "萬寶IA倚天日報",
+        "stance": "多方",
+        "headline": "重電與能源基建：AI算力背後的電力剛需，訂單滿載至2028年",
+        "industry_dynamics": "AI耗電量驚人，資料中心轉向800V HVDC架構；全球變壓器供需失衡交期逾127週，美國電網更新與台電5,645億強韌電網、334億配電升級計畫挹注。",
+        "future_watch": "觀察下半年變壓器漲價15-20%效益發酵與北美500kV外銷出貨動能。"
+      }
+    },
+    {
+      "main_industry": "記憶體與封測",
+      "sub_categories": {
+        "記憶體製造與利基型DRAM": {
+          "description": "AI帶動HBM排擠通用型DRAM與NAND產能，加上三星罷工與美光產能移轉，DDR4/DDR5/DDR3報價強勁上揚。",
+          "stocks": [
+            {"id": "2344", "name": "華邦電", "role": "受惠記憶體報價上行(+9.93%)，首季毛利率顯著提升"},
+            {"id": "3006", "name": "晶豪科", "role": "利基型DDR3報價大漲(+4.1%)，單月獲利驚豔"}
+          ]
+        },
+        "記憶體封測": {
+          "description": "受惠記憶體缺貨漲價與轉單效應，封測產能吃緊調漲報價。",
+          "stocks": [
+            {"id": "8150", "name": "南茂", "role": "產能吃緊持續調漲封測價格(+9.95%漲停)"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "report_type": "萬寶IA倚天日報",
+        "stance": "多方",
+        "headline": "記憶體與封測：結構性缺貨引爆漲價潮，獲利預期全面上修",
+        "industry_dynamics": "HBM排擠通用型產能，DDR4/DDR5合約價雙位數大漲，封測廠迎轉單並調漲報價。"
+      }
+    },
+    {
+      "main_industry": "被動元件",
+      "sub_categories": {
+        "MLCC與鋁電容": {
+          "description": "AI伺服器電源向800V邁進，高壓MLCC、鋁電容與牛角電容用量倍增，日韓大廠調漲報價20-30%引發轉單。",
+          "stocks": [
+            {"id": "2492", "name": "華新科", "role": "受惠高階產能滿載與外溢訂單(+9.89%漲停)"},
+            {"id": "2472", "name": "立隆電", "role": "成功卡位Rubin平台供應鏈(+9.93%漲停)"},
+            {"id": "2327", "name": "國巨*", "role": "全球被動元件龍頭(+6.05%)，AI營收佔比提升具強大議價力"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "report_type": "萬寶IA倚天日報",
+        "stance": "多方",
+        "headline": "被動元件：AI規格升級帶動量價齊揚，迎景氣上升循環",
+        "industry_dynamics": "伺服器高壓化推升MLCC與鋁電容需求，日韓大廠漲價20-30%帶動通路囤購與台廠補漲。"
+      }
+    },
+    {
+      "main_industry": "先進封裝與設備",
+      "sub_categories": {
+        "先進封裝與檢測設備": {
+          "description": "CoWoS產能吃緊，FOPLP與玻璃基板(TGV)技術突破，帶動雷射、除泡與測試機台需求爆發。",
+          "stocks": [
+            {"id": "6706", "name": "惠特", "role": "聚焦矽光子雷射量測代工(+9.9%漲停)"},
+            {"id": "6654", "name": "天正國際", "role": "受惠被動元件與半導體測試機台出貨(+9.91%漲停)"},
+            {"id": "7734", "name": "印能科技", "role": "高壓真空除泡系統市佔極高(+6.37%)，解決高階封裝氣泡與翹曲"}
+          ]
+        },
+        "半導體設備與耗材(高檔換手)": {
+          "description": "基本面受惠擴產無虞，但部分個股因處置或設備交付節奏微調而短線籌碼換手。",
+          "stocks": [
+            {"id": "3581", "name": "博磊", "role": "打入處置股重挫跌停(-10%)"},
+            {"id": "3413", "name": "京鼎", "role": "創高後遭法人調節(-9.1%)"},
+            {"id": "3680", "name": "家登", "role": "創高後遭法人調節(-5.43%)"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "report_type": "萬寶IA倚天日報",
+        "stance": "多空分歧",
+        "headline": "先進封裝與設備：CoWoS與FOPLP/TGV擴產狂熱，惟部分處置股籌碼換手",
+        "industry_dynamics": "先進封裝檢測與除泡設備需求爆發，但部分中小型設備股因週轉率高列處置或驗收微調出現獲利了結。"
+      }
+    },
+    {
+      "main_industry": "光通訊與矽光子",
+      "sub_categories": {
+        "高速光收發模組與CPO": {
+          "description": "800G/1.6T與CPO長線趨勢明確，惟前期漲幅龐大、估值處歷史高位，進入籌碼沉澱與驗證期。",
+          "stocks": [
+            {"id": "4908", "name": "前鼎", "role": "漲多回檔與估值修正(-9.42%)"},
+            {"id": "4979", "name": "華星光", "role": "短線漲多資金撤出(-7.65%)"},
+            {"id": "4977", "name": "眾達-KY", "role": "漲多回檔進入籌碼沉澱(-6.16%)"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "report_type": "萬寶IA倚天日報",
+        "stance": "空方(漲多修正)",
+        "headline": "光通訊與矽光子：漲多回檔與估值再平衡",
+        "industry_dynamics": "前期受惠CPO題材累積龐大漲幅，市場嚴格檢視實質營收貢獻時程，引發短線獲利了結。"
+      }
+    },
+    {
+      "main_industry": "機器人與自動化",
+      "sub_categories": {
+        "精密傳動與沖床設備": {
+          "description": "COMPUTEX後題材降溫，多數零組件廠機器人營收佔比仍低，實質貢獻需待2026下半年或2027年。",
+          "stocks": [
+            {"id": "1597", "name": "直得", "role": "微型滑軌具轉型潛力但面臨估值修正(-9.95%)"},
+            {"id": "4533", "name": "協易機", "role": "伺服沖床面臨估值修正拉回(-6.57%)"},
+            {"id": "4540", "name": "全球傳動", "role": "短線資金撤出顯著拉回(-6.41%)"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "report_type": "萬寶IA倚天日報",
+        "stance": "空方(觀望沉澱)",
+        "headline": "機器人與自動化：題材降溫與實質貢獻遞延",
+        "industry_dynamics": "人形機器人實質獲利貢獻多需等待至2026下半年或2027年，缺乏新催化劑下短線資金先行撤出。"
+      }
+    },
+    {
+      "main_industry": "IC設計與消費電子",
+      "sub_categories": {
+        "轉型AI/ASIC與消費性IC": {
+          "description": "成熟製程代工與封測漲價，但下游PC與手機買氣疲軟難以轉嫁成本，毛利率受擠壓。",
+          "stocks": [
+            {"id": "6462", "name": "神盾", "role": "積極轉型AI/ASIC但本業受消費動能壓抑(-9.22%)"},
+            {"id": "3555", "name": "博士旺", "role": "高檔面臨嚴峻修正壓力(-8.04%)"},
+            {"id": "4951", "name": "精拓科", "role": "終端復甦不如預期遭汰弱留強(-7.43%)"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "report_type": "萬寶IA倚天日報",
+        "stance": "空方(汰弱留強)",
+        "headline": "IC設計與消費電子：成本壓抑與終端需求疲軟",
+        "industry_dynamics": "晶圓代工與封測成本上升，惟消費性終端復甦不如預期，IC設計廠毛利率面臨擠壓。"
+      }
+    }
+  ],
+  "stocks_updates": [
+    {
+      "stock_id": "1503",
+      "stock_name": "士電",
+      "main_industry": "重電與能源基建",
+      "sub_industries": ["重電變壓器與電網升級"],
+      "theme_tags": ["AI電力剛需", "台電強韌電網", "北美變壓器外銷", "漲價紅利", "破氣式"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "重電與能源基建 - 重電領頭羊"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "萬寶IA選股專題",
+        "stance": "強力看多(評等A+)",
+        "title": "士電(1503)：AI算力引爆電力剛需，低基期重電領頭羊強勢表態",
+        "close_price": 221.0,
+        "est_eps": 7.7,
+        "est_pe": 21.0,
+        "revenue_perf": "2026年Q1營收115.59億元創同期新高，Q1 EPS 2.79元；2025營收371.78億、2026預估443.85億",
+        "content": "受惠台電強韌電網與北美外銷，在手訂單滿載直達2028年並已接2029-2030長單。3月起新單調漲15-20%，新竹T4廠預計2027投產攻北美500kV變壓器，外銷佔比挑戰25%。萬寶估2026 EPS 7.7元、法人上修至9.8元，本益比不到21倍，可沿月線佈局。",
+        "key_points": [
+          "訂單能見度直達2028年，3月新單調漲15-20%，外銷佔比挑戰25%",
+          "2026 Q1 EPS 2.79元，萬寶估全年EPS 7.7元、最新法人上修至9.8元"
+        ]
+      }
+    },
+    {
+      "stock_id": "8150",
+      "stock_name": "南茂",
+      "main_industry": "記憶體與封測",
+      "sub_industries": ["記憶體封測"],
+      "theme_tags": ["記憶體封測漲價", "轉單效應"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：記憶體與封測"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "多方",
+        "title": "南茂受惠記憶體轉單與封測漲價強攻漲停",
+        "content": "AI發展帶動HBM排擠通用型DRAM與NAND產能，DDR4/DDR5供需失衡加劇。南茂受惠記憶體報價上行與轉單效應，因產能吃緊持續調漲封測價格，獲利預期上修，單日強攻漲停(+9.95%)。",
+        "key_points": [
+          "受惠記憶體轉單且封測產能吃緊持續調漲報價，單日漲停(+9.95%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "2344",
+      "stock_name": "華邦電",
+      "main_industry": "記憶體與封測",
+      "sub_industries": ["記憶體製造與利基型DRAM"],
+      "theme_tags": ["DDR4/DDR5漲價", "毛利率提升"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：記憶體與封測"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "多方",
+        "title": "華邦電受惠記憶體報價上行與首季毛利率提升亮燈漲停",
+        "content": "受惠AI需求排擠傳統記憶體產能及三星罷工、美光產能移轉，DDR4/DDR5合約價呈現雙位數強勁漲幅。華邦電受惠記憶體報價上行與轉單效應，首季毛利率顯著提升，股價強勢亮燈(+9.93%)。",
+        "key_points": [
+          "受惠記憶體報價雙位數上漲與轉單，首季毛利率顯著提升(+9.93%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "3006",
+      "stock_name": "晶豪科",
+      "main_industry": "記憶體與封測",
+      "sub_industries": ["記憶體製造與利基型DRAM"],
+      "theme_tags": ["利基型記憶體", "DDR3漲價"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：記憶體與封測"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "多方",
+        "title": "晶豪科受惠DDR3報價漲幅顯著，單月獲利驚豔",
+        "content": "隨大廠產能轉向HBM與高階DRAM，利基型記憶體需求明顯回溫，DDR3報價漲幅顯著，晶豪科單月獲利表現驚豔市場，帶動股價穩步走高(+4.1%)。",
+        "key_points": [
+          "利基型記憶體回溫、DDR3報價大漲，單月獲利驚豔(+4.1%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "2492",
+      "stock_name": "華新科",
+      "main_industry": "被動元件",
+      "sub_industries": ["MLCC與鋁電容"],
+      "theme_tags": ["AI伺服器高壓MLCC", "漲價外溢效應"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：被動元件"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "多方",
+        "title": "華新科受惠高階產能滿載與外溢訂單強攻漲停",
+        "content": "AI伺服器電源向800V邁進推升高壓MLCC需求，日韓大廠率先調漲報價20-30%引發轉單效應。華新科受惠高階產能滿載與外溢訂單，買氣熱絡強攻漲停(+9.89%)。",
+        "key_points": [
+          "日韓大廠漲價20-30%帶動轉單，高階產能滿載攻頂(+9.89%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "2472",
+      "stock_name": "立隆電",
+      "main_industry": "被動元件",
+      "sub_industries": ["MLCC與鋁電容"],
+      "theme_tags": ["Rubin平台供應鏈", "鋁電容", "800V伺服器"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：被動元件"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "多方",
+        "title": "立隆電成功卡位Rubin平台供應鏈強勢漲停",
+        "content": "AI伺服器電源邁向800V架構，帶動鋁電容與牛角電容用量倍增。立隆電成功卡位NVIDIA Rubin平台供應鏈，受惠AI規格升級浪潮，單日買氣熱絡強勢攻頂(+9.93%)。",
+        "key_points": [
+          "成功卡位Rubin平台供應鏈，受惠800V鋁電容用量倍增(+9.93%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "2327",
+      "stock_name": "國巨*",
+      "main_industry": "被動元件",
+      "sub_industries": ["MLCC與鋁電容"],
+      "theme_tags": ["被動元件龍頭", "AI高壓被動元件"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：被動元件"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "多方",
+        "title": "國巨* AI營收佔比持續提升，扮演被動元件定海神針",
+        "content": "身為全球被動元件龍頭，受惠AI伺服器高壓化帶動高階被動元件需求，AI營收佔比持續提升，並憑藉強大議價能力確保成本轉嫁，股價穩健上漲(+6.05%)扮演族群定海神針。",
+        "key_points": [
+          "全球被動元件龍頭，AI營收佔比提升且具強大成本轉嫁議價力(+6.05%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "1519",
+      "stock_name": "華城",
+      "main_industry": "重電與能源基建",
+      "sub_industries": ["重電變壓器與電網升級"],
+      "theme_tags": ["變壓器外銷北美", "台電強韌電網"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：重電與能源基建"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "多方",
+        "title": "華城受惠變壓器外銷北美與台電大單，長線動能無虞",
+        "content": "受惠美國電網老舊更新、AI大廠自建電廠與台電強韌電網大單，華城變壓器外銷北美與內需訂單充沛，產能持續擴充，長線獲利動能無虞，股價維持強勢整理後上攻(+3.17%)。",
+        "key_points": [
+          "受惠變壓器外銷北美與台電大單，產能持續擴充(+3.17%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "2308",
+      "stock_name": "台達電",
+      "main_industry": "重電與能源基建",
+      "sub_industries": ["AI電源與液冷基建"],
+      "theme_tags": ["800V HVDC", "液冷散熱", "CSP巨頭供應鏈"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：重電與能源基建"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "多方",
+        "title": "台達電具備800V HVDC與液冷一條龍方案大漲表態",
+        "content": "資料中心轉向800V HVDC高壓直流架構，台達電具備800V HVDC與液冷散熱一條龍解決方案，深度綁定北美CSP巨頭，AI相關產品營收佔比快速攀升，股價大漲表態(+7.23%)。",
+        "key_points": [
+          "具備800V HVDC與液冷一條龍方案，深度綁定CSP巨頭(+7.23%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "6706",
+      "stock_name": "惠特",
+      "main_industry": "先進封裝與設備",
+      "sub_industries": ["先進封裝與檢測設備"],
+      "theme_tags": ["矽光子雷射量測代工", "先進封裝設備"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：先進封裝與設備"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "多方",
+        "title": "惠特聚焦矽光子雷射量測代工強攻漲停",
+        "content": "受惠先進封裝與矽光子技術迭代驅動檢測與雷射設備需求爆發，惠特聚焦矽光子雷射量測代工業務，營運具轉機與成長動能，單日強攻漲停(+9.9%)。",
+        "key_points": [
+          "聚焦矽光子雷射量測代工，受惠設備需求爆發強攻漲停(+9.9%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "6654",
+      "stock_name": "天正國際",
+      "main_industry": "先進封裝與設備",
+      "sub_industries": ["先進封裝與檢測設備"],
+      "theme_tags": ["被動元件設備", "半導體測試機台"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：先進封裝與設備"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "多方",
+        "title": "天正國際受惠被動元件與半導體測試機台出貨漲停",
+        "content": "受惠被動元件景氣回溫與先進封裝擴產，天正國際在被動元件機台與半導體測試機台出貨動能強勁，股價強攻漲停(+9.91%)。",
+        "key_points": [
+          "受惠被動元件與半導體測試機台出貨，強攻漲停(+9.91%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "7734",
+      "stock_name": "印能科技",
+      "main_industry": "先進封裝與設備",
+      "sub_industries": ["先進封裝與檢測設備"],
+      "theme_tags": ["高壓真空除泡系統", "CoWoS/先進封裝設備"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：先進封裝與設備"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "多方",
+        "title": "印能科技高壓真空除泡系統市佔極高，訂單明朗",
+        "content": "台積電CoWoS與OSAT廠全面擴充資本支出，印能科技專注解決高階封裝氣泡與翹曲痛點，高壓真空除泡系統市佔率極高，訂單能見度明朗，股價強勢上漲(+6.37%)。",
+        "key_points": [
+          "專注解決高階封裝氣泡與翹曲，高壓真空除泡系統市佔極高(+6.37%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "4908",
+      "stock_name": "前鼎",
+      "main_industry": "光通訊與矽光子",
+      "sub_industries": ["高速光收發模組與CPO"],
+      "theme_tags": ["800G/1.6T光模組", "CPO矽光子"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：光通訊與矽光子"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(漲多回檔)",
+        "title": "前鼎短線漲幅過大面臨估值修正與資金撤出",
+        "content": "雖具備800G/1.6T高速光模組技術佈局，但前期受惠CPO題材累積龐大漲幅，大盤高檔震盪下市場嚴格檢視實質營收貢獻時程，資金先行撤出導致重挫(-9.42%)。",
+        "key_points": [
+          "雖具800G/1.6T佈局，惟短線漲多面臨估值再平衡(-9.42%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "4979",
+      "stock_name": "華星光",
+      "main_industry": "光通訊與矽光子",
+      "sub_industries": ["高速光收發模組與CPO"],
+      "theme_tags": ["800G/1.6T光模組", "CPO矽光子"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：光通訊與矽光子"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(漲多回檔)",
+        "title": "華星光進入籌碼沉澱與估值修正期",
+        "content": "具備800G/1.6T光通訊技術佈局，長線趨勢明確，惟短線漲幅過大或流動性降溫，引發短線獲利了結賣壓，股價回檔(-7.65%)待籌碼沉澱。",
+        "key_points": [
+          "CPO題材漲多進入籌碼沉澱與驗證期，短線拉回(-7.65%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "4977",
+      "stock_name": "眾達-KY",
+      "main_industry": "光通訊與矽光子",
+      "sub_industries": ["高速光收發模組與CPO"],
+      "theme_tags": ["800G/1.6T光模組", "CPO矽光子"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：光通訊與矽光子"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(漲多回檔)",
+        "title": "眾達-KY隨光通訊族群進行評價再平衡",
+        "content": "雖具800G/1.6T與CPO技術佈局，但因前期累積漲幅較大，市場轉趨檢視實質營收貢獻，短線資金撤出導致股價下跌(-6.16%)。",
+        "key_points": [
+          "光通訊族群短線獲利了結，股價拉回進行評價再平衡(-6.16%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "3581",
+      "stock_name": "博磊",
+      "main_industry": "先進封裝與設備",
+      "sub_industries": ["半導體設備與耗材(高檔換手)"],
+      "theme_tags": ["半導體封測設備", "處置股"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：半導體設備與代理"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(籌碼換手)",
+        "title": "博磊因打入處置股流動性降溫重挫跌停",
+        "content": "半導體設備基本面受惠擴產，但博磊因近期週轉率過高被打入處置股，交易機制限制追價買盤導致流動性降溫，短線資金落袋為安重挫跌停(-10%)。",
+        "key_points": [
+          "因列處置股限制追價流動性，短線資金撤出重挫跌停(-10%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "3413",
+      "stock_name": "京鼎",
+      "main_industry": "先進封裝與設備",
+      "sub_industries": ["半導體設備與耗材(高檔換手)"],
+      "theme_tags": ["半導體設備代工"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：半導體設備與代理"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(籌碼換手)",
+        "title": "京鼎創高後遭法人調節，觀察季線支撐",
+        "content": "受部分設備專案驗收與機台交付時程微調影響，京鼎在股價創高後遭遇法人調節賣壓(-9.1%)，屬於高檔籌碼換手，建議觀察季線支撐與後續營收認列狀況。",
+        "key_points": [
+          "創高後遭法人調節(-9.1%)，建議觀察季線支撐與營收認列"
+        ]
+      }
+    },
+    {
+      "stock_id": "3680",
+      "stock_name": "家登",
+      "main_industry": "先進封裝與設備",
+      "sub_industries": ["半導體設備與耗材(高檔換手)"],
+      "theme_tags": ["EUV光罩盒", "FOUP晶圓載具"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：半導體設備與代理"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(籌碼換手)",
+        "title": "家登創高後遭遇法人調節進行高檔換手",
+        "content": "雖長線受惠晶圓廠擴產無虞，但短線在創高後遭遇法人調節獲利了結(-5.43%)，屬典型高檔籌碼換手，建議觀察季線支撐與後續營收認列節奏。",
+        "key_points": [
+          "創高後遭法人調節拉回(-5.43%)，觀察季線支撐與營收認列"
+        ]
+      }
+    },
+    {
+      "stock_id": "1597",
+      "stock_name": "直得",
+      "main_industry": "機器人與自動化",
+      "sub_industries": ["精密傳動與沖床設備"],
+      "theme_tags": ["微型滑軌", "人形機器人概念"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：機器人與自動化"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(觀望沉澱)",
+        "title": "直得受機器人題材降溫與估值修正重挫",
+        "content": "微型滑軌雖具備機器人轉型潛力，但人形機器人實質營收貢獻需待2026下半年或2027年，缺乏新催化劑下短線資金撤出，面臨沉重估值修正壓力(-9.95%)。",
+        "key_points": [
+          "機器人實質貢獻遞延，短線面臨沉重估值修正(-9.95%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "4533",
+      "stock_name": "協易機",
+      "main_industry": "機器人與自動化",
+      "sub_industries": ["精密傳動與沖床設備"],
+      "theme_tags": ["伺服沖床", "自動化設備"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：機器人與自動化"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(觀望沉澱)",
+        "title": "協易機隨自動化族群拉回修正估值",
+        "content": "伺服沖床雖具轉型潛力，但隨智慧工廠與機器人題材在COMPUTEX後降溫，面臨估值修正壓力，股價顯著拉回(-6.57%)，需等待自動化需求實質復甦數據支撐。",
+        "key_points": [
+          "題材降溫面臨估值修正拉回(-6.57%)，待自動化實質復甦支撐"
+        ]
+      }
+    },
+    {
+      "stock_id": "4540",
+      "stock_name": "全球傳動",
+      "main_industry": "機器人與自動化",
+      "sub_industries": ["精密傳動與沖床設備"],
+      "theme_tags": ["滾珠螺桿與線性滑軌", "機器人概念"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：機器人與自動化"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(觀望沉澱)",
+        "title": "全球傳動因機器人實質貢獻遞延遭資金撤出",
+        "content": "人形機器人相關營收佔比仍低，實質獲利貢獻多需等待至2026下半年或2027年，在催化劑空窗期資金耐心不足，股價顯著拉回(-6.41%)。",
+        "key_points": [
+          "機器人營收佔比仍低，資金撤出導致股價拉回(-6.41%)"
+        ]
+      }
+    },
+    {
+      "stock_id": "6462",
+      "stock_name": "神盾",
+      "main_industry": "IC設計與消費電子",
+      "sub_industries": ["轉型AI/ASIC與消費性IC"],
+      "theme_tags": ["AI/ASIC轉型", "消費性IC"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：IC設計與消費電子"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(建議避開)",
+        "title": "神盾雖轉型AI/ASIC但本業受消費動能壓抑重挫",
+        "content": "雖積極轉型AI或ASIC領域，但成熟製程代工與封測漲價加上下游PC、手機消費動能壓抑，難以轉嫁成本，股價在高檔面臨嚴峻修正壓力(-9.22%)，建議避開。",
+        "key_points": [
+          "轉型AI/ASIC惟短期本業受大環境消費壓抑，重挫(-9.22%)建議避開"
+        ]
+      }
+    },
+    {
+      "stock_id": "3555",
+      "stock_name": "博士旺",
+      "main_industry": "IC設計與消費電子",
+      "sub_industries": ["轉型AI/ASIC與消費性IC"],
+      "theme_tags": ["轉型題材", "消費電子"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：IC設計與消費電子"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(建議避開)",
+        "title": "博士旺高檔面臨嚴峻修正壓力",
+        "content": "雖積極尋求轉型，但短期本業仍受大環境消費性電子動能疲軟壓抑，市場對下半年獲利展望保守，引發汰弱留強賣壓(-8.04%)，建議避開前景不明標的。",
+        "key_points": [
+          "受消費電子疲軟壓抑，高檔面臨修正壓力(-8.04%)建議避開"
+        ]
+      }
+    },
+    {
+      "stock_id": "4951",
+      "stock_name": "精拓科",
+      "main_industry": "IC設計與消費電子",
+      "sub_industries": ["轉型AI/ASIC與消費性IC"],
+      "theme_tags": ["IC設計", "PC/消費電子"],
+      "classification_entry": {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：IC設計與消費電子"
+      },
+      "analysis_entry": {
+        "date": "2026-05-27",
+        "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "section": "江湖風雲股報",
+        "stance": "空方(建議避開)",
+        "title": "精拓科受晶圓代工成本上升與終端疲軟夾擊下跌",
+        "content": "成熟製程晶圓代工與封測價格上漲，但下游PC等消費性終端復甦力道不如預期，毛利率面臨擠壓風險，股價高檔修正(-7.43%)，建議避開。",
+        "key_points": [
+          "代工成本上升且消費終端復甦不如預期，股價修正(-7.43%)"
+        ]
+      }
+    }
+  ],
+  "chips_updates": [
+    {
+      "stock_id": "1503",
+      "stock_name": "士電",
+      "date": "2026-05-27",
+      "category": "外資連續買超與千張大戶鎖定",
+      "detail": "外資持續加碼持股並入列證交所提升企業價值計畫優質標的；週線千張大戶持股比例維持74%~76%高檔，內部人持股約26.95%(仰德投資5.29%)穩固未鬆動。"
+    }
+  ]
+}

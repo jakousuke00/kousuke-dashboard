@@ -1,0 +1,30 @@
+{
+  "stock_id": "7728",
+  "stock_name": "光焱科技",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "矽光子檢測設備(NightJar)",
+      "CIS光學檢測"
+    ],
+    "theme_tags": [
+      "10月營收年增71%",
+      "矽光子檢測快60倍"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 8元",
+      "pe_ratio": "56倍",
+      "content": "10月營收5,150.4萬元、年增71.33%，創史上最強10月，前10月3.72億元已超越去年全年。自研NightJar矽光子檢測設備完成與自動探針台整合，高通量版本Q4底確認階段進展，64顆晶粒檢測時間由123分鐘大幅縮短至121秒。",
+      "key_points": [
+        "10月營收年增71.33%創歷年同月新高，前10月營收已超越去年全年",
+        "NightJar矽光子檢測設備將64顆晶粒檢測由123分鐘縮至121秒，高通量版Q4底確認進展"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "stock_id": "6742",
+  "stock_name": "澤米",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "光學鍍膜、大尺寸玻璃與石英加工"
+    ],
+    "theme_tags": [
+      "轉型半導體與AI光通訊",
+      "高階封裝玻璃2027年Q1量產"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "光電相關 > 半導體玻璃與光通訊"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05",
+    "est_eps_2026": -2.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "中性",
+      "title": "轉型大尺寸玻璃與石英加工、AI光通訊及矽光子，新品2027年收成",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": -2.0,
+      "est_pe": null,
+      "revenue_perf": "累計營收年減39.38%，上半年每股淨損約0.87元",
+      "content": "董事長何昆年表示，由精密光學延伸至大尺寸玻璃與石英加工、AI光通訊及矽光子，Q4至明年上半年部分AI光通訊產品需求可能增加約3倍。12吋玻璃與石英加工月產能約2.5萬片，高階封裝玻璃若認證順利將於2027年Q1量產。",
+      "key_points": [
+        "Q4至明年上半年AI光通訊光學元件需求估增約3倍",
+        "12吋高階封裝玻璃預計2027年Q1量產、石英環2027年小量產"
+      ]
+    }
+  ]
+}

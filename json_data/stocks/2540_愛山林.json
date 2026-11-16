@@ -1,0 +1,49 @@
+{
+  "stock_id": "2540",
+  "stock_name": "愛山林",
+  "industry_profile": {
+    "main_industry": "地產代銷",
+    "sub_industries": [
+      "交屋認列與代銷開發"
+    ],
+    "theme_tags": [
+      "代銷龍頭",
+      "建案交屋創高",
+      "高殖利率",
+      "外資買超"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-05",
+        "source": "reports/11月份/萬寶產業報告-1105(萬寶晚報贈品).pdf",
+        "category_mentioned": "地產代銷 - 交屋認列與代銷開發"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-05",
+    "close_price": 45.0,
+    "est_eps_2026": 1.0,
+    "est_pe": 45.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-05",
+      "source_file": "reports/11月份/萬寶產業報告-1105(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "愛山林9月營收創歷史新高年增238.7%，外資大買1,237張",
+      "close_price": 45.0,
+      "price_change_5d_pct": -2.28,
+      "foreign_5d_lots": 1237,
+      "est_eps": 1.0,
+      "est_pe": 45.0,
+      "revenue_perf": "9月營收年增238.7%、月增114.7%創歷史新高，今年累計年增1.7%",
+      "content": "受惠「圓山帝寶」與「市政愛悅」交屋入帳，9月營收創史上新高、年增238.7%。收45.00元為表列今年唯一上漲者(+10.0%)；近5日外資買超1,237張、近20日法人買超2,483張居冠，殖利率13.45%。",
+      "key_points": [
+        "兩大建案交屋帶動9月營收創歷史新高、年增238.7%",
+        "近5日外資買超1,237張居冠，殖利率高達13.45%"
+      ]
+    }
+  ]
+}

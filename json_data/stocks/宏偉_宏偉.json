@@ -1,0 +1,44 @@
+{
+  "stock_id": "宏偉",
+  "stock_name": "宏偉",
+  "industry_profile": {
+    "main_industry": "電機機械",
+    "sub_industries": [
+      "特種電梯",
+      "無塵室設備"
+    ],
+    "theme_tags": [
+      "興櫃搶先爆",
+      "11/19上櫃",
+      "訂單能見度3年"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "興櫃搶先爆 > 新掛牌"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "興櫃搶先爆",
+      "stance": "強烈偏多",
+      "title": "宏偉11月19日掛牌上櫃，在手訂單翻倍、能見度達3年",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "H1營收10.16億元年增7.4%，毛利率46.65%，每股純益5.66元",
+      "content": "董事長黃瑣城表示在手訂單翻倍，能見度由1.5年拉長至3年。主攻高載重、無塵室、防爆等科技廠特殊電梯，科技大廠占59%。上半年毛利率46.65%，每股大賺5.66元，預計11/19上櫃。",
+      "key_points": [
+        "科技廠特殊電梯在手訂單翻倍，能見度達3年",
+        "上半年毛利率46.65%，EPS達5.66元表現亮眼"
+      ]
+    }
+  ]
+}

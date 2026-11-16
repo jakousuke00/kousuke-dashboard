@@ -1,0 +1,45 @@
+{
+  "stock_id": "6154",
+  "stock_name": "順發",
+  "industry_profile": {
+    "main_industry": "3C消費通路",
+    "sub_industries": [
+      "3C零售通路個股"
+    ],
+    "theme_tags": [
+      "3C零售通路"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-24",
+        "source": "萬寶產業報告-1024",
+        "category_mentioned": "3C消費通路 > 3C零售通路個股 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-24",
+    "close_price": 14.15,
+    "est_eps_2026": 1.3,
+    "est_pe": 10.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-24",
+      "source_file": "萬寶產業報告-1024(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "9月營收年增14.2%居3C零售通路最高，預估EPS 1.3元、本益比10.9倍",
+      "close_price": 14.15,
+      "price_change_5d_pct": 0.35,
+      "foreign_5d_lots": 1,
+      "est_eps": 1.3,
+      "est_pe": 10.9,
+      "revenue_perf": "9月營收年增14.2%",
+      "content": "收盤14.15元，近5日上漲0.35%，9月營收年增14.2%居3C零售通路三檔之首，萬寶預估今年EPS 1.3元，預估本益比10.9倍。",
+      "key_points": [
+        "9月營收年增14.2%，萬寶預估EPS 1.3元、本益比10.9倍"
+      ]
+    }
+  ]
+}

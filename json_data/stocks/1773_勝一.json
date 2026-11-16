@@ -1,0 +1,46 @@
+{
+  "stock_id": "1773",
+  "stock_name": "勝一",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "電子級溶劑"
+    ],
+    "theme_tags": [
+      "前三季EPS 6.82元超越去年全年",
+      "砸35.82億元擴產"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-22",
+        "source": "萬寶晚報-10_22",
+        "category_mentioned": "生技化工 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-22",
+    "est_eps_2026": 8.8,
+    "est_pe": 19
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-22",
+      "source_file": "萬寶晚報-10_22.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "前三季每股賺6.82元超越去年全年，砸35.82億元擴產",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 8.8,
+      "est_pe": 19,
+      "revenue_perf": "前三季營收106.73億元(年增25.25%)、稅後20.45億元(年增36%)，EPS 6.82元",
+      "content": "前三季EPS 6.82元已賺贏去年全年，毛利率36.09%，電子級產品營收占比升至74.3%；規劃投入合計35.82億元興建PM系列產線及增購槽車，支應客戶至2032年需求。",
+      "key_points": [
+        "前三季EPS 6.82元超越去年全年，電子級占比74.3%",
+        "投資35.82億元擴建PM系列產線"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "stock_id": "2379",
+  "stock_name": "瑞昱",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "網通IC",
+      "網通晶片IC",
+      "高速互連與光通訊PHY"
+    ],
+    "theme_tags": [
+      "網通IC",
+      "IC設計",
+      "3奈米高速互連",
+      "三大法人大買",
+      "逆勢抗跌收紅"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-10",
+        "source": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
+        "category_mentioned": "IC設計 - 網通IC"
+      },
+      {
+        "date": "2026-10-30",
+        "source": "萬寶晚報-10_30",
+        "category_mentioned": "今晚爆個股 / 買超榜前列"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10",
+    "close_price": 745.0,
+    "est_eps_2026": 32.0,
+    "est_pe": 23.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source_file": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "10月營收年增32.1%，近5日小跌1.46%",
+      "close_price": 745.0,
+      "price_change_5d_pct": -1.46,
+      "foreign_5d_lots": -490,
+      "est_eps": 32.0,
+      "est_pe": 23.3,
+      "revenue_perf": "10月營收年增32.1%",
+      "content": "網通IC大廠，10月營收年增32.1%，近5日股價小跌1.46%收745.00元，外資近5日賣超490張。萬寶預估2026年EPS 32.0元，預估本益比23.3倍。",
+      "key_points": [
+        "10月營收年增32.1%，預估EPS 32.0元、本益比23.3倍"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶晚報-10_30.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "瑞昱Q3每股賺8.05元，布局3奈米高速互連獲三大法人大買13.3億",
+      "close_price": 803.0,
+      "est_eps": 30.0,
+      "est_pe": 27.0,
+      "revenue_perf": "Q3營收377億元年增27.9%，毛利率47.2%，單季每股獲利8.05元",
+      "content": "瑞昱法說宣示以3奈米切入伺服器高速互連，100G光通訊PHY晶片驗證中、明年放量，400G與800G明年下半年推出。獲三大法人買超13.33億元居上市第二，逆勢漲1.13%收803元，萬寶估EPS 30元。",
+      "key_points": [
+        "布局3奈米伺服器高速互連平台，切入雲端AI伺服器",
+        "獲三大法人逆勢大買13.33億元，股價強勢抗跌收紅"
+      ]
+    }
+  ]
+}

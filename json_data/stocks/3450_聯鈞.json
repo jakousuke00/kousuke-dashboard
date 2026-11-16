@@ -1,0 +1,69 @@
+{
+  "stock_id": "3450",
+  "stock_name": "聯鈞",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "光通訊雷射封裝與AOC",
+      "雷射封裝",
+      "光收發模組代工",
+      "矽光子CPO封裝"
+    ],
+    "theme_tags": [
+      "8月自結EPS 0.98元",
+      "訂單能見度達2027年底",
+      "邁威爾台鏈",
+      "CPO矽光子封裝",
+      "AI資料中心"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-06",
+        "source": "萬寶晚報-10_06",
+        "category_mentioned": "光電相關 > 光通訊封測"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 531.0,
+    "est_eps_2026": 9.0,
+    "est_pe": 59.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "產業新聞",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 6.5,
+      "estimated_pe": 26.0,
+      "content": "列名邁威爾擴大光通訊版圖之受惠鏈。旗下矽光子雷射封裝產能持續擴產，並深化與歐美半導體巨頭CPO共同開發，長線受惠銅轉光商機。",
+      "key_points": [
+        "CPO與矽光子高階封裝具備領先量產優勢，獲國際半導體巨頭策略合作。",
+        "短線隨族群拉回修正，長線趨勢看好。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "前期漲多後遇大盤系統性賣壓回檔，洗淨短期浮額。"
+    },
+    {
+      "date": "2026-10-06",
+      "source_file": "萬寶晚報-10_06.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "8月自結每股賺0.98元、年增2.58倍，AI高速傳輸訂單能見度已達2027年底",
+      "close_price": 531.0,
+      "price_change_pct": -3.1,
+      "volume_lots": 5931,
+      "est_eps": 9.0,
+      "est_pe": 59.0,
+      "revenue_perf": "8月自結稅後純益1.43億元、年增2.58倍，單月EPS 0.98元",
+      "content": "公告8月自結稅後純益1.43億元、年增2.58倍，單月每股純益0.98元。聯鈞為全球前三大雷射二極體封裝測試代工廠，客戶多為光通訊龍頭，受惠AI資料中心高速傳輸需求強勁，訂單能見度已達2027年底。",
+      "key_points": [
+        "8月自結單月EPS 0.98元、淨利年增2.58倍",
+        "AI資料中心光通訊封測訂單能見度直達2027年底"
+      ]
+    }
+  ]
+}

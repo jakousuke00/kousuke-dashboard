@@ -1,0 +1,48 @@
+{
+  "stock_id": "5439",
+  "stock_name": "高技",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "高多層PCB",
+      "AI交換器板"
+    ],
+    "theme_tags": [
+      "36~40層AI交換器板",
+      "中壢擴產倍增"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-22",
+        "source": "萬寶晚報-10_22",
+        "category_mentioned": "PCB/MB產業 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-22",
+    "close_price": 219.5,
+    "est_eps_2026": 17.0,
+    "est_pe": 13
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-22",
+      "source_file": "萬寶晚報-10_22.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "36至40層AI交換器板明年Q1量產，評估擴產倍增",
+      "close_price": 219.5,
+      "price_change_pct": -2.23,
+      "volume_lots": 1032,
+      "est_eps": 17.0,
+      "est_pe": 13,
+      "revenue_perf": "2027年AI交換器營收占比可望達30%~40%",
+      "content": "董事長張景山表示正開發36至40層高階PCB，預計2027年Q1啟動AI交換器量產，若順利切入一線CSP客戶，2027年AI交換器占比可達30%至40%，並評估中壢擴產使產能增加一倍。",
+      "key_points": [
+        "36~40層AI交換器板明年Q1量產",
+        "2027年AI交換器占比挑戰30%~40%，中壢廠評估擴產倍增"
+      ]
+    }
+  ]
+}

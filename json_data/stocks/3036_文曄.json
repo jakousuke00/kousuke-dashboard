@@ -1,0 +1,44 @@
+{
+  "stock_id": "3036",
+  "stock_name": "文曄",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "IC通路",
+      "AI資料中心零件代理",
+      "AI伺服器與工業電腦"
+    ],
+    "theme_tags": [
+      "Q4財測再創新高",
+      "全年EPS上看29.55元",
+      "IC通路",
+      "AI資料中心",
+      "32檔電子強股"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "精選電子股表",
+      "content": "入選32檔10月營收創新高電子股，累計營收年增103%，前三季EPS 20.99元，2026年估EPS 28元、本益比僅7倍，並獲主動ETF加碼103張。",
+      "key_points": [
+        "累計營收年增103%，前三季EPS 20.99元、本益比7倍"
+      ]
+    },
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 28元（公司財測中位數全年29.55元）",
+      "pe_ratio": "7倍",
+      "content": "Q3稅後純益103億元、EPS 7.97元，前三季EPS 20.99元、年增159%創高。預估Q4營收中位數7,500億元（季增26%、年增119%），Q4 EPS中位數8.56元再創高，全年EPS可達29.55元。",
+      "key_points": [
+        "前三季EPS 20.99元、年增159%創高",
+        "Q4財測營收中位數7,500億元（季增26%）、EPS中位數8.56元再創高"
+      ]
+    }
+  ]
+}

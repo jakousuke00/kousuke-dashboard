@@ -1,0 +1,47 @@
+{
+  "stock_id": "6983",
+  "stock_name": "華洋精機",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "奈米級視覺與光學量測設備"
+    ],
+    "theme_tags": [
+      "攜手蔡司推COSMA-M量測設備",
+      "切入CoWoS、TGV與CPO量測"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-06",
+        "source": "萬寶晚報-10_06",
+        "category_mentioned": "設備儀器 > 先進封裝與CPO量測"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-06",
+    "close_price": 392.0,
+    "est_eps_2026": 7.0,
+    "est_pe": 56.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-06",
+      "source_file": "萬寶晚報-10_06.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "攜手德國蔡司推出奈米級高精度量測設備COSMA-M，切入CoWoS、TGV及CPO量測",
+      "close_price": 392.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 7.0,
+      "est_pe": 56.0,
+      "revenue_perf": "預估2026年EPS 7元，部分客戶已送樣驗證",
+      "content": "與蔡司合作推出高精度量測設備COSMA-M，量測穩定度3 Sigma小於3奈米，聚焦CoWoS、CoPoS、SoIC等先進封裝晶圓量測，部分客戶已送樣驗證，應用涵蓋DUV光罩線寬、TGV孔徑及CPO光纖陣列間距量測，正式切入CPO領域。",
+      "key_points": [
+        "攜手蔡司推出小於3奈米精度之COSMA-M量測設備",
+        "切入CoWoS、TGV孔徑及CPO光纖陣列量測，部分客戶已送樣驗證"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "stock_id": "6586",
+  "stock_name": "藍新資訊",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "系統整合",
+      "雲端與資安"
+    ],
+    "theme_tags": [
+      "新股掛牌",
+      "掛牌首日",
+      "承銷價68元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "新股掛牌 > 資服新兵"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "新股掛牌",
+      "stance": "偏多",
+      "title": "藍新資訊以68元掛牌上櫃，上半年毛利率逾三成、獲利翻倍",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "Q2稅後純益年增118.3%，H1毛利率逾三成，累積客戶逾400家",
+      "content": "27日以每股68元承銷價掛牌上櫃。長期服務政府機關與金融機構，Q4為傳統旺季。今年各月營收均較去年同期成長，Q2純益年增118.3%，未來以AI及資安為雙成長引擎。",
+      "key_points": [
+        "以68元承銷價掛牌上櫃，Q4迎入帳旺季",
+        "Q2獲利翻倍年增118.3%，AI與資安雙引擎"
+      ]
+    }
+  ]
+}

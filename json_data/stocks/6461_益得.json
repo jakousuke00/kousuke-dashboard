@@ -1,0 +1,43 @@
+{
+  "stock_id": "6461",
+  "stock_name": "益得",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "呼吸道吸入劑與鼻噴劑"
+    ],
+    "theme_tags": [
+      "首款自製複方鼻噴劑在台上市"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "生技化工 > 呼吸道用藥"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05",
+    "est_eps_2026": -2.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "中性",
+      "title": "首款由新竹自有工廠生產之複方鼻噴劑正式在台上市，跨入商業化階段",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": -2.5,
+      "est_pe": null,
+      "revenue_perf": "累計營收年減56.20%",
+      "content": "首款由新竹自有工廠生產的複方鼻噴劑正式在台上市，與北美夥伴共同開發用於6歲以上中重度過敏性鼻炎，全球市場規模約3.6億美元，隨複方滲透率提升可望擴大至7.3億美元，後續將拓展海外與授權。",
+      "key_points": [
+        "首款自製過敏性鼻炎複方鼻噴劑在台上市，後續拓展海外授權"
+      ]
+    }
+  ]
+}

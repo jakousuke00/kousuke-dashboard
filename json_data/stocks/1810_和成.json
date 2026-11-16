@@ -1,0 +1,48 @@
+{
+  "stock_id": "1810",
+  "stock_name": "和成",
+  "industry_profile": {
+    "main_industry": "玻璃陶瓷",
+    "sub_industries": [
+      "衛浴與建材"
+    ],
+    "theme_tags": [
+      "衛浴設備",
+      "低本益比",
+      "低股價淨值比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-20",
+        "source": "萬寶產業報告-1020",
+        "category_mentioned": "玻璃陶瓷 > 衛浴與建材 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-20",
+    "close_price": 22.75,
+    "est_eps_2026": 3.7,
+    "est_pe": 6.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-20",
+      "source_file": "萬寶產業報告-1020(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "法人近20日買超3,529張，預估EPS 3.7元、本益比6.1倍",
+      "close_price": 22.75,
+      "price_change_5d_pct": -1.73,
+      "foreign_5d_lots": 787,
+      "est_eps": 3.7,
+      "est_pe": 6.1,
+      "revenue_perf": "9月營收年增4.7%、今年累計年減5.2%",
+      "content": "收盤22.75元，近5日下跌1.7%，不過外資近5日仍買超787張、法人近20日買超3,529張。9月營收年增4.7%，萬寶預估EPS 3.7元，預估本益比6.1倍，股價淨值比0.81倍。",
+      "key_points": [
+        "法人近20日買超3,529張，股價淨值比0.81倍",
+        "萬寶預估EPS 3.7元，預估本益比僅6.1倍"
+      ]
+    }
+  ]
+}

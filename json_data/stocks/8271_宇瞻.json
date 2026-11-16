@@ -1,0 +1,45 @@
+{
+  "stock_id": "8271",
+  "stock_name": "宇瞻",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "工控記憶體",
+      "固態硬碟SSD",
+      "DRAM模組"
+    ],
+    "theme_tags": [
+      "Q3每股賺15.32元",
+      "年增795%",
+      "毛利率40.1%",
+      "工控記憶體大缺"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "精選圖表",
+      "investment_rating": "強力買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "Q3營收85.8億元年增166.1%、毛利率40.1%、單季EPS高達15.32元（去年同期1.71元，暴增795.9%），淨利率24.2%。受惠工控記憶體缺貨與報價急漲，單季獲利逼近1.5個股本。",
+      "key_points": [
+        "Q3每股賺15.32元年增近8倍，毛利率達40.1%。",
+        "工控與客製化儲存出貨爆發，全年獲利將創歷史新紀錄。"
+      ],
+      "operational_metrics": {
+        "q3_eps": 15.32,
+        "q3_revenue": 85.8,
+        "q3_gross_margin": 40.1,
+        "eps_yoy": 795.9
+      },
+      "chips_observation": "低本益比與歷史級獲利表現吸引內資買盤逢低大舉卡位。"
+    }
+  ]
+}

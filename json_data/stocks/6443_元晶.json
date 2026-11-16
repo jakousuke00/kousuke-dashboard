@@ -1,0 +1,28 @@
+{
+  "stock_id": "6443",
+  "stock_name": "元晶",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "太陽能電池模組"
+    ],
+    "theme_tags": [
+      "太空AI太陽能",
+      "SpaceX"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "SpaceX訂購100GW異質結太陽能電池設備支援太空AI資料中心，Google與亞馬遜亦將跟進並可能外包後段模組，元晶積極卡位太空AI太陽能商機。",
+      "key_points": [
+        "SpaceX採購100GW電池產線帶動太空AI題材",
+        "積極卡位後段模組外包商機"
+      ]
+    }
+  ]
+}

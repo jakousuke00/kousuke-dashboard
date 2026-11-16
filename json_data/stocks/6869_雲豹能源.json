@@ -1,0 +1,29 @@
+{
+  "stock_id": "6869",
+  "stock_name": "雲豹能源",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "電源BBU與綠能電力"
+    ],
+    "theme_tags": [
+      "綠電售電",
+      "日本儲能"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "受惠售電成長及海外儲能專案，前三季營業利益1.29億元年增79%；售電營收27.82億年增60%占營收54%，海外營收占19.6%。子公司台普威取得日本資安認證並布局美國。",
+      "key_points": [
+        "前三季營業利益年增79%，售電營收年增60%占54%",
+        "天能綠電前三季轉供量已超去年全年，台普威拓日本與美國儲能"
+      ]
+    }
+  ]
+}

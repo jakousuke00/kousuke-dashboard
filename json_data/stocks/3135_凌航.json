@@ -1,0 +1,59 @@
+{
+  "stock_id": "3135",
+  "stock_name": "凌航",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "記憶體模組",
+      "記憶體與模組"
+    ],
+    "theme_tags": [
+      "Q3 EPS 9.14元創高",
+      "前三季賺3個股本",
+      "AI伺服器",
+      "國家磐石獎",
+      "企業級SSD"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-22",
+        "source": "萬寶晚報-10_22",
+        "category_mentioned": "NB/PC產業 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "est_eps_2026": 45.0,
+    "est_pe": 3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "阿樂情報站",
+      "content": "榮獲第35屆國家磐石獎，自有品牌Neo Forza聚焦AI伺服器高階DDR5與Gen5企業級eSSD。10月營收21.36億元年增237.3%，前三季EPS 30.01元創高。",
+      "key_points": [
+        "前10月累計營收190.36億元年增229.57%，前三季EPS 30.01元創歷史新高",
+        "推出PCIe Gen5企業級eSSD與LPCAMM2等高階工控記憶體產品"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "source_file": "萬寶晚報-10_22.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3每股賺9.14元創新高，前三季每股30.01元",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 45.0,
+      "est_pe": 3,
+      "revenue_perf": "Q3營收56.38億元(年增184.72%)、稅後10.25億元，前三季稅後28.47億元(EPS 30.01元)",
+      "content": "Q3毛利率回升至24.43%(季增6.4個百分點)，稅後純益10.25億元首破10億元、EPS 9.14元創新高；前三季EPS高達30.01元，Q4記憶體產品價格將延續上漲。",
+      "key_points": [
+        "Q3單季EPS 9.14元創高，前三季大賺30.01元",
+        "本益比僅3倍，Q4記憶體價格續漲"
+      ]
+    }
+  ]
+}

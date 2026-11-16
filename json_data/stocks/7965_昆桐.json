@@ -1,0 +1,45 @@
+{
+  "stock_id": "7965",
+  "stock_name": "昆桐",
+  "industry_profile": {
+    "main_industry": "其他電子",
+    "sub_industries": [
+      "精密零組件",
+      "低軌衛星機構件"
+    ],
+    "theme_tags": [
+      "390元興櫃登錄",
+      "低軌衛星占67%",
+      "前三季賺11.99元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "興櫃搶先爆"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29",
+    "close_price": 390.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "興櫃搶先爆",
+      "stance": "強烈偏多",
+      "title": "昆桐每股390元登錄興櫃，前三季EPS 11.99元低軌衛星占67%",
+      "close_price": 390.0,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "前三季營收15.26億元，毛利率高達45%，每股大賺11.99元",
+      "content": "精密零組件廠昆桐以390元登錄興櫃，前三季EPS達11.99元，低軌衛星龍頭供應鏈占營收67%，AI伺服器散熱占6%，毛利率達45%。",
+      "key_points": [
+        "每股390元登錄興櫃，前三季大賺11.99元",
+        "打入低軌衛星龍頭供應鏈，相關營收高達67%"
+      ]
+    }
+  ]
+}

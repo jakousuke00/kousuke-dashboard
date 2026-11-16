@@ -1,0 +1,47 @@
+{
+  "stock_id": "2329",
+  "stock_name": "華泰",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "記憶體封測與EMS代工"
+    ],
+    "theme_tags": [
+      "企業級eSSD出貨AI伺服器",
+      "封測漲價效益Q3顯現"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "半導體產業 > 記憶體封測"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05",
+    "close_price": 45.0,
+    "est_eps_2026": 2.5,
+    "est_pe": 18.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "企業級eSSD開始出貨AI伺服器，封測調漲報價效益Q3財報顯現",
+      "close_price": 45.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 2.5,
+      "est_pe": 18.0,
+      "revenue_perf": "高階封裝新廠明年2月生產，全年資本支出超過20億元",
+      "content": "法說表示今年陸續調漲封測報價，效益自Q3財報顯現。已有兩家記憶體原廠進入前十大客戶，企業級SSD已出貨應用於AI伺服器，建立從晶圓測試、封裝到SMT一站式服務；大型封測廠資源集中先進封裝，傳統封測外溢明年更明顯。",
+      "key_points": [
+        "封測漲價效益Q3顯現，兩家記憶體原廠入列前十大客戶",
+        "企業級eSSD出貨AI伺服器，高階封裝新廠明年2月投產"
+      ]
+    }
+  ]
+}

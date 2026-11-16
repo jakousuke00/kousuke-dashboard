@@ -1,0 +1,29 @@
+{
+  "stock_id": "2890",
+  "stock_name": "永豐金",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "金融租賃"
+    ],
+    "theme_tags": [
+      "獲利創高",
+      "高ROE"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "前十月稅後純益385.31億元年增68%、EPS 2.61元，年化ROE達17.1%均創同期新高。永豐銀連六年創高、永豐金證年增124%，估今年EPS 3.3元。",
+      "key_points": [
+        "前十月EPS 2.61元、年化ROE 17.1%，財務表現創同期新高",
+        "子公司永豐銀年增15%、永豐金證年增124%、京城銀貢獻53.42億"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "stock_id": "7710",
+  "stock_name": "東擎科技",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "工業電腦與Edge AI",
+      "工業邊緣電腦",
+      "AI BOX",
+      "IPC伺服器"
+    ],
+    "theme_tags": [
+      "美系雲端遊戲串流",
+      "超微AI BOX",
+      "轉上市",
+      "萬寶估2026 EPS 10元",
+      "Q3創新高",
+      "AI BOX放量",
+      "攻上漲停"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 工業電腦"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆 / 今晚產業新聞 / 精選圖表",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": 10.0,
+      "estimated_pe": null,
+      "content": "永擎子公司東擎Q3營收9.6億元、稅後純益1.75億元，每股賺2.83元創新高，前三季EPS 7.13元。AI BOX預計明年上半年放量，萬寶投顧上調2026年預估EPS至10元，與永擎連袂攻上漲停板。",
+      "key_points": [
+        "Q3單季EPS 2.83元創新高，前三季EPS達7.13元已超越歷年表現。",
+        "萬寶投顧預估2026年EPS上看10元，AI BOX明年上半年進入放量期。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 9.6,
+        "q3_eps": 2.83,
+        "three_q_eps": 7.13,
+        "q3_net_income": 1.75
+      },
+      "chips_observation": "受伺服器暴賺題材激勵，主力買盤大單敲進亮燈鎖死漲停。"
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏多",
+      "title": "東擎掌握美系客戶第二階段訂單，AI BOX明年放量",
+      "revenue_perf": "上半年獲利已超越過往歷年全年",
+      "content": "美系雲端遊戲串流客戶第一階段訂單於Q3交付，第二階段新單明年上半年出貨；採用超微(AMD)平台的AI BOX新品Q4起出貨、明年放量成為主力。上半年獲利已超越歷年全年，預計最快10月下旬轉上市。",
+      "key_points": [
+        "上半年獲利已超越歷年全年，最快10月下旬轉上市",
+        "掌握美系客戶第二階段訂單，超微平台AI BOX新品Q4出貨、明年放量"
+      ]
+    }
+  ]
+}

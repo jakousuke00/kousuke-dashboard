@@ -1,0 +1,48 @@
+{
+  "stock_id": "5704",
+  "stock_name": "老爺知",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "連鎖飯店品牌"
+    ],
+    "theme_tags": [
+      "溫泉飯店",
+      "國旅度假",
+      "低本益比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 連鎖飯店品牌"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 21.9,
+    "est_eps_2026": 3.0,
+    "est_pe": 7.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "老爺知9月營收年增26.7%，預估本益比7.3倍最低",
+      "close_price": 21.9,
+      "price_change_5d_pct": -2.01,
+      "foreign_5d_lots": -13,
+      "est_eps": 3.0,
+      "est_pe": 7.3,
+      "revenue_perf": "9月營收年增26.7%，今年累計年減38.5%",
+      "content": "收盤21.90元，近5日下跌2.01%，外資近5日賣超13張。9月單月營收年增26.7%，但今年累計仍年減38.5%；萬寶預估2026年EPS 3.0元，預估本益比7.3倍為表列最低。",
+      "key_points": [
+        "9月單月營收年增26.7%，惟今年累計仍年減38.5%",
+        "萬寶預估EPS 3.0元，預估本益比7.3倍為表列最低"
+      ]
+    }
+  ]
+}

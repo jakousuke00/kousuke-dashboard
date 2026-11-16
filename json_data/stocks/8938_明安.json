@@ -1,0 +1,46 @@
+{
+  "stock_id": "8938",
+  "stock_name": "明安",
+  "industry_profile": {
+    "main_industry": "奢華消費概念股",
+    "sub_industries": [
+      "其他（高爾夫球具）"
+    ],
+    "theme_tags": [
+      "奢華消費",
+      "高爾夫球具"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-07",
+        "source": "reports/11月份/萬寶產業報告-1107(萬寶晚報贈品).pdf",
+        "category_mentioned": "奢華消費概念股 - 其他"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-07",
+    "close_price": 47.85,
+    "est_eps_2026": 4.0,
+    "est_pe": 12.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-07",
+      "source_file": "reports/11月份/萬寶產業報告-1107(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "近5日下跌3.33%，9月營收小幅年減3.8%",
+      "close_price": 47.85,
+      "price_change_5d_pct": -3.33,
+      "foreign_5d_lots": 26,
+      "est_eps": 4.0,
+      "est_pe": 12.0,
+      "revenue_perf": "9月營收年減3.8%",
+      "content": "高爾夫球具代工大廠，近5日隨大盤修正下跌3.33%收47.85元，表現仍優於大盤；外資近5日小幅買超26張。9月營收年減3.8%，萬寶預估2026年EPS 4.0元，預估本益比12.0倍。",
+      "key_points": [
+        "9月營收年減3.8%，外資近5日小買26張，預估EPS 4.0元、PE 12.0倍"
+      ]
+    }
+  ]
+}

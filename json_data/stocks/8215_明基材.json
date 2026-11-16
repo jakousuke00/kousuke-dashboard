@@ -1,0 +1,70 @@
+{
+  "stock_id": "8215",
+  "stock_name": "明基材",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "偏光板",
+      "環保機能織物",
+      "車用與醫療材料"
+    ],
+    "theme_tags": [
+      "循環經濟",
+      "永續紡織",
+      "Q3虧損收斂",
+      "聚焦OLED與車用",
+      "萬寶估EPS -1.5元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "今晚爆個股"
+      },
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 光電與化學材料"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-02",
+    "est_eps_2026": -1.5,
+    "close_price": 28.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "轉機觀察",
+      "title": "明基材Q3每股虧0.29元虧損收斂，聚焦OLED與車用高階產品",
+      "close_price": 28.5,
+      "est_eps": -1.5,
+      "est_pe": null,
+      "revenue_perf": "Q3營收48.89億元，稅後淨損9300萬元連五季收斂；前三季EPS -1.25元",
+      "content": "明基材Q3稅後淨損9,300萬元連五季收斂，每股虧0.29元。手機承壓但OLED偏光片及車用業務大幅成長；董座陳建志表示明年首季顯示器需求雖不確定但將提高高階產品比重，萬寶估EPS -1.5元。",
+      "key_points": [
+        "Q3單季虧損收斂至9,300萬元，連五季呈現虧損縮小態勢",
+        "加速由傳統面板偏光板轉型至車用、OLED及醫療高階材料"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "今晚爆個股",
+      "stance": "中立",
+      "title": "電子廢料再生做團服，攜手遠東新進軍永續紡織",
+      "close_price": null,
+      "est_eps": -1.5,
+      "est_pe": null,
+      "revenue_perf": "營收年增6.13%，估EPS -1.5元",
+      "content": "旗下環保品牌Xpore攜手遠東新，年回收3000噸面板廢料製成rPET紗線與防水薄膜做團服，減碳達57%。今年量產並鎖定金融、航空等企業採購。",
+      "key_points": [
+        "面板廢料回收再製機能團服，減碳57%",
+        "開拓非偏光板領域永續商機"
+      ]
+    }
+  ]
+}

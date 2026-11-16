@@ -1,0 +1,47 @@
+{
+  "stock_id": "2430",
+  "stock_name": "燦坤",
+  "industry_profile": {
+    "main_industry": "3C消費通路",
+    "sub_industries": [
+      "3C零售通路個股"
+    ],
+    "theme_tags": [
+      "3C家電零售",
+      "低股價淨值比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-24",
+        "source": "萬寶產業報告-1024",
+        "category_mentioned": "3C消費通路 > 3C零售通路個股 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-24",
+    "close_price": 17.25,
+    "est_eps_2026": 0.5,
+    "est_pe": 34.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-24",
+      "source_file": "萬寶產業報告-1024(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "9月營收年增11.0%，股價淨值比0.47倍、預估今年EPS 0.5元",
+      "close_price": 17.25,
+      "price_change_5d_pct": -1.43,
+      "foreign_5d_lots": 14,
+      "est_eps": 0.5,
+      "est_pe": 34.5,
+      "revenue_perf": "9月營收年增11.0%",
+      "content": "9月營收年增11.0%，但今年以來股價下跌22.6%。收盤17.25元、近5日下跌1.43%，股價淨值比0.47倍、萬寶預估今年EPS 0.5元，預估本益比34.5倍。",
+      "key_points": [
+        "9月營收年增11.0%，股價淨值比0.47倍",
+        "萬寶預估今年EPS 0.5元"
+      ]
+    }
+  ]
+}

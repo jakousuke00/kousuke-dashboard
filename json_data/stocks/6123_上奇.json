@@ -1,0 +1,42 @@
+{
+  "stock_id": "6123",
+  "stock_name": "上奇",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "系統整合與工程軟體 (其他)"
+    ],
+    "theme_tags": [
+      "昕奇雲端",
+      "智慧列印與3D列印"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-20",
+        "source": "萬寶晚報-10_20",
+        "category_mentioned": "今晚爆個股 (雲端與數位列印)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-20",
+    "est_eps_2026": 3.2,
+    "est_pe": 13.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-20",
+      "source_file": "萬寶晚報-10_20.pdf",
+      "section": "今晚爆個股",
+      "stance": "穩健偏多",
+      "title": "前三季每股賺2.5元，昕奇雲端營收創新高",
+      "est_eps": 3.2,
+      "est_pe": 13.0,
+      "revenue_perf": "Q3營收14.92億元(年增2%)、營業利益8,443萬元(年增9%)、EPS 0.62元；前三季EPS 2.50元",
+      "content": "第三季營業利益年增9%，子公司昕奇雲端營收創單季新高、獲利穩健成長。集團持續推進雲端服務、智慧列印及3D列印應用。",
+      "key_points": [
+        "子公司昕奇雲端營收創單季歷史新高，本益比13倍"
+      ]
+    }
+  ]
+}

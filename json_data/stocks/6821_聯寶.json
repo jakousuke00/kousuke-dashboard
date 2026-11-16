@@ -1,0 +1,47 @@
+{
+  "stock_id": "6821",
+  "stock_name": "聯寶",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "磁性元件與無線充電模組"
+    ],
+    "theme_tags": [
+      "9月營收月增33%",
+      "開發AI電源與矽光子新應用"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "電子零組件 > 磁性元件與無線充電"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05",
+    "close_price": 44.8,
+    "est_eps_2026": 1.6,
+    "est_pe": 28.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收月增32.5%，新接韓國智慧電表訂單並開發AI電源與矽光子應用",
+      "close_price": 44.8,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 1.6,
+      "est_pe": 28.0,
+      "revenue_perf": "9月營收4,418萬元、月增32.53%；前三季營收4.11億元、年減10.21%",
+      "content": "受惠磁性元件及無線充電出貨增溫，9月營收4,418萬元、月增32.53%。無線充電健身器材客戶進入出貨旺季，磁性元件新接韓國智慧電表訂單，對Q4審慎樂觀，並積極開發AI電源、矽光子等新應用。",
+      "key_points": [
+        "9月營收月增32.53%，新接韓國智慧電表磁性元件訂單",
+        "積極開發AI電源與矽光子新應用"
+      ]
+    }
+  ]
+}

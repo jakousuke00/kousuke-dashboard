@@ -1,0 +1,39 @@
+{
+  "stock_id": "3312",
+  "stock_name": "弘憶國際",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "IC通路與算力租賃"
+    ],
+    "theme_tags": [
+      "美國GPU算力租賃",
+      "NVIDIA HGX H200"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - IC通路"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-09-23"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏多",
+      "title": "弘憶美國GPU算力租賃售罄，Q2 EPS 0.82元",
+      "revenue_perf": "Q2營收65.56億元、年增26.10%，EPS 0.82元、年增153.95%；上半年EPS 1.84元",
+      "content": "2026年透過美國子公司商轉GPU算力租賃業務，以NVIDIA HGX H200為主力，目前算力100%售罄並與美國大型科技業簽1至5年合約。因提前購入設備成本較低，帶動Q2 EPS達0.82元、年增153.95%，上半年EPS 1.84元。",
+      "key_points": [
+        "美國HGX H200算力租賃100%售罄，簽訂1-5年長約",
+        "Q2 EPS 0.82元、年增153.95%，上半年EPS達1.84元"
+      ]
+    }
+  ]
+}

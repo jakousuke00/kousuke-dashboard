@@ -1,0 +1,44 @@
+{
+  "stock_id": "1535",
+  "stock_name": "中宇",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "環保統包工程",
+      "水處理與焚化爐",
+      "機電工程"
+    ],
+    "theme_tags": [
+      "Q4驗收入帳高峰",
+      "中鋼集團",
+      "高防禦水資源"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 3.3,
+      "estimated_pe": 14.0,
+      "content": "Q3稅後純益0.99億元、每股賺0.8元；前三季純益3.02億元、每股賺2.44元，獲利略降主因大型統包工程處於交替階段與處分子公司一次性損失。法人看好Q4工程款結算高峰帶動動能，萬寶估今年EPS 3.3元。",
+      "key_points": [
+        "前三季EPS達2.44元，獲利短暫承壓主因工程案期交替與處分子公司一次性影響。",
+        "第四季邁入環保與機電工程結算驗收認列高峰期，本業營運動能將顯著重啟。"
+      ],
+      "operational_metrics": {
+        "q3_net_income": 0.99,
+        "q3_eps": 0.8,
+        "three_q_net_income": 3.02,
+        "three_q_eps": 2.44
+      },
+      "chips_observation": "具備中鋼集團背景與穩定配息，本益比約14倍，防禦價值高。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "stock_id": "1617",
+  "stock_name": "榮星",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "漆包線",
+      "高散熱陶瓷基板轉投資"
+    ],
+    "theme_tags": [
+      "轉投資陶瓷基板與晶圓研磨",
+      "8月匯損單月小虧0.01元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "電機電纜 > 漆包線與陶瓷基板"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05",
+    "close_price": 24.0,
+    "est_eps_2026": 0.6,
+    "est_pe": 40.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "中性",
+      "title": "8月營收年增46.67%，因匯損單月每股小虧0.01元，子公司主攻高散熱陶瓷基板",
+      "close_price": 24.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 0.6,
+      "est_pe": 40.0,
+      "revenue_perf": "8月營收3.74億元、年增46.67%，稅後純損100萬元、EPS -0.01元；上半年EPS 0.21元",
+      "content": "8月營收3.74億元、年增46.67%，因新台幣升值認列匯損致單月每股小虧0.01元，不影響全年獲利趨勢。持股約90%的子公司主攻高散熱立體陶瓷基板，持股約23%的仁鏵布局陶瓷基板加工與晶圓研磨，具半導體題材。",
+      "key_points": [
+        "8月營收年增46.67%，匯損致單月小虧0.01元不影響全年獲利",
+        "子公司與轉投資仁鏵布局高散熱陶瓷基板與晶圓研磨"
+      ]
+    }
+  ]
+}

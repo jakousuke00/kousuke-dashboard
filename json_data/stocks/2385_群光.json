@@ -1,0 +1,27 @@
+{
+  "stock_id": "2385",
+  "stock_name": "群光",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "影像產品/鍵盤電源"
+    ],
+    "theme_tags": [
+      "機器人影像"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 9元。Q3營業利益12.58億元年增128.9%，EPS 2.02元(前三季7.07元)。Q4影像產品有望逆勢季增，已與美國機器人新創合作，預計2027年貢獻營收。",
+      "key_points": [
+        "Q3 EPS 2.02元，Q4影像產品有望季增",
+        "與美國機器人新創合作，2027年貢獻"
+      ]
+    }
+  ]
+}

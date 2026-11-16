@@ -1,0 +1,29 @@
+{
+  "stock_id": "6752",
+  "stock_name": "叡揚",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "企業應用軟體",
+      "Agentic AI與資安"
+    ],
+    "theme_tags": [
+      "AI加值訂單占20%",
+      "導入Agentic AI與MCP"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 7元",
+      "pe_ratio": "12倍",
+      "content": "前三季EPS 4.86元，10月營收1.81億元。自有產品AI技術加值訂單已占總訂單20%，導入Agentic AI並以MCP串接企業系統。",
+      "key_points": [
+        "前三季EPS 4.86元，自有產品AI加值訂單占比達20%"
+      ]
+    }
+  ]
+}

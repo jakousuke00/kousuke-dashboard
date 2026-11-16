@@ -1,0 +1,49 @@
+{
+  "stock_id": "1326",
+  "stock_name": "台化",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "塑化",
+      "半導體材料",
+      "碳化矽"
+    ],
+    "theme_tags": [
+      "PP晶圓載具材料",
+      "12吋碳化矽"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-19",
+        "source": "萬寶晚報-10_19",
+        "category_mentioned": "石化原料 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-19",
+    "close_price": 75.5,
+    "est_eps_2026": 4.0,
+    "est_pe": 19
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-19",
+      "source_file": "萬寶晚報-10_19.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "PP茂金屬11月試車、明年量產，跨入半導體材料",
+      "close_price": 75.5,
+      "price_change_pct": -4.07,
+      "volume_lots": 32423,
+      "est_eps": 4.0,
+      "est_pe": 19,
+      "revenue_perf": "Q4加工利差改善，營運有機會優於Q3",
+      "content": "PP茂金屬專案預計11月試車、明年量產，將成為全球第三家、台灣首家高潔淨度PP晶圓載具材料供應商；同步推進12吋碳化矽長晶(目標明年底導入客戶)及電子級低碳氫氣，Q4純苯與PTA利差改善。",
+      "key_points": [
+        "PP茂金屬11月試車跨入晶圓載具材料",
+        "推進12吋碳化矽長晶與電子級低碳氫氣"
+      ]
+    }
+  ]
+}

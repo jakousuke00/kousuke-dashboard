@@ -1,0 +1,65 @@
+{
+  "stock_id": "1519",
+  "stock_name": "華城",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "重電變壓器與電網升級",
+      "重電電力變壓器"
+    ],
+    "theme_tags": [
+      "變壓器外銷北美",
+      "台電強韌電網",
+      "北美訂單逾200億",
+      "能見度到2030年"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "電機電纜 > 今晚爆個股"
+      },
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：重電與能源基建"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-27",
+    "est_eps_2026": 18.0,
+    "est_pe": 32
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "北美在手訂單逾200億元，能見度到2030年",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 18.0,
+      "est_pe": 32,
+      "revenue_perf": null,
+      "content": "北美在手訂單逾200億元(AI相關占比逾兩成)，訂單能見度達2030年，另有台電訂單60多億元；觀音三廠B廠2027年貢獻增至逾30億元，台中廠擴廠計畫預計2027年Q3投產、產能倍增。",
+      "key_points": [
+        "北美在手訂單逾200億元，能見度達2030年",
+        "觀音三廠與台中廠擴產帶動2027年產能倍增"
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "多方",
+      "title": "華城受惠變壓器外銷北美與台電大單，長線動能無虞",
+      "content": "受惠美國電網老舊更新、AI大廠自建電廠與台電強韌電網大單，華城變壓器外銷北美與內需訂單充沛，產能持續擴充，長線獲利動能無虞，股價維持強勢整理後上攻(+3.17%)。",
+      "key_points": [
+        "受惠變壓器外銷北美與台電大單，產能持續擴充(+3.17%)"
+      ]
+    }
+  ]
+}

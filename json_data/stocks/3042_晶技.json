@@ -1,0 +1,98 @@
+{
+  "stock_id": "3042",
+  "stock_name": "晶技",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "石英元件",
+      "黃光微影石英晶體",
+      "石英晶體",
+      "高頻振盪器",
+      "車用與光通訊元件",
+      "石英晶體振盪器",
+      "車用石英元件",
+      "光模組高頻元件"
+    ],
+    "theme_tags": [
+      "黃光產能擴至2400萬",
+      "前三季營收增20%",
+      "AI與車用占比破5成",
+      "AI光模組",
+      "1.6T石英元件",
+      "車用電子",
+      "高毛利",
+      "逆勢強勢股",
+      "1.6T光模組高頻元件",
+      "車用石英龍頭",
+      "抗跌走強"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "今晚產業新聞"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "close_price": 118.0,
+    "est_eps_2026": 7.5,
+    "est_pe": 15.7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "列名頭版27檔逆勢強勢抗跌股。高頻低抖動石英晶體打入800G與1.6T光模組市場，市占率突破2成，加上車用高階石英元件出貨攀升，營運表現穩健。",
+      "key_points": [
+        "列名27檔逆勢抗跌名單，高頻石英元件壁壘高。",
+        "受惠AI光模組高階規格升級，ASP與毛利率同步增長。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "法人買盤低檔支撐，籌碼穩定度高。"
+    },
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 6.6,
+      "estimated_pe": 22.0,
+      "content": "Q3營收41.96億元，毛利率35.53%，每股賺2.08元；前三季EPS 5.04元。AI占營收16%年增逾7成，光模組市占破2成，1.6T採用312.5MHz元件帶動規格與ASP顯著提升。",
+      "key_points": [
+        "AI與車用營收高速成長，光模組市占逾2成，1.6T高頻元件推升整體毛利。",
+        "前三季每股賺5.04元，Q4營收估維持雙位數年增，萬寶預估今年EPS 6.6元。"
+      ],
+      "operational_metrics": {
+        "q3_revenue": 41.96,
+        "q3_gross_margin": 35.53,
+        "q3_eps": 2.08,
+        "three_q_eps": 5.04
+      },
+      "chips_observation": "近期隨大盤回檔修正，但AI光通訊規格升級受惠明確，長線買盤具支撐。"
+    },
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "今晚產業新聞",
+      "stance": "偏多",
+      "title": "晶技黃光微影產能翻倍擴產，AI與車用助攻明年占比破5成",
+      "close_price": 118.0,
+      "est_eps": 7.5,
+      "est_pe": 15.7,
+      "revenue_perf": "前三季營收約42億元年增20%，黃光微影月產能由800萬顆擴增至2400萬顆",
+      "content": "受惠AI資料中心、車用及Wi-Fi 7普及，石英元件看好明年。晶技前三季營收年增20%，黃光微影月產能由800萬顆大擴至2027年2400萬顆，明年AI及車用營收占比有望破5成。",
+      "key_points": [
+        "前三季營收年增20%，黃光微影產能擴增至2400萬顆",
+        "AI資料中心與車用比重跨過5成，石英晶體高階化升級"
+      ]
+    }
+  ]
+}

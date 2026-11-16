@@ -1,0 +1,47 @@
+{
+  "stock_id": "6906",
+  "stock_name": "現觀科",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "行動網路優化與5G大數據軟體"
+    ],
+    "theme_tags": [
+      "9月營收創今年新高",
+      "下半年認列北歐新客戶訂單"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "網通/電信產業 > 電信網路優化軟體"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05",
+    "close_price": 82.0,
+    "est_eps_2026": 2.0,
+    "est_pe": 41.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收3,156萬元創今年單月新高，下半年認列北歐新單拚優於上半年",
+      "close_price": 82.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 2.0,
+      "est_pe": 41.0,
+      "revenue_perf": "9月營收3,156萬元創今年單月新高；前9月營收2.31億元、年增0.9%",
+      "content": "9月營收3,156萬元創今年單月新高。在電信網路最佳化及5G SA專案持續推動下，下半年開始認列北歐新客戶訂單，後續可望有中東及北美電信客戶新案，下半年營運有望優於上半年，全年力拚高於去年。",
+      "key_points": [
+        "9月營收3,156萬元創今年新高",
+        "下半年開始認列北歐新客戶訂單，中東與北美新案推進"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "stock_id": "4976",
+  "stock_name": "佳凌",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "車用鏡頭、無人機鏡頭與光通訊"
+    ],
+    "theme_tags": [
+      "無人機鏡頭占比破1成",
+      "參與低軌衛星光通訊專案"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-06",
+        "source": "萬寶晚報-10_06",
+        "category_mentioned": "光電相關 > 無人機與低軌衛星光學"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-06",
+    "est_eps_2026": -3.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-06",
+      "source_file": "萬寶晚報-10_06.pdf",
+      "section": "今晚爆個股",
+      "stance": "中性",
+      "title": "無人機鏡頭模組營收占比突破1成、年底上看15%，並參與低軌衛星光通訊專案",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": -3.0,
+      "est_pe": null,
+      "revenue_perf": "累計營收年增2.82%，無人機鏡頭占比突破1成、年底可望達15%以上",
+      "content": "無人機鏡頭模組今年營收占比已突破1成，年底前可望維持1成5以上，並延伸至雲台；車用鏡頭2027年隨美系新案導入成長。此外亦參與低軌衛星之間的光通訊傳輸專案，下半年營運有望優於上半年。",
+      "key_points": [
+        "無人機鏡頭模組占比突破1成、年底前上看15%以上",
+        "參與低軌衛星間光通訊傳輸專案，美系車用新案2027年發酵"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "stock_id": "1708",
+  "stock_name": "東鹼",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "硫酸鉀/散裝航運"
+    ],
+    "theme_tags": [
+      "散裝航運",
+      "船隊汰舊換新"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 4元。受惠地緣衝突推升油價與化工行情及航運升溫，Q3 EPS 1.6元季增83.91%，前三季EPS 3.58元年增62.73%。董事會授權以不超過2,500萬美元購買12年內輕便型散裝輪汰舊換新。",
+      "key_points": [
+        "Q3 EPS 1.6元季增83.91%，前三季3.58元",
+        "擬斥不超過2,500萬美元購輕便型散裝輪汰舊換新"
+      ]
+    }
+  ]
+}

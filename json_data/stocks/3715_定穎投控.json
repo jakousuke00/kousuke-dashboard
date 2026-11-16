@@ -1,0 +1,68 @@
+{
+  "stock_id": "3715",
+  "stock_name": "定穎投控",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "車用與AI伺服器PCB",
+      "AI伺服器PCB",
+      "PCB與CCL載板"
+    ],
+    "theme_tags": [
+      "AI伺服器與ASIC PCB",
+      "泰國新廠",
+      "營收連3月創高",
+      "高階多層板",
+      "泰國廠",
+      "PCB",
+      "EPS上修"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-07",
+        "source": "萬寶晚報-10_07",
+        "category_mentioned": "PCB/MB產業 > 今晚產業新聞"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "萬寶投顧精選圖表",
+      "content": "列入萬寶投顧精選圖表，獲萬寶投顧上修2026年預估EPS至1.2元。",
+      "key_points": [
+        "萬寶投顧上修2026年預估EPS至1.2元"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "20層以上AI伺服器高階板已量產，最快12月出貨年底認列；30及40層以上超高層板明年Q1出貨，泰國廠明年首季達成損益兩平，看好2027年營收跳躍成長，估EPS 0.4元。",
+      "key_points": [
+        "20層以上AI高階板最快12月出貨，Q3 EPS 0.11元較上季轉盈",
+        "明年首季泰國廠達滿載並損平，2027年AI產品占比約三分之一"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "source_file": "萬寶晚報-10_07.pdf",
+      "section": "產業新聞",
+      "stance": "偏多",
+      "title": "9月營收32.26億元年增84.70%連三月創高，ASIC及交換器產品Q4量產",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "9月營收32.26億元年增84.70%；Q3營收86.90億元年增79.81%創單季新高",
+      "content": "受惠DDR5儲存、網通及AI伺服器動能，9月營收32.26億元連三月創高，Q3營收86.90億元創單季新高；ASIC及交換器產品Q4量產，泰國新產能年底全數開出。",
+      "key_points": [
+        "9月與Q3營收雙創歷史新高",
+        "ASIC及交換器產品Q4量產，泰國廠年底全開"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "stock_id": "2905",
+  "stock_name": "三商",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "賣場通路"
+    ],
+    "theme_tags": [
+      "零售與餐飲控股",
+      "外資買超",
+      "低本益比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-31",
+        "source": "萬寶產業報告-1031",
+        "category_mentioned": "觀光/百貨/通路 > 賣場通路 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-31",
+    "close_price": 18.05,
+    "est_eps_2026": 2.0,
+    "est_pe": 9.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-31",
+      "source_file": "萬寶產業報告-1031(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "今年累計營收年增25.1%，外資近5日買超4,172張、預估本益比9.0倍",
+      "close_price": 18.05,
+      "price_change_5d_pct": 1.4,
+      "foreign_5d_lots": 4172,
+      "est_eps": 2.0,
+      "est_pe": 9.0,
+      "revenue_perf": "9月營收年減81.2%、月減79.6%，今年累計年增25.1%",
+      "content": "收盤18.05元，近5日上漲1.40%，外資近5日買超4,172張；9月營收雖年減81.2%、月減79.6%，但今年累計仍年增25.1%，萬寶預估2026年EPS 2.0元，預估本益比9.0倍。",
+      "key_points": [
+        "今年累計營收年增25.1%，外資近5日買超4,172張",
+        "萬寶預估2026 EPS 2.0元，預估本益比9.0倍"
+      ]
+    }
+  ]
+}

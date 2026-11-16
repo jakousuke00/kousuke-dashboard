@@ -1,0 +1,39 @@
+{
+  "stock_id": "3163",
+  "stock_name": "波若威",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "光波長分合波器WDM",
+      "高密度光跳接線",
+      "CPO模組零件"
+    ],
+    "theme_tags": [
+      "邁威爾台鏈",
+      "三大法人櫃買買超第六",
+      "800G模組分波"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "產業新聞 / 籌碼動態",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 6.0,
+      "estimated_pe": 20.0,
+      "content": "列名邁威爾收購Lumentum台鏈焦點。在櫃買市場大跌6.4%之際，獲三大法人逆勢大買2.29億元（495張）奪櫃買買超金額第六名，展現強大抗跌籌碼優勢。",
+      "key_points": [
+        "高密度分波多工元件受惠超大型資料中心光互連升級需求。",
+        "大跌之際獲三大法人逆勢買超2.29億元，籌碼面極具韌性。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "三大法人於櫃買逆勢買超495張、金額2.29億元居櫃買前列。"
+    }
+  ]
+}

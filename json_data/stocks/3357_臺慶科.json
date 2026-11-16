@@ -1,0 +1,45 @@
+{
+  "stock_id": "3357",
+  "stock_name": "臺慶科",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "電感"
+    ],
+    "theme_tags": [
+      "AI一體成型電感"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 電感"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 212.5,
+    "est_eps_2026": 13.5,
+    "est_pe": 15.7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "臺慶科高獲利低PE，估2026 EPS達13.5元",
+      "close_price": 212.5,
+      "est_eps": 13.5,
+      "est_pe": 15.7,
+      "revenue_perf": "2026預估EPS 13.5元，H1 EPS 6.33元",
+      "content": "電感廠臺慶科上半年EPS 6.33元，全年估13.5元，本益比僅不到16倍。10/1收212.5元，自7月低點反彈25%，評價明顯低估。",
+      "key_points": [
+        "估2026 EPS 13.5元，本益比僅15.7倍低估",
+        "高功率一體成型電感切入AI應用"
+      ]
+    }
+  ]
+}

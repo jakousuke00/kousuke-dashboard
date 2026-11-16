@@ -1,0 +1,50 @@
+{
+  "stock_id": "8150",
+  "stock_name": "南茂",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "記憶體封測",
+      "晶圓代工與ASIC"
+    ],
+    "theme_tags": [
+      "記憶體封測漲價",
+      "轉單效應",
+      "DDR4",
+      "DDR5",
+      "高階測試"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 多方：記憶體與封測"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "Q3營收84.01億元季增13.8%改寫單季新高，毛利率升至21.7%，EPS 1.89元創2022年來新高。受惠DDR4強勁、DDR5放量及高階測試擴張，估EPS 6元。",
+      "key_points": [
+        "Q3 EPS 1.89元創2022年來單季新高，前三季EPS 3.89元",
+        "今、明兩年維持高資本支出擴充產能，為2027年成長作準備"
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "多方",
+      "title": "南茂受惠記憶體轉單與封測漲價強攻漲停",
+      "content": "AI發展帶動HBM排擠通用型DRAM與NAND產能，DDR4/DDR5供需失衡加劇。南茂受惠記憶體報價上行與轉單效應，因產能吃緊持續調漲封測價格，獲利預期上修，單日強攻漲停(+9.95%)。",
+      "key_points": [
+        "受惠記憶體轉單且封測產能吃緊持續調漲報價，單日漲停(+9.95%)"
+      ]
+    }
+  ]
+}

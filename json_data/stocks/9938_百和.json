@@ -1,0 +1,47 @@
+{
+  "stock_id": "9938",
+  "stock_name": "百和",
+  "industry_profile": {
+    "main_industry": "運動健身",
+    "sub_industries": [
+      "運動鞋代工及鞋材"
+    ],
+    "theme_tags": [
+      "鞋材織帶龍頭",
+      "外資買超"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-06",
+        "source": "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf",
+        "category_mentioned": "運動健身 - 運動鞋代工及鞋材"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-06",
+    "close_price": 34.9,
+    "est_eps_2026": 2.5,
+    "est_pe": 14.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-06",
+      "source_file": "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "百和外資近5日買超2,041張，9月營收年增6.0%",
+      "close_price": 34.9,
+      "price_change_5d_pct": -4.12,
+      "foreign_5d_lots": 2041,
+      "est_eps": 2.5,
+      "est_pe": 14.0,
+      "revenue_perf": "9月營收年增6.0%",
+      "content": "收盤34.90元，近5日下跌4.12%，但外資近5日逆勢買超2,041張。9月營收年增6.0%，萬寶預估2026年EPS 2.5元，預估本益比14.0倍。",
+      "key_points": [
+        "外資近5日逆勢買超2,041張，9月營收年增6.0%",
+        "萬寶預估EPS 2.5元，預估本益比14.0倍"
+      ]
+    }
+  ]
+}

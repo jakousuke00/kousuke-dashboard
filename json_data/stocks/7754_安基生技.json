@@ -1,0 +1,44 @@
+{
+  "stock_id": "7754",
+  "stock_name": "安基生技",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "小分子新藥研發"
+    ],
+    "theme_tags": [
+      "AJ201美國三期臨床啟動",
+      "全球唯一進三期SBMA新藥"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "生技化工 > 新藥臨床"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "治療甘迺迪氏症新藥AJ201通過美國FDA審查期，正式啟動全球三期臨床",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "AJ201最高年銷售額預估逾25億美元",
+      "content": "治療甘迺迪氏症（SBMA）的AJ201完成美國FDA 30天臨床試驗申請審查期且未收到意見，將正式啟動三期臨床，成為全球唯一進入三期、具First-in-Class機轉的候選新藥，規劃全球收案200名患者，最高年銷售估逾25億美元。",
+      "key_points": [
+        "AJ201正式啟動美國三期臨床，為全球唯一進入三期的甘迺迪氏症新藥",
+        "已獲美歐孤兒藥及FDA快速審查資格，峰值年銷售估逾25億美元"
+      ]
+    }
+  ]
+}

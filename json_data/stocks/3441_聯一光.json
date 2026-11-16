@@ -1,0 +1,47 @@
+{
+  "stock_id": "3441",
+  "stock_name": "聯一光",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "光學毛胚",
+      "CPO模組零件"
+    ],
+    "theme_tags": [
+      "單月轉盈",
+      "CPO占比拚1成",
+      "轉機股"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "今晚爆個股 > 光學與CPO"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28",
+    "close_price": 199.5,
+    "est_eps_2026": 2.5,
+    "est_pe": 79.8
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "聯一光9月轉盈每股賺0.12元，明年CPO營收占比拚1成",
+      "close_price": 199.5,
+      "est_eps": 2.5,
+      "est_pe": 79.8,
+      "revenue_perf": "9月營收4171萬元年增8.83%，前三季EPS 1.82元",
+      "content": "自結9月稅後純益481萬元轉虧為盈，推算第三季EPS 0.66元，前三季EPS達1.82元。全年營收挑戰5億元，董事長陳志政預期明年CPO相關營收占比上看10%，具強烈轉機動能。",
+      "key_points": [
+        "9月轉虧為盈，前三季EPS達1.82元",
+        "董事長預估明年CPO相關營收占比達10%"
+      ]
+    }
+  ]
+}

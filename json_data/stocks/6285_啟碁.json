@@ -1,0 +1,46 @@
+{
+  "stock_id": "6285",
+  "stock_name": "啟碁",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "WiFi 8",
+      "低軌衛星終端",
+      "1.6T交換器与光交換器",
+      "低軌衛星與光通訊"
+    ],
+    "theme_tags": [
+      "WiFi 8明年Q4量產",
+      "1.6T光交換器2027送樣",
+      "低軌衛星",
+      "EPS上修",
+      "ETF加碼"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "頭版主筆 / 萬寶投顧精選圖表 / ETF Watch",
+      "content": "低軌衛星族群接棒轉強，獲萬寶投顧上修2026年預估EPS至14.4元；主動型ETF今日同步加碼856張，總持有增至2,786張。",
+      "key_points": [
+        "萬寶投顧上修2026年預估EPS至14.4元",
+        "低軌衛星接棒轉強，主動型ETF加碼856張"
+      ]
+    },
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 13.5元",
+      "pe_ratio": "12倍",
+      "content": "前三季EPS 10.1元。2027年營收拚雙位數成長，朝60億美元目標前進；WiFi 8預計明年Q4量產出貨，1.6T交換器與光交換器2027年送樣、2028年貢獻，美國製造最快2028上半年量產。",
+      "key_points": [
+        "前三季EPS 10.1元，2027年營收拚雙位數成長",
+        "WiFi 8預計2027年Q4量產，1.6T交換器與光交換器2027年送樣"
+      ]
+    }
+  ]
+}

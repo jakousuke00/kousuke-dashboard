@@ -1,0 +1,54 @@
+{
+  "stock_id": "2374",
+  "stock_name": "佳能",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "光學模組",
+      "機器人視覺",
+      "相機模組與機器視覺"
+    ],
+    "theme_tags": [
+      "豐田機器人",
+      "視覺模組",
+      "能率集團",
+      "機器人視覺"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "今晚產業新聞 > 人形機器人"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 3.6元。前十月營收104.83億元年增35.7%突破百億，前三季EPS 2.55元超越去年全年。2027年深耕混合式AI相機並跨足機器視覺模組。",
+      "key_points": [
+        "前十月營收破百億，前三季賺贏去年",
+        "跨足熱感應與毫米波雷達等機器視覺模組"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "今晚產業新聞",
+      "stance": "偏多",
+      "title": "佳能洽商量產豐田人形機器人視覺模組，搶搭40萬台大商機",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "轉投資Agility與豐田合作，洽談視覺模組量產",
+      "content": "外媒報導豐田擬部署40萬台機器人。能率集團旗下人形機器人新創Agility與豐田合作導入Digit，轉投資Agility的佳能因此與豐田洽談量產視覺模組，營運大添想像空間。",
+      "key_points": [
+        "轉投資Agility切入豐田40萬台機器人產線規劃",
+        "與豐田洽商量產視覺辨識模組，跨入人形機器人"
+      ]
+    }
+  ]
+}

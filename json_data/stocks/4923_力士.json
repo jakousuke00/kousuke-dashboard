@@ -1,0 +1,47 @@
+{
+  "stock_id": "4923",
+  "stock_name": "力士",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "MOSFET功率元件",
+      "電源管理IC"
+    ],
+    "theme_tags": [
+      "IC設計",
+      "MOSFET"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-10",
+        "source": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
+        "category_mentioned": "IC設計 - 重點個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10",
+    "close_price": 44.9,
+    "est_eps_2026": 1.0,
+    "est_pe": 44.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source_file": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "近5日上漲10.73%，10月營收年增3.5%",
+      "close_price": 44.9,
+      "price_change_5d_pct": 10.73,
+      "foreign_5d_lots": -122,
+      "est_eps": 1.0,
+      "est_pe": 44.9,
+      "revenue_perf": "10月營收年增3.5%",
+      "content": "MOSFET設計廠，近5日股價上漲10.73%收44.90元，外資近5日小幅賣超122張。10月營收年增3.5%，萬寶預估2026年EPS 1.0元，預估本益比44.9倍。",
+      "key_points": [
+        "近5日上漲10.73%，10月營收年增3.5%，預估EPS 1.0元"
+      ]
+    }
+  ]
+}

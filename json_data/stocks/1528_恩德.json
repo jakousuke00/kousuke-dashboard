@@ -1,0 +1,46 @@
+{
+  "stock_id": "1528",
+  "stock_name": "恩德",
+  "industry_profile": {
+    "main_industry": "工具機",
+    "sub_industries": [
+      "PCB鑽孔機與成型機"
+    ],
+    "theme_tags": [
+      "在手訂單14~15億元",
+      "PCB設備占比升至27%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-22",
+        "source": "萬寶晚報-10_22",
+        "category_mentioned": "工具機 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-22",
+    "close_price": 25.9,
+    "est_eps_2026": -1.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-22",
+      "source_file": "萬寶晚報-10_22.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "在手訂單14至15億元，明年PCB設備訂單估增逾1成",
+      "close_price": 25.9,
+      "price_change_pct": 1.97,
+      "volume_lots": 38714,
+      "est_eps": -1.0,
+      "est_pe": null,
+      "revenue_perf": "前三季營收24.89億元、年增18.28%",
+      "content": "受惠AI帶動PCB載板需求，PCB鑽孔機及成型機訂單顯著增長，在手訂單14至15億元，能見度看到明年Q1，預估明年PCB設備訂單至少成長1成，Q3本業單季有機會轉盈。",
+      "key_points": [
+        "在手訂單14~15億元，能見度達明年Q1",
+        "PCB設備營收占比攀升至27%，Q3本業拚轉盈"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1604 @@
+{
+  "batch_id": "batch_3_1001",
+  "processed_files": {
+    "reports/10月份/萬寶晚報-1001.pdf": {
+      "processed_at": "2026-11-16T07:25:00+08:00",
+      "report_date": "2026-10-01",
+      "report_type": "萬寶晚報",
+      "main_topic": "10月好彩頭上4萬8，向5萬點招手！被動元件有機會復活嗎？",
+      "extracted_stocks_count": 56
+    }
+  },
+  "industries_updates": [
+    {
+      "main_industry": "被動元件產業",
+      "wanbao_70_sector": "電子零組件 / 被動元件",
+      "sub_categories": {
+        "鉭質電容與MLCC龍頭": {
+          "description": "國巨、華新科與禾伸堂等積層陶瓷電容及鉭質電容一線大廠。",
+          "stocks": [
+            {"id": "2327", "name": "國巨*", "role": "全球鉭質電容與被動元件龍頭，估2026 EPS 20元，PE降至30倍"},
+            {"id": "2492", "name": "華新科", "role": "MLCC二哥，估2026 EPS 11元，10/1強拉漲停收329元"},
+            {"id": "3026", "name": "禾伸堂", "role": "高壓高容MLCC廠，投信半年大買2.7萬張成多頭指標，估2026 EPS 15元"}
+          ]
+        },
+        "上游材料": {
+          "description": "氧化鋁基板、介電粉末與化成鋁箔等核心材料。",
+          "stocks": [
+            {"id": "6127", "name": "九豪", "role": "精密陶瓷與氧化鋁基板廠，10/1強攻漲停收56.8元"},
+            {"id": "6173", "name": "信昌電", "role": "介電陶瓷粉末與特規被動元件，估2026 EPS 7.5元，收302.5元"},
+            {"id": "6175", "name": "立敦", "role": "化成鋁箔大廠，估2026 EPS 3.3元，收76.3元"}
+          ]
+        },
+        "鋁質與固態電容": {
+          "description": "鋁質電解電容與固態電容，受惠AI伺服器與工控需求。",
+          "stocks": [
+            {"id": "6449", "name": "鈺邦", "role": "固態電容龍頭，估2026 EPS 10元，10/1拉漲停收230元"},
+            {"id": "2472", "name": "立隆電", "role": "鋁電大廠，估2026 EPS 10.8元，收226元"},
+            {"id": "2375", "name": "凱美", "role": "鋁電與電阻廠，估2026 EPS 4元，收124.5元"},
+            {"id": "8042", "name": "金山電", "role": "鋁電解電容廠，估2026 EPS 4元，收118元"}
+          ]
+        },
+        "晶片電阻與熱敏電阻": {
+          "description": "晶片電阻、薄膜電阻與過溫過電流保護熱敏電阻。",
+          "stocks": [
+            {"id": "6834", "name": "天二科技", "role": "晶片電阻廠，10/1強鎖漲停收119.5元，估2026 EPS 2.8元"},
+            {"id": "3624", "name": "光頡", "role": "薄膜精密電阻大廠，估2026 EPS 4.2元，低點反彈169%"},
+            {"id": "2478", "name": "大毅", "role": "晶片電阻大廠，估2026 EPS 6.6元，收124.5元"},
+            {"id": "2428", "name": "興勤", "role": "熱敏電阻龍頭，估2026 EPS 14元，收261元"},
+            {"id": "6224", "name": "聚鼎", "role": "高分子熱敏電阻PPTC廠，估2026 EPS 4元，收81.7元"}
+          ]
+        },
+        "保護元件與通路": {
+          "description": "保護元件、塑膠電容及被動元件通路商。",
+          "stocks": [
+            {"id": "3090", "name": "日電貿", "role": "被動元件通路龍頭，估2026 EPS 10元，收169元"},
+            {"id": "8043", "name": "蜜望實", "role": "太陽誘電代理通路商，估2026 EPS 3元，收138.5元"},
+            {"id": "6284", "name": "佳邦", "role": "天線與保護元件廠，估2026 EPS 2元，收80.3元"},
+            {"id": "6411", "name": "晶焱", "role": "ESD靜電保護元件龍頭，估2026 EPS 4.8元，收78.4元"},
+            {"id": "6642", "name": "富致", "role": "自復式保險絲PPTC廠，估2026 EPS 4.5元，收83元"},
+            {"id": "5328", "name": "華容", "role": "塑膠薄膜電容廠，估2026 EPS 0.9元，收58.4元"},
+            {"id": "4760", "name": "勤凱", "role": "導電漿料廠，10/1受被動元件走揚帶動攻上漲停"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "report_type": "萬寶晚報專欄與精選圖表",
+        "stance": "偏多 (落底反彈)",
+        "headline": "Q3大跌的國巨等24檔被動元件有機會復活嗎？",
+        "market_performance": "日股村田製作所及太陽誘電大漲逾8.3%，激勵台股被動元件族群國巨、華新科、九豪、天二科技、勤凱、鈺邦等10/1首日強攻漲停。",
+        "industry_dynamics": "歷經7至9月大幅修正，被動元件族群本益比大幅收斂。國巨PE由60倍降至30倍，禾伸堂獲投信大買成為多頭新指標。",
+        "chips_and_funds": "三大法人同步回補被動元件，國巨獲買超2.6萬張、華新科獲買超1.7萬張，外資賣壓進入尾聲。",
+        "fundamentals": "族群歷經第三季庫存去化與股價腰斬後，評價已具備中長線投資價值。",
+        "future_watch": ["留意龍頭國巨能否站穩並突破8月反彈高點668元。"]
+      }
+    },
+    {
+      "main_industry": "銅箔基板(CCL)",
+      "wanbao_70_sector": "PCB/MB產業",
+      "sub_categories": {
+        "高階CCL三雄": {
+          "description": "AI伺服器與800G交換器帶動M7/M8高階CCL需求爆發。",
+          "stocks": [
+            {"id": "6213", "name": "聯茂", "role": "8月每股大賺2.54元，外資肯定毛利率改善與成本轉嫁成效"},
+            {"id": "2383", "name": "台光電", "role": "全球無鹵與高階CCL龍頭，產能大舉擴張，外資估2026-2028 EPS高速成長"},
+            {"id": "6274", "name": "台燿", "role": "高階CCL大廠，外資估今年EPS翻倍至38.63元，目標價上看3010元"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "report_type": "最新產業新聞",
+        "stance": "強烈偏多",
+        "headline": "聯茂8月每股賺2.54元，外資看好台光電、台燿",
+        "market_performance": "聯茂自結8月稅後純益年增852%，激勵高階CCL族群營運展望轉佳。",
+        "industry_dynamics": "大摩指出CCL毛利率改善代表成本已有效轉嫁，AI伺服器放量推升高階銅箔基板量價齊揚。",
+        "chips_and_funds": "外資出具正面報告，大幅調升台燿與台光電長線獲利預估與目標價。",
+        "fundamentals": "外資估台燿今年EPS達38.63元、2028年達178.48元；台光電2026至2028年EPS估達122元至416元。",
+        "future_watch": ["追蹤台光電產能擴建進度與AI伺服器高階CCL拉貨動能。"]
+      }
+    },
+    {
+      "main_industry": "記憶體產業",
+      "wanbao_70_sector": "半導體產業",
+      "sub_categories": {
+        "主流DRAM與利基型記憶體": {
+          "description": "三星HBM大舉擠壓傳統DRAM產能，合約價看漲。",
+          "stocks": [
+            {"id": "2408", "name": "南亞科", "role": "DRAM大廠，長約涵蓋約5成產能，新廠2028年投片3萬片"},
+            {"id": "2344", "name": "華邦電", "role": "利基型DRAM與Flash大廠，高雄廠擴建，獲三大法人大買1.7萬張"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "report_type": "最新產業新聞",
+        "stance": "偏多",
+        "headline": "三星：明年HBM占DRAM產能近3成，傳統DRAM更吃緊；集邦估本季報價漲10%~20%",
+        "market_performance": "記憶體報價走升，集邦預估DRAM合約價季增10%~15%、NAND漲15%~20%。",
+        "industry_dynamics": "三星指出HBM與傳統DRAM共用晶圓產能，明年HBM比重升至30%，嚴重排擠DDR4、DDR3等傳統規格，台廠南亞科、華邦電顯著受惠。",
+        "chips_and_funds": "外資與三大法人大舉回補華邦電1.7萬張，記憶體族群籌碼回流。",
+        "fundamentals": "原廠將先進製程轉向伺服器，雲端業者擴大採購，企業級SSD需求最為強勁。",
+        "future_watch": ["留意原廠傳統製程排擠效應及現貨、合約價後續漲幅。"]
+      }
+    }
+  ],
+  "stocks_updates": [
+    {
+      "stock_id": "2327",
+      "stock_name": "國巨*",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "鉭質電容", "MLCC"],
+      "theme_tags": ["AI伺服器", "外資回補", "落底反彈"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 鉭質電容 / MLCC"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "頭版主筆 / 精選圖表",
+        "stance": "偏多 (落底反彈)",
+        "title": "國巨本益比由60倍跌至30倍，外資賣壓尾聲迎反彈",
+        "close_price": 602.0,
+        "est_eps": 20.0,
+        "est_pe": 30.1,
+        "revenue_perf": "2026預估EPS 20元，H1 EPS 8.48元",
+        "content": "7/1飆歷史天價1220元後跌至456.5元，本益比由60倍降至30倍。外資8、9月大賣9.6萬張賣壓入尾聲，10/1強彈收602元，具波段突破8月高點668元潛力。",
+        "key_points": ["PE修正至30倍具評價吸引力", "外資提款賣壓告一段落，籌碼沉澱後展開反彈"]
+      }
+    },
+    {
+      "stock_id": "2492",
+      "stock_name": "華新科",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "MLCC"],
+      "theme_tags": ["漲停板", "低點反彈"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > MLCC"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "華新科10月首日強攻漲停，自低點反彈66%",
+        "close_price": 329.0,
+        "est_eps": 11.0,
+        "est_pe": 29.9,
+        "revenue_perf": "2026預估EPS 11元，H1 EPS 4.93元",
+        "content": "受日股村田製作所與太陽誘電大漲激勵，10/1開盤強攻漲停收329元。自7月低點198.5元反彈達66%，外資與三大法人單日回補1.77萬張，動能顯著增溫。",
+        "key_points": ["日系被動元件大漲點火，股價亮燈漲停", "法人大買1.77萬張，低檔反彈確立"]
+      }
+    },
+    {
+      "stock_id": "3026",
+      "stock_name": "禾伸堂",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "MLCC"],
+      "theme_tags": ["投信認養", "多頭指標"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > MLCC"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表 / 頭版主筆",
+        "stance": "強烈偏多",
+        "title": "禾伸堂獲投信大買2.7萬張，成被動元件多頭總指標",
+        "close_price": 852.0,
+        "est_eps": 15.0,
+        "est_pe": 56.8,
+        "revenue_perf": "2026預估EPS 15元，H1 EPS 6.73元",
+        "content": "投信近半年大買2.7萬張力抗外資賣壓，成族群多頭新指標。股價自7月低點416.5元大彈105%收852元，距離天價1045元最近，籌碼結構在族群中最為穩定。",
+        "key_points": ["投信近半年重倉2.7萬張，籌碼集中度高", "反彈突破850元，距離歷史天價最近"]
+      }
+    },
+    {
+      "stock_id": "6127",
+      "stock_name": "九豪",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "上游材料"],
+      "theme_tags": ["漲停板", "氧化鋁基板"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 上游材料"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "九豪10/1亮燈漲停，氧化鋁陶瓷基板受矚目",
+        "close_price": 56.8,
+        "est_eps": -2.0,
+        "est_pe": null,
+        "revenue_perf": "2026預估EPS -2元，H1 EPS -1.1元",
+        "content": "氧化鋁基板廠九豪跟隨被動元件族群報復性反彈，10/1拉上漲停收56.8元。自7月低點41.1元反彈38%，跌深技術面強勁轉強。",
+        "key_points": ["被動元件上游材料指標，拉上漲停板", "低點反彈38%，擺脫Q3破底陰霾"]
+      }
+    },
+    {
+      "stock_id": "6173",
+      "stock_name": "信昌電",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "上游材料"],
+      "theme_tags": ["介電粉末", "籌碼乾淨"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 上游材料"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表 / 頭版主筆",
+        "stance": "強烈偏多",
+        "title": "信昌電籌碼乾淨彈幅達128%，值得特別關注",
+        "close_price": 302.5,
+        "est_eps": 7.5,
+        "est_pe": 40.3,
+        "revenue_perf": "2026預估EPS 7.5元，H1 EPS 2.98元",
+        "content": "介電陶瓷粉末廠信昌電籌碼相對乾淨，股價自7月低點132.5元大漲128%重返300元大關收302.5元，今年漲幅達352%，獲主筆特別點名值得注意。",
+        "key_points": ["籌碼面較國巨乾淨，獲專欄特別看好", "低點反彈高達128%，今年漲幅逾3.5倍"]
+      }
+    },
+    {
+      "stock_id": "6175",
+      "stock_name": "立敦",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "上游材料"],
+      "theme_tags": ["化成鋁箔"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 上游材料"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "中立偏多",
+        "title": "立敦化成鋁箔穩健，收盤76.3元低點彈16%",
+        "close_price": 76.3,
+        "est_eps": 3.3,
+        "est_pe": 23.1,
+        "revenue_perf": "2026預估EPS 3.3元，H1 EPS 1.7元",
+        "content": "化成鋁箔廠立敦10/1收盤76.3元，較7月低點65.7元彈升16%，今年累計漲幅51%，營運維持穩定獲利表現。",
+        "key_points": ["估2026 EPS 3.3元，PE約23倍", "鋁箔上游材料走勢持穩"]
+      }
+    },
+    {
+      "stock_id": "2375",
+      "stock_name": "凱美",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "鋁質電容"],
+      "theme_tags": ["國巨集團"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 鋁質電容"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "中立偏多",
+        "title": "凱美鋁電隨集團回穩，10/1收124.5元",
+        "close_price": 124.5,
+        "est_eps": 4.0,
+        "est_pe": 31.1,
+        "revenue_perf": "2026預估EPS 4元，H1 EPS 1.85元",
+        "content": "國巨集團旗下鋁電與電阻廠凱美，自7月低點103.5元反彈20%，10/1收盤124.5元，估2026全年EPS 4元，評價隨族群反彈而回升。",
+        "key_points": ["受惠國巨集團資源整合", "自低點溫和反彈2成"]
+      }
+    },
+    {
+      "stock_id": "2472",
+      "stock_name": "立隆電",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "鋁質電容"],
+      "theme_tags": ["高獲利", "車用電子"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 鋁質電容"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "立隆電獲利穩健，估2026 EPS達10.8元",
+        "close_price": 226.0,
+        "est_eps": 10.8,
+        "est_pe": 20.9,
+        "revenue_perf": "2026預估EPS 10.8元，H1 EPS 3.98元",
+        "content": "鋁質電解電容大廠立隆電獲利亮眼，估2026 EPS達10.8元，本益比僅約21倍。10/1收226元，今年累計漲幅達114%，具基本面護體。",
+        "key_points": ["預估EPS逾10元，本益比具防禦性", "車用與工業鋁電需求支撐獲利"]
+      }
+    },
+    {
+      "stock_id": "8042",
+      "stock_name": "金山電",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "鋁質電容"],
+      "theme_tags": ["伺服器電源"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 鋁質電容"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "金山電低點強彈34%，今年漲幅122%",
+        "close_price": 118.0,
+        "est_eps": 4.0,
+        "est_pe": 29.5,
+        "revenue_perf": "2026預估EPS 4元，H1 EPS 2.84元",
+        "content": "鋁電解電容廠金山電上半年EPS達2.84元，全年估4元。10/1收盤118元，較7月低點88元反彈34%，今年漲幅達122%。",
+        "key_points": ["上半年獲利進度超前，H1 EPS 2.84元", "自波段低點反彈34%"]
+      }
+    },
+    {
+      "stock_id": "6449",
+      "stock_name": "鈺邦",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "固態電容"],
+      "theme_tags": ["漲停板", "AI伺服器", "V-Chip"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 固態電容"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "強烈偏多",
+        "title": "鈺邦強鎖漲停收230元，固態電容受惠AI伺服器",
+        "close_price": 230.0,
+        "est_eps": 10.0,
+        "est_pe": 23.0,
+        "revenue_perf": "2026預估EPS 10元，H1 EPS 4.42元",
+        "content": "全球固態電容龍頭鈺邦10/1強攻漲停收230元。AI伺服器主板對固態電容及捲繞型電容需求激增，估2026 EPS達10元，本益比僅23倍。",
+        "key_points": ["10/1亮燈漲停，AI伺服器高規固態電容供不應求", "估2026 EPS 10元，PE 23倍具評價優勢"]
+      }
+    },
+    {
+      "stock_id": "5328",
+      "stock_name": "華容",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "塑膠電容"],
+      "theme_tags": ["低價轉機"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 塑膠電容"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "中立",
+        "title": "華容今年漲幅185%，塑膠電容整理後伺機動",
+        "close_price": 58.4,
+        "est_eps": 0.9,
+        "est_pe": 64.9,
+        "revenue_perf": "2026預估EPS 0.9元，H1 EPS 0.4元",
+        "content": "塑膠薄膜電容廠華容10/1收58.4元，自7月低點54.3元小彈8%，今年受惠綠能與工控題材累計漲幅仍達185%。",
+        "key_points": ["塑膠薄膜電容低點微幅回溫", "今年累計漲幅高達185%"]
+      }
+    },
+    {
+      "stock_id": "3357",
+      "stock_name": "臺慶科",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "電感"],
+      "theme_tags": ["AI一體成型電感"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 電感"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "臺慶科高獲利低PE，估2026 EPS達13.5元",
+        "close_price": 212.5,
+        "est_eps": 13.5,
+        "est_pe": 15.7,
+        "revenue_perf": "2026預估EPS 13.5元，H1 EPS 6.33元",
+        "content": "電感廠臺慶科上半年EPS 6.33元，全年估13.5元，本益比僅不到16倍。10/1收212.5元，自7月低點反彈25%，評價明顯低估。",
+        "key_points": ["估2026 EPS 13.5元，本益比僅15.7倍低估", "高功率一體成型電感切入AI應用"]
+      }
+    },
+    {
+      "stock_id": "6862",
+      "stock_name": "三集瑞-KY",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "電感"],
+      "theme_tags": ["新掛牌", "AI伺服器電感"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 電感"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "中立偏多",
+        "title": "三集瑞-KY收142元，自低點反彈23%",
+        "close_price": 142.0,
+        "est_eps": 5.0,
+        "est_pe": 28.4,
+        "revenue_perf": "2026預估EPS 5元，H1 EPS 1.68元",
+        "content": "客製化高階電感廠三集瑞-KY，自7月低點115.5元反彈23%收142元，今年累計微跌4%，隨AI伺服器電感規格升級展望轉正。",
+        "key_points": ["自7月低點反彈23%", "布局AI客製化電感出貨"]
+      }
+    },
+    {
+      "stock_id": "2478",
+      "stock_name": "大毅",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "晶片電阻"],
+      "theme_tags": ["高毛利利基型"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 晶片電阻"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "大毅低點彈升27%，估2026 EPS達6.6元",
+        "close_price": 124.5,
+        "est_eps": 6.6,
+        "est_pe": 18.9,
+        "revenue_perf": "2026預估EPS 6.6元，H1 EPS 2.91元",
+        "content": "晶片電阻廠大毅上半年EPS 2.91元，估全年6.6元，本益比不到19倍。10/1收盤124.5元，自7月低點97.9元反彈27%，今年漲幅120%。",
+        "key_points": ["預估EPS 6.6元，PE 18.9倍評價偏低", "今年漲幅達120%，具防禦與反彈力道"]
+      }
+    },
+    {
+      "stock_id": "3624",
+      "stock_name": "光頡",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "晶片電阻", "薄膜電阻"],
+      "theme_tags": ["彈幅王", "車用精密電阻"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 晶片電阻"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "強烈偏多",
+        "title": "光頡低點大彈169%，薄膜電阻展現強勁飆力",
+        "close_price": 151.0,
+        "est_eps": 4.2,
+        "est_pe": 36.0,
+        "revenue_perf": "2026預估EPS 4.2元，H1 EPS 1.86元",
+        "content": "精密薄膜電阻龍頭光頡自7月低點56.1元強勢飆升169%收151元，成為族群反彈幅度冠軍，今年累計漲幅達161%，車用與工控訂單回流。",
+        "key_points": ["自7月低點狂飆169%奪族群反彈王", "車用與精密量測薄膜電阻稼動率提升"]
+      }
+    },
+    {
+      "stock_id": "6834",
+      "stock_name": "天二科技",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "晶片電阻"],
+      "theme_tags": ["漲停板", "今年狂飆322%"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 晶片電阻"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "強烈偏多",
+        "title": "天二科技拉漲停收119.5元，今年累計大漲322%",
+        "close_price": 119.5,
+        "est_eps": 2.8,
+        "est_pe": 42.7,
+        "revenue_perf": "2026預估EPS 2.8元，H1 EPS 1.6元",
+        "content": "厚膜與金屬板精密電阻廠天二科技10/1亮燈漲停收119.5元。自低點反彈達70%，今年累計漲幅高達322%，電源管理與工控需求熱絡。",
+        "key_points": ["10/1攻上漲停板，今年大漲逾3.2倍", "上半年EPS 1.6元超過去年全年"]
+      }
+    },
+    {
+      "stock_id": "2428",
+      "stock_name": "興勤",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "熱敏電阻"],
+      "theme_tags": ["高EPS", "車用保護"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 熱敏電阻"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "興勤獲利優異估EPS 14元，收盤261元低點彈33%",
+        "close_price": 261.0,
+        "est_eps": 14.0,
+        "est_pe": 18.6,
+        "revenue_perf": "2026預估EPS 14元，H1 EPS 7.55元",
+        "content": "熱敏電阻龍頭興勤上半年EPS達7.55元，全年估14元，本益比僅約18.6倍。10/1收261元，較7月低點196元反彈33%，具高獲利價值優勢。",
+        "key_points": ["預估EPS 14元，本益比不到19倍", "車用傳感器與過溫保護市占穩健"]
+      }
+    },
+    {
+      "stock_id": "6224",
+      "stock_name": "聚鼎",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "熱敏電阻"],
+      "theme_tags": ["PPTC", "散熱基板"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 熱敏電阻"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "聚鼎低點強彈71%，PPTC與散熱基板動能復甦",
+        "close_price": 81.7,
+        "est_eps": 4.0,
+        "est_pe": 20.4,
+        "revenue_perf": "2026預估EPS 4元，H1 EPS 1.37元",
+        "content": "高分子正溫度係數(PPTC)大廠聚鼎自7月低點47.7元大彈71%收81.7元，今年漲幅達94%，散熱基板與車用過電流保護出貨加溫。",
+        "key_points": ["自7月低點強勁反彈71%", "本益比約20倍，營運築底回升"]
+      }
+    },
+    {
+      "stock_id": "6284",
+      "stock_name": "佳邦",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "保護元件", "天線"],
+      "theme_tags": ["華新科集團"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 保護元件"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "中立偏多",
+        "title": "佳邦收80.3元低點反彈24%，華新麗華集團助攻",
+        "close_price": 80.3,
+        "est_eps": 2.0,
+        "est_pe": 40.2,
+        "revenue_perf": "2026預估EPS 2元，H1 EPS 0.91元",
+        "content": "華新科集團旗下天線與保護元件廠佳邦，10/1收80.3元，較7月低點64.9元反彈24%，今年微跌0.1%處於打底階段。",
+        "key_points": ["低檔打底反彈24%", "車用天線與保護元件長線需求穩定"]
+      }
+    },
+    {
+      "stock_id": "6411",
+      "stock_name": "晶焱",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "保護元件", "ESD"],
+      "theme_tags": ["靜電保護IC"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 保護元件"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "中立偏多",
+        "title": "晶焱收78.4元，靜電防護受惠高速傳輸接口升級",
+        "close_price": 78.4,
+        "est_eps": 4.8,
+        "est_pe": 16.3,
+        "revenue_perf": "2026預估EPS 4.8元，H1 EPS 2.3元",
+        "content": "ESD晶片龍頭晶焱上半年EPS 2.3元，全年估4.8元，本益比僅16.3倍。10/1收78.4元，自低點反彈14%，隨USB4與高速接口滲透率提升展望轉佳。",
+        "key_points": ["預估EPS 4.8元，PE僅16.3倍具低估優勢", "高速傳輸介面推動ESD用量成長"]
+      }
+    },
+    {
+      "stock_id": "6642",
+      "stock_name": "富致",
+      "main_industry": "電子零組件",
+      "sub_industries": ["被動元件", "保護元件"],
+      "theme_tags": ["PPTC保險絲"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 保護元件"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "富致低點彈27%，估2026 EPS達4.5元",
+        "close_price": 83.0,
+        "est_eps": 4.5,
+        "est_pe": 18.4,
+        "revenue_perf": "2026預估EPS 4.5元，H1 EPS 2.28元",
+        "content": "自復式保險絲廠富致上半年EPS 2.28元，全年估4.5元，本益比約18.4倍。10/1收83元，自7月低點反彈27%，今年累計漲幅65%。",
+        "key_points": ["估2026 EPS 4.5元，PE 18.4倍穩健", "自低點反彈27%，工控與車用出貨穩定"]
+      }
+    },
+    {
+      "stock_id": "3090",
+      "stock_name": "日電貿",
+      "main_industry": "電子通路",
+      "sub_industries": ["被動元件通路"],
+      "theme_tags": ["通路龍頭", "高EPS"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 通路"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "日電貿自低點大彈48%，估2026賺一個股本EPS 10元",
+        "close_price": 169.0,
+        "est_eps": 10.0,
+        "est_pe": 16.9,
+        "revenue_perf": "2026預估EPS 10元，H1 EPS 4.91元",
+        "content": "台灣最大被動元件通路商日電貿上半年EPS達4.91元，全年估賺10元，本益比不到17倍。10/1收169元，自低點114元反彈48%，具高殖利率與獲利護體。",
+        "key_points": ["預估EPS 10元賺一個股本，PE僅16.9倍", "自7月低點大漲48%，通路庫存去化完畢"]
+      }
+    },
+    {
+      "stock_id": "8043",
+      "stock_name": "蜜望實",
+      "main_industry": "電子通路",
+      "sub_industries": ["被動元件通路"],
+      "theme_tags": ["太陽誘電代理"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 通路"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "精選圖表",
+        "stance": "偏多",
+        "title": "蜜望實受惠太陽誘電大漲，低點反彈22%",
+        "close_price": 138.5,
+        "est_eps": 3.0,
+        "est_pe": 46.2,
+        "revenue_perf": "2026預估EPS 3元，H1 EPS 1.7元",
+        "content": "代理日本太陽誘電MLCC之通路商蜜望實，隨日股太陽誘電狂飆8.3%跟進轉強。10/1收138.5元，自7月低點113.5元反彈22%，今年漲幅62%。",
+        "key_points": ["受惠代理原廠太陽誘電大漲連動", "自低點反彈22%"]
+      }
+    },
+    {
+      "stock_id": "4760",
+      "stock_name": "勤凱",
+      "main_industry": "化學工業",
+      "sub_industries": ["導電漿料", "被動元件材料"],
+      "theme_tags": ["漲停板", "導電漿"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件材料 / 導電漿"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "頭版主筆",
+        "stance": "強烈偏多",
+        "title": "勤凱10/1拉上漲停，被動元件導電漿需求加溫",
+        "close_price": null,
+        "est_eps": null,
+        "est_pe": null,
+        "revenue_perf": null,
+        "content": "導電漿廠勤凱隨國巨、華新科在10月第一個交易日同步強拉漲停，被動元件下游庫存回補帶動導電銀漿、銅漿拉貨動能顯著增溫。",
+        "key_points": ["與被動元件大廠同步奔漲停", "導電漿拉貨動能隨族群復活回升"]
+      }
+    },
+    {
+      "stock_id": "3037",
+      "stock_name": "欣興",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["載板", "ABF載板"],
+      "theme_tags": ["百億擴產", "主動型ETF加碼"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 載板"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "強烈偏多",
+        "title": "百億元購普利司通新竹廠，擴充高階載板產能",
+        "close_price": 1215.0,
+        "est_eps": 24.5,
+        "est_pe": 50.0,
+        "revenue_perf": "估EPS 24.5元，Q3營收估季增逾2成",
+        "content": "以100.88億元標下普利司通湖口廠近2萬坪擴充高階載板。今年資本支出537億（85%投ABF），ABF報價超預期，法人估Q3營收季增逾2成。獲主動ETF大買360張。",
+        "key_points": ["百億購廠擴充ABF載板產能", "Q3營收估季增逾2成，全年營收挑戰新高"]
+      }
+    },
+    {
+      "stock_id": "8996",
+      "stock_name": "高力",
+      "main_industry": "電機機械",
+      "sub_industries": ["散熱", "熱交換器", "液冷散熱"],
+      "theme_tags": ["水冷散熱", "AI伺服器"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 散熱模組"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "8月每股賺1.35元，前八月EPS達11.12元",
+        "close_price": 1565.0,
+        "est_eps": 20.0,
+        "est_pe": 78.0,
+        "revenue_perf": "8月營收12.04億元年增112.84%，前八月EPS 11.12元",
+        "content": "8月營收12.04億元年增112.84%，單月EPS 1.35元，前八月EPS 11.12元。板式熱交換器受惠AI伺服器高功率化，桃園、高雄與泰國廠持續擴產。",
+        "key_points": ["8月營收年增112%，前八月EPS達11.12元", "水冷板式熱交換器受惠AI伺服器高功率擴產"]
+      }
+    },
+    {
+      "stock_id": "6770",
+      "stock_name": "力積電",
+      "main_industry": "半導體產業",
+      "sub_industries": ["晶圓代工", "矽光子"],
+      "theme_tags": ["矽光子", "imec授權"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 晶圓代工"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多 (低PE轉機)",
+        "title": "傳洽談imec技術授權，揮軍矽光子及3D AI代工",
+        "close_price": 74.5,
+        "est_eps": 6.0,
+        "est_pe": 12.0,
+        "revenue_perf": "估EPS 6元，本益比僅12倍",
+        "content": "傳與比利時imec洽談光通訊技術授權揮軍矽光子。推進3D AI Foundry，規劃光子積體電路與光學中介層，另與法國CEA-Leti合作Micro LED光通訊技術。",
+        "key_points": ["傳攜手比利時imec進軍矽光子", "3D AI晶圓堆疊布局展現轉機"]
+      }
+    },
+    {
+      "stock_id": "3563",
+      "stock_name": "牧德",
+      "main_industry": "設備儀器",
+      "sub_industries": ["AOI光學檢測", "半導體設備"],
+      "theme_tags": ["AI營收倍增", "載板檢測"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 半導體設備"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "強烈偏多",
+        "title": "載板與半導體帶動，明年AI營收占比拚8至9成",
+        "close_price": 754.0,
+        "est_eps": 22.0,
+        "est_pe": 34.0,
+        "revenue_perf": "8月營收3.61億連6月創新高，前八月年增14.39%",
+        "content": "法說表示AI營收占比將由今年70%增至明年80%~90%。載板與半導體訂單能見度排至2027下半年，8月營收連6月創高，新增產能預計2027年1月啟用。",
+        "key_points": ["明年AI營收占比衝刺8至9成", "訂單能見度直達2027下半年，8月營收連6月創新高"]
+      }
+    },
+    {
+      "stock_id": "1727",
+      "stock_name": "中華化",
+      "main_industry": "化學工業",
+      "sub_industries": ["特用化學", "半導體化學品"],
+      "theme_tags": ["台塑合資", "電子級硫酸"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 特用化學"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "中立偏多",
+        "title": "澄清合資案各持股50%，30億元為投資上限分期投入",
+        "close_price": 112.0,
+        "est_eps": 1.5,
+        "est_pe": 75.0,
+        "revenue_perf": "估EPS 1.5元，收盤112元",
+        "content": "澄清與台塑合資案資本額60億元，中華化持股50%投資上限30億元為分期投入非一次支出（一期2028年底投產）。決議發行二次無擔保可轉債上限10億元。",
+        "key_points": ["澄清台塑合資案資金分期投入", "發行上限10億元可轉債推進建廠"]
+      }
+    },
+    {
+      "stock_id": "6861",
+      "stock_name": "睿生光電",
+      "main_industry": "生技醫療",
+      "sub_industries": ["醫療器材", "X光平板感測器"],
+      "theme_tags": ["獲利倍增", "群創旗下"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 醫療感測"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "8月每股賺0.76元，自結獲利年增167%",
+        "close_price": 292.0,
+        "est_eps": 9.0,
+        "est_pe": 32.0,
+        "revenue_perf": "8月營收年增52.47%，前八月營收21.22億元年增46.22%",
+        "content": "群創旗下X光平板感測器廠睿生光電自結8月獲利3200萬元年增167%，單月EPS 0.76元。前八月累計營收21.22億年增46.22%，主要受惠客戶需求與產品組合優化。",
+        "key_points": ["8月獲利年增167%，單月EPS 0.76元", "前八月營收年增46.22%，產品組合優化"]
+      }
+    },
+    {
+      "stock_id": "2354",
+      "stock_name": "鴻準",
+      "main_industry": "電子零組件",
+      "sub_industries": ["機殼", "機器人", "散熱模組"],
+      "theme_tags": ["AI機器人", "美國設廠"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 機器人/機殼"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "美國肯塔基廠Q4試產，布局AI裝置與巡檢機器人",
+        "close_price": 66.2,
+        "est_eps": 2.1,
+        "est_pe": 32.0,
+        "revenue_perf": "估EPS 2.1元，H1 EPS 1.1元",
+        "content": "法說指出未來十年投資美國上看10億美元，肯塔基廠Q4試產挑戰1~2年損平。機器人列為未來3至5年核心新品瞄準AI資料中心巡檢，AI散熱產品出貨放量。",
+        "key_points": ["美肯塔基廠Q4試產，挑戰1~2年損平", "瞄準AI資料中心巡檢機器人與散熱新品"]
+      }
+    },
+    {
+      "stock_id": "2371",
+      "stock_name": "大同",
+      "main_industry": "電機機械",
+      "sub_industries": ["重電", "資料中心解決方案"],
+      "theme_tags": ["模組化資料中心", "海外拓展"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 重電設備"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "發表模組化資料中心TTG AIDC CUBE，最快180天拿下首單",
+        "close_price": 30.5,
+        "est_eps": 1.0,
+        "est_pe": 30.0,
+        "revenue_perf": "估EPS 1元，電力設備自製率近100%",
+        "content": "發表TTG AIDC CUBE模組化資料中心方案，主打電網到機櫃一站式整合，最快180天交付並已奪首單。電力設備近100%自製，海外拓展以日本進度最快。",
+        "key_points": ["發表模組化資料中心方案並拿下首筆訂單", "電力設備近100%自製，進軍日本市場"]
+      }
+    },
+    {
+      "stock_id": "4763",
+      "stock_name": "材料*-KY",
+      "main_industry": "化學工業",
+      "sub_industries": ["特用化學", "醋酸纖維"],
+      "theme_tags": ["併購效益", "產能擴張"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 特用化學"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "併購Cerdia效益發酵，Q4湧入半年以上訂單",
+        "close_price": 46.85,
+        "est_eps": 4.0,
+        "est_pe": 12.0,
+        "revenue_perf": "估EPS 4元，絲束年產能達16.4萬噸",
+        "content": "全球醋纖需求回升，併購同業Cerdia後客戶提前拉貨湧入半年以上訂單。絲束年產能增至16.4萬噸，醋酸報價上漲支撐價格，原物料漲價與併購綜效明年顯現。",
+        "key_points": ["併購Cerdia效益顯現，Q4湧入半年長單", "絲束年產達16.4萬噸，本益比僅12倍"]
+      }
+    },
+    {
+      "stock_id": "6472",
+      "stock_name": "保瑞",
+      "main_industry": "生技醫療",
+      "sub_industries": ["製藥", "CDMO"],
+      "theme_tags": ["藥證處分", "CDMO雙重收入"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 生技製藥"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "強烈偏多",
+        "title": "3000萬美元售美適亞藥證，續接長期CDMO代工",
+        "close_price": 429.5,
+        "est_eps": 20.0,
+        "est_pe": 21.0,
+        "revenue_perf": "估EPS 20元，本益比21倍",
+        "content": "董事會通過以3000萬美元（約新台幣9.5億）出售美適亞藥證，並設500~1000萬美元或有價金。同時簽署長期CDMO代工合約，形成授權金與代工雙重收入提升產能利用率。",
+        "key_points": ["出售藥證獲3000萬美元處分利益", "同步簽署CDMO長期供貨合約保障產能"]
+      }
+    },
+    {
+      "stock_id": "7792",
+      "stock_name": "安傑",
+      "main_industry": "電機機械",
+      "sub_industries": ["廠務工程", "高科技電力系統"],
+      "theme_tags": ["台積電供應鏈", "在手訂單百億"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 高科技廠務"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "強烈偏多",
+        "title": "8月每股賺1.22元，高科技廠務在手訂單達150億元",
+        "close_price": null,
+        "est_eps": 10.8,
+        "est_pe": 39.0,
+        "revenue_perf": "8月營收年增67.72%，上半年EPS 6.85元創新高",
+        "content": "8月營收6.79億元年增67.72%，單月EPS 1.22元，上半年EPS 6.85元。高科技廠房電力系統整合訂單達150億元，客戶涵蓋台積電、美光等，能見度至2028年。",
+        "key_points": ["在手訂單達150億元，能見度延伸至2028年", "客戶涵蓋台積電與美光，屏東新廠2027動工"]
+      }
+    },
+    {
+      "stock_id": "8147",
+      "stock_name": "正淩",
+      "main_industry": "電子零組件",
+      "sub_industries": ["連接器", "光通訊", "機器人組件"],
+      "theme_tags": ["人形機器人", "1.6T光通訊"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 連接器"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "人形機器人開始出貨，1.6T光通訊Q4放量",
+        "close_price": null,
+        "est_eps": 3.0,
+        "est_pe": 48.0,
+        "revenue_perf": "前八月年增29%，法人估全年增30%以上",
+        "content": "人形機器人零組件（手、肩、關節）開始出貨北美客戶，量產目標直達2027；1.6T光通訊產品Q4量產。8月營收2.29億元創新高年增95.98%，全年業績估增逾30%。",
+        "key_points": ["人形機器人關鍵零部件切入北美供應鏈出貨", "1.6T光通訊Q4量產，8月營收創歷史新高"]
+      }
+    },
+    {
+      "stock_id": "2606",
+      "stock_name": "裕民",
+      "main_industry": "陸海空運輸",
+      "sub_industries": ["散裝航運"],
+      "theme_tags": ["造船百億", "百船計畫"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 散裝航運"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "砸近百億元新造6艘散裝船，船隊規模達92艘",
+        "close_price": null,
+        "est_eps": 7.7,
+        "est_pe": 10.0,
+        "revenue_perf": "估EPS 7.7元，本益比僅10倍",
+        "content": "斥資約94至99億元造2艘海岬型與4艘超輕便型船，看好西非鐵礦石及糧食運力。船隊達92艘、總載重噸破千萬噸，在建船20艘，明年有望實現百船計畫。",
+        "key_points": ["斥百億新造6艘船，明年迎百船計畫", "估EPS 7.7元，本益比僅10倍具防禦性"]
+      }
+    },
+    {
+      "stock_id": "6177",
+      "stock_name": "達麗",
+      "main_industry": "建材營造",
+      "sub_industries": ["房地產開發", "海外商辦"],
+      "theme_tags": ["台積電特區", "低PE高獲利"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 營建"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "5.92億元買鳳凰城商辦，首家建商卡位台積電特區",
+        "close_price": null,
+        "est_eps": 8.0,
+        "est_pe": 6.0,
+        "revenue_perf": "估EPS 8元，本益比僅6倍",
+        "content": "以1860萬美元（約5.92億台幣）收購亞利桑那州鳳凰城A級商辦，車程14分鐘達台積電園區，進駐者皆為協力廠。估2026 EPS 8元，本益比僅6倍。",
+        "key_points": ["收購鳳凰城商辦卡位台積電半導體聚落", "估EPS 8元，本益比僅6倍評價極低"]
+      }
+    },
+    {
+      "stock_id": "6405",
+      "stock_name": "悅城",
+      "main_industry": "光電相關",
+      "sub_industries": ["光電玻璃"],
+      "theme_tags": ["重訊澄清", "營收衰退"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 光電"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏空",
+        "title": "澄清已退出玻璃製程，玻璃基板並非營運布局",
+        "close_price": null,
+        "est_eps": -0.1,
+        "est_pe": null,
+        "revenue_perf": "8月營收年減91.85%，Q2營業損失2676.7萬元",
+        "content": "針對玻璃基板題材澄清：已於2025年結束玻璃基板、TGV、CPO等製程，相關題材非布局。第二季營業損失2676萬元，8月營收年減91.85%，開盤即跳空跌停。",
+        "key_points": ["重訊澄清已完全退出玻璃基板與TGV製程", "8月營收驟減91.85%，股價跳空跌停"]
+      }
+    },
+    {
+      "stock_id": "8215",
+      "stock_name": "明基材",
+      "main_industry": "光電相關",
+      "sub_industries": ["偏光板", "環保機能織物"],
+      "theme_tags": ["循環經濟", "永續紡織"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 光電與化學材料"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "中立",
+        "title": "電子廢料再生做團服，攜手遠東新進軍永續紡織",
+        "close_price": null,
+        "est_eps": -1.5,
+        "est_pe": null,
+        "revenue_perf": "營收年增6.13%，估EPS -1.5元",
+        "content": "旗下環保品牌Xpore攜手遠東新，年回收3000噸面板廢料製成rPET紗線與防水薄膜做團服，減碳達57%。今年量產並鎖定金融、航空等企業採購。",
+        "key_points": ["面板廢料回收再製機能團服，減碳57%", "開拓非偏光板領域永續商機"]
+      }
+    },
+    {
+      "stock_id": "2753",
+      "stock_name": "八方雲集",
+      "main_industry": "觀光餐旅",
+      "sub_industries": ["餐飲連鎖"],
+      "theme_tags": ["美國展店", "營收創高"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 連鎖餐飲"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "強烈偏多",
+        "title": "德州首店開幕，前八月營收62.23億元創同期新高",
+        "close_price": null,
+        "est_eps": 14.0,
+        "est_pe": 13.0,
+        "revenue_perf": "上半年獲利年增20.45%，前八月營收創同期新高",
+        "content": "美國德州首店正式營運採快餐模式，下一步進軍亞利桑那州。上半年純益4.67億元年增20.45%，前八月營收62.23億創同期高，估EPS 14元，PE僅13倍。",
+        "key_points": ["美國三州三軌佈局加速，德州首店開幕", "估EPS 14元，本益比僅13倍評價誘人"]
+      }
+    },
+    {
+      "stock_id": "3015",
+      "stock_name": "全漢",
+      "main_industry": "電子零組件",
+      "sub_industries": ["電源供應器"],
+      "theme_tags": ["AI冗餘電源", "BBU備援"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 電源供應器"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "AI冗餘電源與BBU帶動，前三季獲利勝去年全年",
+        "close_price": null,
+        "est_eps": 2.5,
+        "est_pe": 22.0,
+        "revenue_perf": "估EPS 2.5元，前三季獲利將勝去年全年",
+        "content": "3600W伺服器冗餘電源已量產，正開發4800W至6000W；內含BBU電源年底量產。在伺服器高規電源出貨加持下，外界預期前三季獲利將超越去年全年。",
+        "key_points": ["3600W冗餘電源量產，BBU電源年底放量", "伺服器電源拉貨帶動，前三季獲利勝去年全年"]
+      }
+    },
+    {
+      "stock_id": "6712",
+      "stock_name": "長聖",
+      "main_industry": "生技醫療",
+      "sub_industries": ["細胞治療", "CAR-T"],
+      "theme_tags": ["FDA孤兒藥", "營收創高"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 生技醫療"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "9月營收創今年新高，CAR001獲美FDA孤兒藥資格",
+        "close_price": null,
+        "est_eps": 4.7,
+        "est_pe": 34.0,
+        "revenue_perf": "9月營收1.1億元年增21%，前三季營收7.79億元",
+        "content": "9月營收1.1億元創今年新高年增21%。異體CAR-T新藥CAR001獲美國FDA膠質瘤孤兒藥資格享有7年獨佔期，現正進行臨床IIa期並規劃多國多中心授權。",
+        "key_points": ["9月營收創今年新高年增21%", "CAR001獲美FDA孤兒藥資格享7年獨占權"]
+      }
+    },
+    {
+      "stock_id": "4580",
+      "stock_name": "捷流閥業",
+      "main_industry": "電機機械",
+      "sub_industries": ["閥門製造", "半導體廠務"],
+      "theme_tags": ["在手訂單12億", "半導體建廠"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 閥門設備"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "偏多",
+        "title": "半導體建廠訂單助攻，在手訂單逾12億能見度至2029",
+        "close_price": null,
+        "est_eps": 6.6,
+        "est_pe": 12.0,
+        "revenue_perf": "估EPS 6.6元，本益比僅12倍",
+        "content": "法說指出半導體與船舶訂單推升Q4淡季不淡，晶圓廠市占達三分之一。在手訂單逾12億能見度看至2029年，估EPS 6.6元，本益比僅12倍。",
+        "key_points": ["半導體建廠訂單助攻，能見度直達2029年", "估EPS 6.6元，本益比僅12倍處低檔"]
+      }
+    },
+    {
+      "stock_id": "4168",
+      "stock_name": "醣聯",
+      "main_industry": "生技醫療",
+      "sub_industries": ["抗體新藥", "生物相似藥"],
+      "theme_tags": ["三菱瓦斯化學合作", "乾癬市場"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 生技醫療"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "中立",
+        "title": "攜三菱瓦斯化學開發乾癬生物相似藥，瞄準百億市場",
+        "close_price": null,
+        "est_eps": -2.5,
+        "est_pe": null,
+        "revenue_perf": "營收年減54.10%，估EPS -2.5元",
+        "content": "與日本三菱瓦斯化學簽署MOU攜手開發乾癬生物相似藥SSR，目標三年內完成臨床前開發並提申請，原料藥及製劑規劃在台灣在地化生產。",
+        "key_points": ["結盟三菱瓦斯化學攻全球百億美元乾癬市場", "推進生物相似藥三年內完成臨床前開發"]
+      }
+    },
+    {
+      "stock_id": "4120",
+      "stock_name": "友華",
+      "main_industry": "生技醫療",
+      "sub_industries": ["西藥代理", "皮膚科用藥"],
+      "theme_tags": ["Maruho合作", "東協十國授權"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 生技醫療"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "今晚爆個股",
+        "stance": "中立",
+        "title": "擴大與日商Maruho合作，多汗症藥物授權延伸東協十國",
+        "close_price": null,
+        "est_eps": -5.0,
+        "est_pe": null,
+        "revenue_perf": "營收年增3.13%，估EPS -5元",
+        "content": "與日商Maruho深化合作，多汗症藥物Rapifort授權由台灣擴大至星、馬、泰等東協十國。將運用海外營運體系分階段註冊與商業化，強化處方藥布局。",
+        "key_points": ["多汗症外用新藥授權延伸至東協十國", "深化與日本Maruho藥廠策略結盟"]
+      }
+    },
+    {
+      "stock_id": "6213",
+      "stock_name": "聯茂",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["銅箔基板(CCL)"],
+      "theme_tags": ["自結獲利暴增", "外資調升"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "最新產業新聞 > 銅箔基板"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "最新產業新聞",
+        "stance": "強烈偏多",
+        "title": "聯茂8月每股賺2.54元，外資看好毛利改善與成本轉嫁",
+        "close_price": null,
+        "est_eps": null,
+        "est_pe": null,
+        "revenue_perf": "8月自結純益9.24億元年增852.58%，單月EPS 2.54元",
+        "content": "自結8月稅後純益9.24億元年增852.58%，單月每股大賺2.54元。大摩出具報告肯定毛利率改善代表成本已有效轉嫁，正面看待高階CCL後續動能。",
+        "key_points": ["8月每股純益高達2.54元獲利暴增", "外資肯定成本順利轉嫁，帶動CCL族群比價"]
+      }
+    },
+    {
+      "stock_id": "2383",
+      "stock_name": "台光電",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["銅箔基板(CCL)"],
+      "theme_tags": ["高階CCL龍頭", "外資大買"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "最新產業新聞 > 銅箔基板"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "最新產業新聞",
+        "stance": "強烈偏多",
+        "title": "台光電產能大幅翻倍，外資估2028 EPS達416元",
+        "close_price": null,
+        "est_eps": 122.17,
+        "est_pe": null,
+        "revenue_perf": "外資估2026~2028 EPS為122元、266元、416元",
+        "content": "大摩指出台光電產能將由去年底585萬張翻倍擴增至2028年底1125萬張，外資估2026至2028年EPS分別達122.17元、266.24元及416.24元。",
+        "key_points": ["月產能至2028年大增至1125萬張", "外資長線獲利預估激進，2028 EPS估破400元"]
+      }
+    },
+    {
+      "stock_id": "6274",
+      "stock_name": "台燿",
+      "main_industry": "PCB/MB產業",
+      "sub_industries": ["銅箔基板(CCL)"],
+      "theme_tags": ["目標價3010", "高階CCL"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "最新產業新聞 > 銅箔基板"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "最新產業新聞",
+        "stance": "強烈偏多",
+        "title": "外資估台燿今年EPS大增2倍，目標價上看3010元",
+        "close_price": null,
+        "est_eps": 38.63,
+        "est_pe": null,
+        "revenue_perf": "外資估今年EPS 38.63元、2028年達178.48元",
+        "content": "外資出具正面報告，估台燿今年EPS大增2倍以上至38.63元、2028年達178.48元，目標價給予推測合理股價3,010元，長線受惠高階材料放量。",
+        "key_points": ["外資給予目標價3,010元", "預估2028年EPS達178.48元"]
+      }
+    },
+    {
+      "stock_id": "2408",
+      "stock_name": "南亞科",
+      "main_industry": "半導體產業",
+      "sub_industries": ["記憶體", "DRAM"],
+      "theme_tags": ["傳統DRAM吃緊", "新廠擴產"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "最新產業新聞 > 記憶體"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "最新產業新聞",
+        "stance": "偏多",
+        "title": "三星HBM排擠效應顯現，南亞科長約涵蓋5成產能",
+        "close_price": null,
+        "est_eps": null,
+        "est_pe": null,
+        "revenue_perf": "新廠一期2028年月產3萬片",
+        "content": "三星HBM擠壓傳統DRAM產能，DDR4與DDR3供應吃緊有利南亞科。南亞科長約已涵蓋約5成產能，新廠第一階段2028年達月投片3萬片，報價看漲。",
+        "key_points": ["HBM排擠效應帶動傳統DRAM供應緊縮", "長約已鎖定約5成產能，營運展望轉佳"]
+      }
+    },
+    {
+      "stock_id": "2344",
+      "stock_name": "華邦電",
+      "main_industry": "半導體產業",
+      "sub_industries": ["記憶體", "利基型DRAM", "Flash"],
+      "theme_tags": ["三大法人大買", "高雄廠擴建"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "最新產業新聞 > 記憶體"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "最新產業新聞 / 籌碼表",
+        "stance": "偏多",
+        "title": "華邦電獲法人買超1.75萬張，受惠傳統DRAM排擠效應",
+        "close_price": null,
+        "est_eps": null,
+        "est_pe": null,
+        "revenue_perf": "三大法人買超17,530張 (+31.55億元)",
+        "content": "受惠原廠聚焦HBM導致利基型DRAM吃緊，高雄廠模組B預計明年1月動工、2029年底量產。三大法人單日大舉買超17,530張（逾31.5億元）。",
+        "key_points": ["三大法人買超1.75萬張居買超榜前列", "高雄廠明年1月動工，受惠記憶體漲價"]
+      }
+    },
+    {
+      "stock_id": "3008",
+      "stock_name": "大立光",
+      "main_industry": "光電相關",
+      "sub_industries": ["光學鏡頭"],
+      "theme_tags": ["觸底反轉", "法說會前做夢"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "頭版主筆 > 光學鏡頭"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "頭版主筆",
+        "stance": "偏多 (觸底反彈)",
+        "title": "大立光超跌至5740元見底，大漲至6205元展開法說行情",
+        "close_price": 6205.0,
+        "est_eps": null,
+        "est_pe": null,
+        "revenue_perf": "低點5740元強彈至6205元",
+        "content": "遭兩大外資降評追殺後，10/1於5740元觸底反彈，終場大漲收6205元。10/8法說會前展開做夢行情，技術面出現觸底反轉跡象。",
+        "key_points": ["跌破6000元後獲低接買盤強勁反彈", "10/8法說會前夕具做夢轉折行情"]
+      }
+    },
+    {
+      "stock_id": "3653",
+      "stock_name": "健策",
+      "main_industry": "電子零組件",
+      "sub_industries": ["均熱片", "水冷散熱"],
+      "theme_tags": ["大和目標價1萬", "Vera Rubin水冷"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "包打聽快報 > 外資喊買"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "包打聽快報",
+        "stance": "強烈偏多",
+        "title": "大和重申買進喊目標價1萬元，Q3營收估創新高",
+        "close_price": null,
+        "est_eps": 73.0,
+        "est_pe": null,
+        "revenue_perf": "Q3營收估96.5億創新高，單季EPS上修至22.77元",
+        "content": "大和資本將目標價調升至10,000元。AI散熱均熱片規格升級，可拆卸三片式均熱片2027年導入輝達Vera Rubin平台，單季EPS上修至22.77元。",
+        "key_points": ["外資重申買進，目標價上調至10,000元", "輝達下一代Rubin散熱均熱片規格大升級"]
+      }
+    },
+    {
+      "stock_id": "3017",
+      "stock_name": "奇鋐",
+      "main_industry": "電子零組件",
+      "sub_industries": ["散熱模組", "水冷系統"],
+      "theme_tags": ["小摩目標價5200", "VR Ultra水冷"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "包打聽快報 > 外資喊買"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "包打聽快報",
+        "stance": "強烈偏多",
+        "title": "小摩調升奇鋐目標價30%至5,200元，看好下一代水冷動能",
+        "close_price": null,
+        "est_eps": null,
+        "est_pe": null,
+        "revenue_perf": "目標價調升30%至5,200元",
+        "content": "小摩出具報告調升奇鋐目標價至5,200元。輝達下一代VR Ultra平台水冷力道強勁，零組件內含價值大幅提升，未來1~2年液冷逐步普及成長可期。",
+        "key_points": ["小摩上調目標價30%至5,200元評等優於大盤", "受惠輝達VR Ultra水冷強勁升級循環"]
+      }
+    },
+    {
+      "stock_id": "6805",
+      "stock_name": "富世達",
+      "main_industry": "電子零組件",
+      "sub_industries": ["軸承", "水冷伺服器滑軌"],
+      "theme_tags": ["小摩目標價4000", "液冷零組件"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "包打聽快報 > 外資喊買"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "包打聽快報",
+        "stance": "強烈偏多",
+        "title": "小摩大幅調升富世達目標價53.8%至4,000元",
+        "close_price": null,
+        "est_eps": null,
+        "est_pe": null,
+        "revenue_perf": "目標價大調53.8%至4,000元",
+        "content": "摩根大通看好散熱規格升級，將富世達目標價大幅調高53.8%至4,000元。液冷規格提升與未來1.6T/3.2T世代、CPO/NPO交換器將提供全新動能。",
+        "key_points": ["小摩大調目標價53.8%至4,000元", "受惠AI高算力液冷與交換器零組件長線商機"]
+      }
+    },
+    {
+      "stock_id": "3706",
+      "stock_name": "神達",
+      "main_industry": "電腦/周邊設備",
+      "sub_industries": ["AI伺服器", "雲端運算"],
+      "theme_tags": ["現增擴產", "美國產能"],
+      "classification_entry": {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "包打聽快報 > 現金增資"
+      },
+      "analysis_entry": {
+        "date": "2026-10-01",
+        "source_file": "萬寶晚報-1001.pdf",
+        "section": "包打聽快報",
+        "stance": "偏多",
+        "title": "神達辦現增1.2億股，擴充美國AI伺服器產能",
+        "close_price": null,
+        "est_eps": null,
+        "est_pe": null,
+        "revenue_perf": "8月營收年增119.9%，前八月年增52.57%",
+        "content": "董事會決議現增1.2億股擴充美國產能。7月斥資1.06億美元採購機器，加州新廠Q4擴產、紐華克與Fremont廠陸續啟用。前八月營收992.09億元年增52.57%。",
+        "key_points": ["現增1.2億股擴大美國AI伺服器生產基地", "8月營收年增119.9%，前八月逼近千億元"]
+      }
+    }
+  ],
+  "chips_updates": [
+    {
+      "stock_id": "3231",
+      "stock_name": "緯創",
+      "date": "2026-10-01",
+      "category": "三大法人買超榜",
+      "detail": "上市買超第1名：合計買超+30,635張 (+58.36億元)；外資單日大買+29,330張 (+55.87億元)。"
+    },
+    {
+      "stock_id": "2303",
+      "stock_name": "聯電",
+      "date": "2026-10-01",
+      "category": "三大法人買超榜",
+      "detail": "上市買超第2名：合計買超+29,074張 (+46.95億元)；外資買超+25,461張，自營商買超+1,768張。"
+    },
+    {
+      "stock_id": "2327",
+      "stock_name": "國巨*",
+      "date": "2026-10-01",
+      "category": "三大法人買超榜",
+      "detail": "上市買超第3名：合計買超+26,122張 (+157.25億元)；外資買超+23,394張 (+140.83億元)，買超金額全台股最高。"
+    },
+    {
+      "stock_id": "2492",
+      "stock_name": "華新科",
+      "date": "2026-10-01",
+      "category": "三大法人買超榜",
+      "detail": "上市買超第4名：合計買超+17,771張 (+58.47億元)；外資買超+16,492張 (+54.26億元)。"
+    },
+    {
+      "stock_id": "2344",
+      "stock_name": "華邦電",
+      "date": "2026-10-01",
+      "category": "三大法人買超榜",
+      "detail": "上市買超第5名：合計買超+17,530張 (+31.55億元)；外資買超+16,789張 (+30.22億元)。"
+    },
+    {
+      "stock_id": "3481",
+      "stock_name": "群創",
+      "date": "2026-10-01",
+      "category": "三大法人賣超榜",
+      "detail": "上市賣超第1名：合計賣超-96,717張 (-50.58億元)；外資單日大賣-93,138張 (-48.71億元)。"
+    },
+    {
+      "stock_id": "2887",
+      "stock_name": "台新新光金",
+      "date": "2026-10-01",
+      "category": "投信買超榜",
+      "detail": "投信買超第1名：單日買超+19,273張 (+7.95億元)。"
+    },
+    {
+      "stock_id": "6488",
+      "stock_name": "環球晶",
+      "date": "2026-10-01",
+      "category": "主動型ETF動向",
+      "detail": "主動型ETF合計加碼350張（約3.56億元），其中野村恩主公大舉掃進262張，權重由2.23%大幅拉高至3.31%。"
+    },
+    {
+      "stock_id": "3037",
+      "stock_name": "欣興",
+      "date": "2026-10-01",
+      "category": "主動型ETF動向",
+      "detail": "主動型ETF獲2檔加碼360張（約4.37億元），累計持股逾4.5萬張，維持高持股比率。"
+    },
+    {
+      "stock_id": "8046",
+      "stock_name": "南電",
+      "date": "2026-10-01",
+      "category": "主動型ETF動向",
+      "detail": "獲主動型ETF加碼380張，持股增至1.95萬張，比重提升3.57%，載板買盤持續延續。"
+    }
+  ]
+}

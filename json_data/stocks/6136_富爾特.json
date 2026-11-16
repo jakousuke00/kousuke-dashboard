@@ -1,0 +1,46 @@
+{
+  "stock_id": "6136",
+  "stock_name": "富爾特",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "中小型成分股"
+    ],
+    "theme_tags": [
+      "數位通訊服務"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-19",
+        "source": "萬寶產業報告-1019",
+        "category_mentioned": "電信服務 > 中小型成分股 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-19",
+    "close_price": 26.3,
+    "est_eps_2026": 0.9,
+    "est_pe": 29.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-19",
+      "source_file": "萬寶產業報告-1019(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "9月營收年增21.7%居電信服務之冠、月增24.4%，近5日股價回檔5.4%",
+      "close_price": 26.3,
+      "price_change_5d_pct": -5.4,
+      "foreign_5d_lots": -46,
+      "est_eps": 0.9,
+      "est_pe": 29.2,
+      "revenue_perf": "9月營收年增21.7%、月增24.4%",
+      "content": "9月營收年增21.7%、月增24.4%，年增與月增皆為表列個股中最高；惟近5日股價下跌5.40%收26.30元，外資賣超46張。萬寶預估2026年EPS 0.9元，預估本益比29.2倍。",
+      "key_points": [
+        "9月營收年增21.7%、月增24.4%，居電信服務族群之冠",
+        "萬寶預估2026 EPS 0.9元"
+      ]
+    }
+  ]
+}

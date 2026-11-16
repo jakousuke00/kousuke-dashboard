@@ -1,0 +1,45 @@
+{
+  "stock_id": "1108",
+  "stock_name": "幸福",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "水泥"
+    ],
+    "theme_tags": [
+      "水泥廠"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-23",
+        "source": "萬寶產業報告-1023",
+        "category_mentioned": "水泥 > 水泥 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-23",
+    "close_price": 10.95,
+    "est_eps_2026": 0.5,
+    "est_pe": 21.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-23",
+      "source_file": "萬寶產業報告-1023(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "近5日小跌0.90%，9月營收年減13.9%、預估EPS 0.5元",
+      "close_price": 10.95,
+      "price_change_5d_pct": -0.9,
+      "foreign_5d_lots": 17,
+      "est_eps": 0.5,
+      "est_pe": 21.9,
+      "revenue_perf": "9月營收年減13.9%",
+      "content": "收盤10.95元，近5日下跌0.90%，9月營收年減13.9%，外資近5日買超17張，萬寶預估EPS 0.5元，預估本益比21.9倍。",
+      "key_points": [
+        "9月營收年減13.9%，萬寶預估EPS 0.5元"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "stock_id": "6794",
+  "stock_name": "向榮生技",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "再生醫療與幹細胞新藥"
+    ],
+    "theme_tags": [
+      "異體幹細胞外銷藥證",
+      "外泌體",
+      "膝骨關節炎三期"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-02",
+        "source": "萬寶晚報-10_02",
+        "category_mentioned": "生技化工 > 細胞新藥"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-02",
+    "est_eps_2026": -1.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-02",
+      "source_file": "萬寶晚報-10_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "異體幹細胞UC-hADSC獲衛福部外銷專用藥品許可證，為台灣細胞業首家",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": -1.4,
+      "est_pe": null,
+      "revenue_perf": "累計營收年減33.71%",
+      "content": "同種異體脂肪間質幹細胞UC-hADSC取得衛福部外銷專用藥品許可證，為台灣細胞產業首家獲外銷藥證公司。上下游產品均取得美國FDA主檔案備案並具PIC/S GMP先導工廠資格，膝骨關節炎三期已完成收案，將拓展海外市場。",
+      "key_points": [
+        "台灣首家取得異體幹細胞衛福部外銷專用藥品許可證",
+        "膝骨關節炎臨床三期完成收案，具備PIC/S GMP先導工廠與FDA備案"
+      ]
+    }
+  ]
+}

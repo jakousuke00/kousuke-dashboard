@@ -1,0 +1,68 @@
+{
+  "stock_id": "8341",
+  "stock_name": "日友",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "廢棄物處理",
+      "醫療環保",
+      "事業廢棄物處理",
+      "醫療廢棄物"
+    ],
+    "theme_tags": [
+      "精選圖表下修",
+      "萬寶下修",
+      "環保工程"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "精選圖表"
+      },
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "精選圖表 > 預估調整"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29",
+    "est_eps_2026": 5.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "精選圖表",
+      "stance": "中立偏空",
+      "title": "萬寶精選圖表下修日友2026年預估EPS至5元",
+      "close_price": null,
+      "est_eps": 5.0,
+      "est_pe": null,
+      "revenue_perf": "兩岸廢棄物處理產能復甦較預期平緩",
+      "content": "萬寶投顧精選圖表下調日友2026年預估EPS至5元，反映兩岸醫療與事業廢棄物處理產能復甦步伐較預期平緩。",
+      "key_points": [
+        "萬寶將2026年預估EPS微幅下修至5元",
+        "觀察後續大陸廠稼動率回溫進度"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "精選圖表",
+      "stance": "中立",
+      "title": "萬寶投顧調整日友2026年預估EPS至5元",
+      "close_price": null,
+      "est_eps": 5.0,
+      "est_pe": null,
+      "revenue_perf": "2026年預估EPS調整為5元",
+      "content": "萬寶投顧最新精選圖表預估調整，將醫療事業廢棄物處理大廠日友2026年預估EPS下修至5元，靜待大陸與海外新產能利用率回升。",
+      "key_points": [
+        "萬寶精選圖表下修2026預估EPS至5元",
+        "反映環保清運市場競爭與復甦節奏"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "stock_id": "2478",
+  "stock_name": "大毅",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "晶片電阻"
+    ],
+    "theme_tags": [
+      "高毛利利基型",
+      "AI電源"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 晶片電阻"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 124.5,
+    "est_eps_2026": 6.6,
+    "est_pe": 18.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 6.6元。Q3 EPS 2.35元寫歷史次高，前三季EPS 5.26元已超越去年全年。接單出貨比仍逾1，今年AI營收占比可望由8%升至15%，南山新廠2027下半年量產。",
+      "key_points": [
+        "Q3 EPS 2.35元寫次高，前三季5.26元",
+        "今年AI營收占比上看15%"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "大毅低點彈升27%，估2026 EPS達6.6元",
+      "close_price": 124.5,
+      "est_eps": 6.6,
+      "est_pe": 18.9,
+      "revenue_perf": "2026預估EPS 6.6元，H1 EPS 2.91元",
+      "content": "晶片電阻廠大毅上半年EPS 2.91元，估全年6.6元，本益比不到19倍。10/1收盤124.5元，自7月低點97.9元反彈27%，今年漲幅120%。",
+      "key_points": [
+        "預估EPS 6.6元，PE 18.9倍評價偏低",
+        "今年漲幅達120%，具防禦與反彈力道"
+      ]
+    }
+  ]
+}

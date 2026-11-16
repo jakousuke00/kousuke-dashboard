@@ -1,0 +1,30 @@
+{
+  "stock_id": "3708",
+  "stock_name": "上緯投控",
+  "industry_profile": {
+    "main_industry": "環保材料與複材",
+    "sub_industries": [
+      "可回收風電樹脂",
+      "航太複材与AI機器人"
+    ],
+    "theme_tags": [
+      "Q3營收年增285%",
+      "布局AI機器人與航太複材"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 1元",
+      "pe_ratio": "87倍",
+      "content": "Q3營收4.35億元、年增285%，惟受存貨呆滯與呆帳提列影響單季每股虧損0.04元；前三季每股虧0.91元，同步布局AI機器人與航太複材。",
+      "key_points": [
+        "Q3營收年增285%，受存貨與呆帳影響單季小虧0.04元",
+        "積極布局AI機器人與航太複合材料"
+      ]
+    }
+  ]
+}

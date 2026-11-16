@@ -1,0 +1,45 @@
+{
+  "stock_id": "4563",
+  "stock_name": "百德",
+  "industry_profile": {
+    "main_industry": "工具機",
+    "sub_industries": [
+      "加工中心機"
+    ],
+    "theme_tags": [
+      "五軸加工中心機",
+      "航太與半導體設備"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶產業報告-1027",
+        "category_mentioned": "工具機 > 加工中心機 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-27",
+    "close_price": 61.1,
+    "est_eps_2026": -0.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶產業報告-1027(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日大漲15.72%居次，9月營收年增48.2%",
+      "close_price": 61.1,
+      "price_change_5d_pct": 15.72,
+      "foreign_5d_lots": 254,
+      "est_eps": -0.1,
+      "est_pe": null,
+      "revenue_perf": "9月營收年增48.2%",
+      "content": "收盤61.10元，近5日大漲15.72%居表列個股次高，9月營收年增48.2%，外資近5日買超254張，萬寶預估2026年EPS為-0.1元。",
+      "key_points": [
+        "近5日大漲15.72%，9月營收年增48.2%"
+      ]
+    }
+  ]
+}

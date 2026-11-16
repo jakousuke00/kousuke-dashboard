@@ -1,0 +1,29 @@
+{
+  "stock_id": "6727",
+  "stock_name": "亞泰金屬",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "CCL與PCB載板"
+    ],
+    "theme_tags": [
+      "CCL設備",
+      "泰國擴廠"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "前三季EPS 10.11元已賺逾一個股本。董事會通過投資2億泰銖設泰國子公司滿足客戶需求，並授權擴建楊梅二廠廠房，今年估EPS 13元。",
+      "key_points": [
+        "前三季EPS 10.11元賺逾一股本",
+        "擬投資2億泰銖設泰國子公司並擴建楊梅二廠"
+      ]
+    }
+  ]
+}

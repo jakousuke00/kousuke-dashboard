@@ -1,0 +1,29 @@
+{
+  "stock_id": "3376",
+  "stock_name": "新日興",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "光電與蘋果零組件"
+    ],
+    "theme_tags": [
+      "折疊手機",
+      "軸承"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "9月自結EPS 0.48元；10月營收6.5億元年減13.85%創44個月新低，受終端漲價與筆電庫存偏高影響。為美系折疊機主要軸承廠，新品已量產估2027Q1貢獻，估EPS 1.1元。",
+      "key_points": [
+        "10月營收創44個月新低，前十月年減11.19%",
+        "美系折疊手機軸承新品已量產，預計2027年首季較明顯貢獻"
+      ]
+    }
+  ]
+}

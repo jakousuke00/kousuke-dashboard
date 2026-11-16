@@ -1,0 +1,48 @@
+{
+  "stock_id": "6425",
+  "stock_name": "易發",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "面板設備",
+      "半導體自動化設備"
+    ],
+    "theme_tags": [
+      "自動化設備",
+      "營收暴增",
+      "強勢反彈"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-12",
+        "source": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",
+        "category_mentioned": "設備儀器 - 重點個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 85.4,
+    "est_eps_2026": 1.3,
+    "est_pe": 65.7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "source_file": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日飆漲30.78%居表列之冠，10月營收年增253.5%",
+      "close_price": 85.4,
+      "price_change_5d_pct": 30.78,
+      "foreign_5d_lots": 1236,
+      "est_eps": 1.3,
+      "est_pe": 65.7,
+      "revenue_perf": "10月營收年增253.5%",
+      "content": "自動化設備廠，10月營收暴增253.5%居表列第2，外資近5日買超1,236張，推升近5日股價大漲30.78%收85.40元居冠。萬寶預估2026年EPS 1.3元，預估本益比65.7倍。",
+      "key_points": [
+        "近5日大漲30.78%居冠、外資買超1,236張，10月營收年增253.5%"
+      ]
+    }
+  ]
+}

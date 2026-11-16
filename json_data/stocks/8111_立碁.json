@@ -1,0 +1,30 @@
+{
+  "stock_id": "8111",
+  "stock_name": "立碁",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "光通訊與網通電信"
+    ],
+    "theme_tags": [
+      "1.6T LPO",
+      "矽光子",
+      "光收發模組"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "前三季受業外挹注EPS 0.49元，10月營收0.81億元年增14.07%創23個月新高。攜手工研院、千才及荷蘭PHIX於PIC Summit展示1.6T LPO光收發模組，下一階段目標3.2T。",
+      "key_points": [
+        "10月營收創23個月新高，今年估EPS 1元",
+        "展示1.6T LPO光收發模組階段性成果，下階段目標3.2T"
+      ]
+    }
+  ]
+}

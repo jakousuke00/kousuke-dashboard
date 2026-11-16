@@ -1,0 +1,45 @@
+{
+  "stock_id": "6127",
+  "stock_name": "九豪",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "上游材料"
+    ],
+    "theme_tags": [
+      "漲停板",
+      "氧化鋁基板"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 上游材料"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 56.8,
+    "est_eps_2026": -2.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "九豪10/1亮燈漲停，氧化鋁陶瓷基板受矚目",
+      "close_price": 56.8,
+      "est_eps": -2.0,
+      "est_pe": null,
+      "revenue_perf": "2026預估EPS -2元，H1 EPS -1.1元",
+      "content": "氧化鋁基板廠九豪跟隨被動元件族群報復性反彈，10/1拉上漲停收56.8元。自7月低點41.1元反彈38%，跌深技術面強勁轉強。",
+      "key_points": [
+        "被動元件上游材料指標，拉上漲停板",
+        "低點反彈38%，擺脫Q3破底陰霾"
+      ]
+    }
+  ]
+}

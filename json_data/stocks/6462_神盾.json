@@ -1,0 +1,66 @@
+{
+  "stock_id": "6462",
+  "stock_name": "神盾",
+  "industry_profile": {
+    "main_industry": "智能辨識概念股",
+    "sub_industries": [
+      "指紋辨識概念股",
+      "轉型AI/ASIC與消費性IC"
+    ],
+    "theme_tags": [
+      "指紋辨識",
+      "矽智財IP",
+      "營收成長",
+      "AI/ASIC轉型",
+      "消費性IC"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-13",
+        "source": "reports/11月份/萬寶產業報告-1113(萬寶晚報贈品).pdf",
+        "category_mentioned": "智能辨識概念股 - 指紋辨識概念股"
+      },
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：IC設計與消費電子"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "close_price": 89.6,
+    "est_eps_2026": -8.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "source_file": "reports/11月份/萬寶產業報告-1113(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "單日漲停9.9%、10月營收年增45.0%，惟預估今年仍處虧損",
+      "close_price": 89.6,
+      "price_change_5d_pct": 13.27,
+      "foreign_5d_lots": 243,
+      "est_eps": -8.0,
+      "est_pe": null,
+      "revenue_perf": "10月營收年增45.0%、累計年增52.7%",
+      "content": "11/13大漲9.9%、近5日上漲13.27%收89.60元，外資近5日買超243張；10月營收年增45.0%、累計年增52.7%成長動能明顯。不過萬寶預估今年EPS為-8.0元仍處虧損階段，今年以來股價跌25.6%。",
+      "key_points": [
+        "10月營收年增45.0%、累計年增52.7%，近5日強漲13.27%",
+        "萬寶預估2026年EPS為-8.0元，仍處虧損階段"
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "空方(建議避開)",
+      "title": "神盾雖轉型AI/ASIC但本業受消費動能壓抑重挫",
+      "content": "雖積極轉型AI或ASIC領域，但成熟製程代工與封測漲價加上下游PC、手機消費動能壓抑，難以轉嫁成本，股價在高檔面臨嚴峻修正壓力(-9.22%)，建議避開。",
+      "key_points": [
+        "轉型AI/ASIC惟短期本業受大環境消費壓抑，重挫(-9.22%)建議避開"
+      ]
+    }
+  ]
+}

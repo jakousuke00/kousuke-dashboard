@@ -1,0 +1,46 @@
+{
+  "stock_id": "2756",
+  "stock_name": "聯發國際",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "手搖茶飲連鎖"
+    ],
+    "theme_tags": [
+      "連鎖餐飲",
+      "手搖飲"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-08",
+        "source": "reports/11月份/萬寶產業報告-1108(萬寶晚報贈品).pdf",
+        "category_mentioned": "連鎖餐飲 - 其他"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-08",
+    "close_price": 61.1,
+    "est_eps_2026": 3.4,
+    "est_pe": 18.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-08",
+      "source_file": "reports/11月份/萬寶產業報告-1108(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "近5日小跌3.17%，9月營收年減7.8%",
+      "close_price": 61.1,
+      "price_change_5d_pct": -3.17,
+      "foreign_5d_lots": 3,
+      "est_eps": 3.4,
+      "est_pe": 18.0,
+      "revenue_perf": "9月營收年減7.8%",
+      "content": "連鎖手搖茶飲業者，近5日下跌3.17%收61.10元，外資近5日小買3張。9月營收呈年減7.8%，萬寶預估2026年EPS 3.4元，預估本益比18.0倍。",
+      "key_points": [
+        "近5日跌3.17%相對大盤抗跌，9月營收年減7.8%，預估EPS 3.4元"
+      ]
+    }
+  ]
+}

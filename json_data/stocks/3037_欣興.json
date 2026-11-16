@@ -1,0 +1,175 @@
+{
+  "stock_id": "3037",
+  "stock_name": "欣興",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "ABF載板",
+      "ABF與BT載板",
+      "IC載板(ABF/BT)",
+      "載板",
+      "高階PCB",
+      "IC載板"
+    ],
+    "theme_tags": [
+      "ABF載板",
+      "AI晶片載板",
+      "ABF載板漲價",
+      "CPO載板",
+      "AI營收占比逾60%",
+      "大摩目標價1775元居冠",
+      "美銀升至1650元",
+      "輝達簽產能預訂協議",
+      "百億擴產",
+      "主動型ETF加碼",
+      "毛利率14季高",
+      "資本支出509億",
+      "處分日本子公司",
+      "TPU/ASIC載板",
+      "資本支出擴充",
+      "主動ETF加碼"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-11",
+        "source": "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf",
+        "category_mentioned": "PCB/MB產業 - ABF載板"
+      },
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "產業新聞 / 主動型ETF加碼"
+      },
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "今晚爆個股 > ABF載板龍頭"
+      },
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "PCB/MB產業 > 包打聽快報"
+      },
+      {
+        "date": "2026-10-08",
+        "source": "萬寶晚報-10_08",
+        "category_mentioned": "PCB/MB產業 > IC載板"
+      },
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 載板"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "close_price": 864.0,
+    "est_eps_2026": 24.5,
+    "est_pe": 35.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source_file": "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "10月營收年增67.6%，近20日成交4,635億居次惟外資賣超2萬張",
+      "close_price": 864.0,
+      "price_change_5d_pct": -2.7,
+      "foreign_5d_lots": -20350,
+      "est_eps": 24.5,
+      "est_pe": 35.3,
+      "revenue_perf": "10月營收年增67.6%",
+      "content": "近20日成交值4,635.7億元僅次於南亞；10月營收年增67.6%，但近5日法人賣超1.6萬張（外資賣超20,350張），近5日跌2.70%、近20日跌31.2%收864.00元。萬寶預估2026年EPS 24.5元、本益比35.3倍。",
+      "key_points": [
+        "10月營收年增67.6%，近20日成交4,635.7億元居表列第2",
+        "外資近5日賣超20,350張、近20日跌31.2%，預估EPS 24.5元"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "產業新聞",
+      "stance": "偏多",
+      "title": "欣興全面布局AI ASIC高階ABF載板，獲主動型ETF增持",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "受惠谷歌TPU擴大外銷與ASIC晶片大尺寸封裝載板需求",
+      "content": "欣興積極布局AI ASIC高階ABF載板，受惠谷歌TPU擴大外部銷售與AI晶片封裝需求。獲主動型中信與統一ETF同步加碼300張，中長線載板稼動率看升。",
+      "key_points": [
+        "布局高階ASIC與TPU高層數ABF載板",
+        "主動型ETF持續逆勢買超進駐300張"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "今晚爆個股",
+      "stance": "強烈偏多",
+      "title": "欣興Q3每股賺6.15元、毛利率創14季高，加碼509億設備",
+      "close_price": 1100.0,
+      "est_eps": 24.5,
+      "est_pe": 44.9,
+      "revenue_perf": "Q3營收526.5億元創高，純益100.52億元，毛利率升至28.85%",
+      "content": "受惠AI高階產品出貨與載板供需吃緊，前三季EPS達17.85元。董事會通過新增509億元擴產採購，並授權與Meiko簽意向書處分日本子公司全部股權。股價漲3.77%收1100元。",
+      "key_points": [
+        "Q3毛利率28.85%創14季新高，前三季EPS 17.85元",
+        "加碼509億資本支出，推進高階載板製程升級"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "包打聽快報",
+      "stance": "偏多",
+      "title": "大摩重申欣興目標價1,775元，美銀升至1,650元",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": null,
+      "content": "大摩指出欣興與輝達簽署產能預訂協議降低過剩風險，重申目標價1,775元為法人圈最高，預估2027年ABF價格增加25%以上；美銀亦將欣興目標價由1,400元上調至1,650元。",
+      "key_points": [
+        "大摩重申法人圈最高目標價1,775元",
+        "美銀上調目標價至1,650元，估光復二廠增產30%以上"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "source_file": "萬寶晚報-10_08.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收186.51億元連六月創高，光復二廠擴充、2027年ABF產能估增30%~40%",
+      "close_price": 1270.0,
+      "price_change_pct": -2.68,
+      "volume_lots": 8604,
+      "est_eps": 24.5,
+      "est_pe": 52.0,
+      "revenue_perf": "9月營收186.51億元年增64.67%連6月創高；Q3營收526.50億元季增22.76%",
+      "content": "受惠AI GPU、ASIC及HPC需求與價格調整，前三季營收1,329.86億元已超越去年全年。加快光復二廠擴充，2027年ABF產能估增30%~40%，CPO相關載板已開始出貨，今年AI占比目標60%以上。",
+      "key_points": [
+        "9月營收連6月創高，Q3營收526.5億元創單季新高",
+        "2027年ABF產能估增30%~40%，CPO載板已開始出貨"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "今晚爆個股",
+      "stance": "強烈偏多",
+      "title": "百億元購普利司通新竹廠，擴充高階載板產能",
+      "close_price": 1215.0,
+      "est_eps": 24.5,
+      "est_pe": 50.0,
+      "revenue_perf": "估EPS 24.5元，Q3營收估季增逾2成",
+      "content": "以100.88億元標下普利司通湖口廠近2萬坪擴充高階載板。今年資本支出537億（85%投ABF），ABF報價超預期，法人估Q3營收季增逾2成。獲主動ETF大買360張。",
+      "key_points": [
+        "百億購廠擴充ABF載板產能",
+        "Q3營收估季增逾2成，全年營收挑戰新高"
+      ]
+    }
+  ]
+}

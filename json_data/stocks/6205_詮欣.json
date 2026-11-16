@@ -1,0 +1,48 @@
+{
+  "stock_id": "6205",
+  "stock_name": "詮欣",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "高速連接器"
+    ],
+    "theme_tags": [
+      "1.6T光通訊連接器",
+      "產能塞爆挑單",
+      "車用與工控"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-02",
+        "source": "萬寶晚報-10_02",
+        "category_mentioned": "連接線器 > 光通訊1.6T連接器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-02",
+    "close_price": 74.1,
+    "est_eps_2026": 1.9,
+    "est_pe": 39.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-02",
+      "source_file": "萬寶晚報-10_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "1.6T光通訊連接器產能塞爆只能挑單，明年營收挑戰年增三成",
+      "close_price": 74.1,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 1.9,
+      "est_pe": 39.0,
+      "revenue_perf": "2027年網通部門業績估年增50%以上、車用估年增四成、整體營收挑戰年增三成以上",
+      "content": "董事長吳連溪表示，光通訊1.6T連接器與散熱產品出貨兩家美系客戶，產能塞爆只能挑單生產，明年網通業績估年增50%以上（占比達兩成），車用新案量產估年增四成，毛利率在38%~40%基礎上續升，2027年營收挑戰年增三成以上。",
+      "key_points": [
+        "1.6T光通訊連接器出貨兩家美系客戶，產能塞爆挑單生產",
+        "2027年網通業績估增50%以上、整體營收挑戰年增逾三成"
+      ]
+    }
+  ]
+}

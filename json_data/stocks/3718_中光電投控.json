@@ -1,0 +1,45 @@
+{
+  "stock_id": "3718",
+  "stock_name": "中光電投控",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "無人機載具",
+      "光電模組"
+    ],
+    "theme_tags": [
+      "Q3轉虧為盈",
+      "無人機美認證",
+      "酬載Q4出貨"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29",
+    "est_eps_2026": -0.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "中光電Q3轉盈每股賺0.03元，四軸偵察無人機獲美認證Q4出貨",
+      "close_price": null,
+      "est_eps": -0.1,
+      "est_pe": null,
+      "revenue_perf": "Q3營收103.47億年增4%，單季稅後純益1300萬元順利轉盈",
+      "content": "中光電首次法說宣布Q3轉盈每股賺0.03元。小型高解析酬載模組Q4出貨，四軸偵察機取得美國認證並於Q4出貨美國客戶，跨入國防無人機領域。",
+      "key_points": [
+        "Q3單季轉虧為盈，每股獲利0.03元",
+        "無人機取得美國認證，四軸偵察機Q4放量出貨"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "stock_id": "6411",
+  "stock_name": "晶焱",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "保護元件",
+      "ESD"
+    ],
+    "theme_tags": [
+      "靜電保護IC"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 保護元件"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 78.4,
+    "est_eps_2026": 4.8,
+    "est_pe": 16.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "中立偏多",
+      "title": "晶焱收78.4元，靜電防護受惠高速傳輸接口升級",
+      "close_price": 78.4,
+      "est_eps": 4.8,
+      "est_pe": 16.3,
+      "revenue_perf": "2026預估EPS 4.8元，H1 EPS 2.3元",
+      "content": "ESD晶片龍頭晶焱上半年EPS 2.3元，全年估4.8元，本益比僅16.3倍。10/1收78.4元，自低點反彈14%，隨USB4與高速接口滲透率提升展望轉佳。",
+      "key_points": [
+        "預估EPS 4.8元，PE僅16.3倍具低估優勢",
+        "高速傳輸介面推動ESD用量成長"
+      ]
+    }
+  ]
+}

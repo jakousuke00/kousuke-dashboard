@@ -1,0 +1,37 @@
+{
+  "stock_id": "4951",
+  "stock_name": "精拓科",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "轉型AI/ASIC與消費性IC"
+    ],
+    "theme_tags": [
+      "IC設計",
+      "PC/消費電子"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：IC設計與消費電子"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-05-27"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "空方(建議避開)",
+      "title": "精拓科受晶圓代工成本上升與終端疲軟夾擊下跌",
+      "content": "成熟製程晶圓代工與封測價格上漲，但下游PC等消費性終端復甦力道不如預期，毛利率面臨擠壓風險，股價高檔修正(-7.43%)，建議避開。",
+      "key_points": [
+        "代工成本上升且消費終端復甦不如預期，股價修正(-7.43%)"
+      ]
+    }
+  ]
+}

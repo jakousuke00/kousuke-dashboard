@@ -1,0 +1,40 @@
+{
+  "stock_id": "6221",
+  "stock_name": "晉泰",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "雲端軟體整合",
+      "思科網路設備代理",
+      "智慧企業解決方案"
+    ],
+    "theme_tags": [
+      "三大法人買超1090張",
+      "資安防禦抗跌",
+      "雲端數位轉型",
+      "櫃買買超第十"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主力大戶籌碼",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "三大法人於櫃買市場買超1,090張、金額0.47億元，居買超張數第十名。受惠思科與微軟多雲網路及資安方案導入，企業數位轉型訂單穩定，逆勢收紅。",
+      "key_points": [
+        "三大法人買超1,090張居櫃買前十，資安軟體全面轉強。",
+        "多雲架構與網路設備專案訂單能見度高，獲利配息穩定。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "法人單日買超破千張，低檔換手推升股價抗震向上。"
+    }
+  ]
+}

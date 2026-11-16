@@ -1,0 +1,119 @@
+{
+  "stock_id": "1597",
+  "stock_name": "直得",
+  "industry_profile": {
+    "main_industry": "工具機",
+    "sub_industries": [
+      "自動控制零組件",
+      "精密傳動與沖床設備",
+      "微型線性滑軌與CPO設備元件",
+      "微型線性滑軌",
+      "線性馬達"
+    ],
+    "theme_tags": [
+      "微型線性滑軌",
+      "機器人關節元件",
+      "微型滑軌",
+      "人形機器人概念",
+      "Meta/AWS資料中心",
+      "CPO設備線性馬達",
+      "機器人與工具機",
+      "CPO與半導體設備訂單",
+      "訂單見度達明年Q2"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶產業報告-1027",
+        "category_mentioned": "工具機 > 自動控制零組件 (重點個股)"
+      },
+      {
+        "date": "2026-10-21",
+        "source": "萬寶晚報-10_21",
+        "category_mentioned": "工具機 > 今晚爆個股"
+      },
+      {
+        "date": "2026-10-02",
+        "source": "萬寶晚報-10_02",
+        "category_mentioned": "工具機與自動化 > AI資料中心與CPO設備"
+      },
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：機器人與自動化"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-27",
+    "close_price": 144.0,
+    "est_eps_2026": 2.5,
+    "est_pe": 57.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶產業報告-1027(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "9月營收年增62.3%表現亮眼，萬寶預估2026 EPS 2.5元",
+      "close_price": 144.0,
+      "price_change_5d_pct": 0.0,
+      "foreign_5d_lots": 121,
+      "est_eps": 2.5,
+      "est_pe": 57.6,
+      "revenue_perf": "9月營收年增62.3%",
+      "content": "收盤144.00元，近5日持平，9月營收年增62.3%相當亮眼，外資近5日買超121張，萬寶預估2026年EPS 2.5元，預估本益比57.6倍。",
+      "key_points": [
+        "9月營收年增62.3%成長強勁，萬寶預估2026 EPS 2.5元"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶晚報-10_21.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "訂單能見度看到明年Q2，Q4接單與Q3旺季相當",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 2.5,
+      "est_pe": 57,
+      "revenue_perf": null,
+      "content": "受惠AI帶動半導體、電子及CPO設備客戶持續更新設備，微型線性滑軌、線性馬達及模組訂單能見度已看到明年Q2，半導體訂單居各產業之冠，Q4接單與Q3旺季相當。",
+      "key_points": [
+        "半導體與CPO設備帶動，訂單能見度達明年Q2",
+        "Q4淡季不淡，接單與Q3旺季相當"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "source_file": "萬寶晚報-10_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "打進Meta、亞馬遜AI資料中心供應鏈，接獲國際CPO設備龍頭千套訂單",
+      "close_price": 148.0,
+      "price_change_pct": -4.21,
+      "volume_lots": 3283,
+      "est_eps": 2.5,
+      "est_pe": 59.0,
+      "revenue_perf": "8月營收1.33億元、年增45.2%，連12個月年增",
+      "content": "打入Meta、亞馬遜AI資料中心供應鏈，訂單能見度看到明年Q2，AI線軌接單較去年大增逾五成。線性馬達繼接獲國際CPO設備龍頭數千套訂單後，再獲CPO對位模組近千台訂單；樹谷、南科新產能Q4開出。",
+      "key_points": [
+        "打進Meta、AWS資料中心供應鏈，訂單能見度達2027年Q2",
+        "線性馬達獲國際CPO設備龍頭數千套及對位模組近千台訂單"
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "空方(觀望沉澱)",
+      "title": "直得受機器人題材降溫與估值修正重挫",
+      "content": "微型滑軌雖具備機器人轉型潛力，但人形機器人實質營收貢獻需待2026下半年或2027年，缺乏新催化劑下短線資金撤出，面臨沉重估值修正壓力(-9.95%)。",
+      "key_points": [
+        "機器人實質貢獻遞延，短線面臨沉重估值修正(-9.95%)"
+      ]
+    }
+  ]
+}

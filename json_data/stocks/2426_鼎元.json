@@ -1,0 +1,30 @@
+{
+  "stock_id": "2426",
+  "stock_name": "鼎元",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "感測元件",
+      "LED"
+    ],
+    "theme_tags": [
+      "轉虧為盈",
+      "感測元件"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "10月自結稅後純益3,420萬元年增451.1%、EPS 0.114元；10月營收2.51億元年增50.9%，擺脫去年虧損後營運逐季走揚，估EPS 0.8元。",
+      "key_points": [
+        "10月自結EPS 0.114元、獲利年增4.5倍",
+        "首季轉盈後逐季走揚，下半年獲利維持高檔"
+      ]
+    }
+  ]
+}

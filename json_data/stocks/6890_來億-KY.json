@@ -1,0 +1,47 @@
+{
+  "stock_id": "6890",
+  "stock_name": "來億-KY",
+  "industry_profile": {
+    "main_industry": "運動健身",
+    "sub_industries": [
+      "運動鞋代工及鞋材"
+    ],
+    "theme_tags": [
+      "運動鞋代工",
+      "HOKA與Adidas代工"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-06",
+        "source": "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf",
+        "category_mentioned": "運動健身 - 運動鞋代工及鞋材"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-06",
+    "close_price": 147.0,
+    "est_eps_2026": 10.0,
+    "est_pe": 14.7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-06",
+      "source_file": "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "來億-KY近5日漲3.52%，9月營收年增14.0%",
+      "close_price": 147.0,
+      "price_change_5d_pct": 3.52,
+      "foreign_5d_lots": 165,
+      "est_eps": 10.0,
+      "est_pe": 14.7,
+      "revenue_perf": "9月營收年增14.0%",
+      "content": "收盤147.00元，近5日逆勢上漲3.52%，外資近5日買超165張。9月營收年增14.0%維持雙位數成長，萬寶預估2026年EPS 10.0元，預估本益比14.7倍。",
+      "key_points": [
+        "9月營收年增14.0%，近5日股價逆勢上漲3.52%",
+        "萬寶預估EPS 10.0元，預估本益比14.7倍"
+      ]
+    }
+  ]
+}

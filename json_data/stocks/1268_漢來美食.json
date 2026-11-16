@@ -1,0 +1,48 @@
+{
+  "stock_id": "1268",
+  "stock_name": "漢來美食",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "多品牌集團與宴會型業者"
+    ],
+    "theme_tags": [
+      "連鎖餐飲",
+      "尾牙宴會",
+      "台北大巨蛋展店"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-08",
+        "source": "reports/11月份/萬寶產業報告-1108(萬寶晚報贈品).pdf",
+        "category_mentioned": "連鎖餐飲 - 多品牌集團與宴會型業者"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-08",
+    "close_price": 170.0,
+    "est_eps_2026": 14.0,
+    "est_pe": 12.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-08",
+      "source_file": "reports/11月份/萬寶產業報告-1108(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "9月營收年增25.8%居表列之冠，11月底開出大巨蛋新店",
+      "close_price": 170.0,
+      "price_change_5d_pct": -5.29,
+      "foreign_5d_lots": 2,
+      "est_eps": 14.0,
+      "est_pe": 12.1,
+      "revenue_perf": "9月營收年增25.8%、月增8.6%，累計年增18.4%，Q3創同期新高",
+      "content": "Q3合併營收創歷年同期新高，9月營收年增25.8%、月增8.6%，累計年增18.4%成長動能居表列之冠；預計11月底前開出「島語」台北大巨蛋店迎接尾牙旺季。近5日跌5.3%但今年仍漲6.6%，預估2026年EPS 14.0元、本益比12.1倍。",
+      "key_points": [
+        "9月營收年增25.8%居冠、Q3創同期新高，11月底開出「島語」大巨蛋店",
+        "預估2026年EPS 14.0元，預估本益比12.1倍"
+      ]
+    }
+  ]
+}

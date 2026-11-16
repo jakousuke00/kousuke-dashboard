@@ -1,0 +1,84 @@
+{
+  "stock_id": "4971",
+  "stock_name": "IET-KY",
+  "industry_profile": {
+    "main_industry": "InP磷化銦供應鏈",
+    "sub_industries": [
+      "近5日上漲組",
+      "砷化鎵上游磊晶片、IC設計",
+      "三五族化合物半導體"
+    ],
+    "theme_tags": [
+      "MBE磷化銦與砷化鎵磊晶",
+      "光通訊PD/PIN",
+      "MBE磊晶",
+      "磷化銦",
+      "砷化鎵",
+      "國防訂單",
+      "矽光子"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵上游磊晶片、IC設計"
+      },
+      {
+        "date": "2026-10-29",
+        "source": "萬寶產業報告-1029",
+        "category_mentioned": "InP磷化銦供應鏈 > 近5日上漲組 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 432.0,
+    "est_eps_2026": 6.0,
+    "est_pe": 72.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 6元。Q3 EPS 1.26元，前三季EPS 3.58元超越去年全年。受惠國防銻化鎵及砷化鎵訂單增加，德州新廠二期2027Q1完工，與光聖換股持股長期投資。",
+      "key_points": [
+        "前三季EPS 3.58元超越去年全年",
+        "德州新廠二期2027Q1完工"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "IET-KY 9月營收年增11.4%，預估EPS 6.0元",
+      "close_price": 432.0,
+      "price_change_5d_pct": -4.0,
+      "foreign_5d_lots": 52,
+      "est_eps": 6.0,
+      "est_pe": 72.0,
+      "revenue_perf": "9月營收年增11.4%",
+      "content": "收盤432.00元，近5日下跌4.00%，外資近5日小買52張。9月營收年增11.4%，萬寶預估今年EPS 6.0元，預估本益比72.0倍。",
+      "key_points": [
+        "9月營收年增11.4%，外資近5日買超52張",
+        "萬寶預估EPS 6.0元，預估本益比72.0倍"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶產業報告-1029(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日上漲1.39%，9月營收年增11.4%、預估2026 EPS 6.0元",
+      "close_price": 472.5,
+      "price_change_5d_pct": 1.39,
+      "foreign_5d_lots": -76,
+      "est_eps": 6.0,
+      "est_pe": 78.8,
+      "revenue_perf": "9月營收年增11.4%",
+      "content": "收盤472.50元，近5日上漲1.39%，9月營收年增11.4%，萬寶預估2026年EPS 6.0元，預估本益比78.8倍。",
+      "key_points": [
+        "9月營收年增11.4%，萬寶預估2026 EPS 6.0元"
+      ]
+    }
+  ]
+}

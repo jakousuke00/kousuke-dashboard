@@ -1,0 +1,29 @@
+{
+  "stock_id": "6903",
+  "stock_name": "巨漢",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "先進封裝設備與材料"
+    ],
+    "theme_tags": [
+      "無塵室工程",
+      "先進封裝擴產"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "今晚爆個股",
+      "content": "受惠AI算力及先進封裝擴產，前三季營收60.43億元年增206.9%超越2022全年高點，EPS 20.92元。9月底在手訂單108億元能見度2至3年，估EPS 27.5元。",
+      "key_points": [
+        "前三季EPS 20.92元年增276.2%，在手訂單108億元",
+        "半導體占比68.2%，有信心提前達成2030年營收破百億目標"
+      ]
+    }
+  ]
+}

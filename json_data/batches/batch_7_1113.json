@@ -1,0 +1,1268 @@
+{
+  "processed_files": {
+    "reports/11月份/萬寶晚報-11_13.pdf": {
+      "report_date": "2026-11-13",
+      "report_type": "萬寶晚報",
+      "main_topic": "黃仁勳下台，外資才翻多，誰領軍？ASIC崛起宣告新時代！台廠AI供應鏈營收純度與受惠時程",
+      "extracted_stocks_count": 79
+    }
+  },
+  "industries_updates": [
+    {
+      "main_industry": "半導體與ASIC設計",
+      "sub_categories": {
+        "ASIC設計與IP": {
+          "description": "黃仁勳卸任輝達CEO，市場資金轉向非輝達與ASIC陣營，ASIC概念股九檔盤中漲停。",
+          "stocks": [
+            {"id": "3661", "name": "世芯-KY", "role": "台灣ASIC三雄，2026估EPS 130元，非輝達比重100%，2027~2028專案量產"},
+            {"id": "3443", "name": "創意", "role": "台灣ASIC三雄，2026估EPS 60元，非輝達比重100%，中期~長期受惠自研晶片"},
+            {"id": "2454", "name": "聯發科", "role": "台灣ASIC三雄，Q3單季EPS 17.5元，盤中拉漲停且三大法人大買107.53億元"},
+            {"id": "3529", "name": "力旺", "role": "Q3 EPS 8.56元創新高，Security營收年增逾200%，整合PUF與PQC"},
+            {"id": "6643", "name": "M31", "role": "ASIC概念股盤中拉漲停"},
+            {"id": "7749", "name": "意騰-KY", "role": "ASIC概念股盤中拉漲停"},
+            {"id": "6533", "name": "晶心科", "role": "ASIC概念股盤中拉漲停"},
+            {"id": "8227", "name": "巨有科技", "role": "ASIC概念股盤中拉漲停"},
+            {"id": "3035", "name": "智原", "role": "ASIC概念股盤中拉漲停"}
+          ]
+        },
+        "晶圓代工、封測與設備材料": {
+          "description": "承接多元AI晶片製造、CoWoS先進封裝與測試需求，設備與化學品預估EPS上修。",
+          "stocks": [
+            {"id": "2330", "name": "台積電", "role": "2026估EPS 110元，美國廠前三季獲利539.86億元創新高，CoWoS吃緊至2027"},
+            {"id": "3711", "name": "日月光投控", "role": "2026估EPS 21元，投資千億元打造南科路竹先進封裝廠"},
+            {"id": "2449", "name": "京元電", "role": "2026估EPS 8.8元，先進封測現在~長期受惠"},
+            {"id": "6223", "name": "旺矽", "role": "2026估EPS上調至70元"},
+            {"id": "3167", "name": "大量", "role": "2026估EPS上調至31.5元"},
+            {"id": "6640", "name": "均華", "role": "2026估EPS上調至28元"},
+            {"id": "4755", "name": "三福化", "role": "2026估EPS上調至6元"},
+            {"id": "2404", "name": "漢唐", "role": "Q3 EPS 24.19元創新高，美國廠二期進度逾5成，建廠需求看到2029年"},
+            {"id": "6415", "name": "矽力*-KY", "role": "Q3 EPS 2.34元，AI資料中心營收年增120%，2027年營收估增近30%"},
+            {"id": "3227", "name": "原相", "role": "Q3 EPS 3.68元，電競滑鼠與衛星感測器支撐Q4毛利率回升"},
+            {"id": "1727", "name": "中華化", "role": "先進製程電子級化學品通過認證，合資6億元於麥寮擴建電子級硫酸"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-11-13",
+        "source": "萬寶晚報-11_13.pdf",
+        "summary": "黃仁勳卸任輝達CEO，外資回頭買超288億元，ASIC概念股9檔漲停領軍；台積電、日月光與設備特化廠受惠長線需求。"
+      }
+    },
+    {
+      "main_industry": "AI伺服器、PCB、散熱與網通",
+      "sub_categories": {
+        "AI伺服器ODM與零組件": {
+          "description": "兼顧輝達GPU與非輝達ASIC專案，電源、滑軌與測試設備訂單能見度長。",
+          "stocks": [
+            {"id": "6669", "name": "緯穎", "role": "2026估EPS 140元，非輝達占比45~55%，2026~2027為ASIC主力"},
+            {"id": "2382", "name": "廣達", "role": "2026估EPS 27元，輝達占比30~40%，整機櫃主力至2027"},
+            {"id": "3231", "name": "緯創", "role": "2026估EPS上調至20元，掌握GPU基板"},
+            {"id": "2317", "name": "鴻海", "role": "2026估EPS 18.6元，受惠GB200大單至2027"},
+            {"id": "2324", "name": "仁寶", "role": "前三季EPS 1.78元超過去年全年，切入L10/L11及Vera Rubin伺服器"},
+            {"id": "2308", "name": "台達電", "role": "2026估EPS 37元，同時掌握GPU與ASIC電源散熱商機"},
+            {"id": "2059", "name": "川湖", "role": "Q3 EPS 122.79元、毛利率88.2%創新高，發百億CB擴建新廠"},
+            {"id": "3219", "name": "倚強科", "role": "前三季EPS 4.89元，AI伺服器營收占比逾30%，訂單看到2030年"},
+            {"id": "2345", "name": "智邦", "role": "Q3 EPS 23.39元創新高，董事會通過逾1.95億美元跨國擴產"}
+          ]
+        },
+        "散熱、PCB/CCL與光電通訊": {
+          "description": "液冷散熱、高階CCL、車用PCB與CPO光通訊元件需求暢旺。",
+          "stocks": [
+            {"id": "3017", "name": "奇鋐", "role": "2026估EPS 102元，兼吃GPU與ASIC水冷商機，主動型ETF重點加碼"},
+            {"id": "3324", "name": "雙鴻", "role": "2026估EPS 56元，兼吃GPU與ASIC散熱商機"},
+            {"id": "6591", "name": "動力-KY", "role": "Q3每股虧0.78元，推進泰國廠產能爬坡並拓展車用、工控散熱"},
+            {"id": "2383", "name": "台光電", "role": "2026估EPS 135元，Q3 EPS 40.47元優於預期，Q4全品項調漲"},
+            {"id": "6213", "name": "聯茂", "role": "2026估EPS 26元，非輝達占比10~15%"},
+            {"id": "2368", "name": "金像電", "role": "2026估EPS 40元，主動型ETF全數增持"},
+            {"id": "6672", "name": "騰輝電子-KY", "role": "2026估EPS上調至16.4元"},
+            {"id": "2355", "name": "敬鵬", "role": "2026估EPS上調至2.7元，投顧調升評等與目標價，Q4營收估季增15~20%"},
+            {"id": "8155", "name": "博智", "role": "Q3 EPS 4.46元創新高，AI伺服器板占82%，明年資本支出擴至35~40億元"},
+            {"id": "3406", "name": "玉晶光", "role": "Q3 EPS 9.69元季增59%，CPO稜鏡、V型槽及MT插芯已送樣"},
+            {"id": "3591", "name": "艾笛森", "role": "合資設艾斯光學持股55%，第二階段瞄準CPO與NPO光學設計"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-11-13",
+        "source": "萬寶晚報-11_13.pdf",
+        "summary": "AI伺服器ODM與散熱同步受惠GPU與ASIC平台；台光電、川湖、智邦、博智獲利創高且擴產積極，敬鵬獲投顧調升評等。"
+      }
+    },
+    {
+      "main_industry": "生技醫療與自動化機器人",
+      "sub_categories": {
+        "生技新藥與醫材": {
+          "description": "ADC平台國際授權、生物相似藥取證與手術機器人微創鏡頭推進。",
+          "stocks": [
+            {"id": "4174", "name": "浩鼎", "role": "ADC平台授權諾華，獲3,000萬美元簽約金及最高逾20億美元里程碑金"},
+            {"id": "1795", "name": "美時", "role": "前三季營收248.18億元創高，美國兩新品可望近期獲FDA核准"},
+            {"id": "6472", "name": "保瑞", "role": "Q3 EPS 4.79元創高，CDMO前三季新簽約金額4.37億美元創新高"},
+            {"id": "6535", "name": "順藥", "role": "推進2.0策略聚焦LT3001中風新藥，並布局CAR-T與CRISPR基因編輯"},
+            {"id": "6796", "name": "晉弘", "role": "Q3轉盈EPS 0.26元，微型鏡頭模組切入手術機器人領域"}
+          ]
+        },
+        "自動化、機器人與無人機": {
+          "description": "精密定位平台、機器人減速器及非紅供應鏈無人機展開布局與送樣。",
+          "stocks": [
+            {"id": "4576", "name": "大銀微", "role": "2026估EPS上調至6元"},
+            {"id": "4571", "name": "鈞興-KY", "role": "Q3 EPS 2.98元創高，人形及服務型機器人齒輪與減速器明年有機會量產"},
+            {"id": "7796", "name": "擷發科", "role": "興櫃搶先爆，推出六軸無人機整機搶非紅供應鏈，最快2027年貢獻營收"},
+            {"id": "3005", "name": "神基", "role": "拿下歐美無人機新案，明年估占營收5%至10%"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-11-13",
+        "source": "萬寶晚報-11_13.pdf",
+        "summary": "浩鼎簽下諾華ADC授權大單、保瑞CDMO新約創高；鈞興-KY與晉弘分別以減速器、微型鏡頭切入機器人，擷發科與神基布局無人機。"
+      }
+    },
+    {
+      "main_industry": "金融、航運、資訊與傳產民生",
+      "sub_categories": {
+        "金融與資訊資安": {
+          "description": "公股金控前十月獲利創同期新高；AI代理與資安攻防帶動資訊服務成長。",
+          "stocks": [
+            {"id": "2880", "name": "華南金", "role": "前十月稅後284.56億元、EPS 2.02元，創同期新高並賺贏去年全年"},
+            {"id": "2892", "name": "第一金", "role": "前十月稅後280.01億元、EPS 1.95元，創同期新高並賺贏去年全年"},
+            {"id": "5880", "name": "合庫金", "role": "前十月稅後219.29億元、EPS 1.32元續創同期新高"},
+            {"id": "6697", "name": "東捷資訊", "role": "10月EPS 0.21元年增75%，自研MES AI Agent導入大型製造業"},
+            {"id": "7765", "name": "中華資安", "role": "前三季EPS 8.75元創高，持續性訂閱營收占近五成"},
+            {"id": "6206", "name": "飛捷", "role": "前三季EPS 8.65元超越歷年任一全年，支付整合產品放量"}
+          ]
+        },
+        "航運、鋼鐵、車用與傳產": {
+          "description": "長榮、東鹼受惠運價與汰舊換新；健身器材、包材、特化與成衣同步走強。",
+          "stocks": [
+            {"id": "2603", "name": "長榮", "role": "Q3 EPS 21.53元，前三季EPS 32.77元已賺贏去年全年"},
+            {"id": "1708", "name": "東鹼", "role": "Q3 EPS 1.6元季增83.91%，擬購12年內輕便型散裝輪汰舊換新"},
+            {"id": "2027", "name": "大成鋼", "role": "Q3 EPS 1.59元，受海運費推升成本影響毛利率降至26.77%"},
+            {"id": "2207", "name": "和泰車", "role": "前三季EPS 31.86元創同期次高，HINO日本經銷事業挹注"},
+            {"id": "4766", "name": "南寶", "role": "前三季EPS 19.27元創同期新高，布局電子與半導體特化領域"},
+            {"id": "1909", "name": "榮成", "role": "Q3轉盈EPS 0.15元，啟動第30次庫藏股買回1萬張"},
+            {"id": "2908", "name": "特力", "role": "前三季EPS 1.31元創十年同期新高，非中產地占比達51%"},
+            {"id": "1598", "name": "岱宇", "role": "前三季EPS 0.81元轉盈，無人載具目標年底至明年初樣品單出貨"},
+            {"id": "1323", "name": "永裕", "role": "Q3 EPS 0.66元、前三季EPS 1.67元，獲利年增逾27倍"},
+            {"id": "3481", "name": "群創", "role": "Q3 EPS 0.96元連五季獲利，車用占營收40%居冠"},
+            {"id": "5321", "name": "美而快", "role": "Q3轉盈EPS 1.53元，受惠維克樂科技V-color記憶體模組挹注"},
+            {"id": "1476", "name": "儒鴻", "role": "三大成衣股同步走揚"},
+            {"id": "1477", "name": "聚陽", "role": "三大成衣股同步走揚"},
+            {"id": "4441", "name": "振大環球", "role": "三大成衣股同步走揚"}
+          ]
+        }
+      },
+      "report_entry": {
+        "date": "2026-11-13",
+        "source": "萬寶晚報-11_13.pdf",
+        "summary": "華南金、第一金、合庫金前十月獲利創高；長榮前三季賺贏去年；飛捷、中華資安、南寶、和泰車獲利亮眼。"
+      }
+    }
+  ],
+  "stocks_updates": [
+    {
+      "stock_id": "3711",
+      "stock_name": "日月光投控",
+      "main_industry": "半導體",
+      "sub_industries": ["先進封測"],
+      "theme_tags": ["AI供應鏈", "先進封裝擴產"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026估EPS 21元（前三季14.17元），輝達占比10~20%、非輝達5~10%。宣布南科高雄路竹廠一期啟用、二期動工，擬投資1,000億元打造先進封裝產線，目標年營收800億元。",
+        "key_points": ["投資千億元打造南科路竹先進封裝廠", "串聯南台灣晶圓製造與封測供應鏈"]
+      }
+    },
+    {
+      "stock_id": "2330",
+      "stock_name": "台積電",
+      "main_industry": "半導體",
+      "sub_industries": ["晶圓代工"],
+      "theme_tags": ["CoWoS", "美國廠獲利創高"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026估EPS 110元（Q3單季29.42元）。美國子公司TSMC Arizona前三季獲利539.86億元創新高，認列投資利益485.58億元；今年前三季全球合計取得政府補助款約1,675.86億元。",
+        "key_points": ["美國廠前三季獲利539.86億元創新高", "美國投資抵減率今年起由25%提高至35%"]
+      }
+    },
+    {
+      "stock_id": "3481",
+      "stock_name": "群創",
+      "main_industry": "光電/面板",
+      "sub_industries": ["TFT-LCD/車用顯示"],
+      "theme_tags": ["連五季獲利", "車用顯示"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 1.2元。Q3營收575.78億元、毛利率14.9%年增7個百分點，業外淨收入103.27億元帶動稅後EPS 0.96元創七季高，連五季獲利；車用占營收40%居冠、非顯示器占43%。",
+        "key_points": ["Q3 EPS 0.96元創七季高，連五季獲利", "車用占40%居冠，Q4步入淡季商用估季減17~19%"]
+      }
+    },
+    {
+      "stock_id": "2383",
+      "stock_name": "台光電",
+      "main_industry": "PCB/CCL",
+      "sub_industries": ["高階銅箔基板"],
+      "theme_tags": ["AI伺服器", "漲價效應"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026估EPS 135元（前三季82.92元）。Q3稅後純益145億元年增265.6%、EPS 40.47元優於預期。M7以上高階材料占比升至65~70%，Q4全品項調漲，法人估2027年EPS上看216.4元。",
+        "key_points": ["Q3 EPS 40.47元優於預期，Q4全品項調漲", "E-GLASS與HVLP3+吃緊，2027年營收估年增61.7%"]
+      }
+    },
+    {
+      "stock_id": "3529",
+      "stock_name": "力旺",
+      "main_industry": "半導體",
+      "sub_industries": ["矽智財(IP)"],
+      "theme_tags": ["ASIC漲停", "後量子密碼PQC"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 32元。Q3 EPS 8.56元創新高，Security相關營收年增逾200%。先進製程與安全應用穩步量產帶動權利金成長，將整合PUF與PQC技術，鎖定邊緣運算與機器人應用。",
+        "key_points": ["Q3 EPS 8.56元創新高，Security年增逾200%", "加速多家晶圓廠2奈米及更先進製程驗證"]
+      }
+    },
+    {
+      "stock_id": "2027",
+      "stock_name": "大成鋼",
+      "main_industry": "鋼鐵",
+      "sub_industries": ["不鏽鋼/鋁捲板通路"],
+      "theme_tags": ["美國製造", "AI資料中心"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 6元。Q3營收373.71億元季增3.81%，惟SCFI運價高檔推升銷貨成本，毛利率季減至26.77%，EPS 1.59元。美國鋼鋁關稅維持50%，AI資料中心不鏽鋼管材當地僅大成鋼可供應。",
+        "key_points": ["Q3 EPS 1.59元，海運費推升成本壓抑毛利率", "AI資料中心不鏽鋼管材具美國當地獨家供應優勢"]
+      }
+    },
+    {
+      "stock_id": "2603",
+      "stock_name": "長榮",
+      "main_industry": "航運",
+      "sub_industries": ["貨櫃海運"],
+      "theme_tags": ["高獲利", "船隊擴充"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 40元。受惠旺季載貨回升與運價高檔，Q3稅後純益466.15億元年增114.36%、EPS 21.53元；前三季EPS 32.77元已賺贏去年全年。擬投入約105.71億元續租2艘全貨櫃輪。",
+        "key_points": ["Q3 EPS 21.53元，前三季已超越去年全年", "規劃2030年營運約290艘船、總運能274萬TEU"]
+      }
+    },
+    {
+      "stock_id": "6415",
+      "stock_name": "矽力*-KY",
+      "main_industry": "半導體",
+      "sub_industries": ["電源管理IC"],
+      "theme_tags": ["AI資料中心", "車用電子"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 12元。Q3營收72.59億元年增43.8%、毛利率47.4%自谷底回升，EPS 2.34元。AI資料中心產品營收年增120%占比升至17%，車用年增50%，2027年營收估增近30%。",
+        "key_points": ["AI資料中心營收年增120%，年底占比望達25%", "2027年營收增幅逼近30%"]
+      }
+    },
+    {
+      "stock_id": "3406",
+      "stock_name": "玉晶光",
+      "main_industry": "光電/光學",
+      "sub_industries": ["手機鏡頭/光學元件"],
+      "theme_tags": ["CPO光學元件", "蘋果供應鏈"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 36.1元。Q3稅後純益10.92億元季增59%、EPS 9.69元，前三季EPS 23.68元。近期CPO布局受關注，稜鏡、V型槽及MT插芯已送樣，看好2028年新品放量；下周法說聚焦3M EBO合作。",
+        "key_points": ["Q3 EPS 9.69元季增59%", "CPO稜鏡、V型槽及MT插芯已送樣"]
+      }
+    },
+    {
+      "stock_id": "2345",
+      "stock_name": "智邦",
+      "main_industry": "網通",
+      "sub_industries": ["高速交換器/AI加速卡"],
+      "theme_tags": ["AI資料中心", "跨國擴產"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 88元。受惠AI大型資料中心需求，Q3營收1,207.44億元、EPS 23.39元創單季新高，前三季EPS 58.09元已超越去年全年。董事會通過越南、馬來西亞及新加坡投資逾1.95億美元擴產。",
+        "key_points": ["Q3 EPS 23.39元創新高，10月營收創單月新高", "投資逾1.95億美元擴產，Q4營收估再創新高"]
+      }
+    },
+    {
+      "stock_id": "6697",
+      "stock_name": "東捷資訊",
+      "main_industry": "資訊服務",
+      "sub_industries": ["ERP/MES系統整合"],
+      "theme_tags": ["AI Agent", "資安"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 3元。10月自結EPS 0.21元年增75%。Q4為資服傳統旺季，MES製造執行系統AI加值與企業資安為主要動能，自研MES AI Agent已導入大型製造業工廠，並自建SOC資安中心。",
+        "key_points": ["10月自結EPS 0.21元年增75%", "自研MES AI Agent導入大型製造業工廠"]
+      }
+    },
+    {
+      "stock_id": "2059",
+      "stock_name": "川湖",
+      "main_industry": "AI伺服器零組件",
+      "sub_industries": ["伺服器滑軌"],
+      "theme_tags": ["高毛利率", "擴產"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 350元。Q3毛利率88.2%、營益率82.86%雙創新高，稅後純益117.02億元年增265.69%、EPS 122.79元，前三季EPS 233.75元。通過發行百億元無擔保CB用於川益二、五廠資本支出。",
+        "key_points": ["Q3毛利率88.2%、EPS 122.79元雙創新高", "發行百億元無擔保CB提前川益二、五廠支出"]
+      }
+    },
+    {
+      "stock_id": "4174",
+      "stock_name": "浩鼎",
+      "main_industry": "生技醫療",
+      "sub_industries": ["ADC新藥開發"],
+      "theme_tags": ["國際授權", "諾華"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS -10元。與藥廠諾華簽署ADC平台授權協議，將獲3,000萬美元簽約金，並依研發、法規及商業化進展取得潛在總交易價值逾20億美元里程碑金及銷售權利金。",
+        "key_points": ["ADC平台授權諾華，簽約金3,000萬美元", "潛在總交易價值逾20億美元並可收銷售權利金"]
+      }
+    },
+    {
+      "stock_id": "2404",
+      "stock_name": "漢唐",
+      "main_industry": "半導體設備工程",
+      "sub_industries": ["無塵室機電工程"],
+      "theme_tags": ["美國建廠", "高能見度"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 77元。Q3營收275.37億元年增43.16%、EPS 24.19元續創新高，前三季EPS 60.42元改寫年度新高。晶圓客戶美國廠二期進度逾5成，今年美國營收有機會過半，建廠需求看到2029年。",
+        "key_points": ["Q3 EPS 24.19元創新高，前十月營收年增61.45%", "美國廠二期進度逾5成，需求看到2029年"]
+      }
+    },
+    {
+      "stock_id": "2324",
+      "stock_name": "仁寶",
+      "main_industry": "AI伺服器/NB",
+      "sub_industries": ["電子代工/AI伺服器"],
+      "theme_tags": ["AI伺服器轉型", "Vera Rubin"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 2.4元。Q3 EPS 0.6元，前三季稅後純益76.81億元年增66.2%、EPS 1.78元已超過去年全年。美國德州廠下半年投入營運，加桃園大溪新廠切入L10/L11，明年上半年Vera Rubin量產成長更顯著。",
+        "key_points": ["前三季EPS 1.78元已超越去年全年", "切入L10/L11與Vera Rubin伺服器明年上半年量產"]
+      }
+    },
+    {
+      "stock_id": "3219",
+      "stock_name": "倚強科",
+      "main_industry": "自動化設備",
+      "sub_industries": ["自動化測試解決方案"],
+      "theme_tags": ["AI伺服器測試", "高毛利"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 6元。Q3營收7.39億元年增44.68%、毛利率68.87%，EPS 2.21元創歷史次高；前三季EPS 4.89元，前十月營收已改寫年度新高。Q4受AI伺服器需求帶動淡季不淡，訂單能見度看到2030年。",
+        "key_points": ["前三季EPS 4.89元，前十月營收創年度新高", "全年AI伺服器占比逾30%，訂單看到2030年"]
+      }
+    },
+    {
+      "stock_id": "8155",
+      "stock_name": "博智",
+      "main_industry": "PCB",
+      "sub_industries": ["伺服器/工業電腦板"],
+      "theme_tags": ["AI伺服器", "高階交換器"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 14元。受惠AI伺服器主板、CPU板及IC測試板需求，Q3毛利率26.85%寫17季新高、EPS 4.46元創新高，前三季EPS 11.15元。明年資本支出由25億元增至35~40億元，越南廠2027Q2量產。",
+        "key_points": ["Q3 EPS 4.46元創新高，今年獲利可望改寫紀錄", "伺服器占約82%，將布局高階交換器"]
+      }
+    },
+    {
+      "stock_id": "3227",
+      "stock_name": "原相",
+      "main_industry": "半導體",
+      "sub_industries": ["感測IC"],
+      "theme_tags": ["電競滑鼠", "衛星感測器"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 12元。Q3營收25.28億元年增14.3%、毛利率59.3%，EPS 3.68元；前三季EPS 9.79元。Q4電競滑鼠需求續強與產品組合優化，毛利率估回升至去年上半年水準；衛星用感測器開始供貨。",
+        "key_points": ["Q3 EPS 3.68元，Q4毛利率估明顯回升", "熱影像與衛星用感測器出貨，明年新應用貢獻增"]
+      }
+    },
+    {
+      "stock_id": "1795",
+      "stock_name": "美時",
+      "main_industry": "生技醫療",
+      "sub_industries": ["特殊學名藥/品牌藥"],
+      "theme_tags": ["併購效應", "FDA核准"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 12元。受惠併購Alvogen及B2B成長，前三季營收248.18億元年增74%創高，惟業外拖累Q3單季轉虧約0.47元（前三季EPS 4.18元）。美國兩項重點產品合計市場約30億美元，可望近期獲FDA核准。",
+        "key_points": ["前三季營收248.18億元創同期新高", "美國兩項重點產品可望近期獲FDA核准"]
+      }
+    },
+    {
+      "stock_id": "1727",
+      "stock_name": "中華化",
+      "main_industry": "化工/電子材料",
+      "sub_industries": ["電子級硫酸"],
+      "theme_tags": ["先進製程化學品", "合資擴產"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 1.5元。受惠新單與擴產效益，Q3毛利率升至15.43%、EPS 0.33元，前三季EPS 0.99元獲利年增翻倍。先進製程電子級化學品已通過認證，將投資6億元與台塑等成立合資公司擴建電子級硫酸。",
+        "key_points": ["前三季EPS 0.99元，獲利年增翻倍", "與台塑化等合資6億元於麥寮擴建電子級硫酸"]
+      }
+    },
+    {
+      "stock_id": "7765",
+      "stock_name": "中華資安",
+      "main_industry": "資訊服務",
+      "sub_industries": ["資安防護與檢測"],
+      "theme_tags": ["資安題材", "亞太擴張"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 12.5元。前三季營收17.44億元年增19%、EPS 8.75元創高；前十月營收年增20%。AI攻擊風險推升紅隊演練與持續性訂閱營收（占近五成），今年營運獲利拚雙位數成長，已承接日星馬案場。",
+        "key_points": ["前三季EPS 8.75元創高，今年獲利拚雙位數成長", "持續性訂閱營收占近五成，亞太承接日星馬案場"]
+      }
+    },
+    {
+      "stock_id": "5880",
+      "stock_name": "合庫金",
+      "main_industry": "金融",
+      "sub_industries": ["公股金控"],
+      "theme_tags": ["獲利創高"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 1.4元。10月稅後純益16.8億元，前十月稅後純益219.29億元年增23.29%、EPS 1.32元續創同期新高。子公司合庫銀行、證券及人壽累計獲利皆創同期新高。",
+        "key_points": ["前十月EPS 1.32元，獲利續創同期新高", "銀行、證券、人壽三大子公司獲利皆創同期高"]
+      }
+    },
+    {
+      "stock_id": "3005",
+      "stock_name": "神基",
+      "main_industry": "電腦與週邊",
+      "sub_industries": ["強固型電腦"],
+      "theme_tags": ["無人機", "國防航太"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 8.8元。Q3 EPS 2.06元、前三季EPS 6.32元，今年獲利接近持平去年、營收低雙位數成長。無人機業務接到美、歐客戶兩個新案，預期明年占營收5%至10%；強固電腦維持強勢。",
+        "key_points": ["無人機拿下歐美兩新案，明年估占營收5~10%", "本季營收與Q3相近，毛利率可望回升"]
+      }
+    },
+    {
+      "stock_id": "6472",
+      "stock_name": "保瑞",
+      "main_industry": "生技醫療",
+      "sub_industries": ["CDMO/專科用藥"],
+      "theme_tags": ["CDMO新約創高"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 20元。Q3受惠專科用藥與CDMO成熟廠區，營收64.53億元創單季新高、EPS 4.79元，前三季EPS 9.37元。CDMO前三季新簽約金額4.37億美元創新高，在手訂單3.4億美元。",
+        "key_points": ["Q3營收創新高、EPS 4.79元", "CDMO前三季新約4.37億美元創高，北美擴產明年下半年貢獻"]
+      }
+    },
+    {
+      "stock_id": "4766",
+      "stock_name": "南寶",
+      "main_industry": "化工/特化",
+      "sub_industries": ["接著劑/特用化學品"],
+      "theme_tags": ["半導體材料", "營收拚新高"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 26元。Q3 EPS 5.44元，前三季稅後純益23.23億元、EPS 19.27元年增23.5%創同期新高。前十月營收216.8億元年增12.6%，全年營收有望創新高，並布局電子與半導體特化領域。",
+        "key_points": ["前三季EPS 19.27元創同期新高", "全年營收拚新高，布局電子與半導體特化領域"]
+      }
+    },
+    {
+      "stock_id": "2207",
+      "stock_name": "和泰車",
+      "main_industry": "汽車/零售",
+      "sub_industries": ["汽車經銷與產險"],
+      "theme_tags": ["高獲利", "日本HINO併表"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 40元。受惠汽車本業穩健、和泰產險投資收入及4月起併表日本HINO經銷事業，前三季稅後純益177.47億元年增27.87%、EPS 31.86元創同期次高；10月與前十月營收均創同期新高。",
+        "key_points": ["前三季EPS 31.86元創同期次高，賺逾三個股本", "前十月營收2,671.7億元創同期新高"]
+      }
+    },
+    {
+      "stock_id": "1909",
+      "stock_name": "榮成",
+      "main_industry": "造紙",
+      "sub_industries": ["工業用紙"],
+      "theme_tags": ["轉虧為盈", "庫藏股"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 0.4元。Q3營收136.65億元年增21.33%、毛利率10.25%，營業利益轉盈、稅後EPS 0.15元轉虧為盈，前三季EPS 0.34元。啟動第30次庫藏股，11月13日起買回1萬張轉讓員工。",
+        "key_points": ["Q3轉虧為盈EPS 0.15元", "啟動第30次庫藏股買回1萬張"]
+      }
+    },
+    {
+      "stock_id": "2908",
+      "stock_name": "特力",
+      "main_industry": "貿易百貨",
+      "sub_industries": ["居家零售/貿易"],
+      "theme_tags": ["併購效應", "非中供應鏈"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 1.5元。受惠美國高關稅因素消失及併購Hampton Products穩定出貨，前三季稅後純益6.69億元年增逾1.86倍、EPS 1.31元創十年同期新高。貿易出貨中國占比降至49%，非中達51%。",
+        "key_points": ["前三季EPS 1.31元創十年同期新高", "非中產地占比達51%，越南打造供應鏈基地"]
+      }
+    },
+    {
+      "stock_id": "6535",
+      "stock_name": "順藥",
+      "main_industry": "生技醫療",
+      "sub_industries": ["新藥開發"],
+      "theme_tags": ["中風新藥", "CAR-T"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS -2.5元。法說揭示2.0策略，集中資源推進中風新藥LT3001臨床，206探索性試驗已完成首位受試者入組，與上海醫藥合作之中國二/三期試驗啟動收案；同步布局CAR-T與CRISPR基因編輯。",
+        "key_points": ["2.0策略聚焦中風新藥LT3001臨床", "細胞治療採分靶點授權CAR-T並布局CRISPR"]
+      }
+    },
+    {
+      "stock_id": "5321",
+      "stock_name": "美而快",
+      "main_industry": "電子商務/半導體通路",
+      "sub_industries": ["電商服飾/記憶體模組"],
+      "theme_tags": ["記憶體模組", "轉虧為盈"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS -3元。Q3營收9.04億元季增68.67%、EPS 1.53元單季轉虧為盈。孫公司維克樂科技V-color記憶體模組8月起出貨帶動轉盈，10月營收4.04億元創單月新高，模組訂單能見度達2027Q1。",
+        "key_points": ["Q3轉盈EPS 1.53元，10月營收創單月新高", "記憶體模組占營收約3成，訂單看到2027Q1"]
+      }
+    },
+    {
+      "stock_id": "3591",
+      "stock_name": "艾笛森",
+      "main_industry": "光電/LED",
+      "sub_industries": ["車用/照明光學設計"],
+      "theme_tags": ["CPO光學", "合資併表"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 3元。法說公告透過子公司與宏巍國際合資設艾斯光學（持股55%），投入車用、照明及紅外線光學設計，雙方可望合併報表；第二階段將投入CPO、NPO光學設計，2027年展望不悲觀。",
+        "key_points": ["合資設艾斯光學持股55%拿回光學設計主導權", "第二階段瞄準CPO、NPO光學設計"]
+      }
+    },
+    {
+      "stock_id": "4571",
+      "stock_name": "鈞興-KY",
+      "main_industry": "電機機械",
+      "sub_industries": ["精密齒輪與減速器"],
+      "theme_tags": ["人形機器人", "減速器"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 10.1元。Q3營收9.38億元、稅後淨利1.56億元均創單季新高，EPS 2.98元；前三季EPS 7.14元。前三季智能傳動營收年增42.71%，人形及服務型機器人齒輪、減速器已送樣，明年有機會量產。",
+        "key_points": ["Q3營收與獲利創單季新高，營益率19.8%創高", "人形及服務型機器人齒輪減速器已送樣明年拚量產"]
+      }
+    },
+    {
+      "stock_id": "6796",
+      "stock_name": "晉弘",
+      "main_industry": "生技醫療",
+      "sub_industries": ["醫療影像與微創鏡頭"],
+      "theme_tags": ["手術機器人", "轉虧為盈"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS -0.1元。Q3受惠營收規模擴大，稅後純益1,037萬元年增3.81倍、EPS 0.26元轉盈，前三季每股虧0.28元。推動醫療耗材轉型，鏡頭技術延伸至手術機器人領域，2027年隨客戶取證擴大貢獻。",
+        "key_points": ["Q3轉盈EPS 0.26元，年增3.81倍", "微型鏡頭模組切入手術機器人，2027年貢獻放大"]
+      }
+    },
+    {
+      "stock_id": "1708",
+      "stock_name": "東鹼",
+      "main_industry": "化工/航運",
+      "sub_industries": ["硫酸鉀/散裝航運"],
+      "theme_tags": ["散裝航運", "船隊汰舊換新"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 4元。受惠地緣衝突推升油價與化工行情及航運升溫，Q3 EPS 1.6元季增83.91%，前三季EPS 3.58元年增62.73%。董事會授權以不超過2,500萬美元購買12年內輕便型散裝輪汰舊換新。",
+        "key_points": ["Q3 EPS 1.6元季增83.91%，前三季3.58元", "擬斥不超過2,500萬美元購輕便型散裝輪汰舊換新"]
+      }
+    },
+    {
+      "stock_id": "6206",
+      "stock_name": "飛捷",
+      "main_industry": "工業電腦",
+      "sub_industries": ["POS系統/支付整合"],
+      "theme_tags": ["獲利創高", "支付整合"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 11元。受惠美洲市場強勁及支付整合產品放量，Q3 EPS 2.72元年增74%，前三季EPS 8.65元創同期新高並超越歷年任一全年。支付整合在手訂單已超今年全年業績，明年料況已掌握。",
+        "key_points": ["前三季EPS 8.65元超越歷年任一全年", "支付整合在手訂單已超今年全年業績"]
+      }
+    },
+    {
+      "stock_id": "6591",
+      "stock_name": "動力-KY",
+      "main_industry": "散熱",
+      "sub_industries": ["散熱風扇"],
+      "theme_tags": ["車用散熱", "健身器材"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 2元。Q3營收2.79億元季增27.21%，惟泰國新廠投產折舊費用增加致每股虧0.78元（前三季每股虧0.05元）。目前健身器材與車用風扇出貨良好，將推進泰國廠產能爬坡與工控散熱應用。",
+        "key_points": ["Q3因泰國新廠折舊費用每股虧0.78元", "健身器材與車用風扇訂單添動能"]
+      }
+    },
+    {
+      "stock_id": "1598",
+      "stock_name": "岱宇",
+      "main_industry": "生技/運動休閒",
+      "sub_industries": ["健身器材/無人載具"],
+      "theme_tags": ["轉虧為盈", "無人載具"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 1元。轉型效益發揮，Q3營收14.66億元、毛利率44.8%季增6.3個百分點，加上美國對等關稅退稅，Q3 EPS 0.16元、前三季EPS 0.81元轉盈。復健醫療年增46.5%，無人載具年底至明年初出貨樣品單。",
+        "key_points": ["前三季EPS 0.81元轉虧為盈", "無人載具目標年底至明年初樣品單出貨"]
+      }
+    },
+    {
+      "stock_id": "1323",
+      "stock_name": "永裕",
+      "main_industry": "塑膠/包材",
+      "sub_industries": ["塑膠軟管與容器"],
+      "theme_tags": ["獲利大增", "高毛利訂單"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚爆個股"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "估EPS 1.2元。產品組合優化與高毛利訂單拉升，Q3毛利率22.18%年增10.28個百分點、EPS 0.66元；前三季稅後純益1.53億元年增2,778.48%、EPS 1.67元，並跨足電商通路、代客充填與自有保養品牌。",
+        "key_points": ["Q3 EPS 0.66元，前三季EPS 1.67元獲利增逾27倍", "開發多元料源並跨足代客充填與電商通路"]
+      }
+    },
+    {
+      "stock_id": "7796",
+      "stock_name": "擷發科",
+      "main_industry": "無人機/IC設計",
+      "sub_industries": ["六軸無人機整機"],
+      "theme_tags": ["興櫃搶先爆", "非紅供應鏈"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-興櫃搶先爆"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "在德國electronica 2026展出自行開發六軸無人機整機，AI運算、控制到通訊晶片皆自家設計並整合作為一站式交貨，載重達70公斤、符合非紅供應鏈，美國能源與消防器材客戶洽談中，最快2027年貢獻營收。",
+        "key_points": ["六軸無人機轉攻整機，載重70公斤且具非紅供應鏈優勢", "美能源與消防客戶洽談中，最快2027年貢獻營收"]
+      }
+    },
+    {
+      "stock_id": "6223",
+      "stock_name": "旺矽",
+      "main_industry": "半導體設備",
+      "sub_industries": ["探針卡"],
+      "theme_tags": ["預估EPS上調"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "列入萬寶投顧2026年預估EPS上調名單，2026年預估EPS上調至70元。",
+        "key_points": ["2026年預估EPS上調至70元"]
+      }
+    },
+    {
+      "stock_id": "3167",
+      "stock_name": "大量",
+      "main_industry": "半導體與PCB設備",
+      "sub_industries": ["成型機/半導體量測設備"],
+      "theme_tags": ["預估EPS上調"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "列入萬寶投顧2026年預估EPS上調名單，2026年預估EPS上調至31.5元。",
+        "key_points": ["2026年預估EPS上調至31.5元"]
+      }
+    },
+    {
+      "stock_id": "6640",
+      "stock_name": "均華",
+      "main_industry": "半導體設備",
+      "sub_industries": ["先進封裝設備"],
+      "theme_tags": ["預估EPS上調"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "列入萬寶投顧2026年預估EPS上調名單，2026年預估EPS上調至28元。",
+        "key_points": ["2026年預估EPS上調至28元"]
+      }
+    },
+    {
+      "stock_id": "3231",
+      "stock_name": "緯創",
+      "main_industry": "AI伺服器",
+      "sub_industries": ["ODM組裝與GPU基板"],
+      "theme_tags": ["預估EPS上調", "AI供應鏈"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026年預估EPS上調至20元（前三季13.54元）。在AI供應鏈中輝達陣營占比20~25%、非輝達<5%，受惠掌握GPU基板，受惠時程為現在至2027年。",
+        "key_points": ["2026年預估EPS上調至20元", "掌握GPU基板，受惠時程至2027年"]
+      }
+    },
+    {
+      "stock_id": "6672",
+      "stock_name": "騰輝電子-KY",
+      "main_industry": "PCB/CCL",
+      "sub_industries": ["特殊銅箔基板"],
+      "theme_tags": ["預估EPS上調"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "列入萬寶投顧2026年預估EPS上調名單，2026年預估EPS上調至16.4元。",
+        "key_points": ["2026年預估EPS上調至16.4元"]
+      }
+    },
+    {
+      "stock_id": "4576",
+      "stock_name": "大銀微",
+      "main_industry": "自動化/機器人",
+      "sub_industries": ["精密定位平台"],
+      "theme_tags": ["預估EPS上調"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "列入萬寶投顧2026年預估EPS上調名單，2026年預估EPS上調至6元。",
+        "key_points": ["2026年預估EPS上調至6元"]
+      }
+    },
+    {
+      "stock_id": "4755",
+      "stock_name": "三福化",
+      "main_industry": "半導體",
+      "sub_industries": ["精密化學品"],
+      "theme_tags": ["預估EPS上調"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "列入萬寶投顧2026年預估EPS上調名單，2026年預估EPS上調至6元。",
+        "key_points": ["2026年預估EPS上調至6元"]
+      }
+    },
+    {
+      "stock_id": "2355",
+      "stock_name": "敬鵬",
+      "main_industry": "PCB",
+      "sub_industries": ["車用PCB"],
+      "theme_tags": ["預估EPS上調", "法人調升評等"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表/包打聽快報"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026年預估EPS上調至2.7元。投顧指出順利反映原料成本並優化產品組合，調高評等與目標價；Q4營收估季增15%至20%，泰國新廠年底前完工並通過2026~2029擴產案。",
+        "key_points": ["2026年預估EPS上調至2.7元，獲投顧調升評等與目標價", "Q4營收估季增15~20%，泰國新廠年底完工"]
+      }
+    },
+    {
+      "stock_id": "2451",
+      "stock_name": "創見",
+      "main_industry": "記憶體",
+      "sub_industries": ["記憶體模組"],
+      "theme_tags": ["預估EPS下修"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "列入萬寶投顧2026年預估EPS下修名單，2026年預估EPS下調至80元。",
+        "key_points": ["2026年預估EPS下調至80元"]
+      }
+    },
+    {
+      "stock_id": "2313",
+      "stock_name": "華通",
+      "main_industry": "PCB",
+      "sub_industries": ["HDI/衛星板"],
+      "theme_tags": ["預估EPS下修"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "列入萬寶投顧2026年預估EPS下修名單，2026年預估EPS下調至6.3元。",
+        "key_points": ["2026年預估EPS下調至6.3元"]
+      }
+    },
+    {
+      "stock_id": "2413",
+      "stock_name": "環科",
+      "main_industry": "電子零組件",
+      "sub_industries": ["變壓器/電源供應器"],
+      "theme_tags": ["預估EPS下修"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "列入萬寶投顧2026年預估EPS下修名單，2026年預估EPS下調至2.5元。",
+        "key_points": ["2026年預估EPS下調至2.5元"]
+      }
+    },
+    {
+      "stock_id": "2427",
+      "stock_name": "三商電",
+      "main_industry": "資訊服務",
+      "sub_industries": ["系統整合"],
+      "theme_tags": ["預估EPS下修"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "列入萬寶投顧2026年預估EPS下修名單，2026年預估EPS下調至0.1元。",
+        "key_points": ["2026年預估EPS下調至0.1元"]
+      }
+    },
+    {
+      "stock_id": "6674",
+      "stock_name": "鋐寶",
+      "main_industry": "網通",
+      "sub_industries": ["纜線數據機/閘道器"],
+      "theme_tags": ["預估EPS下修"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "列入萬寶投顧2026年預估EPS下修名單，2026年預估EPS下調至-4.5元。",
+        "key_points": ["2026年預估EPS下調至-4.5元"]
+      }
+    },
+    {
+      "stock_id": "2449",
+      "stock_name": "京元電",
+      "main_industry": "半導體",
+      "sub_industries": ["IC測試"],
+      "theme_tags": ["AI供應鏈", "先進封測"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026年預估EPS 8.8元（前三季5.78元），輝達陣營占比10~20%、非輝達5~10%，承接不同晶片測試需求，受惠時程為現在至長期。",
+        "key_points": ["2026估EPS 8.8元，輝達與非輝達雙陣營受惠"]
+      }
+    },
+    {
+      "stock_id": "3661",
+      "stock_name": "世芯-KY",
+      "main_industry": "半導體",
+      "sub_industries": ["ASIC設計"],
+      "theme_tags": ["ASIC三雄", "漲停", "AI供應鏈"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-頭版/精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "台灣ASIC三雄之一，11/13盤中拉漲停。2026年預估EPS 130元（前三季75.94元），非輝達陣營占比100%，受惠時程為2027~2028年專案量產。",
+        "key_points": ["2026估EPS 130元，非輝達占比100%", "2027~2028年進入專案量產期"]
+      }
+    },
+    {
+      "stock_id": "3443",
+      "stock_name": "創意",
+      "main_industry": "半導體",
+      "sub_industries": ["ASIC設計"],
+      "theme_tags": ["ASIC三雄", "漲停", "AI供應鏈"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-頭版/精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "台灣ASIC三雄之一，11/13盤中拉漲停。2026年預估EPS 60元（前三季40.84元），非輝達陣營占比100%，中期至長期受惠雲端自研晶片。",
+        "key_points": ["2026估EPS 60元，非輝達占比100%", "中期至長期受惠自研晶片趨勢"]
+      }
+    },
+    {
+      "stock_id": "2454",
+      "stock_name": "聯發科",
+      "main_industry": "半導體",
+      "sub_industries": ["IC設計/ASIC"],
+      "theme_tags": ["ASIC三雄", "漲停", "Q3單季EPS前十"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-頭版/財報榜"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "台灣ASIC三雄之一，11/13盤中拉漲停並獲三大法人買超107.53億元。Q3單季EPS 17.5元年增10.5%、營收1,680.6億元年增18.3%、毛利率46.3%。",
+        "key_points": ["Q3單季EPS 17.5元，上市新公布季報第3高", "ASIC題材領軍漲停，三大法人單日大買逾百億"]
+      }
+    },
+    {
+      "stock_id": "3017",
+      "stock_name": "奇鋐",
+      "main_industry": "散熱",
+      "sub_industries": ["AI伺服器水冷散熱"],
+      "theme_tags": ["AI供應鏈", "水冷散熱"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026年預估EPS 102元（前三季73.86元），輝達占比15~20%、非輝達20~25%，同時掌握GPU與ASIC水冷商機，受惠時程現在至長期。11/13大漲9.55%且獲多檔主動ETF增持。",
+        "key_points": ["2026估EPS 102元，兼吃GPU與ASIC水冷大趨勢", "獲五檔熱門主動型ETF全數增持"]
+      }
+    },
+    {
+      "stock_id": "3324",
+      "stock_name": "雙鴻",
+      "main_industry": "散熱",
+      "sub_industries": ["AI伺服器水冷散熱"],
+      "theme_tags": ["AI供應鏈", "水冷散熱"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026年預估EPS 56元（前三季34.59元），輝達占比10~20%、非輝達10~15%，同時掌握GPU與ASIC散熱商機，受惠時程現在至長期。",
+        "key_points": ["2026估EPS 56元，兼吃GPU與ASIC散熱"]
+      }
+    },
+    {
+      "stock_id": "2382",
+      "stock_name": "廣達",
+      "main_industry": "AI伺服器",
+      "sub_industries": ["ODM組裝"],
+      "theme_tags": ["AI供應鏈", "整機櫃"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026年預估EPS 27元（前三季20.03元），輝達陣營占比30~40%、非輝達5~10%，為整機櫃主力，受惠時程為現在至2027年。",
+        "key_points": ["2026估EPS 27元，整機櫃主力至2027年"]
+      }
+    },
+    {
+      "stock_id": "2317",
+      "stock_name": "鴻海",
+      "main_industry": "AI伺服器",
+      "sub_industries": ["ODM組裝"],
+      "theme_tags": ["AI供應鏈", "GB200"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026年預估EPS 18.6元（前三季13.35元），輝達占比15~20%、非輝達5~10%，受惠GB200大單，受惠時程為現在至2027年。",
+        "key_points": ["2026估EPS 18.6元，受惠GB200大單至2027年"]
+      }
+    },
+    {
+      "stock_id": "6669",
+      "stock_name": "緯穎",
+      "main_industry": "AI伺服器",
+      "sub_industries": ["雲端伺服器ODM"],
+      "theme_tags": ["AI供應鏈", "ASIC主力"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-頭版/精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "過去AI產品中ASIC專案約占九成。2026年預估EPS 140元（前三季94.04元），非輝達占比45~55%、輝達<10%，2026~2027年為ASIC主力受惠股。",
+        "key_points": ["2026估EPS 140元，非輝達占比45~55%", "2026~2027年為非輝達ASIC主力受惠廠"]
+      }
+    },
+    {
+      "stock_id": "2308",
+      "stock_name": "台達電",
+      "main_industry": "電源/散熱",
+      "sub_industries": ["AI伺服器電源與散熱"],
+      "theme_tags": ["AI供應鏈"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026年預估EPS 37元（前三季26.64元），輝達占比10~20%、非輝達10~15%，同時掌握GPU與ASIC電源散熱商機，受惠時程現在至長期。",
+        "key_points": ["2026估EPS 37元，GPU與ASIC電源散熱雙吃"]
+      }
+    },
+    {
+      "stock_id": "6213",
+      "stock_name": "聯茂",
+      "main_industry": "PCB/CCL",
+      "sub_industries": ["銅箔基板"],
+      "theme_tags": ["AI供應鏈"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026年預估EPS 26元（前三季12.8元），輝達占比<5%、非輝達10~15%，受惠時程為中期至長期。",
+        "key_points": ["2026估EPS 26元，非輝達占比10~15%"]
+      }
+    },
+    {
+      "stock_id": "2368",
+      "stock_name": "金像電",
+      "main_industry": "PCB",
+      "sub_industries": ["伺服器PCB"],
+      "theme_tags": ["AI供應鏈", "主動ETF增持"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-精選圖表"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "2026年預估EPS 40元（前三季28.41元），輝達占比<5%、非輝達10~15%，受惠時程為中期至長期；11月獲五檔熱門主動型ETF全數增持。",
+        "key_points": ["2026估EPS 40元，非輝達占比10~15%", "獲五檔熱門主動型ETF全數增持"]
+      }
+    },
+    {
+      "stock_id": "6643",
+      "stock_name": "M31",
+      "main_industry": "半導體",
+      "sub_industries": ["矽智財(IP)"],
+      "theme_tags": ["ASIC漲停"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-頭版"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "黃仁勳卸任輝達CEO後市場資金轉進非輝達與ASIC族群，M31於11/13盤中強攻漲停。",
+        "key_points": ["ASIC概念股全面反攻，盤中拉漲停"]
+      }
+    },
+    {
+      "stock_id": "7749",
+      "stock_name": "意騰-KY",
+      "main_industry": "半導體",
+      "sub_industries": ["AI語音處理ASIC"],
+      "theme_tags": ["ASIC漲停"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-頭版"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "受惠AI資金轉向ASIC概念股全面反攻，意騰-KY於11/13盤中拉漲停。",
+        "key_points": ["ASIC概念股全面反攻，盤中拉漲停"]
+      }
+    },
+    {
+      "stock_id": "6533",
+      "stock_name": "晶心科",
+      "main_industry": "半導體",
+      "sub_industries": ["RISC-V處理器IP"],
+      "theme_tags": ["ASIC漲停"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-頭版"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "受惠AI資金轉向ASIC概念股全面反攻，晶心科於11/13盤中拉漲停。",
+        "key_points": ["ASIC概念股全面反攻，盤中拉漲停"]
+      }
+    },
+    {
+      "stock_id": "8227",
+      "stock_name": "巨有科技",
+      "main_industry": "半導體",
+      "sub_industries": ["ASIC設計服務"],
+      "theme_tags": ["ASIC漲停"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-頭版"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "受惠AI資金轉向ASIC概念股全面反攻，巨有科技於11/13盤中拉漲停。",
+        "key_points": ["ASIC概念股全面反攻，盤中拉漲停"]
+      }
+    },
+    {
+      "stock_id": "3035",
+      "stock_name": "智原",
+      "main_industry": "半導體",
+      "sub_industries": ["ASIC設計服務"],
+      "theme_tags": ["ASIC漲停"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-頭版"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "受惠AI資金轉向ASIC概念股全面反攻，智原於11/13盤中拉漲停。",
+        "key_points": ["ASIC概念股全面反攻，盤中拉漲停"]
+      }
+    },
+    {
+      "stock_id": "2880",
+      "stock_name": "華南金",
+      "main_industry": "金融",
+      "sub_industries": ["公股金控"],
+      "theme_tags": ["獲利創高"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚產業新聞"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "前十月稅後純益284.56億元年增26.85%、EPS 2.02元，創同期新高並賺贏去年全年；10月單月獲利20.89億元，華南永昌證券前十月較一銀證券多賺22.83億元。",
+        "key_points": ["前十月EPS 2.02元創同期新高並賺贏去年全年"]
+      }
+    },
+    {
+      "stock_id": "2892",
+      "stock_name": "第一金",
+      "main_industry": "金融",
+      "sub_industries": ["公股金控"],
+      "theme_tags": ["獲利創高"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-今晚產業新聞"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "前十月稅後純益280.01億元年增19.6%、EPS 1.95元，創同期新高並賺贏去年全年；10月單月獲利17.76億元年增3.98%，一銀前十月較華南銀多賺21.48億元。",
+        "key_points": ["前十月EPS 1.95元創同期新高並賺贏去年全年"]
+      }
+    },
+    {
+      "stock_id": "7610",
+      "stock_name": "聯友金屬-創",
+      "main_industry": "鋼鐵/金屬回收",
+      "sub_industries": ["稀有金屬回收"],
+      "theme_tags": ["Q3單季EPS前十"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-財報榜"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "11/13新公布Q3單季EPS 25.48元（年增1,890.6%）居上市第2，季營收31.8億元年增764.6%、毛利率64%、淨利率46.7%。",
+        "key_points": ["Q3單季EPS 25.48元、毛利率64%，年增近19倍"]
+      }
+    },
+    {
+      "stock_id": "6442",
+      "stock_name": "光聖",
+      "main_industry": "網通/光通訊",
+      "sub_industries": ["光被動元件"],
+      "theme_tags": ["Q3單季EPS前十"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-財報榜"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "11/13新公布Q3單季EPS 15.83元（年增125.5%）居上市第4，季營收49.2億元年增95.7%、毛利率59.3%、淨利率26%。",
+        "key_points": ["Q3單季EPS 15.83元年增125.5%、毛利率59.3%"]
+      }
+    },
+    {
+      "stock_id": "1590",
+      "stock_name": "亞德客-KY",
+      "main_industry": "電機機械",
+      "sub_industries": ["氣動元件"],
+      "theme_tags": ["Q3單季EPS前十"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-財報榜"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "11/13新公布Q3單季EPS 14.23元（年增35.5%）居上市第5，季營收115.1億元年增39.6%、毛利率49.4%、淨利率24.7%。",
+        "key_points": ["Q3單季EPS 14.23元，毛利率49.4%"]
+      }
+    },
+    {
+      "stock_id": "2376",
+      "stock_name": "技嘉",
+      "main_industry": "AI伺服器/板卡",
+      "sub_industries": ["伺服器與主機板"],
+      "theme_tags": ["Q3單季EPS前十"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-財報榜"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "11/13新公布Q3單季EPS 12.79元（年增179.9%）居上市第6，季營收1,547.1億元年增94.4%、毛利率14%（年增4.09百分點）。",
+        "key_points": ["Q3單季EPS 12.79元年增179.9%，毛利率年增4.09百分點"]
+      }
+    },
+    {
+      "stock_id": "8996",
+      "stock_name": "高力",
+      "main_industry": "能源/散熱",
+      "sub_industries": ["燃料電池/液冷散熱"],
+      "theme_tags": ["Q3單季EPS前十"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-財報榜"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "11/13新公布Q3單季EPS 5.7元（年增101.4%）居上市第9，季營收37.4億元年增109.6%、毛利率28.3%、淨利率14.2%。",
+        "key_points": ["Q3單季EPS 5.7元翻倍成長"]
+      }
+    },
+    {
+      "stock_id": "3131",
+      "stock_name": "弘塑",
+      "main_industry": "半導體設備",
+      "sub_industries": ["濕製程設備"],
+      "theme_tags": ["Q3單季EPS前十"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-財報榜"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "11/13新公布Q3單季EPS 13.38元（年增28.7%）居上櫃第1，季營收22.2億元年增48.7%、毛利率36.6%、淨利率17.4%。",
+        "key_points": ["Q3單季EPS 13.38元奪上櫃單季EPS冠軍"]
+      }
+    },
+    {
+      "stock_id": "6199",
+      "stock_name": "天品",
+      "main_industry": "AI伺服器散熱/生命禮儀",
+      "sub_industries": ["AI液冷潔淨"],
+      "theme_tags": ["Q3單季EPS前十"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-財報榜"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "11/13新公布Q3單季EPS 9.53元（年增1,091.2%）居上櫃第2，季營收2.5億元年增193.2%。",
+        "key_points": ["Q3單季EPS 9.53元居上櫃第2"]
+      }
+    },
+    {
+      "stock_id": "6667",
+      "stock_name": "信紘科",
+      "main_industry": "半導體設備工程",
+      "sub_industries": ["廠務供應系統"],
+      "theme_tags": ["Q3單季EPS前十"],
+      "classification_entry": {"date": "2026-11-13", "source": "萬寶晚報-財報榜"},
+      "analysis_entry": {
+        "date": "2026-11-13",
+        "content": "11/13新公布Q3單季EPS 8.24元（年增157.5%）居上櫃第3，季營收24.3億元年增45.9%、毛利率22.2%（年增2.97百分點）。",
+        "key_points": ["Q3單季EPS 8.24元，年增157.5%"]
+      }
+    }
+  ],
+  "chips_updates": [
+    {"stock_id": "2355", "stock_name": "敬鵬", "date": "2026-11-13", "category": "三大法人合計買超(上市張數第1/金額第4)", "detail": "買超34,794張，金額+22.93億元"},
+    {"stock_id": "2891", "stock_name": "中信金", "date": "2026-11-13", "category": "三大法人合計買超(上市張數第2/金額第7) / 主動型ETF加碼第1", "detail": "三大法人買超22,925張(+18.04億)；主動型ETF加碼+3,900張"},
+    {"stock_id": "2303", "stock_name": "聯電", "date": "2026-11-13", "category": "三大法人合計買超(上市張數第3/金額第5) / 主動型ETF減碼第1", "detail": "三大法人買超20,592張(+20.9億)；主動型ETF減碼-6,065張"},
+    {"stock_id": "3481", "stock_name": "群創", "date": "2026-11-13", "category": "三大法人合計買超(上市張數第4)", "detail": "買超14,567張，金額+5.82億元"},
+    {"stock_id": "2610", "stock_name": "華航", "date": "2026-11-13", "category": "三大法人合計買超(上市張數第5) / 主動型ETF加碼第3", "detail": "三大法人買超13,356張(+3.1億)；主動型ETF加碼+848張"},
+    {"stock_id": "2618", "stock_name": "長榮航", "date": "2026-11-13", "category": "三大法人合計買超(上市張數第6)", "detail": "買超13,212張，金額+6.31億元"},
+    {"stock_id": "2887", "stock_name": "台新新光金", "date": "2026-11-13", "category": "三大法人合計買超(上市張數第7)", "detail": "買超12,696張，金額+5.17億元"},
+    {"stock_id": "1326", "stock_name": "台化", "date": "2026-11-13", "category": "三大法人合計買超(上市張數第8)", "detail": "買超11,383張，金額+8.54億元"},
+    {"stock_id": "2885", "stock_name": "元大金", "date": "2026-11-13", "category": "三大法人合計買超(上市張數第9)", "detail": "買超8,661張，金額+6.3億元"},
+    {"stock_id": "2881", "stock_name": "富邦金", "date": "2026-11-13", "category": "三大法人合計買超(上市張數第10/金額第10)", "detail": "買超8,313張，金額+13.43億元"},
+    {"stock_id": "2454", "stock_name": "聯發科", "date": "2026-11-13", "category": "三大法人合計買超(上市金額第1)", "detail": "買超2,610張，金額+107.53億元"},
+    {"stock_id": "3661", "stock_name": "世芯-KY", "date": "2026-11-13", "category": "三大法人合計買超(上市金額第2)", "detail": "買超1,153張，金額+46.35億元"},
+    {"stock_id": "3017", "stock_name": "奇鋐", "date": "2026-11-13", "category": "三大法人合計買超(上市金額第3) / 主動型ETF加碼第11", "detail": "三大法人買超991張(+30.12億)；主動型ETF加碼+158張"},
+    {"stock_id": "3653", "stock_name": "健策", "date": "2026-11-13", "category": "三大法人合計買超(上市金額第6)", "detail": "買超338張，金額+18.09億元"},
+    {"stock_id": "2330", "stock_name": "台積電", "date": "2026-11-13", "category": "三大法人合計買超(上市金額第8) / 主動型ETF加碼第5", "detail": "三大法人買超744張(+17.47億)；主動型ETF加碼+542張(00981A加碼)"},
+    {"stock_id": "2368", "stock_name": "金像電", "date": "2026-11-13", "category": "三大法人合計買超(上市金額第9)", "detail": "買超1,404張，金額+14.46億元"},
+    {"stock_id": "2027", "stock_name": "大成鋼", "date": "2026-11-13", "category": "三大法人合計賣超(上市張數第1/金額第2)", "detail": "賣超46,164張，金額-20.54億元"},
+    {"stock_id": "2002", "stock_name": "中鋼", "date": "2026-11-13", "category": "三大法人合計賣超(上市張數第2/金額第7)", "detail": "賣超34,392張，金額-6.33億元"},
+    {"stock_id": "2409", "stock_name": "友達", "date": "2026-11-13", "category": "三大法人合計賣超(上市張數第3)", "detail": "賣超15,540張，金額-4.72億元"},
+    {"stock_id": "2324", "stock_name": "仁寶", "date": "2026-11-13", "category": "三大法人合計賣超(上市張數第4)", "detail": "賣超11,601張，金額-3.49億元"},
+    {"stock_id": "2356", "stock_name": "英業達", "date": "2026-11-13", "category": "三大法人合計賣超(上市張數第5)", "detail": "賣超8,361張，金額-3.85億元"},
+    {"stock_id": "1605", "stock_name": "華新", "date": "2026-11-13", "category": "三大法人合計賣超(上市張數第6)", "detail": "賣超7,147張，金額-2.38億元"},
+    {"stock_id": "6443", "stock_name": "元晶", "date": "2026-11-13", "category": "三大法人合計賣超(上市張數第7)", "detail": "賣超6,733張，金額-1.79億元"},
+    {"stock_id": "1802", "stock_name": "台玻", "date": "2026-11-13", "category": "三大法人合計賣超(上市張數第8)", "detail": "賣超6,602張，金額-5.62億元"},
+    {"stock_id": "1904", "stock_name": "正隆", "date": "2026-11-13", "category": "三大法人合計賣超(上市張數第9)", "detail": "賣超5,577張，金額-1.19億元"},
+    {"stock_id": "1102", "stock_name": "亞泥", "date": "2026-11-13", "category": "三大法人合計賣超(上市張數第10)", "detail": "賣超4,181張，金額-1.49億元"},
+    {"stock_id": "3037", "stock_name": "欣興", "date": "2026-11-13", "category": "三大法人合計賣超(上市金額第1)", "detail": "賣超2,737張，金額-21.48億元"},
+    {"stock_id": "2308", "stock_name": "台達電", "date": "2026-11-13", "category": "三大法人合計賣超(上市金額第3)", "detail": "賣超1,052張，金額-13.04億元"},
+    {"stock_id": "1303", "stock_name": "南亞", "date": "2026-11-13", "category": "三大法人合計賣超(上市金額第4) / 主動型ETF減碼第8", "detail": "三大法人賣超2,627張(-7.99億)；主動型ETF減碼-500張"},
+    {"stock_id": "6805", "stock_name": "富世達", "date": "2026-11-13", "category": "三大法人合計賣超(上市金額第5)", "detail": "賣超360張，金額-7.11億元"},
+    {"stock_id": "2408", "stock_name": "南亞科", "date": "2026-11-13", "category": "三大法人合計賣超(上市金額第6) / 主動型ETF減碼第2", "detail": "三大法人賣超1,720張(-6.48億)；主動型ETF減碼-2,300張"},
+    {"stock_id": "2360", "stock_name": "致茂", "date": "2026-11-13", "category": "三大法人合計賣超(上市金額第8) / 主動型ETF減碼第6", "detail": "三大法人賣超448張(-6.27億)；主動型ETF減碼-604張"},
+    {"stock_id": "2059", "stock_name": "川湖", "date": "2026-11-13", "category": "三大法人合計賣超(上市金額第9) / 主動型ETF減碼第12", "detail": "三大法人賣超75張(-5.9億)；主動型ETF減碼-12張"},
+    {"stock_id": "2376", "stock_name": "技嘉", "date": "2026-11-13", "category": "三大法人合計賣超(上市金額第10)", "detail": "賣超2,071張，金額-5.88億元"},
+    {"stock_id": "1815", "stock_name": "富喬", "date": "2026-11-13", "category": "三大法人合計買超(上櫃張數第1/金額第1)", "detail": "買超9,157張，金額+13億元"},
+    {"stock_id": "5314", "stock_name": "世紀*", "date": "2026-11-13", "category": "三大法人合計買超(上櫃張數第2)", "detail": "買超4,833張，金額+1.21億元"},
+    {"stock_id": "4743", "stock_name": "合一", "date": "2026-11-13", "category": "三大法人合計買超(上櫃張數第3)", "detail": "買超2,687張"},
+    {"stock_id": "6147", "stock_name": "頎邦", "date": "2026-11-13", "category": "三大法人合計買超(上櫃張數第4/金額第7)", "detail": "買超2,518張，金額+4.32億元"},
+    {"stock_id": "3624", "stock_name": "光頡", "date": "2026-11-13", "category": "三大法人合計買超(上櫃張數第5)", "detail": "買超2,516張，金額+3.04億元"},
+    {"stock_id": "5347", "stock_name": "世界", "date": "2026-11-13", "category": "三大法人合計買超(上櫃張數第6)", "detail": "買超2,225張，金額+3億元"},
+    {"stock_id": "5904", "stock_name": "寶雅*", "date": "2026-11-13", "category": "三大法人合計買超(上櫃張數第7)", "detail": "買超2,165張，金額+1.65億元"},
+    {"stock_id": "8069", "stock_name": "元太", "date": "2026-11-13", "category": "三大法人合計買超(上櫃張數第8)", "detail": "買超1,790張，金額+2.61億元"},
+    {"stock_id": "3264", "stock_name": "欣銓", "date": "2026-11-13", "category": "三大法人合計買超(上櫃張數第9/金額第9)", "detail": "買超1,787張，金額+3.45億元"},
+    {"stock_id": "3105", "stock_name": "穩懋", "date": "2026-11-13", "category": "三大法人合計買超(上櫃金額第2)", "detail": "買超1,702張，金額+9.67億元"},
+    {"stock_id": "3293", "stock_name": "鈊象", "date": "2026-11-13", "category": "三大法人合計買超(上櫃金額第3)", "detail": "買超921張，金額+7.36億元"},
+    {"stock_id": "6510", "stock_name": "精測", "date": "2026-11-13", "category": "三大法人合計買超(上櫃金額第4)", "detail": "買超204張，金額+6.81億元"},
+    {"stock_id": "5274", "stock_name": "信驊", "date": "2026-11-13", "category": "三大法人合計買超(上櫃金額第5)", "detail": "買超53張，金額+6.35億元"},
+    {"stock_id": "3374", "stock_name": "精材", "date": "2026-11-13", "category": "三大法人合計買超(上櫃金額第6)", "detail": "買超1,207張，金額+6.27億元"},
+    {"stock_id": "3260", "stock_name": "威剛", "date": "2026-11-13", "category": "三大法人合計買超(上櫃金額第8)", "detail": "買超1,279張，金額+3.86億元"},
+    {"stock_id": "8299", "stock_name": "群聯", "date": "2026-11-13", "category": "三大法人合計買超(上櫃金額第10)", "detail": "買超203張，金額+3.32億元"},
+    {"stock_id": "6538", "stock_name": "倉和", "date": "2026-11-13", "category": "三大法人合計賣超(上櫃張數第1/金額第3)", "detail": "賣超3,254張，金額-9.55億元"},
+    {"stock_id": "8358", "stock_name": "金居", "date": "2026-11-13", "category": "三大法人合計賣超(上櫃張數第2/金額第2)", "detail": "賣超2,976張，金額-11.21億元"},
+    {"stock_id": "1569", "stock_name": "濱川", "date": "2026-11-13", "category": "三大法人合計賣超(上櫃張數第3/金額第10)", "detail": "賣超2,256張，金額-2.2億元"},
+    {"stock_id": "3441", "stock_name": "聯一光", "date": "2026-11-13", "category": "三大法人合計賣超(上櫃張數第4/金額第8)", "detail": "賣超1,255張，金額-2.48億元"},
+    {"stock_id": "3081", "stock_name": "聯亞", "date": "2026-11-13", "category": "三大法人合計賣超(上櫃張數第8/金額第1)", "detail": "賣超608張，金額-12.83億元"},
+    {"stock_id": "6223", "stock_name": "旺矽", "date": "2026-11-13", "category": "三大法人合計賣超(上櫃金額第4)", "detail": "賣超126張，金額-5.86億元"},
+    {"stock_id": "3491", "stock_name": "昇達科", "date": "2026-11-13", "category": "三大法人合計賣超(上櫃金額第5)", "detail": "賣超401張，金額-5.73億元"},
+    {"stock_id": "6274", "stock_name": "台燿", "date": "2026-11-13", "category": "三大法人合計賣超(上櫃金額第6) / 主動型ETF減碼第4", "detail": "三大法人賣超401張(-3.9億)；主動型ETF減碼-1,021張"},
+    {"stock_id": "3529", "stock_name": "力旺", "date": "2026-11-13", "category": "三大法人合計賣超(上櫃金額第7)", "detail": "賣超146張，金額-3.43億元"},
+    {"stock_id": "6187", "stock_name": "萬潤", "date": "2026-11-13", "category": "三大法人合計賣超(上櫃金額第9)", "detail": "賣超255張，金額-2.43億元"},
+    {"stock_id": "8070", "stock_name": "長華*", "date": "2026-11-13", "category": "主動型ETF加碼第2", "detail": "加碼+1,000張，11/13持有7,554張"},
+    {"stock_id": "2476", "stock_name": "鉅祥", "date": "2026-11-13", "category": "主動型ETF加碼第4", "detail": "加碼+552張，11/13持有2,017張"},
+    {"stock_id": "3044", "stock_name": "健鼎", "date": "2026-11-13", "category": "主動型ETF加碼第6", "detail": "加碼+520張，11/13持有3,645張"},
+    {"stock_id": "3711", "stock_name": "日月光投控", "date": "2026-11-13", "category": "主動型ETF加碼第7", "detail": "加碼+348張，11/13持有36,830張"},
+    {"stock_id": "6446", "stock_name": "藥華藥", "date": "2026-11-13", "category": "主動型ETF加碼第8", "detail": "加碼+223張，11/13持有1,497張"},
+    {"stock_id": "3665", "stock_name": "貿聯-KY", "date": "2026-11-13", "category": "主動型ETF加碼第9", "detail": "加碼+209張，11/13持有9,369張"},
+    {"stock_id": "3617", "stock_name": "碩天", "date": "2026-11-13", "category": "主動型ETF加碼第10", "detail": "加碼+200張，11/13持有855張"},
+    {"stock_id": "4958", "stock_name": "臻鼎-KY", "date": "2026-11-13", "category": "主動型ETF加碼第12", "detail": "加碼+100張，11/13持有10,765張"},
+    {"stock_id": "3231", "stock_name": "緯創", "date": "2026-11-13", "category": "主動型ETF加碼第13", "detail": "加碼+98張，11/13持有33,042張"},
+    {"stock_id": "2383", "stock_name": "台光電", "date": "2026-11-13", "category": "主動型ETF加碼第14", "detail": "加碼+85張，11/13持有11,625張"},
+    {"stock_id": "2317", "stock_name": "鴻海", "date": "2026-11-13", "category": "主動型ETF減碼第3", "detail": "減碼-2,173張，11/13持有15,759張"},
+    {"stock_id": "6505", "stock_name": "台塑化", "date": "2026-11-13", "category": "主動型ETF減碼第5", "detail": "減碼-723張，11/13持有9張"},
+    {"stock_id": "2637", "stock_name": "慧洋-KY", "date": "2026-11-13", "category": "主動型ETF減碼第7", "detail": "減碼-600張，11/13持有287張"},
+    {"stock_id": "6584", "stock_name": "南俊國際", "date": "2026-11-13", "category": "主動型ETF減碼第9", "detail": "減碼-176張，11/13持有170張"},
+    {"stock_id": "2467", "stock_name": "志聖", "date": "2026-11-13", "category": "主動型ETF減碼第10", "detail": "減碼-111張，11/13持有246張"},
+    {"stock_id": "2449", "stock_name": "京元電子", "date": "2026-11-13", "category": "主動型ETF減碼第11", "detail": "減碼-100張，11/13持有15,358張"}
+  ]
+}

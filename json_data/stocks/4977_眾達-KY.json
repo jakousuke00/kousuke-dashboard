@@ -1,0 +1,60 @@
+{
+  "stock_id": "4977",
+  "stock_name": "眾達-KY",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "高速光收發模組與CPO",
+      "光收發模組",
+      "CPO外置光源ELS",
+      "雷射封裝"
+    ],
+    "theme_tags": [
+      "800G/1.6T光模組",
+      "CPO矽光子",
+      "逆勢強勢股",
+      "CPO外置光源",
+      "博通供應鏈",
+      "光通訊"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：光通訊與矽光子"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "頭版主筆",
+      "investment_rating": "買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "列名頭版27檔逆勢強勢抗跌股。深耕CPO外置雷射光源(ELS)模組，緊密配合美系通訊晶片龍頭，光通訊高速升級趨勢明確，股價逆勢抗震。",
+      "key_points": [
+        "列名27檔逆勢抗跌指標，光通訊資金青睞。",
+        "CPO外置光源長線爆發力強，營運轉機確立。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "主力買盤低檔回補，逆勢走強守住重要均線。"
+    },
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "空方(漲多回檔)",
+      "title": "眾達-KY隨光通訊族群進行評價再平衡",
+      "content": "雖具800G/1.6T與CPO技術佈局，但因前期累積漲幅較大，市場轉趨檢視實質營收貢獻，短線資金撤出導致股價下跌(-6.16%)。",
+      "key_points": [
+        "光通訊族群短線獲利了結，股價拉回進行評價再平衡(-6.16%)"
+      ]
+    }
+  ]
+}

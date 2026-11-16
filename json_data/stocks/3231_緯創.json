@@ -1,0 +1,121 @@
+{
+  "stock_id": "3231",
+  "stock_name": "緯創",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "NB代工",
+      "AI伺服器ODM",
+      "AI伺服器組裝",
+      "ODM組裝與GPU基板"
+    ],
+    "theme_tags": [
+      "AI伺服器代工",
+      "Q3營收創新高",
+      "土洋同買",
+      "Vera Rubin出貨",
+      "AI伺服器Q4高峰",
+      "斥資80億在台擴產",
+      "Vera Rubin與AMD Helios",
+      "預估EPS上調",
+      "毛利連2季成長",
+      "AI供應鏈"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶產業報告-1028",
+        "category_mentioned": "NB/PC產業 > NB代工 (重點個股)"
+      },
+      {
+        "date": "2026-10-13",
+        "source": "萬寶晚報-10_13",
+        "category_mentioned": "AI伺服器硬體 > AI伺服器"
+      },
+      {
+        "date": "2026-10-08",
+        "source": "萬寶晚報-10_08",
+        "category_mentioned": "AI伺服器硬體 > AI伺服器ODM"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13",
+    "close_price": 194.5,
+    "est_eps_2026": 17.5,
+    "est_pe": 11.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "2026年預估EPS上調至20元（前三季13.54元）。在AI供應鏈中輝達陣營占比20~25%、非輝達<5%，受惠掌握GPU基板，受惠時程為現在至2027年。",
+      "key_points": [
+        "2026年預估EPS上調至20元",
+        "掌握GPU基板，受惠時程至2027年"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "content": "2026估EPS上調至20元。Q3營收首破兆元，毛利率5.9%，EPS 5.74元創新高(前三季13.54元)。通過在台AI新業務資本支出128.66億元，訂單能見度逾一年。",
+      "key_points": [
+        "Q3營收破兆元、EPS 5.74元創新高",
+        "砸128.66億元擴張台灣AI產能"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶產業報告-1028(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "Q3營收創新高，法人近5日狂買7.8萬張居冠、股價逼近52週高點",
+      "close_price": 194.5,
+      "price_change_5d_pct": 8.06,
+      "foreign_5d_lots": 64791,
+      "est_eps": 17.5,
+      "est_pe": 11.1,
+      "revenue_perf": "9月營收年增87.2%、月減17.2%，今年累計年增97.2%",
+      "content": "第3季營收創下新高；收194.50元，近5日、近20日皆上漲8.1%，股價接近52週高點206.00元。9月營收年增87.2%、月減17.2%，今年累計年增97.2%。法人近5日買超7.8萬張為表列個股中最多，外資、投信分別買超6.5萬張（64,791張）與6,992張。萬寶預估2026年EPS 17.5元，預估本益比11.1倍。",
+      "key_points": [
+        "第3季營收創歷史新高，今年累計營收年增97.2%",
+        "法人近5日買超7.8萬張居冠（外資買超64,791張、投信買超6,992張）",
+        "萬寶預估2026 EPS 17.5元，預估本益比11.1倍"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "source_file": "萬寶晚報-10_13.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "斥資逾80億元在台擴產、購中強光電台南廠，Vera Rubin與AMD Helios竹北量產",
+      "close_price": 187.0,
+      "price_change_pct": -1.32,
+      "volume_lots": 39521,
+      "est_eps": 17.5,
+      "est_pe": 11.0,
+      "revenue_perf": "新竹、高雄產線再投約71億元，並以不超過10億元購入中強光電台南南科廠",
+      "content": "因應AI伺服器擴產，總投資上看80億元擴充新竹、高雄及台南南科廠；Vera Rubin在竹北A1廠趕單，AMD Helios架構前段產品於竹北A2廠量產、年底前出貨。",
+      "key_points": [
+        "斥資逾80億元擴充竹北、高雄與台南南科產線",
+        "Vera Rubin於竹北A1廠趕單，AMD Helios於A2廠年底前出貨"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "source_file": "萬寶晚報-10_08.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收3,808億元年增87%創同期高，Vera Rubin開始出貨、Q4達全年高峰",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 17.5,
+      "est_pe": 11.0,
+      "revenue_perf": "9月營收3,808.06億元年增87.2%；前九月2.89兆元、年增97.2%",
+      "content": "無論AI伺服器、通用伺服器或網通出貨量都將在Q4達到全年高峰，新一代Vera Rubin已開始出貨並逐漸放量。",
+      "key_points": [
+        "前九月營收2.89兆元年增97.2%",
+        "新一代Vera Rubin已開始出貨，Q4伺服器出貨達全年高峰"
+      ]
+    }
+  ]
+}

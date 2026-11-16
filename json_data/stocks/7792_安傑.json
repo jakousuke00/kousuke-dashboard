@@ -1,0 +1,45 @@
+{
+  "stock_id": "7792",
+  "stock_name": "安傑",
+  "industry_profile": {
+    "main_industry": "電機機械",
+    "sub_industries": [
+      "廠務工程",
+      "高科技電力系統"
+    ],
+    "theme_tags": [
+      "台積電供應鏈",
+      "在手訂單百億"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 高科技廠務"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "est_eps_2026": 10.8,
+    "est_pe": 39.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "今晚爆個股",
+      "stance": "強烈偏多",
+      "title": "8月每股賺1.22元，高科技廠務在手訂單達150億元",
+      "close_price": null,
+      "est_eps": 10.8,
+      "est_pe": 39.0,
+      "revenue_perf": "8月營收年增67.72%，上半年EPS 6.85元創新高",
+      "content": "8月營收6.79億元年增67.72%，單月EPS 1.22元，上半年EPS 6.85元。高科技廠房電力系統整合訂單達150億元，客戶涵蓋台積電、美光等，能見度至2028年。",
+      "key_points": [
+        "在手訂單達150億元，能見度延伸至2028年",
+        "客戶涵蓋台積電與美光，屏東新廠2027動工"
+      ]
+    }
+  ]
+}

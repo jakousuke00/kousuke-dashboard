@@ -1,0 +1,45 @@
+{
+  "stock_id": "3252",
+  "stock_name": "海灣",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "休閒度假與主題樂園"
+    ],
+    "theme_tags": [
+      "休閒飯店"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 休閒度假與主題樂園"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 14.6,
+    "est_eps_2026": -0.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏空",
+      "title": "海灣9月營收年減15.4%，預估EPS -0.1元",
+      "close_price": 14.6,
+      "price_change_5d_pct": -0.34,
+      "foreign_5d_lots": -9,
+      "est_eps": -0.1,
+      "est_pe": null,
+      "revenue_perf": "9月營收年減15.4%",
+      "content": "收盤14.60元，近5日小跌0.34%，外資近5日賣超9張。9月營收年減15.4%為表列衰退較多者，萬寶預估2026年EPS為-0.1元。",
+      "key_points": [
+        "9月營收年減15.4%，萬寶預估2026年EPS -0.1元",
+        "近5日股價小跌0.34%，成交相對清淡"
+      ]
+    }
+  ]
+}

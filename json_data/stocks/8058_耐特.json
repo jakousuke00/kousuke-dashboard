@@ -1,0 +1,73 @@
+{
+  "stock_id": "8058",
+  "stock_name": "耐特",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "工程塑膠",
+      "半導體載具與BBU材料",
+      "導熱高分子",
+      "車用複合材料"
+    ],
+    "theme_tags": [
+      "暫定承銷價88元",
+      "11月下旬上市",
+      "高階應用占比衝35%",
+      "新股掛牌上市",
+      "競拍底價62.5元",
+      "產能利用率回升",
+      "導熱材料"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-30",
+        "source": "萬寶晚報-10_30",
+        "category_mentioned": "興櫃搶先報"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 115.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "興櫃搶先爆",
+      "investment_rating": "逢低買進",
+      "target_price": null,
+      "estimated_eps": 4.0,
+      "estimated_pe": 20.0,
+      "content": "預計11月19日上市，競拍底價62.5元、承銷價暫定80元。上半年營收14.21億元、毛利率29%、每股賺1.85元。產能利用率由64.7%回升至70%，明年營收獲利看優於今年。",
+      "key_points": [
+        "11月19日掛牌上市，競拍4,896張底價62.5元，暫定承銷價80元。",
+        "上半年毛利率達29%、每股賺1.85元，產能利用率穩步攀升至七成。"
+      ],
+      "operational_metrics": {
+        "ipo_price": 80.0,
+        "auction_floor_price": 62.5,
+        "h1_revenue": 14.21,
+        "h1_gross_margin": 29.0,
+        "h1_eps": 1.85
+      },
+      "chips_observation": "競價拍賣啟動吸引市場抽籤熱潮，評價相對具上漲空間。"
+    },
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶晚報-10_30.pdf",
+      "section": "興櫃搶先報",
+      "stance": "偏多",
+      "title": "耐特上市前業績發表暫定承銷價88元，半導體與BBU高階材料占比衝35%",
+      "close_price": 115.0,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "9月營收2.5億元年增45.16%，前九月營收21.37億元年增17.7%",
+      "content": "耐特暫定每股88元於11月下旬上市。轉型高科技材料解決方案商，半導體用料上半年營收占比攀至19.16%，半導體載具、IC Tray及BBU上半年占比達25.76%，明年挑戰35%，營運成長加速。",
+      "key_points": [
+        "暫定每股承銷價88元於11月下旬掛牌上市，9月營收年增45%",
+        "半導體載具與BBU等高科技材料占比大躍進，明年挑戰35%"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "stock_id": "旭電馳科研",
+  "stock_name": "旭電馳科研(U-POWER)",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "電動車超高速充電營運商"
+    ],
+    "theme_tags": [
+      "興櫃搶先爆",
+      "和泰車入股",
+      "全台120站超充"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {},
+  "analysis_timeline": [
+    {
+      "report_date": "2026-11-05",
+      "source_section": "興櫃搶先爆",
+      "estimated_eps": "2026上半年EPS -0.16元",
+      "pe_ratio": null,
+      "content": "將於11月13日登錄興櫃，已建立全台120站、逾800個充電車格。9月完成3.6億元現增，和泰車及旗下經銷商認購約三分之一。今年上半年營收1.37億元、年增44%，每股虧0.16元，目標2027年營收高雙位數成長、至少單季損益兩平。",
+      "key_points": [
+        "11月13日登錄興櫃，獲和泰車集團策略入股",
+        "上半年營收年增44%，目標2027年至少單季損益兩平"
+      ]
+    }
+  ]
+}

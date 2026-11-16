@@ -1,0 +1,30 @@
+{
+  "stock_id": "8374",
+  "stock_name": "羅昇",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "智慧物流",
+      "機器人大腦"
+    ],
+    "theme_tags": [
+      "機器人大腦破數千套",
+      "前三季獲利倍增"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-16"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-16",
+      "content": "前三季營收44.42億元年增36.21%、稅後純益年增97.47%，每股1.39元。機器人大腦打入國際頂級機器人品牌供應鏈，海外出貨突破數千套，深化半導體與矽晶圓清洗合作，2026估EPS 1.6元。",
+      "key_points": [
+        "機器人大腦打入國際頂級品牌供應鏈",
+        "海外出貨突破數千套",
+        "前三季獲利倍增"
+      ]
+    }
+  ]
+}

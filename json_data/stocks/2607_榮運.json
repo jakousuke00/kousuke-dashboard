@@ -1,0 +1,47 @@
+{
+  "stock_id": "2607",
+  "stock_name": "榮運",
+  "industry_profile": {
+    "main_industry": "陸海空運輸",
+    "sub_industries": [
+      "貨運承攬與陸運"
+    ],
+    "theme_tags": [
+      "長榮集團",
+      "貨櫃集散與物流"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-18",
+        "source": "萬寶產業報告-1018",
+        "category_mentioned": "陸海空運輸 > 重點個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-18",
+    "close_price": 58.5,
+    "est_eps_2026": 4.6,
+    "est_pe": 12.7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-18",
+      "source_file": "萬寶產業報告-1018(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日上漲3.54%，9月營收年增64.7%、預估EPS 4.6元",
+      "close_price": 58.5,
+      "price_change_5d_pct": 3.54,
+      "foreign_5d_lots": 2379,
+      "est_eps": 4.6,
+      "est_pe": 12.7,
+      "revenue_perf": "9月營收年增64.7%",
+      "content": "收盤58.50元，近5日上漲3.54%，9月營收年增64.7%，外資近5日買超2,379張，萬寶預估2026年EPS 4.6元，預估本益比12.7倍。",
+      "key_points": [
+        "9月營收年增64.7%，外資近5日買超2,379張",
+        "萬寶預估2026 EPS 4.6元，預估本益比12.7倍"
+      ]
+    }
+  ]
+}

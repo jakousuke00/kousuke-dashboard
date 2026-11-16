@@ -1,0 +1,71 @@
+{
+  "stock_id": "3211",
+  "stock_name": "順達",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "電池模組",
+      "BBU",
+      "筆電電池模組",
+      "BBU備援電池",
+      "儲能系統"
+    ],
+    "theme_tags": [
+      "BBU備援電池",
+      "800V產品",
+      "EPS上調",
+      "主動ETF減碼150張",
+      "短線獲利了結",
+      "高股息"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-19",
+        "source": "萬寶晚報-10_19",
+        "category_mentioned": "NB/PC產業 > 今晚爆個股 / 精選圖表"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-04",
+    "close_price": 343.0,
+    "est_eps_2026": 12.0,
+    "est_pe": 29
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主動型ETF看盤",
+      "investment_rating": "中立",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "主動型ETF單日減碼150張，位居主動型ETF減碼榜第二名，持股降至1,850張（佔比0.42%）。受BBU題材大漲後法人獲利結算影響，股價短線回檔整理。",
+      "key_points": [
+        "主動型ETF單日減碼150張居減碼榜第二名。",
+        "股價前期漲多後面臨法人獲利了結調節。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "主動型ETF單日減碼150張，法人比重小幅下滑0.05個百分點。"
+    },
+    {
+      "date": "2026-10-19",
+      "source_file": "萬寶晚報-10_19.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3每股賺2.33元季增62%，Q4新客戶加入",
+      "close_price": 343.0,
+      "price_change_pct": -0.87,
+      "volume_lots": 2133,
+      "est_eps": 12.0,
+      "est_pe": 29,
+      "revenue_perf": "Q3營收36.81億元(季增5.44%)，前三季EPS 5.73元",
+      "content": "Q3稅後純益3.36億元、季增62.32%，EPS 2.33元；前三季EPS 5.73元。Q4有BBU新客戶加入，8kW、12kW第四季開始出貨，15kW以上及800V產品2027年出貨，全年營收維持雙位數成長，萬寶上調預估EPS至12元。",
+      "key_points": [
+        "Q3 EPS 2.33元季增62%，前三季5.73元",
+        "8kW/12kW BBU於Q4出貨，800V產品2027年出貨"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "stock_id": "2208",
+  "stock_name": "台船",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "造船工業",
+      "國防無人艇"
+    ],
+    "theme_tags": [
+      "無人艇標案",
+      "近300億預算",
+      "攜手美商"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "產業新聞"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "產業新聞",
+      "stance": "偏多",
+      "title": "海軍編列近300億採購無人艇，台船攜美商Havoc搶單",
+      "close_price": null,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "首年編列30.1億元籌獲首批120艘，海軍最快年底招標",
+      "content": "國軍編列近300億採購1,320艘無人艇，台船攜手美商Havoc AI展示群控無人艇，志在必得搶下首批120艘訂單，受惠國防無人載具政策商機。",
+      "key_points": [
+        "爭取海軍近300億元1320艘自殺無人艇大單",
+        "攜手美商Havoc展示邊端群控無人載具"
+      ]
+    }
+  ]
+}

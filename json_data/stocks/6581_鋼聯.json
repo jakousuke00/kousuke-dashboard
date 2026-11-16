@@ -1,0 +1,47 @@
+{
+  "stock_id": "6581",
+  "stock_name": "鋼聯",
+  "industry_profile": {
+    "main_industry": "其他",
+    "sub_industries": [
+      "資源回收再利用",
+      "氧化鋅與集塵灰處理"
+    ],
+    "theme_tags": [
+      "前三季賺超去年",
+      "鋅價大漲三成",
+      "飛灰再利用放量"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-30",
+        "source": "萬寶晚報-10_30",
+        "category_mentioned": "今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-30",
+    "close_price": 112.0,
+    "est_eps_2026": 8.0,
+    "est_pe": 14.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶晚報-10_30.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "鋼聯前三季每股賺6.4元超越去年全年，鋅價高檔助攻全年獲利衝高",
+      "close_price": 112.0,
+      "est_eps": 8.0,
+      "est_pe": 14.0,
+      "revenue_perf": "前三季純益7.13億元年增43.79%，每股賺6.4元，已超過去年全年的6.87億元",
+      "content": "鋼聯受惠國際鋅價年漲近3成及低加工費效益，前三季EPS 6.4元超去年全年。環評通過擴大含鋅資源物與飛灰收受量，廢耐火材安定化業務挹注新成長動能，萬寶估全年EPS達8元、本益比14倍。",
+      "key_points": [
+        "前三季EPS 6.4元賺贏去年全年，國際鋅價大漲三成助推毛利",
+        "環評變更通過擴大飛灰收受與廢耐火材業務，增添新成長動能"
+      ]
+    }
+  ]
+}

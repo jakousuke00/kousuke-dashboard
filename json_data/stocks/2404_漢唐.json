@@ -1,0 +1,28 @@
+{
+  "stock_id": "2404",
+  "stock_name": "漢唐",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "無塵室機電工程"
+    ],
+    "theme_tags": [
+      "美國建廠",
+      "高能見度"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 77元。Q3營收275.37億元年增43.16%、EPS 24.19元續創新高，前三季EPS 60.42元改寫年度新高。晶圓客戶美國廠二期進度逾5成，今年美國營收有機會過半，建廠需求看到2029年。",
+      "key_points": [
+        "Q3 EPS 24.19元創新高，前十月營收年增61.45%",
+        "美國廠二期進度逾5成，需求看到2029年"
+      ]
+    }
+  ]
+}

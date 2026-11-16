@@ -1,0 +1,57 @@
+{
+  "stock_id": "3673",
+  "stock_name": "TPK-KY",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "觸控面板",
+      "TGV玻璃基板"
+    ],
+    "theme_tags": [
+      "TGV玻璃基板",
+      "先進封裝轉型",
+      "轉虧為盈"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-21",
+        "source": "萬寶晚報-10_21",
+        "category_mentioned": "光電相關 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 75.8,
+    "est_eps_2026": 2.5,
+    "est_pe": 30
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 2.5元。Q3毛利率升至11.4%，營業利益4.59億元較上季轉盈，EPS 0.73元(前三季4.06元)。電子書出貨子公司奕力-KY營收季增17.2%支撐營運。",
+      "key_points": [
+        "Q3營業利益轉盈，前三季EPS 4.06元",
+        "9月底淨現金約197.6億元"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶晚報-10_21.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "兩年投入60億元建TGV玻璃基板量產廠",
+      "close_price": 75.8,
+      "price_change_pct": 4.7,
+      "volume_lots": 20538,
+      "est_eps": 2.5,
+      "est_pe": 30,
+      "revenue_perf": null,
+      "content": "首度參加TPCA Show展出300x300mm大尺寸玻璃基板TGV面板，中壢試產線已完成，正與先進封裝業者共同開發驗證，目標2027年底完成核心技術驗證、2028年導入量產，未來兩年逐步投入60億元建廠。",
+      "key_points": [
+        "展出300x300mm TGV玻璃基板，2028年量產",
+        "未來兩年投入60億元於中壢桃園建置量產廠"
+      ]
+    }
+  ]
+}

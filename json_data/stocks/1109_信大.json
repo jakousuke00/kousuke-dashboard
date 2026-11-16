@@ -1,0 +1,45 @@
+{
+  "stock_id": "1109",
+  "stock_name": "信大",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "水泥"
+    ],
+    "theme_tags": [
+      "水泥廠"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-23",
+        "source": "萬寶產業報告-1023",
+        "category_mentioned": "水泥 > 水泥 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-23",
+    "close_price": 13.05,
+    "est_eps_2026": 0.6,
+    "est_pe": 21.8
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-23",
+      "source_file": "萬寶產業報告-1023(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "近5日小跌0.38%，9月營收年減25.8%、預估EPS 0.6元",
+      "close_price": 13.05,
+      "price_change_5d_pct": -0.38,
+      "foreign_5d_lots": -208,
+      "est_eps": 0.6,
+      "est_pe": 21.8,
+      "revenue_perf": "9月營收年減25.8%",
+      "content": "收盤13.05元，近5日下跌0.38%，9月營收年減25.8%，外資近5日賣超208張，萬寶預估EPS 0.6元，預估本益比21.8倍。",
+      "key_points": [
+        "9月營收年減25.8%，萬寶預估EPS 0.6元"
+      ]
+    }
+  ]
+}

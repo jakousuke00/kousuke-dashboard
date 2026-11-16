@@ -1,0 +1,1729 @@
+{
+  "processed_files": {
+    "reports/11月份/萬寶晚報-11_06.pdf": {
+      "report_date": "2026-11-06",
+      "report_type": "萬寶晚報",
+      "main_topic": "倚天劍制衡屠龍刀，台股轉機要看誰？外資賣壓變少，融資清理，二招選強勢股反攻！",
+      "extracted_stocks_count": 68
+    }
+  },
+  "industries_updates": [
+    {
+      "main_industry": "半導體、ASIC與光通訊",
+      "sub_categories": {
+        "ASIC與IP矽智財": {
+          "description": "AI客戶自研ASIC晶圓產品放量，帶動先進製程N2P、CoWoS-L與HBM4E介面IP及硬體安全PUF/OTP需求。",
+          "stocks": [
+            {"id": "3443", "name": "創意", "role": "10月營收84.33億首破80億並連5月創高，N2P與CoWoS-L的HBM4E介面IP獲AI ASIC採用"},
+            {"id": "3661", "name": "世芯-KY", "role": "股價守住7月低點之上的AI ASIC千金指標，2026年估EPS 130元"},
+            {"id": "3529", "name": "力旺", "role": "前10月營收41.27億超越去年全年，AI伺服器帶動PUF與OTP授權"}
+          ]
+        },
+        "矽光子與CPO檢測": {
+          "description": "資料中心升級800G/1.6T光模組與CPO，CW雷射供貨長約落地、FAU進入驗證，矽光子高速檢測設備需求爆發。",
+          "stocks": [
+            {"id": "3081", "name": "聯亞", "role": "10月營收連10月創高，與美系大型CSP簽四年長約，1.6T CW雷射量產"},
+            {"id": "3008", "name": "大立光", "role": "CPO光纖陣列9月通過認證，接續驗證FAU預計2027年Q3量產"},
+            {"id": "7728", "name": "光焱科技", "role": "自研NightJar矽光子檢測設備整合探針台，64顆晶粒檢測由123分鐘縮至121秒"},
+            {"id": "4576", "name": "大銀微系統", "role": "出貨國內矽光子檢測設備廠逾數百台，訂單能見度達明年Q2"}
+          ]
+        }
+      },
+      "report_entry": {
+        "report_date": "2026-11-06",
+        "title": "ASIC晶圓放量與1.6T矽光子長約落地，基本面抗衡德州資料中心雜音",
+        "summary": "高盛與Jefferies指出德州資料中心審批風險主要影響2028年後新增投資，2027年AI訂單已排定，創意、聯亞、信驊等10月營收續創歷史新高。"
+      }
+    },
+    {
+      "main_industry": "PCB與銅箔基板(CCL)",
+      "sub_categories": {
+        "高階CCL與玻纖布": {
+          "description": "AI伺服器與800G交換器帶動M7/M8高階CCL供不應求，廠商調漲售價並與客戶簽訂三年供貨長約。",
+          "stocks": [
+            {"id": "2383", "name": "台光電", "role": "10月營收244.73億年增203%創高，調價並簽三年長約，2027年底月產能增至900萬張"},
+            {"id": "6274", "name": "台燿", "role": "10月營收64.78億年增127%創高，M7/M8新價格11月起反映"},
+            {"id": "1303", "name": "南亞", "role": "電子材料占比達61.5%、年增104.7%，參與ASIC供應鏈並調漲售價"},
+            {"id": "1815", "name": "富喬", "role": "高階玻纖布廠，股價穩守7月低點之上，10月以來投信買超1.28萬張"},
+            {"id": "5475", "name": "德宏", "role": "玻纖布廠，前10月營收年增177%，股價逆勢抗跌"}
+          ]
+        },
+        "高階PCB、ABF載板與鑽針": {
+          "description": "AI伺服器、光模組與IC載板營收倍增，新一代伺服器CPU載板與高階鍍膜鑽針稼動率逼近滿載。",
+          "stocks": [
+            {"id": "4958", "name": "臻鼎-KY", "role": "伺服器/光模組/IC載板10月營收年增逾3倍、占比破28%"},
+            {"id": "2313", "name": "華通", "role": "光模組mSAP新產能Q4起開出，2026~2028每年資本支出逾200億元"},
+            {"id": "8046", "name": "南電", "role": "Q3毛利率升至29.31%、EPS 5.1元，美系新一代伺服器CPU預計2027年Q1起採用ABF載板"},
+            {"id": "8021", "name": "尖點", "role": "Q3毛利率42.95%、EPS 2.92元創高，高階鍍膜鑽針占比達56%"}
+          ]
+        }
+      },
+      "report_entry": {
+        "report_date": "2026-11-06",
+        "title": "CCL雙雄10月營收齊創歷史新高，全面調價並擴產至2027年",
+        "summary": "台光電、台燿與南亞電子材料10月營收翻倍成長，M7/M8漲價效應於Q4顯現，臻鼎、華通、南電及尖點同步受惠AI與光模組需求。"
+      }
+    },
+    {
+      "main_industry": "精密機械、散裝航運與傳產內需",
+      "sub_categories": {
+        "精密機械與機器人": {
+          "description": "半導體、AI與矽光子設備訂單爆滿，且切入美系人形機器人供應鏈。",
+          "stocks": [
+            {"id": "2049", "name": "上銀", "role": "10月營收28.5億創單月新高，線性滑軌打入美系機器人供應鏈"},
+            {"id": "4576", "name": "大銀微系統", "role": "10月營收年增68.75%，年底前再擴產兩成"},
+            {"id": "6967", "name": "汎瑋材料", "role": "獲美系大廠人形機器人緩衝隔熱材料新訂單並已出貨"}
+          ]
+        },
+        "散裝航運與終戰重建": {
+          "description": "美烏俄10日將密談終戰方案，戰後重建商機帶動中小型散裝船需求。",
+          "stocks": [
+            {"id": "2606", "name": "裕民", "role": "6.4萬噸新船簽兩年租約，手持9艘新船2027~2030交付"},
+            {"id": "2637", "name": "慧洋-KY", "role": "明年3艘輕便型船交付，中小型船適合戰後港口重建"}
+          ]
+        },
+        "餐飲與製鞋": {
+          "description": "台灣內需餐飲旺季創高，製鞋廠Q4進入傳統旺季。",
+          "stocks": [
+            {"id": "2727", "name": "王品", "role": "前三季EPS 14.32元，連4年前三季賺逾一股本"},
+            {"id": "1268", "name": "漢來美食", "role": "前三季EPS 11.2元超越去年全年"},
+            {"id": "6768", "name": "志強-KY", "role": "10月營收22.82億元、月增24%、年增17.6%"},
+            {"id": "9802", "name": "鈺齊-KY", "role": "前三季EPS 2.46元，2026年預估EPS下修至3.6元"}
+          ]
+        }
+      },
+      "report_entry": {
+        "report_date": "2026-11-06",
+        "title": "上銀創單月新高打入美系機器人，俄烏終戰密談點火散裝重建",
+        "summary": "精密機械受惠半導體與機器人需求強勁；傳產聚焦俄烏終戰重建散裝航運及獲利創高的餐飲龍頭。"
+      }
+    }
+  ],
+  "stocks_updates": [
+    {
+      "stock_id": "1303",
+      "stock_name": "南亞",
+      "main_industry": "塑化與電子材料",
+      "sub_industries": ["銅箔基板(CCL)", "玻纖布", "環氧樹脂"],
+      "theme_tags": ["ASIC供應鏈", "電子材料漲價", "7月低點之上強勢股"],
+      "classification_entry": {
+        "role": "台塑集團電子材料與塑化大廠",
+        "competitive_advantage": "從環氧樹脂、玻纖布、銅箔到CCL上下游垂直整合，電子材料占比突破6成"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股 / 萬寶投顧精選圖表",
+        "estimated_eps": "2026E 15元",
+        "pe_ratio": "16倍",
+        "content": "10月營收349.4億元，月增1.5%、年增64.6%，創55個月新高；電子材料營收占比達61.5%，單月年增104.7%。公司參與ASIC供應鏈，各產線趨近滿載並調漲售價，股價穩守7月低點之上，10月以來投信買超37,285張。",
+        "key_points": [
+          "10月營收349.4億元創55個月新高，電子材料占比達61.5%、年增104.7%",
+          "參與ASIC供應鏈，各產線趨近滿載並調漲售價",
+          "10月以來投信大買37,285張，11/06主動型ETF再加碼640張"
+        ]
+      }
+    },
+    {
+      "stock_id": "3711",
+      "stock_name": "日月光投控",
+      "main_industry": "半導體",
+      "sub_industries": ["IC封測", "先進封裝"],
+      "theme_tags": ["千億資本支出", "高階封測擴產"],
+      "classification_entry": {
+        "role": "全球封測龍頭",
+        "competitive_advantage": "先進封裝與高階測試產能規模領先"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 21元",
+        "pe_ratio": "25倍",
+        "content": "通過投資1,237億元在楠梓科技產業園區、南科高雄園區及台南園區增設產線，擴充高階封裝與測試產能，預計增聘3,553名本國員工。",
+        "key_points": [
+          "斥資1,237億元於楠梓及南科擴充高階封測產線",
+          "預計增聘3,553名本國員工因應AI客戶需求"
+        ]
+      }
+    },
+    {
+      "stock_id": "2317",
+      "stock_name": "鴻海",
+      "main_industry": "AI伺服器與電子代工",
+      "sub_industries": ["AI伺服器", "EMS代工"],
+      "theme_tags": ["10月營收破1.3兆", "主動ETF加碼第一"],
+      "classification_entry": {
+        "role": "全球EMS代工與AI伺服器機櫃龍頭",
+        "competitive_advantage": "GB200/GB300機櫃垂直整合與全球產能優勢"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 18.6元",
+        "pe_ratio": "12倍",
+        "content": "10月營收約1.3兆元，月增12.66%、年增45.73%，首破1.3兆創歷史新高；前10月累計約8.98兆元、年增40.4%。Q4 AI業務持續成長，董事長劉揚偉預期明年業績將呈雙位數成長。",
+        "key_points": [
+          "10月營收首破1.3兆元創歷史新高，前10月達8.98兆元、年增40.4%",
+          "劉揚偉看好2027年業績維持雙位數成長"
+        ]
+      }
+    },
+    {
+      "stock_id": "2303",
+      "stock_name": "聯電",
+      "main_industry": "半導體",
+      "sub_industries": ["晶圓代工", "矽光子", "先進封裝"],
+      "theme_tags": ["2027年ASP提升10%", "矽光子與先進封裝"],
+      "classification_entry": {
+        "role": "成熟與特殊製程晶圓代工大廠",
+        "competitive_advantage": "22/28奈米特殊製程領先，切入矽光子與先進封裝中介層"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 7.3元",
+        "pe_ratio": "13倍",
+        "content": "10月營收252億元、年增18.33%，創歷史次高；前10月2,292.07億元、年增16.33%。Q3產能利用率達92%，預期明年晶圓價格迎來轉折，全年產品組合ASP估提升約10%（Q1起逐步反映），並擴大先進封裝及矽光子布局。",
+        "key_points": [
+          "10月營收252億元創歷史次高，Q3產能利用率達92%",
+          "2027年晶圓價格轉折，全年產品組合ASP預估提升約10%"
+        ]
+      }
+    },
+    {
+      "stock_id": "8046",
+      "stock_name": "南電",
+      "main_industry": "PCB與IC載板",
+      "sub_industries": ["ABF載板", "BT載板"],
+      "theme_tags": ["Q3毛利率衝29.3%", "伺服器CPU載板放量"],
+      "classification_entry": {
+        "role": "高階ABF與BT載板大廠",
+        "competitive_advantage": "昆山與台灣ABF廠滿載，切入美系新一代伺服器CPU供應鏈"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 18元",
+        "pe_ratio": "49倍",
+        "content": "Q3毛利率升至29.31%，單季EPS 5.1元創15季新高，前三季EPS 10.63元。昆山ABF廠Q4稼動率逼近滿載，美系晶片大廠新一代伺服器CPU預計2027年Q1起採用南電ABF載板，Q4營收估季增約15%。",
+        "key_points": [
+          "Q3毛利率29.31%、EPS 5.1元創15季新高，前三季EPS 10.63元",
+          "美系大廠新一代伺服器CPU預計2027年Q1起採用南電ABF載板，Q4營收估季增15%"
+        ]
+      }
+    },
+    {
+      "stock_id": "3081",
+      "stock_name": "聯亞",
+      "main_industry": "光通訊与矽光子",
+      "sub_industries": ["InP磊晶", "矽光子CW雷射"],
+      "theme_tags": ["營收連10月創高", "美系CSP四年長約", "1.6T CW雷射量產"],
+      "classification_entry": {
+        "role": "矽光子CW雷射InP磊晶龍頭",
+        "competitive_advantage": "資料中心占比達80~85%，1.6T高功率CW雷射磊晶技術領先"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 21元",
+        "pe_ratio": "83倍",
+        "content": "10月營收5.7億元，月增5.48%、年增182.96%，連10個月創歷史新高；Q3毛利率58.6%、EPS 6.12元，資料中心占比達80~85%。已與美系大型資料中心客戶簽署四年供貨長約（金額超過今年全年營收），1.6T CW雷射已開始量產，2027年Q1新產能開出。",
+        "key_points": [
+          "10月營收5.7億元連10月創高，Q3毛利率58.6%、EPS 6.12元",
+          "與美系大型CSP簽四年供貨長約，1.6T CW雷射已量產、2027年Q1新產能開出"
+        ]
+      }
+    },
+    {
+      "stock_id": "2337",
+      "stock_name": "旺宏",
+      "main_industry": "半導體",
+      "sub_industries": ["NOR Flash", "eMMC NAND", "低軌衛星"],
+      "theme_tags": ["低軌衛星三年長單", "抗輻射記憶體"],
+      "classification_entry": {
+        "role": "非揮發性記憶體大廠",
+        "competitive_advantage": "高可靠度抗輻射NOR Flash與eMMC獲美系低軌衛星龍頭採用"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 18元",
+        "pe_ratio": "4倍",
+        "content": "美系低軌衛星龍頭客戶給出未來3年訂單預估，eMMC NAND及NOR Flash每年需求均達數百萬顆，目前產能吃緊；此外在歐洲太空總署木星探測計畫抗輻射評估中表現最佳。",
+        "key_points": [
+          "獲美系低軌衛星龍頭未來3年訂單預估，eMMC與NOR Flash年需求各達數百萬顆",
+          "歐洲太空總署木星探測計畫抗輻射評估表現最佳"
+        ]
+      }
+    },
+    {
+      "stock_id": "5347",
+      "stock_name": "世界先進",
+      "main_industry": "半導體",
+      "sub_industries": ["8吋晶圓代工", "電源管理IC"],
+      "theme_tags": ["Q3營收創新高", "AI電源管理IC"],
+      "classification_entry": {
+        "role": "8吋晶圓代工領導廠",
+        "competitive_advantage": "高壓與高功率電源管理IC代工受惠AI伺服器需求"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 5.8元",
+        "pe_ratio": "21倍",
+        "content": "Q3營收157.02億元、年增27.15%創高，毛利率33.65%、營益率22.1%創近15季高，單季EPS 1.69元創近4年高；前三季EPS 4.52元。受惠AI伺服器電源管理產品強勁，訂單能見度約4個月。",
+        "key_points": [
+          "Q3營收157.02億元創高，毛利率33.65%、EPS 1.69元創近4年高",
+          "受惠AI伺服器PMIC需求，訂單能見度約4個月"
+        ]
+      }
+    },
+    {
+      "stock_id": "5483",
+      "stock_name": "中美晶",
+      "main_industry": "綠能與半導體材料",
+      "sub_industries": ["太陽能", "綠電售電", "低軌衛星太陽能晶片"],
+      "theme_tags": ["前三季營收創高", "低軌衛星耐輻射太陽能"],
+      "classification_entry": {
+        "role": "太陽能與半導體矽晶圓集團母公司",
+        "competitive_advantage": "旗下環球晶與續升綠能售電平台兼具，開發衛星用耐輻射太陽能晶片"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 9元",
+        "pe_ratio": "16倍",
+        "content": "Q3營收208.79億元，EPS 1.58元；前三季營收613.8億元創高，EPS 6.6元，上半年配息2.8元。子公司續升綠能累計售電近4.85億度，另開發耐輻射低軌衛星用太陽能晶片。",
+        "key_points": [
+          "前三季營收613.8億元創高，EPS 6.6元",
+          "續升綠能售電累計近4.85億度，並開發耐輻射衛星用太陽能晶片"
+        ]
+      }
+    },
+    {
+      "stock_id": "1216",
+      "stock_name": "統一",
+      "main_industry": "食品與通路",
+      "sub_industries": ["食品飲料", "便利商店與零售"],
+      "theme_tags": ["前三季營收獲利創高", "防禦型內需龍頭"],
+      "classification_entry": {
+        "role": "台灣食品與零售流通集團龍頭",
+        "competitive_advantage": "台灣與大陸食品加上統一超通路穩定現金流"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 4元",
+        "pe_ratio": "19倍",
+        "content": "前三季營收5,370億元、年增4.24%，稅後純益210.06億元、年增26.1%，EPS 3.7元，營收與獲利雙創同期新高；統一中控前三季淨利人民幣21.32億元、年增5.9%。",
+        "key_points": [
+          "前三季營收5,370億元、稅後純益210.06億元（EPS 3.7元）雙創同期新高",
+          "統一中控前三季淨利人民幣21.32億元、年增5.9%"
+        ]
+      }
+    },
+    {
+      "stock_id": "2492",
+      "stock_name": "華新科",
+      "main_industry": "被動元件",
+      "sub_industries": ["MLCC", "晶片電阻"],
+      "theme_tags": ["Q3獲利創20季高", "重返賺一個股本"],
+      "classification_entry": {
+        "role": "PSA華科事業群被動元件大廠",
+        "competitive_advantage": "AI伺服器與車用高容高壓MLCC比重提升"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 11元",
+        "pe_ratio": "24倍",
+        "content": "Q3稅後純益22.95億元，季增46.18%、年增116.5%創20季新高，單季EPS 4.73元；前三季EPS 9.66元超越去年全年，全年重返一個股本以上。發行45億元CB掛牌（轉換價497元）。",
+        "key_points": [
+          "Q3 EPS 4.73元創20季高，前三季EPS 9.66元超越去年全年",
+          "發行45億元可轉債掛牌，轉換價497元"
+        ]
+      }
+    },
+    {
+      "stock_id": "3008",
+      "stock_name": "大立光",
+      "main_industry": "光學與CPO",
+      "sub_industries": ["手機鏡頭", "CPO光纖陣列(FAU)"],
+      "theme_tags": ["CPO光纖陣列認證通過", "2027年Q3量產FAU"],
+      "classification_entry": {
+        "role": "全球精密光學鏡頭龍頭",
+        "competitive_advantage": "精密光學加工延伸至CPO用光纖陣列與FAU"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 165元",
+        "pe_ratio": "27倍",
+        "content": "10月營收58.46億元，月增1%、年減7%，前10月507.05億元、年增1%，11月出貨動能估較10月下滑。CPO用光纖陣列已於9月通過客戶認證，接續驗證光纖陣列單元(FAU)，預計2027年Q3量產。",
+        "key_points": [
+          "10月營收58.46億元、月增1%，11月拉貨動能估較10月下滑",
+          "CPO光纖陣列9月通過客戶認證，接續驗證FAU預計2027年Q3量產"
+        ]
+      }
+    },
+    {
+      "stock_id": "6669",
+      "stock_name": "緯穎",
+      "main_industry": "AI伺服器",
+      "sub_industries": ["CSP伺服器代工", "ASIC AI伺服器"],
+      "theme_tags": ["10月營收年增80.9%", "Q4營收拚再創高"],
+      "classification_entry": {
+        "role": "大型雲端資料中心(CSP)伺服器供應商",
+        "competitive_advantage": "深耕美系CSP客戶ASIC伺服器與德州新廠量產"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 140元",
+        "pe_ratio": "11倍",
+        "content": "10月營收1,651.32億元、年增80.9%，創同期新高及單月次高；前10月1.15兆元、年增54%。隨客戶ASIC伺服器拉貨增強加上德州新廠量產，Q4營收可望優於Q3再創單季新高。",
+        "key_points": [
+          "10月營收1,651.32億元、年增80.9%創單月次高，前10月達1.15兆元",
+          "ASIC伺服器拉貨增強加上德州新廠量產，Q4營收看創單季新高"
+        ]
+      }
+    },
+    {
+      "stock_id": "8996",
+      "stock_name": "高力",
+      "main_industry": "AI液冷散熱與燃料電池",
+      "sub_industries": ["液冷CDU與歧管", "SOFC燃料電池Hot Box"],
+      "theme_tags": ["10月營收年增125%", "斥資30億擴廠"],
+      "classification_entry": {
+        "role": "板式熱交換器、AI液冷與SOFC燃料電池大廠",
+        "competitive_advantage": "Bloom Energy主力供應商並切入AI資料中心液冷設備"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 20元",
+        "pe_ratio": "59倍",
+        "content": "9月自結EPS 3.24元（年增64.8%）；10月營收15.1億元、年增125.2%，前10月109.8億元、年增121.3%雙創同期新高（熱能產品年增160.87%）。斥資約30億元在桃園中壢及泰國購地建廠。",
+        "key_points": [
+          "9月自結EPS 3.24元，10月營收15.1億元、年增125.2%創同期新高",
+          "熱能產品前10月年增160.87%，斥資約30億元於中壢及泰國擴廠"
+        ]
+      }
+    },
+    {
+      "stock_id": "6285",
+      "stock_name": "啟碁",
+      "main_industry": "網通與低軌衛星",
+      "sub_industries": ["WiFi 8", "低軌衛星終端", "1.6T交換器与光交換器"],
+      "theme_tags": ["WiFi 8明年Q4量產", "1.6T光交換器2027送樣"],
+      "classification_entry": {
+        "role": "車用、企業網通與低軌衛星地面設備大廠",
+        "competitive_advantage": "WiFi 8與低軌衛星市占領先，切入資料中心1.6T交換器與光交換器"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 13.5元",
+        "pe_ratio": "12倍",
+        "content": "前三季EPS 10.1元。2027年營收拚雙位數成長，朝60億美元目標前進；WiFi 8預計明年Q4量產出貨，1.6T交換器與光交換器2027年送樣、2028年貢獻，美國製造最快2028上半年量產。",
+        "key_points": [
+          "前三季EPS 10.1元，2027年營收拚雙位數成長",
+          "WiFi 8預計2027年Q4量產，1.6T交換器與光交換器2027年送樣"
+        ]
+      }
+    },
+    {
+      "stock_id": "6446",
+      "stock_name": "藥華藥",
+      "main_industry": "生技新藥",
+      "sub_industries": ["罕見血液疾病新藥", "Ropeg(P1101)"],
+      "theme_tags": ["10月營收年增102%創高", "ET新適應症美日放量", "逆勢大漲7.17%"],
+      "classification_entry": {
+        "role": "台灣新藥研發與全球商業化龍頭",
+        "competitive_advantage": "Ropeg於PV市場穩定成長，ET新適應症於美日上市放量"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股 / 萬寶投顧精選圖表",
+        "estimated_eps": "2026E 26元",
+        "pe_ratio": "49倍",
+        "content": "10月營收28.4億元，月增7.6%、年增102%再創單月新高。Ropeg在美PV市場雙位數成長，原發性血小板增多症(ET)在美日上市、11月起進入放量，澳洲子公司啟動藥證準備。股價逆勢大漲7.17%，守穩7月低點之上。",
+        "key_points": [
+          "10月營收28.4億元、年增102%再創單月歷史新高",
+          "ET新適應症於美日上市並自11月起進入放量期，股價逆勢漲7.17%"
+        ]
+      }
+    },
+    {
+      "stock_id": "3036",
+      "stock_name": "文曄",
+      "main_industry": "半導體通路",
+      "sub_industries": ["IC通路", "AI資料中心零件代理"],
+      "theme_tags": ["Q4財測再創新高", "全年EPS上看29.55元"],
+      "classification_entry": {
+        "role": "全球前四大IC通路商",
+        "competitive_advantage": "併購Future Electronics後全球布局完整，AI與資料中心需求強勁"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 28元（公司財測中位數全年29.55元）",
+        "pe_ratio": "7倍",
+        "content": "Q3稅後純益103億元、EPS 7.97元，前三季EPS 20.99元、年增159%創高。預估Q4營收中位數7,500億元（季增26%、年增119%），Q4 EPS中位數8.56元再創高，全年EPS可達29.55元。",
+        "key_points": [
+          "前三季EPS 20.99元、年增159%創高",
+          "Q4財測營收中位數7,500億元（季增26%）、EPS中位數8.56元再創高"
+        ]
+      }
+    },
+    {
+      "stock_id": "2345",
+      "stock_name": "智邦",
+      "main_industry": "網通與AI加速卡",
+      "sub_industries": ["800G/1.6T交換器", "AI智慧網卡與加速模組"],
+      "theme_tags": ["10月營收446億創高", "追加資本支出163億"],
+      "classification_entry": {
+        "role": "全球高階資料中心白牌交換器龍頭",
+        "competitive_advantage": "800G交換器與AI加速模組市占領先"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 88元",
+        "pe_ratio": "15倍",
+        "content": "10月營收446.62億元，月增10.6%、年增91.2%，再創單月新高（連3月逾400億），前10月3,310.65億元、年增65.8%。Q4營收可望創新高，董事會通過現增上限1,000萬股並追加資本預算投資約163.8億元。",
+        "key_points": [
+          "10月營收446.62億元、年增91.2%創單月新高，連3個月站上400億元",
+          "通過現增上限1,000萬股並追加資本支出約163.8億元"
+        ]
+      }
+    },
+    {
+      "stock_id": "5274",
+      "stock_name": "信驊",
+      "main_industry": "半導體IC設計",
+      "sub_industries": ["伺服器遠端管理晶片(BMC)"],
+      "theme_tags": ["10月營收首破20億連12月創高", "AST2700啟動漲價", "2027訂單超越今年全年"],
+      "classification_entry": {
+        "role": "全球伺服器BMC晶片絕對龍頭",
+        "competitive_advantage": "AST2700隨AMD與Intel新平台放量且調漲價格"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 210元",
+        "pe_ratio": "54倍",
+        "content": "10月營收20.3億元，月增24.03%、年增177.78%，首破20億並連12個月創歷史新高；前10月138.34億元、年增87.65%。AST2700隨AMD、Intel新平台放量，Q4財測66~68億且啟動漲價，2027年已掌握訂單超越今年全年營收。",
+        "key_points": [
+          "10月營收20.3億元首破20億並連12月創高，Q4財測66~68億元",
+          "AST2700啟動漲價，2027年已掌握訂單超越今年全年營收"
+        ]
+      }
+    },
+    {
+      "stock_id": "2801",
+      "stock_name": "彰銀",
+      "main_industry": "金融",
+      "sub_industries": ["公股銀行"],
+      "theme_tags": ["前10月獲利超越去年全年"],
+      "classification_entry": {
+        "role": "公股商業銀行",
+        "competitive_advantage": "核心存放款與財富管理穩健成長"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 1.7元",
+        "pe_ratio": "16倍",
+        "content": "10月自結稅後純益16.28億元、年增14.9%；前10月稅後純益189.98億元、年增22%，EPS 1.58元，已超越去年全年獲利。",
+        "key_points": [
+          "前10月稅後純益189.98億元、年增22%，EPS 1.58元已賺贏去年全年"
+        ]
+      }
+    },
+    {
+      "stock_id": "2451",
+      "stock_name": "創見",
+      "main_industry": "記憶體模組",
+      "sub_industries": ["工控記憶體", "企業級SSD"],
+      "theme_tags": ["前三季EPS 62.74元", "本益比僅2倍"],
+      "classification_entry": {
+        "role": "工控與消費性記憶體模組大廠",
+        "competitive_advantage": "高毛利工控與企業級儲存占比高，受惠記憶體大漲"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 100元",
+        "pe_ratio": "2倍",
+        "content": "Q3營收160.7億元、毛利率56.5%，單季EPS 16.11元；前三季稅後純益269.4億元、EPS 62.74元創同期新高。10月營收50.3億元，持續深化企業級儲存與工業應用。",
+        "key_points": [
+          "Q3毛利率56.5%、EPS 16.11元，前三季EPS高達62.74元創同期新高",
+          "2026年預估EPS達100元，本益比僅約2倍"
+        ]
+      }
+    },
+    {
+      "stock_id": "1605",
+      "stock_name": "華新",
+      "main_industry": "電線電纜與不鏽鋼",
+      "sub_industries": ["強韌電網電纜", "不鏽鋼"],
+      "theme_tags": ["業外處分挹注Q3獲利", "台電強韌電網"],
+      "classification_entry": {
+        "role": "電線電纜與不鏽鋼大廠",
+        "competitive_advantage": "受惠台電強韌電網計畫高壓電纜需求"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 5元",
+        "pe_ratio": "6倍",
+        "content": "Q3本業虧損5.61億元，靠業外處分權益法投資利益77.95億元挹注，單季EPS 1.78元；前三季EPS 4.63元創同期第三高。電線電纜持續受惠台電強韌電網計畫。",
+        "key_points": [
+          "Q3靠業外處分利益77.95億元挹注，單季EPS 1.78元、前三季EPS 4.63元",
+          "本業不鏽鋼承壓，電線電纜受惠台電強韌電網"
+        ]
+      }
+    },
+    {
+      "stock_id": "2353",
+      "stock_name": "宏碁",
+      "main_industry": "NB與PC品牌",
+      "sub_industries": ["AI PC", "電競筆電", "集團小金雞"],
+      "theme_tags": ["Q3獲利年增92%", "高層世代交替"],
+      "classification_entry": {
+        "role": "全球知名PC品牌與多重事業引擎集團",
+        "competitive_advantage": "非PC與AI相關子公司貢獻提升"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 1.7元",
+        "pe_ratio": "17倍",
+        "content": "Q3稅後純益21.35億元、年增92.3%，EPS 0.71元；前三季EPS 1.67元、年增84.8%。宣布營運長交棒薄占平，技術長由徐瑞慶擔任。",
+        "key_points": [
+          "Q3稅後純益21.35億元、年增92.3%，前三季EPS 1.67元、年增84.8%",
+          "啟動管理層交棒，薄占平任營運長、徐瑞慶任技術長"
+        ]
+      }
+    },
+    {
+      "stock_id": "2395",
+      "stock_name": "研華",
+      "main_industry": "工業電腦(IPC)",
+      "sub_industries": ["邊緣AI", "嵌入式運算"],
+      "theme_tags": ["10月營收113億創高", "2026年EPS上調至22.2元"],
+      "classification_entry": {
+        "role": "全球工業電腦龍頭",
+        "competitive_advantage": "北美與韓國Edge AI專案放量，嵌入式運算翻倍成長"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股 / 萬寶投顧精選圖表",
+        "estimated_eps": "2026E 22.2元（上調）",
+        "pe_ratio": "25倍",
+        "content": "10月營收113.36億元、年增88.42%創單月歷史新高，前10月902.88億元、年增53.09%。北美及韓國市場10月分別年增118%、112%，嵌入式運算事業年增124%，2026年預估EPS上修至22.2元。",
+        "key_points": [
+          "10月營收113.36億元、年增88.42%創單月新高",
+          "北美與韓國10月營收翻倍成長，2026年預估EPS上調至22.2元"
+        ]
+      }
+    },
+    {
+      "stock_id": "6515",
+      "stock_name": "穎崴",
+      "main_industry": "半導體測試介面",
+      "sub_industries": ["高頻高速測試座(Socket)", "液冷測試座"],
+      "theme_tags": ["Q3 EPS 28.55元創高", "季營收連6季創高"],
+      "classification_entry": {
+        "role": "AI/HPC高階測試座龍頭",
+        "competitive_advantage": "掌握美系AI GPU與ASIC大廠高階同軸測試座與液冷測試方案"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 90元",
+        "pe_ratio": "37倍",
+        "content": "Q3營收45.56億元、年增152.55%，毛利率41%，單季EPS 28.55元，營收與獲利雙創高（季營收連6季創高）；前三季營收破百億、EPS 66.85元。推出高階HyperSocket與液冷測試座。",
+        "key_points": [
+          "Q3營收45.56億元、EPS 28.55元雙創歷史新高，前三季EPS達66.85元",
+          "推出HyperSocket與液冷測試座搶攻次世代AI晶片測試"
+        ]
+      }
+    },
+    {
+      "stock_id": "8021",
+      "stock_name": "尖點",
+      "main_industry": "PCB上游材料與耗材",
+      "sub_industries": ["高階鍍膜鑽針", "PCB鑽孔服務"],
+      "theme_tags": ["Q3毛利率42.95%創高", "鑽針大擴產至7000萬支"],
+      "classification_entry": {
+        "role": "全球PCB鑽針領導廠",
+        "competitive_advantage": "AI伺服器高層板與IC載板帶動高階鍍膜鑽針占比達56%"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 9元",
+        "pe_ratio": "34倍",
+        "content": "Q3營收23.31億元、年增99.44%創高，毛利率升至42.95%，EPS 2.92元創高；前三季EPS 6.18元。高階鍍膜鑽針占比達56%，鑽針月產能今年底達4,500萬支、2027年底擴至7,000萬支。",
+        "key_points": [
+          "Q3毛利率升至42.95%、EPS 2.92元創單季新高，高階鍍膜鑽針占比56%",
+          "鑽針月產能2026年底達4,500萬支、2027年底擴至7,000萬支"
+        ]
+      }
+    },
+    {
+      "stock_id": "2458",
+      "stock_name": "義隆",
+      "main_industry": "半導體IC設計",
+      "sub_industries": ["筆電觸控IC", "指紋辨識IC", "邊緣AI"],
+      "theme_tags": ["AI業務年增4成", "指紋辨識打入五大NB新客戶"],
+      "classification_entry": {
+        "role": "全球筆電觸控與指紋辨識IC龍頭",
+        "competitive_advantage": "AI PC滲透率提升帶動高單價Haptic觸控板與指紋辨識"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 9.2元",
+        "pe_ratio": "13倍",
+        "content": "Q3營收22.2億元、EPS 0.58元，前三季EPS 6.11元。受CPU缺貨與記憶體漲價壓抑筆電拉貨，惟AI相關業務全年營收估年增4成，明年指紋辨識打入五大筆電新客戶。",
+        "key_points": [
+          "Q3受筆電CPU缺貨與記憶體漲價影響，單季EPS降至0.58元、前三季6.11元",
+          "AI相關業務全年營收估增4成，明年指紋辨識打入五大筆電新客戶"
+        ]
+      }
+    },
+    {
+      "stock_id": "2474",
+      "stock_name": "可成",
+      "main_industry": "機殼與機構件",
+      "sub_industries": ["筆電機殼", "AI伺服器機構件", "醫療航太"],
+      "theme_tags": ["Q3本業轉虧", "AI伺服器專案明年Q1量產"],
+      "classification_entry": {
+        "role": "金屬機殼與精密機構件大廠",
+        "competitive_advantage": "龐大現金部位轉型切入AI伺服器、醫療與航太"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 11元",
+        "pe_ratio": "17倍",
+        "content": "Q3本業轉虧（營益率-6%），靠業外挹注單季EPS 2.45元，前三季EPS 7.59元。部分AI專案7月起量產，其他AI伺服器專案明年Q1起量產，AI PC明年Q2量產。",
+        "key_points": [
+          "Q3本業轉虧（營益率-6%），靠業外挹注EPS 2.45元、前三季EPS 7.59元",
+          "AI伺服器新專案預計2027年Q1起量產"
+        ]
+      }
+    },
+    {
+      "stock_id": "8210",
+      "stock_name": "勤誠",
+      "main_industry": "AI伺服器機構件",
+      "sub_industries": ["AI伺服器機殼", "機櫃系統"],
+      "theme_tags": ["前三季營收超越去年全年", "大馬廠Q4量產"],
+      "classification_entry": {
+        "role": "全球雲端與AI伺服器機殼龍頭",
+        "competitive_advantage": "深度綁定NVIDIA、AMD與CSP自研晶片機殼及機櫃"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 48元",
+        "pe_ratio": "11倍",
+        "content": "Q3營收73.95億元、EPS 8.06元；前三季營收223.23億元超越去年全年，EPS 29.89元。10月營收23.1億元，馬來西亞新廠Q4量產爬坡，越南基地預計2027上半年投產。",
+        "key_points": [
+          "前三季營收223.23億元超越去年全年，前三季EPS 29.89元",
+          "馬來西亞新廠Q4量產爬坡，越南廠預計2027上半年投產"
+        ]
+      }
+    },
+    {
+      "stock_id": "4763",
+      "stock_name": "材料*-KY",
+      "main_industry": "化工材料",
+      "sub_industries": ["醋酸纖維絲束", "醋片"],
+      "theme_tags": ["收購Cerdia全部股權", "10月營收年增33%"],
+      "classification_entry": {
+        "role": "全球醋酸纖維絲束大廠",
+        "competitive_advantage": "併購Cerdia擴大全球市占率與上下游整合"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 4元",
+        "pe_ratio": "11倍",
+        "content": "10月營收10.52億元、年增33%，前10月97.3億元。9月宣布向黑石集團旗下基金收購Cerdia全部股權，客戶因安全採購提前拉貨。",
+        "key_points": [
+          "10月營收10.52億元、年增33%，受惠客戶安全採購提前拉貨",
+          "收購黑石旗下Cerdia全部股權強化全球市占"
+        ]
+      }
+    },
+    {
+      "stock_id": "6561",
+      "stock_name": "是方",
+      "main_industry": "資服與IDC機房",
+      "sub_industries": ["AI資料中心(IDC)", "雲端與網路交換中心"],
+      "theme_tags": ["聯雲AI機房進駐率升", "IDC毛利率近50%"],
+      "classification_entry": {
+        "role": "中華電信旗下IDC機房與海纜交換中心龍頭",
+        "competitive_advantage": "聯雲AI智慧資料中心高電力規格吸引國際CSP進駐"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 16元",
+        "pe_ratio": "21倍",
+        "content": "10月營收3.65億元、年增19.11%，前10月34.68億元。聯雲AI資料中心進駐率提升，前三季IDC占營收44.7%、毛利率達49.6%，並推出AI Agent VM等三大服務。",
+        "key_points": [
+          "10月營收3.65億元、年增19.11%，聯雲AI資料中心進駐率持續提升",
+          "前三季IDC占營收44.7%、毛利率高達49.6%"
+        ]
+      }
+    },
+    {
+      "stock_id": "2347",
+      "stock_name": "聯強",
+      "main_industry": "半導體與資訊通路",
+      "sub_industries": ["半導體通路", "商用加值服務"],
+      "theme_tags": ["10月營收年增60%連10月創同期高", "商用加值年增95%"],
+      "classification_entry": {
+        "role": "亞太資訊與半導體通路龍頭",
+        "competitive_advantage": "商用加值與半導體業務雙引擎高速成長"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 9元",
+        "pe_ratio": "9倍",
+        "content": "10月營收592億元、年增60%，連10個月創同期新高；前10月6,232億元、年增93%。其中半導體業務10月年增70%、商用加值業務年增95%。",
+        "key_points": [
+          "10月營收592億元、年增60%連10月創同期高，前10月年增93%",
+          "10月商用加值業務年增95%、半導體業務年增70%"
+        ]
+      }
+    },
+    {
+      "stock_id": "6414",
+      "stock_name": "樺漢",
+      "main_industry": "工業電腦(IPC)",
+      "sub_industries": ["Edge AI", "工控設計與系統整合"],
+      "theme_tags": ["10月營收162億創高", "在手訂單逾2550億"],
+      "classification_entry": {
+        "role": "鴻海集團旗下工業電腦與系統整合大廠",
+        "competitive_advantage": "ESaaS平台與在手訂單突破2,550億元"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 26元",
+        "pe_ratio": "12倍",
+        "content": "10月營收162.2億元、年增39.3%創歷史新高，前10月1,511.5億元、年增32.1%亦創高；集團目前在手訂單超過2,550億元。",
+        "key_points": [
+          "10月營收162.2億元、年增39.3%創歷史新高",
+          "集團在手訂單規模超過2,550億元"
+        ]
+      }
+    },
+    {
+      "stock_id": "4953",
+      "stock_name": "緯軟",
+      "main_industry": "資訊服務",
+      "sub_industries": ["IT委外服務", "半導體IC Layout與AI"],
+      "theme_tags": ["Q3四大獲利指標創高", "前10月營收超越去年全年"],
+      "classification_entry": {
+        "role": "緯創集團旗下資訊服務與軟體外包大廠",
+        "competitive_advantage": "深耕AI、互聯網與台灣半導體客戶"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股（報表印為緯致4953）",
+        "estimated_eps": "2026E 9元",
+        "pe_ratio": "12倍",
+        "content": "Q3營收37.52億元、EPS 3.32元，四大獲利指標齊創單季新高；前三季EPS 8.2元。10月營收11.75億元、年增17%，前10月119.49億元已超越去年全年，聚焦AI與半導體。",
+        "key_points": [
+          "Q3營收37.52億元、EPS 3.32元創單季新高，前三季EPS 8.2元",
+          "前10月營收119.49億元已超越去年全年"
+        ]
+      }
+    },
+    {
+      "stock_id": "3717",
+      "stock_name": "聯嘉投控",
+      "main_industry": "車用LED與矽光子",
+      "sub_industries": ["車用LED車燈", "VCSEL與Micro LED光通訊"],
+      "theme_tags": ["前三季獲利創高", "切入矽光子光通訊模組"],
+      "classification_entry": {
+        "role": "車用LED車燈模組大廠",
+        "competitive_advantage": "北美車燈市占高，跨足VCSEL及Micro LED矽光子光通訊"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 2.1元",
+        "pe_ratio": "11倍",
+        "content": "前三季營收51.49億元、EPS 1.54元創同期新高。墨西哥新廠預計Q4正式量產，並投入VCSEL及Micro LED矽光子光通訊模組研發，預計2027年完成樣品。",
+        "key_points": [
+          "前三季EPS 1.54元創同期新高，墨西哥廠Q4量產",
+          "投入VCSEL及Micro LED矽光子光通訊模組研發，預計2027年完成樣品"
+        ]
+      }
+    },
+    {
+      "stock_id": "3515",
+      "stock_name": "華擎",
+      "main_industry": "AI伺服器與板卡",
+      "sub_industries": ["AI伺服器(永擎)", "主機板與顯卡"],
+      "theme_tags": ["Q3 EPS 6.54元創單季新高", "AI GPU訂單排到明年Q2後"],
+      "classification_entry": {
+        "role": "和碩集團旗下主機板與AI伺服器大廠",
+        "competitive_advantage": "子公司永擎與東擎分別受惠AI GPU伺服器與工業電腦成長"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 20元",
+        "pe_ratio": "10倍",
+        "content": "Q3營收169.39億元創高，稅後純益8.08億元、季增翻倍，單季EPS 6.54元創單季新高；前三季EPS 13.64元創同期新高。AI GPU平台訂單排到明年Q2後，子公司永擎訂單能見度達明年。",
+        "key_points": [
+          "Q3營收169.39億元、EPS 6.54元雙創單季新高，前三季EPS 13.64元",
+          "AI GPU平台訂單排到2027年Q2後"
+        ]
+      }
+    },
+    {
+      "stock_id": "3221",
+      "stock_name": "台嘉碩",
+      "main_industry": "石英元件",
+      "sub_industries": ["表面聲波濾波器(SAW)", "石英振盪器", "低軌衛星與1.6T光模組"],
+      "theme_tags": ["1.6T光模組振盪器量產", "低軌衛星2027放量"],
+      "classification_entry": {
+        "role": "石英元件與SAW濾波器大廠",
+        "competitive_advantage": "1.6T光模組低抖動振盪器與低軌衛星石英元件布局領先"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 1.8元",
+        "pe_ratio": "20倍",
+        "content": "Q3毛利率降至19.39%、EPS 0.2元，前三季EPS 1.02元。Q4毛利率估改善，低軌衛星已接洽5~6家客戶、其中3家量產，預計2027年放量；1.6T光模組用156.25MHz低抖動振盪器已量產出貨。",
+        "key_points": [
+          "1.6T光模組用156.25MHz低抖動振盪器已量產出貨",
+          "低軌衛星接洽5~6家客戶、3家量產，預計2027年放量"
+        ]
+      }
+    },
+    {
+      "stock_id": "3444",
+      "stock_name": "利機",
+      "main_industry": "半導體材料通路與散熱",
+      "sub_industries": ["封測材料", "均熱片與散熱零件"],
+      "theme_tags": ["Q3營收創14年高", "併入明鈞切入散熱與SSD外殼"],
+      "classification_entry": {
+        "role": "半導體封測材料與散熱零組件廠",
+        "competitive_advantage": "代理封測材料並併購明鈞自製散熱與SSD金屬外殼"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 2.2元",
+        "pe_ratio": "29倍",
+        "content": "Q3營收3.98億元創14年高，營業淨利年增369%，毛利率升至28%，EPS 0.81元；前三季EPS 1.86元。併入明鈞切入散熱精密製造與SSD金屬外殼，Q4營運估優於Q3。",
+        "key_points": [
+          "Q3營收3.98億元創14年高，營益年增369%、EPS 0.81元",
+          "併入明鈞切入散熱精密製造與SSD金屬外殼，Q4續看增"
+        ]
+      }
+    },
+    {
+      "stock_id": "6166",
+      "stock_name": "凌華",
+      "main_industry": "工業電腦(IPC)",
+      "sub_industries": ["邊緣AI", "機器人與智慧製造"],
+      "theme_tags": ["前三季獲利年增2.17倍", "超越去年全年"],
+      "classification_entry": {
+        "role": "工業電腦與邊緣運算平台大廠",
+        "competitive_advantage": "深耕醫療、智慧製造及自主移動機器人(AMR)"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 6元",
+        "pe_ratio": "15倍",
+        "content": "Q3 EPS 1.71元；前三季營益率升至11%，稅後純益10.53億元、EPS 4.83元（年增2.17倍），已超越去年全年，持續深化醫療、智慧製造及機器人布局。",
+        "key_points": [
+          "前三季EPS 4.83元、年增2.17倍，已超越去年全年獲利"
+        ]
+      }
+    },
+    {
+      "stock_id": "3213",
+      "stock_name": "茂訊",
+      "main_industry": "工業電腦與軍工",
+      "sub_industries": ["強固型電腦", "筆電通路"],
+      "theme_tags": ["前三季EPS 9.54元創高", "10月營收年增98%"],
+      "classification_entry": {
+        "role": "軍工強固型電腦與筆電通路商",
+        "competitive_advantage": "受惠歐美國防預算提高帶動高毛利強固型電腦出貨"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 11.6元",
+        "pe_ratio": "10倍",
+        "content": "Q3營收破11億元創高，EPS 3.93元創次高；前三季毛利率35.12%、EPS 9.54元創同期新高。10月營收年增98.32%，持續受惠歐美國防預算提高帶動強固型電腦需求。",
+        "key_points": [
+          "Q3 EPS 3.93元、前三季EPS 9.54元創同期新高",
+          "10月營收年增98.32%，受惠歐美國防預算帶動強固型電腦"
+        ]
+      }
+    },
+    {
+      "stock_id": "6613",
+      "stock_name": "朋億*",
+      "main_industry": "半導體廠務設備",
+      "sub_industries": ["高潔淨度化學品供應系統", "氣體與綠能環保設備"],
+      "theme_tags": ["Q3 EPS 5.99元創高", "2026年EPS上調至20元"],
+      "classification_entry": {
+        "role": "聖暉集團旗下半導體廠務製程設備大廠",
+        "competitive_advantage": "受惠台灣、日本及東南亞半導體晶圓廠擴產"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股 / 萬寶投顧精選圖表",
+        "estimated_eps": "2026E 20元（精選圖表上調，個股欄標17.5元）",
+        "pe_ratio": "12倍",
+        "content": "Q3營收45.8億元、年增124.13%，單季EPS 5.99元創單季新高；前三季EPS 14.5元、年增43%，上半年配息5元（每股面額5元）。萬寶投顧精選圖表將2026年預估EPS上調至20元。",
+        "key_points": [
+          "Q3營收45.8億元（年增124%）、EPS 5.99元創單季新高，前三季EPS 14.5元",
+          "2026年預估EPS上修至20元"
+        ]
+      }
+    },
+    {
+      "stock_id": "1313",
+      "stock_name": "聯成",
+      "main_industry": "塑化",
+      "sub_industries": ["可塑劑(DOP/DINP)", "PVC"],
+      "theme_tags": ["Q3獲利季增近倍", "美中關稅差異轉單"],
+      "classification_entry": {
+        "role": "全球可塑劑與苯酐(PA)大廠",
+        "competitive_advantage": "台灣輸美關稅10%遠低於中國44%，享轉單優勢"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 0.6元",
+        "pe_ratio": "19倍",
+        "content": "Q3 EPS 0.45元季增近倍、連三季獲利，前三季EPS 0.76元創近年高。受惠美國對中國DINP課徵44%關稅（台灣僅10%）及萊茵河枯水期帶動轉單。",
+        "key_points": [
+          "Q3 EPS 0.45元季增近倍，前三季EPS 0.76元",
+          "受惠美對中DINP課44%關稅（台灣僅10%）之轉單效應"
+        ]
+      }
+    },
+    {
+      "stock_id": "1909",
+      "stock_name": "榮成",
+      "main_industry": "造紙",
+      "sub_industries": ["工業用紙", "紙箱"],
+      "theme_tags": ["前10月稅前轉盈", "雙11電商旺季"],
+      "classification_entry": {
+        "role": "兩岸工業用紙大廠",
+        "competitive_advantage": "受惠Q4電商節慶與年底備貨旺季"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 0.4元",
+        "pe_ratio": "23倍",
+        "content": "10月自結每股稅前盈餘0.01元，前10月累計每股稅前0.47元轉虧為盈，Q4受惠雙11、雙12及耶誕節備貨需求有望逐月成長。",
+        "key_points": [
+          "前10月累計每股稅前盈餘0.47元轉盈，Q4迎電商旺季"
+        ]
+      }
+    },
+    {
+      "stock_id": "7728",
+      "stock_name": "光焱科技",
+      "main_industry": "半導體與矽光子檢測設備",
+      "sub_industries": ["矽光子檢測設備(NightJar)", "CIS光學檢測"],
+      "theme_tags": ["10月營收年增71%", "矽光子檢測快60倍"],
+      "classification_entry": {
+        "role": "科研光源與矽光子晶圓級光電檢測設備廠",
+        "competitive_advantage": "自研NightJar矽光子檢測設備將64顆晶粒檢測由123分鐘縮至121秒"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 8元",
+        "pe_ratio": "56倍",
+        "content": "10月營收5,150.4萬元、年增71.33%，創史上最強10月，前10月3.72億元已超越去年全年。自研NightJar矽光子檢測設備完成與自動探針台整合，高通量版本Q4底確認階段進展，64顆晶粒檢測時間由123分鐘大幅縮短至121秒。",
+        "key_points": [
+          "10月營收年增71.33%創歷年同月新高，前10月營收已超越去年全年",
+          "NightJar矽光子檢測設備將64顆晶粒檢測由123分鐘縮至121秒，高通量版Q4底確認進展"
+        ]
+      }
+    },
+    {
+      "stock_id": "6215",
+      "stock_name": "和椿",
+      "main_industry": "自動化設備與機器人",
+      "sub_industries": ["半導體與伺服器自動化設備", "智慧物流機器人"],
+      "theme_tags": ["Q3營收獲利雙創高", "前三季超越去年全年"],
+      "classification_entry": {
+        "role": "自動化零組件、半導體設備與機器人解決方案廠",
+        "competitive_advantage": "切入半導體測試及AI伺服器組裝自動化設備"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 3.8元",
+        "pe_ratio": "18倍",
+        "content": "Q3營收11.13億元、EPS 1.14元雙創單季新高；前三季EPS 3.06元超越去年全年2.08元。10月營收3.47億元、年增51.96%，受惠半導體測試及伺服器設備出貨提升。",
+        "key_points": [
+          "Q3營收11.13億元、EPS 1.14元雙創單季新高，前三季EPS 3.06元超越去年全年",
+          "10月營收年增51.96%，受惠半導體測試及伺服器自動化設備出貨"
+        ]
+      }
+    },
+    {
+      "stock_id": "3708",
+      "stock_name": "上緯投控",
+      "main_industry": "環保材料與複材",
+      "sub_industries": ["可回收風電樹脂", "航太複材与AI機器人"],
+      "theme_tags": ["Q3營收年增285%", "布局AI機器人與航太複材"],
+      "classification_entry": {
+        "role": "環保耐蝕樹脂與碳纖複材廠",
+        "competitive_advantage": "跨足航太複材與AI機器人輕量化材料"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 1元",
+        "pe_ratio": "87倍",
+        "content": "Q3營收4.35億元、年增285%，惟受存貨呆滯與呆帳提列影響單季每股虧損0.04元；前三季每股虧0.91元，同步布局AI機器人與航太複材。",
+        "key_points": [
+          "Q3營收年增285%，受存貨與呆帳影響單季小虧0.04元",
+          "積極布局AI機器人與航太複合材料"
+        ]
+      }
+    },
+    {
+      "stock_id": "2331",
+      "stock_name": "精英",
+      "main_industry": "PC與邊緣AI",
+      "sub_industries": ["主機板與迷你電腦", "邊緣AI與無人載具"],
+      "theme_tags": ["轉攻地端AI與無人載具"],
+      "classification_entry": {
+        "role": "大同集團旗下電腦硬體與邊緣AI廠",
+        "competitive_advantage": "由傳統PC OEM轉向地端AI、邊緣運算與無人載具"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 1元",
+        "pe_ratio": "16倍",
+        "content": "今年OEM及通路出貨估減43%，Q4估減55.9%，上半年EPS 0.53元。轉攻地端AI、邊緣AI及無人載具（年底POC驗證、預計2027年Q1量產）。",
+        "key_points": [
+          "傳統PC OEM出貨縮減，轉攻地端AI、邊緣AI及無人載具（2027年Q1量產）"
+        ]
+      }
+    },
+    {
+      "stock_id": "1342",
+      "stock_name": "八貫",
+      "main_industry": "機能材料与軍工航太",
+      "sub_industries": ["TPU機能布料", "航太逃生滑梯", "軍工防彈背心"],
+      "theme_tags": ["10月營收年增53.9%", "軍工產品年增290%"],
+      "classification_entry": {
+        "role": "高階TPU機能布料大廠",
+        "competitive_advantage": "全球航太逃生滑梯與歐美軍工防彈裝備認證供應商"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 7.7元",
+        "pe_ratio": "12倍",
+        "content": "10月營收2.9億元、年增53.9%（其中軍工產品10月年增高達290%），前10月累計31.4億元、年增37.5%，力拚全年獲利再創歷史新高。",
+        "key_points": [
+          "10月營收2.9億元、年增53.9%，軍工產品單月年增290%",
+          "前10月營收31.4億元、年增37.5%，全年獲利拚再創高"
+        ]
+      }
+    },
+    {
+      "stock_id": "6776",
+      "stock_name": "展碁國際",
+      "main_industry": "資訊與家電通路",
+      "sub_industries": ["3C軟硬體代理", "企業AI升級", "家電代理"],
+      "theme_tags": ["10月營收36億創歷史高"],
+      "classification_entry": {
+        "role": "宏碁旗下資訊與家電通路大廠",
+        "competitive_advantage": "受惠企業AI軟硬體升級與LG小家電熱銷"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 4.4元",
+        "pe_ratio": "12倍",
+        "content": "10月營收36.02億元、年增30.6%創歷史新高，前10月325.73億元、年增35.7%。受惠企業AI升級及LG小家電10月年增40.6%，年底將在桃園增設家電暢貨中心。",
+        "key_points": [
+          "10月營收36.02億元、年增30.6%創歷史新高，前10月年增35.7%"
+        ]
+      }
+    },
+    {
+      "stock_id": "3046",
+      "stock_name": "建碁",
+      "main_industry": "工業電腦(IPC)",
+      "sub_industries": ["數位看板", "充電樁與邊緣運算"],
+      "theme_tags": ["Q3 EPS創21年新高", "前三季賺贏2004年以來各年度"],
+      "classification_entry": {
+        "role": "宏碁集團旗下工控與商用系統廠",
+        "competitive_advantage": "歐美高階工控與充電樁控制主機訂單穩健"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 5.4元",
+        "pe_ratio": "9倍",
+        "content": "10月營收8.97億元、年增58.7%，前10月78.07億元同創22年同期新高；Q3 EPS 1.56元創21年單季新高，前三季EPS 4.31元賺贏2004年以來各年度。",
+        "key_points": [
+          "10月營收8.97億元、年增58.7%創22年同期高",
+          "Q3 EPS 1.56元創21年新高，前三季EPS 4.31元超越2004年來各年全年"
+        ]
+      }
+    },
+    {
+      "stock_id": "5609",
+      "stock_name": "中菲行",
+      "main_industry": "航運物流",
+      "sub_industries": ["空運承攬", "海運承攬"],
+      "theme_tags": ["10月營收年增65.3%", "AI空運艙位吃緊"],
+      "classification_entry": {
+        "role": "國際航空與海運物流承攬大廠",
+        "competitive_advantage": "掌握AI伺服器與半導體跨國空運急單物流"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 8元",
+        "pe_ratio": "10倍",
+        "content": "10月營收38.68億元、年增65.3%，創2022年5月以來新高；前10月307.9億元、年增27.9%，受惠AI伺服器與半導體空運艙位吃緊。",
+        "key_points": [
+          "10月營收38.68億元、年增65.3%創2022年5月來新高",
+          "受惠AI伺服器與半導體空運艙位吃緊"
+        ]
+      }
+    },
+    {
+      "stock_id": "4438",
+      "stock_name": "廣越",
+      "main_industry": "紡織成衣",
+      "sub_industries": ["羽絨服代工", "戶外運動服飾"],
+      "theme_tags": ["前三季獲利翻倍EPS 6.41元", "約旦擴產"],
+      "classification_entry": {
+        "role": "全球高階羽絨服與戶外服飾代工大廠",
+        "competitive_advantage": "約旦廠享輸美關稅優勢並導入越南自動化"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 6元",
+        "pe_ratio": "9倍",
+        "content": "Q3毛利率升至15.4%、單季EPS 3.9元；前三季稅後純益7.22億元、年增104.5%，EPS 6.41元，持續推進約旦擴產及越南自動化。",
+        "key_points": [
+          "Q3 EPS 3.9元，前三季EPS 6.41元、年增104.5%"
+        ]
+      }
+    },
+    {
+      "stock_id": "6752",
+      "stock_name": "叡揚",
+      "main_industry": "資訊服務與AI軟體",
+      "sub_industries": ["企業應用軟體", "Agentic AI與資安"],
+      "theme_tags": ["AI加值訂單占20%", "導入Agentic AI與MCP"],
+      "classification_entry": {
+        "role": "台灣企業商用軟體與雲端服務領導廠",
+        "competitive_advantage": "自有產品全面導入Agentic AI並支援MCP協定串接"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 7元",
+        "pe_ratio": "12倍",
+        "content": "前三季EPS 4.86元，10月營收1.81億元。自有產品AI技術加值訂單已占總訂單20%，導入Agentic AI並以MCP串接企業系統。",
+        "key_points": [
+          "前三季EPS 4.86元，自有產品AI加值訂單占比達20%"
+        ]
+      }
+    },
+    {
+      "stock_id": "6967",
+      "stock_name": "汎瑋材料",
+      "main_industry": "電子機能材料與機器人",
+      "sub_industries": ["AI伺服器散熱絕緣材料", "人形機器人緩衝隔熱材料"],
+      "theme_tags": ["獲美系人形機器人訂單已出貨", "前三季EPS 4.22元創高"],
+      "classification_entry": {
+        "role": "電子功能性緩衝、散熱與絕緣材料廠",
+        "competitive_advantage": "打入美系大廠人形機器人與AI伺服器散熱材料供應鏈"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 4.5元",
+        "pe_ratio": "14倍",
+        "content": "獲美系大廠人形機器人緩衝隔熱材料新訂單並已開始出貨，明年人形機器人占營收3~5%加上AI伺服器15%合計逾20%；Q3 EPS 1.49元、前三季EPS 4.22元創同期新高。",
+        "key_points": [
+          "獲美系大廠人形機器人緩衝隔熱材料訂單並已出貨，明年AI+機器人占比逾20%",
+          "Q3 EPS 1.49元、前三季EPS 4.22元創同期新高"
+        ]
+      }
+    },
+    {
+      "stock_id": "6248",
+      "stock_name": "沛波",
+      "main_industry": "鋼鐵",
+      "sub_industries": ["鋼筋加工與配送"],
+      "theme_tags": ["Q3獲利年增56.8%"],
+      "classification_entry": {
+        "role": "台鋼集團旗下鋼筋加工與配送廠",
+        "competitive_advantage": "科技廠辦與公共工程鋼筋需求穩健"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 1.2元",
+        "pe_ratio": "14倍",
+        "content": "Q3稅後純益4,070萬元、年增56.8%，前三季EPS 1.01元。",
+        "key_points": [
+          "Q3稅後純益年增56.8%，前三季EPS 1.01元"
+        ]
+      }
+    },
+    {
+      "stock_id": "3714",
+      "stock_name": "富采",
+      "main_industry": "光電與LED",
+      "sub_industries": ["車用LED", "Micro LED", "AI光通訊光源"],
+      "theme_tags": ["業外挹注前三季轉盈", "聚焦AI光通訊與車用"],
+      "classification_entry": {
+        "role": "化合物半導體與光電投控龍頭",
+        "competitive_advantage": "處分廠房業外挹注並轉型車用、先進顯示及AI光通訊"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚爆個股",
+        "estimated_eps": "2026E 0.1元",
+        "pe_ratio": "1046倍",
+        "content": "Q3本業虧損收斂至3億元，靠業外收益16.8億元挹注，單季EPS 1.99元連兩季獲利，前三季EPS 3.36元轉盈；Q4進入淡季營收恐大幅下滑，聚焦車用、先進顯示及AI光通訊。",
+        "key_points": [
+          "Q3靠業外收益16.8億挹注，單季EPS 1.99元、前三季EPS 3.36元",
+          "Q4進入淡季營收恐明顯下滑，轉型聚焦AI光通訊與車用"
+        ]
+      }
+    },
+    {
+      "stock_id": "5306",
+      "stock_name": "桂盟",
+      "main_industry": "自行車零組件",
+      "sub_industries": ["自行車鏈條"],
+      "theme_tags": ["SHIMANO私募入股升至4.9%"],
+      "classification_entry": {
+        "role": "全球自行車鏈條龍頭",
+        "competitive_advantage": "引進全球變速器龍頭SHIMANO策略私募入股深化高階合作"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "包打聽快報",
+        "estimated_eps": null,
+        "pe_ratio": null,
+        "content": "股東臨時會通過私募現增450萬股，引進全球自行車變速器龍頭SHIMANO全資孫公司台灣禧瑪諾認購，完成後SHIMANO持股由1.35%升至4.9%，躍升第四大股東。",
+        "key_points": [
+          "通過私募現增450萬股由SHIMANO孫公司認購，持股升至4.9%成第四大股東"
+        ]
+      }
+    },
+    {
+      "stock_id": "3443",
+      "stock_name": "創意",
+      "main_industry": "半導體IC設計",
+      "sub_industries": ["ASIC設計服務", "HBM4E與矽智財"],
+      "theme_tags": ["10月營收84.33億連5月創高", "7月低點之上強勢股"],
+      "classification_entry": {
+        "role": "台積電旗下ASIC設計服務龍頭",
+        "competitive_advantage": "台積電N2P與CoWoS-L之HBM4E介面IP獲AI ASIC客戶採用"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "萬寶投顧精選圖表 / 今晚產業新聞",
+        "estimated_eps": "2026E 60元",
+        "pe_ratio": null,
+        "content": "受惠AI晶圓產品(Turnkey)放量，10月營收84.33億元、年增126.96%，首破80億並連5個月創歷史新高；前10月525.32億元、年增106.36%，Q3 EPS 16.95元、前三季40.84元。台積電N2P與CoWoS-L的HBM4E介面IP獲客戶AI ASIC採用，股價穩守7月低點之上。",
+        "key_points": [
+          "10月營收84.33億元、年增126.96%連5月創高，前三季EPS 40.84元",
+          "N2P與CoWoS-L之HBM4E介面IP獲AI ASIC客戶採用"
+        ]
+      }
+    },
+    {
+      "stock_id": "2383",
+      "stock_name": "台光電",
+      "main_industry": "PCB與銅箔基板(CCL)",
+      "sub_industries": ["高階無鹵素CCL", "M7/M8高速材料"],
+      "theme_tags": ["10月營收244.7億年增203%創高", "調價並簽三年長約"],
+      "classification_entry": {
+        "role": "全球AI伺服器高階CCL絕對龍頭",
+        "competitive_advantage": "M7/M8市占領先，對AI及非AI產品調價並與客戶簽三年長約"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚產業新聞",
+        "estimated_eps": null,
+        "pe_ratio": null,
+        "content": "10月營收244.73億元，月增13.66%、年增203.08%創歷史新高，Q4營收估季增15~20%。已對AI及非AI產品調價並簽訂三年長約，2027年底月產能將增至900萬張。",
+        "key_points": [
+          "10月營收244.73億元、年增203.08%創高，Q4營收估季增15~20%",
+          "全面調價並簽三年長約，2027年底月產能擴至900萬張"
+        ]
+      }
+    },
+    {
+      "stock_id": "6274",
+      "stock_name": "台燿",
+      "main_industry": "PCB與銅箔基板(CCL)",
+      "sub_industries": ["高頻高速CCL", "800G交換器與AI材料"],
+      "theme_tags": ["10月營收64.78億年增127%創高", "M7/M8新價格11月反映"],
+      "classification_entry": {
+        "role": "高階高速銅箔基板大廠",
+        "competitive_advantage": "800G交換器與AI ASIC高階M7/M8材料放量並漲價"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚產業新聞",
+        "estimated_eps": null,
+        "pe_ratio": null,
+        "content": "10月營收64.78億元、年增127%創歷史新高，M7/M8新價格自11月起反映，Q4營收估季增15~17%，2027年底月產能增至380萬張。",
+        "key_points": [
+          "10月營收64.78億元、年增127%創高，M7/M8新價格11月起反映",
+          "Q4營收估季增15~17%，2027年底月產能增至380萬張"
+        ]
+      }
+    },
+    {
+      "stock_id": "4958",
+      "stock_name": "臻鼎-KY",
+      "main_industry": "PCB與IC載板",
+      "sub_industries": ["軟板", "AI伺服器板", "光模組板與IC載板"],
+      "theme_tags": ["10月營收272億年增40%", "AI相關占比破28%"],
+      "classification_entry": {
+        "role": "全球PCB營收規模第一大廠",
+        "competitive_advantage": "伺服器、光模組與IC載板營收年增逾3倍"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚產業新聞",
+        "estimated_eps": null,
+        "pe_ratio": null,
+        "content": "10月營收271.97億元、年增39.99%，前10月1,809.8億元逼近去年全年；伺服器、光模組與IC載板10月營收年增逾3倍、占比突破28%，Q4攀全年高峰。",
+        "key_points": [
+          "10月營收271.97億元、年增40%，伺服器/光模組/IC載板占比突破28%"
+        ]
+      }
+    },
+    {
+      "stock_id": "2313",
+      "stock_name": "華通",
+      "main_industry": "PCB與低軌衛星",
+      "sub_industries": ["HDI板", "低軌衛星板", "光模組mSAP板"],
+      "theme_tags": ["10月營收年增24.7%", "光模組mSAP新產能Q4開出"],
+      "classification_entry": {
+        "role": "全球HDI與低軌衛星PCB龍頭",
+        "competitive_advantage": "光模組mSAP新產能Q4開出，未來三年每年資本支出逾200億"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚產業新聞",
+        "estimated_eps": null,
+        "pe_ratio": null,
+        "content": "10月營收87.83億元、年增24.74%，Q3 EPS 1.81元、前三季4.31元。光模組mSAP新產能Q4起逐季開出，2026~2028每年資本支出逾200億元。",
+        "key_points": [
+          "10月營收87.83億元、年增24.74%，前三季EPS 4.31元",
+          "光模組mSAP新產能Q4起開出，2026~2028每年資本支出逾200億元"
+        ]
+      }
+    },
+    {
+      "stock_id": "2049",
+      "stock_name": "上銀",
+      "main_industry": "精密機械與機器人",
+      "sub_industries": ["線性滑軌", "滾珠螺桿", "人形機器人傳動"],
+      "theme_tags": ["10月營收28.5億創單月新高", "打入美系機器人供應鏈"],
+      "classification_entry": {
+        "role": "全球線性傳動與機器人關鍵零件大廠",
+        "competitive_advantage": "半導體與AI訂單爆滿，線性滑軌打入美系機器人供應鏈"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚產業新聞",
+        "estimated_eps": null,
+        "pe_ratio": null,
+        "content": "10月營收28.5億元、年增35.66%，創單月歷史新高。半導體與AI訂單爆滿，線性滑軌打入美系機器人供應鏈，今年產能增加20~25%。",
+        "key_points": [
+          "10月營收28.5億元、年增35.66%創單月歷史新高",
+          "線性滑軌打入美系機器人供應鏈，今年產能擴增20~25%"
+        ]
+      }
+    },
+    {
+      "stock_id": "4576",
+      "stock_name": "大銀微系統",
+      "main_industry": "精密機械與半導體設備",
+      "sub_industries": ["精密定位平台", "線性馬達", "矽光子檢測設備零件"],
+      "theme_tags": ["10月營收年增68.7%", "出貨矽光子檢測設備逾數百台"],
+      "classification_entry": {
+        "role": "上銀集團旗下奈米級精密定位平台大廠",
+        "competitive_advantage": "出貨國內矽光子檢測設備廠逾數百台，訂單能見度達明年Q2"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "今晚產業新聞",
+        "estimated_eps": null,
+        "pe_ratio": null,
+        "content": "10月營收4.1億元、年增68.75%，前10月35.08億元、年增59.29%。出貨國內矽光子檢測設備廠逾數百台，訂單能見度達明年Q2，年底前再擴產兩成。",
+        "key_points": [
+          "10月營收4.1億元、年增68.75%，出貨矽光子檢測設備廠逾數百台",
+          "訂單能見度達2027年Q2，年底前再擴產兩成"
+        ]
+      }
+    },
+    {
+      "stock_id": "2344",
+      "stock_name": "華邦電",
+      "main_industry": "半導體",
+      "sub_industries": ["DRAM", "NOR Flash"],
+      "theme_tags": ["2026年EPS上調至24.5元"],
+      "classification_entry": {
+        "role": "利基型DRAM與NOR Flash大廠",
+        "competitive_advantage": "受惠記憶體報價上揚與AI邊緣運算需求"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "萬寶投顧精選圖表",
+        "estimated_eps": "2026E 24.5元（上調）",
+        "pe_ratio": null,
+        "content": "萬寶投顧精選圖表將華邦電2026年預估EPS上修至24.5元。",
+        "key_points": [
+          "2026年預估EPS上修至24.5元"
+        ]
+      }
+    },
+    {
+      "stock_id": "3131",
+      "stock_name": "弘塑",
+      "main_industry": "半導體設備",
+      "sub_industries": ["CoWoS濕製程設備"],
+      "theme_tags": ["2026年EPS下調至64元"],
+      "classification_entry": {
+        "role": "先進封裝濕製程設備龍頭",
+        "competitive_advantage": "CoWoS與SoIC濕製程設備主力供應商"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "萬寶投顧精選圖表",
+        "estimated_eps": "2026E 64元（下調）",
+        "pe_ratio": null,
+        "content": "萬寶投顧精選圖表將弘塑2026年預估EPS下修至64元。",
+        "key_points": [
+          "2026年預估EPS下調至64元"
+        ]
+      }
+    },
+    {
+      "stock_id": "6488",
+      "stock_name": "環球晶",
+      "main_industry": "半導體材料",
+      "sub_industries": ["矽晶圓"],
+      "theme_tags": ["2026年EPS下調至18元"],
+      "classification_entry": {
+        "role": "全球第三大半導體矽晶圓廠",
+        "competitive_advantage": "全球多國在地化12吋矽晶圓產能"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "萬寶投顧精選圖表",
+        "estimated_eps": "2026E 18元（下調）",
+        "pe_ratio": null,
+        "content": "萬寶投顧精選圖表將環球晶2026年預估EPS下修至18元。",
+        "key_points": [
+          "2026年預估EPS下調至18元，11/06上櫃三大法人賣超金額第1名（-3.93億元）"
+        ]
+      }
+    },
+    {
+      "stock_id": "4967",
+      "stock_name": "十銓",
+      "main_industry": "記憶體模組",
+      "sub_industries": ["DDR5電競與工控記憶體", "SSD"],
+      "theme_tags": ["7月低點之上強勢股", "估2026年EPS 118元"],
+      "classification_entry": {
+        "role": "記憶體模組與電競儲存品牌大廠",
+        "competitive_advantage": "受惠DDR5與工控儲存報價大漲"
+      },
+      "analysis_entry": {
+        "report_date": "2026-11-06",
+        "source_section": "萬寶投顧精選圖表",
+        "estimated_eps": "2026E 118元",
+        "pe_ratio": null,
+        "content": "列入股價仍在7月低點以上的強勢股，累計營收年增90%，2026年預估EPS達118元，11/06逆勢上漲2.49%收205.5元。",
+        "key_points": [
+          "2026年預估EPS高達118元，累計營收年增90%，股價逆勢漲2.49%守穩7月低點之上"
+        ]
+      }
+    }
+  ],
+  "chips_updates": [
+    {
+      "stock_id": "3481",
+      "stock_name": "群創",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上市買超張數第1名（+24,357張，金額+1.66億元）"
+    },
+    {
+      "stock_id": "2409",
+      "stock_name": "友達",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上市買超張數第2名（+18,726張，金額+0.78億元）"
+    },
+    {
+      "stock_id": "2887",
+      "stock_name": "台新新光金",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上市買超張數第3名（+17,579張，金額+1.47億元）"
+    },
+    {
+      "stock_id": "1101",
+      "stock_name": "台泥",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上市買超張數第4名（+17,515張，金額+1.16億元）"
+    },
+    {
+      "stock_id": "2382",
+      "stock_name": "廣達",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上市買超金額第1名（+2,681張，金額+7.73億元）"
+    },
+    {
+      "stock_id": "3026",
+      "stock_name": "禾伸堂",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上市買超金額第2名（+743張，金額+3.53億元）"
+    },
+    {
+      "stock_id": "2886",
+      "stock_name": "兆豐金",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上市買超金額第3名（+5,942張，金額+3.19億元）"
+    },
+    {
+      "stock_id": "2317",
+      "stock_name": "鴻海",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超 / 主動型ETF加減碼",
+      "detail": "上市法人賣超金額第1名（-7,714張，金額-17.36億元）；但主動型ETF加碼第1名（+1,213張，由00400A加碼）"
+    },
+    {
+      "stock_id": "2449",
+      "stock_name": "京元電子",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上市賣超金額第2名（-7,774張，金額-16.01億元）"
+    },
+    {
+      "stock_id": "2002",
+      "stock_name": "中鋼",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上市賣超張數第1名（-30,689張，金額-5.69億元）"
+    },
+    {
+      "stock_id": "2330",
+      "stock_name": "台積電",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超 / 主動型ETF加減碼",
+      "detail": "上市法人賣超張數第2名（-9,473張）；但主動型ETF加碼第2名（5檔共識加碼+1,042張，00981A買進900張連6買）"
+    },
+    {
+      "stock_id": "7856",
+      "stock_name": "漢測",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上櫃買超金額第1名（+189張，金額+4.32億元）"
+    },
+    {
+      "stock_id": "3363",
+      "stock_name": "上詮",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上櫃買超金額第2名（+671張，金額+2.42億元）"
+    },
+    {
+      "stock_id": "6147",
+      "stock_name": "頎邦",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上櫃買超張數第1名（+4,780張，金額+1.37億元）"
+    },
+    {
+      "stock_id": "6488",
+      "stock_name": "環球晶",
+      "date": "2026-11-06",
+      "category": "三大法人買賣超",
+      "detail": "上櫃賣超金額第1名（-767張，金額-3.93億元）"
+    },
+    {
+      "stock_id": "1303",
+      "stock_name": "南亞",
+      "date": "2026-11-06",
+      "category": "主動型ETF加減碼",
+      "detail": "主動型ETF加碼第3名（+640張），10月以來投信累計買超37,285張"
+    },
+    {
+      "stock_id": "3711",
+      "stock_name": "日月光投控",
+      "date": "2026-11-06",
+      "category": "主動型ETF加減碼 / 三大法人買賣超",
+      "detail": "主動型ETF加碼第4名（+527張）；上市三大法人賣超-8,019張"
+    },
+    {
+      "stock_id": "2345",
+      "stock_name": "智邦",
+      "date": "2026-11-06",
+      "category": "主動型ETF加減碼",
+      "detail": "主動型ETF加碼第7名（+209張，由00991A主動復華未來50新建倉210張）"
+    },
+    {
+      "stock_id": "6505",
+      "stock_name": "台塑化",
+      "date": "2026-11-06",
+      "category": "主動型ETF加減碼",
+      "detail": "主動型ETF減碼第1名（-5,669張，00991A連兩日大砍共9,900張）"
+    },
+    {
+      "stock_id": "2881",
+      "stock_name": "富邦金",
+      "date": "2026-11-06",
+      "category": "主動型ETF加減碼",
+      "detail": "主動型ETF減碼第2名（-3,002張，00400A清倉）"
+    }
+  ]
+}

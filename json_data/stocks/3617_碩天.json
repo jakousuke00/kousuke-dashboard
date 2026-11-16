@@ -1,0 +1,41 @@
+{
+  "stock_id": "3617",
+  "stock_name": "碩天",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "UPS不斷電系統",
+      "電源與BBU"
+    ],
+    "theme_tags": [
+      "資料中心PDU",
+      "毛利率攀升",
+      "UPS",
+      "強彈前20名"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-10"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-10",
+      "source": "20強彈股",
+      "content": "入選11/6低點以來最大彈幅排行前20名個股，2026年預估EPS 22元，上半年EPS 11.12元、第三季EPS 8.06元，11/10收盤257元。",
+      "key_points": [
+        "入選強彈前20名個股，前三季EPS達19.18元",
+        "2026年預估EPS 22元，獲利進度超前"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "Q3稅後純益7.58億元年增14.6%、單季EPS 8.06元創新高，前三季EPS 19.18元超越去年全年；資料中心PDU與UPS毛利佳，菲律賓新廠將於2026年底至2027年投產，估EPS 22元。",
+      "key_points": [
+        "Q3 EPS 8.06元創新高，前三季EPS 19.18元超越去年全年",
+        "排除退稅因素Q3毛利率56.54%，資料中心PDU與UPS毛利佳"
+      ]
+    }
+  ]
+}

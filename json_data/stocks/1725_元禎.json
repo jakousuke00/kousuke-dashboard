@@ -1,0 +1,46 @@
+{
+  "stock_id": "1725",
+  "stock_name": "元禎",
+  "industry_profile": {
+    "main_industry": "化學工業",
+    "sub_industries": [
+      "化學溶劑",
+      "塑膠原料"
+    ],
+    "theme_tags": [
+      "營收大增50%",
+      "業外收益",
+      "低本益比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-28",
+        "source": "萬寶晚報-10_28",
+        "category_mentioned": "今晚爆個股 > 化工與塑膠"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-28",
+    "est_eps_2026": 1.6,
+    "est_pe": 20.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-28",
+      "source_file": "萬寶晚報-10_28.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "元禎9月營收年增50.57%，業外收益挹注獲利、PE 20倍",
+      "close_price": null,
+      "est_eps": 1.6,
+      "est_pe": 20.0,
+      "revenue_perf": "9月營收9.07億元年增50.57%，前三季營收年增15.88%",
+      "content": "油價高檔帶動化學品本業增溫，9月營收年增達50.57%。上半年獲利受惠金融股投資之現金股利與評價利益暴衝11倍每股賺1元。全年估EPS 1.6元，本益比約20倍。",
+      "key_points": [
+        "9月營收年增逾50%，本業營運顯著回升",
+        "業外投資金融股挹注豐厚收益，全年估賺1.6元"
+      ]
+    }
+  ]
+}

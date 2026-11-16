@@ -1,0 +1,29 @@
+{
+  "stock_id": "4114",
+  "stock_name": "健喬",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "製藥與新藥代理"
+    ],
+    "theme_tags": [
+      "癌症用藥",
+      "複方鼻噴劑"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-09"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "10月營收7.67億元年增41.2%，前10月66.1億元已超越去年全年；癌症與心血管用藥分別年增40%與50%，益得複方鼻噴劑10月上市銷售優於預期，估EPS 1.6元。",
+      "key_points": [
+        "10月營收年增41.2%，前10月66.1億元已超越去年全年",
+        "肺癌新藥Augtyro等進入醫院達標率90%，子宮肌瘤新藥進174家"
+      ]
+    }
+  ]
+}

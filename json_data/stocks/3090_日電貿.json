@@ -1,0 +1,71 @@
+{
+  "stock_id": "3090",
+  "stock_name": "日電貿",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件通路",
+      "玻纖布與電子材料"
+    ],
+    "theme_tags": [
+      "發CB募資50億",
+      "前三季獲利大增",
+      "通路龍頭",
+      "高EPS",
+      "MLCC漲價",
+      "AI伺服器",
+      "缺料"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 通路"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "close_price": 169.0,
+    "est_eps_2026": 10.0,
+    "est_pe": 16.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "前三季EPS 7.4元優於預期。AI伺服器帶動MLCC需求，AI營收比重明年將飛越六成；部分MLCC本季續漲，交期延長至24~36週、缺料延至2027年。擬發兩筆CB籌資50億。",
+      "key_points": [
+        "AI營收占比今年Q4升至55%~60%，2027年將飛越六成",
+        "日韓產能排擠使MLCC交期延至24~36週，今年估EPS 10元"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "日電貿自低點大彈48%，估2026賺一個股本EPS 10元",
+      "close_price": 169.0,
+      "est_eps": 10.0,
+      "est_pe": 16.9,
+      "revenue_perf": "2026預估EPS 10元，H1 EPS 4.91元",
+      "content": "台灣最大被動元件通路商日電貿上半年EPS達4.91元，全年估賺10元，本益比不到17倍。10/1收169元，自低點114元反彈48%，具高殖利率與獲利護體。",
+      "key_points": [
+        "預估EPS 10元賺一個股本，PE僅16.9倍",
+        "自7月低點大漲48%，通路庫存去化完畢"
+      ]
+    },
+    {
+      "report_date": "2026-11-05",
+      "source_section": "包打聽快報",
+      "estimated_eps": "前三季EPS 7.4元",
+      "pe_ratio": null,
+      "content": "文曄旗下日電貿將發行二筆三年期無擔保可轉債(CB)，合計募資上看50億元。前三季稅後純益20.95億元、年增136.46%，EPS達7.4元，將於10日舉行法說會。",
+      "key_points": [
+        "擬發兩筆CB募資上看50億元",
+        "前三季稅後純益年增136.46%，EPS達7.4元"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "stock_id": "8147",
+  "stock_name": "正淩",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "連接器",
+      "光通訊",
+      "機器人組件"
+    ],
+    "theme_tags": [
+      "人形機器人",
+      "1.6T光通訊"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "今晚爆個股 > 連接器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "est_eps_2026": 3.0,
+    "est_pe": 48.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "人形機器人開始出貨，1.6T光通訊Q4放量",
+      "close_price": null,
+      "est_eps": 3.0,
+      "est_pe": 48.0,
+      "revenue_perf": "前八月年增29%，法人估全年增30%以上",
+      "content": "人形機器人零組件（手、肩、關節）開始出貨北美客戶，量產目標直達2027；1.6T光通訊產品Q4量產。8月營收2.29億元創新高年增95.98%，全年業績估增逾30%。",
+      "key_points": [
+        "人形機器人關鍵零部件切入北美供應鏈出貨",
+        "1.6T光通訊Q4量產，8月營收創歷史新高"
+      ]
+    }
+  ]
+}

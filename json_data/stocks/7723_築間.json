@@ -1,0 +1,45 @@
+{
+  "stock_id": "7723",
+  "stock_name": "築間",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "鍋物與主題餐廳"
+    ],
+    "theme_tags": [
+      "連鎖餐飲",
+      "連鎖火鍋"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-08",
+        "source": "reports/11月份/萬寶產業報告-1108(萬寶晚報贈品).pdf",
+        "category_mentioned": "連鎖餐飲 - 鍋物與主題餐廳"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-08",
+    "close_price": 17.1,
+    "est_eps_2026": -5.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-08",
+      "source_file": "reports/11月份/萬寶產業報告-1108(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏空",
+      "title": "9月營收年減16.2%，今年以來股價重挫49.1%",
+      "close_price": 17.1,
+      "price_change_5d_pct": -6.04,
+      "foreign_5d_lots": 15,
+      "est_eps": -5.0,
+      "est_pe": null,
+      "revenue_perf": "9月營收年減16.2%",
+      "content": "連鎖鍋物集團，近5日下跌6.04%收17.10元，今年以來累計大跌49.1%；9月營收年減16.2%為表列衰退最深個股，萬寶預估2026年EPS為-5.0元，營運仍待調整。",
+      "key_points": [
+        "9月營收年減16.2%仍在衰退，今年股價跌49.1%，預估EPS -5.0元"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "stock_id": "8069",
+  "stock_name": "元太",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "電子紙"
+    ],
+    "theme_tags": [
+      "彩色電子紙看板",
+      "日本鐵路合作",
+      "大尺寸電子紙",
+      "AI高速傳輸材料",
+      "人形機器人",
+      "Google供應鏈"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-21",
+        "source": "萬寶晚報-10_21",
+        "category_mentioned": "光電相關 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 155.5,
+    "est_eps_2026": 12.0,
+    "est_pe": 13
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 12元。前三季獲利91.7億元創歷史次高(Q3 EPS 2.3元)。打入Google轉投資Apptronik人形機器人供應鏈，電子紙應用於機器人臉部與上半身。",
+      "key_points": [
+        "前三季獲利創歷史次高",
+        "打入Google機器人供應鏈"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "source": "今晚爆個股",
+      "content": "斥資27.8億元買下華紙桃園觀音廠擴建大尺寸電子紙產能；並與台虹簽署合作意向書共同開發AI高速傳輸材料跨足PTFE銅箔基板，估EPS 12元。",
+      "key_points": [
+        "27.8億元購華紙觀音廠擴大電子紙布局，認購永豐金現增5,332張",
+        "攜手台虹進軍PTFE基板與AI材料，估今年EPS 12元"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶晚報-10_21.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "攜富士軟片影像系統，拓展日本鐵路電子紙看板",
+      "close_price": 155.5,
+      "price_change_pct": -0.32,
+      "volume_lots": 5425,
+      "est_eps": 12.0,
+      "est_pe": 13,
+      "revenue_perf": null,
+      "content": "宣布與日本富士軟片影像系統合作拓展大尺寸彩色電子紙看板市場，初期聚焦日本鐵路產業；55吋彩色電子紙預計今年12月推出樣品、2027年3月量產，B1尺寸2028年1月量產。",
+      "key_points": [
+        "攜手富士軟片拓展日本鐵路大尺寸電子紙看板",
+        "55吋彩色電子紙2027年3月量產"
+      ]
+    }
+  ]
+}

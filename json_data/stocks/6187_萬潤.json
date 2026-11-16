@@ -1,0 +1,70 @@
+{
+  "stock_id": "6187",
+  "stock_name": "萬潤",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體設備",
+      "先進封裝設備",
+      "CoWoS點膠機",
+      "散熱貼合機",
+      "被動元件自動化機台"
+    ],
+    "theme_tags": [
+      "CoWoS設備",
+      "營收倍增",
+      "三大法人買超2.72億",
+      "買超255張",
+      "CoWoS設備龍頭",
+      "先進封裝"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-12",
+        "source": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",
+        "category_mentioned": "設備儀器 - 半導體設備"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 950.0,
+    "est_eps_2026": 28.0,
+    "est_pe": 33.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "source_file": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "10月營收年增217.7%惟月減15.7%，近5日小跌0.94%",
+      "close_price": 950.0,
+      "price_change_5d_pct": -0.94,
+      "foreign_5d_lots": -475,
+      "est_eps": 28.0,
+      "est_pe": 33.9,
+      "revenue_perf": "10月營收年增217.7%、月減15.7%",
+      "content": "半導體封裝設備大廠，10月營收大幅年增217.7%居表列第3，但較9月月減15.7%。近5日股價小跌0.94%收950.00元，外資近5日賣超475張；萬寶預估2026年EPS 28.0元、本益比33.9倍。",
+      "key_points": [
+        "10月營收年增217.7%但月減15.7%，預估EPS 28.0元、PE 33.9倍"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "source_file": "萬寶晚報-11_04.pdf",
+      "report_type": "主力大戶籌碼",
+      "investment_rating": "強力買進",
+      "target_price": null,
+      "estimated_eps": null,
+      "estimated_pe": null,
+      "content": "三大法人櫃買買超255張、金額2.72億元，居買超金額第九名。台積電與日月光CoWoS點膠、散熱貼合設備主力供應商，在手訂單能見度直達2027年。",
+      "key_points": [
+        "三大法人櫃買買超2.72億元居第九名，買盤穩健承接。",
+        "先進封裝擴產剛性需求無虞，全年營收獲利將戰新高。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "投信與外資聯袂買超，回檔守穩月線支撐。"
+    }
+  ]
+}

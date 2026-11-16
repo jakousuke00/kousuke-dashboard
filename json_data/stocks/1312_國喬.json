@@ -1,0 +1,27 @@
+{
+  "stock_id": "1312",
+  "stock_name": "國喬",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "特化與半導體材料"
+    ],
+    "theme_tags": [
+      "轉型特化"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS -3元，前三季每股虧2.82元。推動業務由大宗石化轉向特化與電子級材料，與日本愛沃特策略合作延伸至半導體特殊材料供應鏈。",
+      "key_points": [
+        "轉向特用化工及電子級材料",
+        "攜手日本愛沃特切入半導體特殊材料"
+      ]
+    }
+  ]
+}

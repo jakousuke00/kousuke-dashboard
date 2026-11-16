@@ -1,0 +1,45 @@
+{
+  "stock_id": "2363",
+  "stock_name": "矽統",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "IC設計",
+      "聯電集團"
+    ],
+    "theme_tags": [
+      "聯電集團",
+      "萬寶上修",
+      "轉型轉機"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "精選圖表"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-29",
+    "est_eps_2026": 1.8
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "萬寶精選圖表上修矽統2026年預估EPS至1.8元",
+      "close_price": null,
+      "est_eps": 1.8,
+      "est_pe": null,
+      "revenue_perf": "集團資源整合與ASIC布局推動營運擺脫低谷",
+      "content": "萬寶投顧精選圖表上調矽統2026年預估EPS至1.8元。集團資源整合與ASIC布局推動營運擺脫低谷，獲利展望逐步轉佳。",
+      "key_points": [
+        "萬寶精選圖表上調2026年預估EPS至1.8元",
+        "聯電集團轉型效益顯現，獲利展望改善"
+      ]
+    }
+  ]
+}

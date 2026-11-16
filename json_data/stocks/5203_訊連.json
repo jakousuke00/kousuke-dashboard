@@ -1,0 +1,59 @@
+{
+  "stock_id": "5203",
+  "stock_name": "訊連",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "多媒體軟體",
+      "人臉辨識AI",
+      "軟體、AI Agent與資服"
+    ],
+    "theme_tags": [
+      "AI PC",
+      "FaceMe人臉辨識",
+      "玩美移動私有化",
+      "FaceMe",
+      "邊緣AI安防",
+      "Intel平台"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "est_eps_2026": 4.0,
+    "est_pe": 14.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "FaceMe人臉辨識完成Intel Core Ultra Series 3最佳化，影像處理速度達CPU模式20倍。單台迷你電腦可同時處理59路攝影機與49路門禁，降低企業邊緣AI安防門檻。",
+      "key_points": [
+        "FaceMe完成Intel新平台最佳化，比第12代Core i5提升約37倍",
+        "今年估EPS 4元、本益比13倍"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "今晚爆個股",
+      "stance": "中立偏多",
+      "title": "訊連前三季每股賺1.94元，推進AI PC與FaceMe人臉辨識引擎",
+      "close_price": null,
+      "est_eps": 4.0,
+      "est_pe": 14.0,
+      "revenue_perf": "Q3每股賺0.27元，轉投資玩美移動私有化後併表助益營收",
+      "content": "訊連Q3每股賺0.27元，前三季EPS 1.94元。部分產品遭蘋果App Store下架短期受抑，未來聚焦AI PC軟體、Web服務及FaceMe人臉辨識驅動成長，萬寶估EPS 4元。",
+      "key_points": [
+        "前三季每股獲利1.94元，玩美移動併表挹注",
+        "明年聚焦AI PC軟體與FaceMe人臉辨識引擎"
+      ]
+    }
+  ]
+}

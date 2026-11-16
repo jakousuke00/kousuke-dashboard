@@ -1,0 +1,121 @@
+{
+  "stock_id": "4968",
+  "stock_name": "立積",
+  "industry_profile": {
+    "main_industry": "砷化鎵",
+    "sub_industries": [
+      "砷化鎵上游磊晶片、IC設計",
+      "射頻前端晶片(FEM)",
+      "射頻前端RF IC",
+      "Wi-Fi 7晶片",
+      "WiFi前端模組FEM",
+      "射頻開關",
+      "物聯網通訊IC"
+    ],
+    "theme_tags": [
+      "射頻前端IC",
+      "Wi-Fi FEM",
+      "Skyworks與Qorvo合併轉單",
+      "Wi-Fi 7",
+      "車用射頻",
+      "Wi-Fi 7占比48%",
+      "超越Wi-Fi 6",
+      "萬寶估EPS 3元",
+      "萬寶下修EPS",
+      "WiFi7過渡期"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+        "category_mentioned": "砷化鎵 - 砷化鎵上游磊晶片、IC設計"
+      },
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "今晚爆個股"
+      },
+      {
+        "date": "2026-10-02",
+        "source": "萬寶晚報-10_02",
+        "category_mentioned": "IC設計 > 射頻IC"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 87.0,
+    "est_eps_2026": 3.0,
+    "est_pe": 29.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "精選圖表",
+      "investment_rating": "中立",
+      "target_price": null,
+      "estimated_eps": 1.8,
+      "estimated_pe": 50.0,
+      "content": "萬寶投顧將立積2026年預估EPS下修至1.8元。主要受網通標案開標延遲以及路由器客戶庫存調整影響，WiFi 7世代交替速度略顯平緩。",
+      "key_points": [
+        "萬寶調降2026年EPS至1.8元，WiFi 7放量節奏推遲。",
+        "留意電信運營商明年換機招標釋出之回溫訊號。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "高本益比面臨評價修正壓力，等待換機潮實際起跑。"
+    },
+    {
+      "date": "2026-11-02",
+      "source_file": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "立積9月營收持平，預估EPS 3.0元",
+      "close_price": 87.9,
+      "price_change_5d_pct": -4.04,
+      "foreign_5d_lots": -141,
+      "est_eps": 3.0,
+      "est_pe": 29.3,
+      "revenue_perf": "9月營收年增0.0%（與去年同期持平）",
+      "content": "收盤87.90元，近5日下跌4.04%，外資近5日賣超141張。9月營收與去年同期持平，為表列11檔中唯一未呈現年增者；萬寶預估今年EPS 3.0元，預估本益比29.3倍。",
+      "key_points": [
+        "9月營收與去年同期持平，近5日下跌4.04%",
+        "萬寶預估EPS 3.0元，預估本益比29.3倍"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "立積Wi-Fi 7占比48%超越Wi-Fi 6，前三季營收年增126%",
+      "close_price": 87.0,
+      "est_eps": 3.0,
+      "est_pe": 29.0,
+      "revenue_perf": "Q3營收9.73億元，毛利率33%，每股賺0.38元；前三季營收年增126%",
+      "content": "立積Wi-Fi 7占營收比重衝上48%超越Wi-Fi 6/6E的43%，前三季營收年增126%。電信新標案全面轉向Wi-Fi 7，並與SoC平台開發Wi-Fi 8價差約一倍，車用營收年增119%，萬寶估EPS 3元。",
+      "key_points": [
+        "Wi-Fi 7營收占比衝至48%超越Wi-Fi 6，電信標案全面轉向",
+        "車用營收年增119%，並攜手SoC大廠提前卡位Wi-Fi 8"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "source_file": "萬寶晚報-10_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Skyworks、Qorvo合併最快10/5完成，品牌客戶尋第二供應商受惠",
+      "close_price": 102.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 3.0,
+      "est_pe": 34.0,
+      "revenue_perf": "上半年EPS 1元，Wi-Fi 7相關營收年增221%（Q2占比47%），車用營收季增143%",
+      "content": "美系射頻大廠Skyworks與Qorvo合併案已獲監管核准、最快10月5日完成交易，品牌客戶為分散風險積極尋求第二、第三供應來源，韓、日、歐系廠商主動詢問立積產能。上半年Wi-Fi 7營收年增221%、Q2占比達47%。",
+      "key_points": [
+        "受惠Skyworks與Qorvo合併案，歐日韓品牌客戶轉單詢問產能",
+        "Wi-Fi 7營收年增221%占Q2營收47%，車用季增143%"
+      ]
+    }
+  ]
+}

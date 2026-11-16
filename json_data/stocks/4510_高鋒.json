@@ -1,0 +1,47 @@
+{
+  "stock_id": "4510",
+  "stock_name": "高鋒",
+  "industry_profile": {
+    "main_industry": "工具機",
+    "sub_industries": [
+      "加工中心機"
+    ],
+    "theme_tags": [
+      "加工中心機",
+      "CoWoS檢測設備概念"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶產業報告-1027",
+        "category_mentioned": "工具機 > 加工中心機 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-27",
+    "close_price": 43.4,
+    "est_eps_2026": 1.2,
+    "est_pe": 36.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶產業報告-1027(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "近5日上漲5.85%，9月營收年增42.2%、外資買超886張",
+      "close_price": 43.4,
+      "price_change_5d_pct": 5.85,
+      "foreign_5d_lots": 886,
+      "est_eps": 1.2,
+      "est_pe": 36.2,
+      "revenue_perf": "9月營收年增42.2%",
+      "content": "收盤43.40元，近5日上漲5.85%，9月營收年增42.2%，外資近5日買超886張，萬寶預估2026年EPS 1.2元，預估本益比36.2倍。",
+      "key_points": [
+        "9月營收年增42.2%，外資近5日買超886張",
+        "萬寶預估2026 EPS 1.2元，預估本益比36.2倍"
+      ]
+    }
+  ]
+}

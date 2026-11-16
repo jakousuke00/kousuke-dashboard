@@ -1,0 +1,28 @@
+{
+  "stock_id": "8255",
+  "stock_name": "朋程",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "車用二極體/SiC模組"
+    ],
+    "theme_tags": [
+      "800V高壓直流",
+      "CDU"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS 6.4元。預估Q4營收獲利優於Q3，超低損耗二極體明年出貨估約1,000萬顆；SiC模組鎖定800V高壓直流供電與CDU應用，11月底赴韓送樣。",
+      "key_points": [
+        "Q4營收獲利估優於Q3",
+        "SiC模組攻800V商機，CDU用模組11月底送樣"
+      ]
+    }
+  ]
+}

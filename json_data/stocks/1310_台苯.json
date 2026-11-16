@@ -1,0 +1,28 @@
+{
+  "stock_id": "1310",
+  "stock_name": "台苯",
+  "industry_profile": {
+    "main_industry": "塑化/轉型AI",
+    "sub_industries": [
+      "苯乙烯與AI算力中心"
+    ],
+    "theme_tags": [
+      "私募增資",
+      "AI算力中心"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "董事會決議明年1/12股臨會討論1.5億股內私募現增；前三季每股虧4.05元主因高雄SM廠結束生產一次性認列。林園廠3萬多坪土地洽談切入AI算力中心與特用化學品。",
+      "key_points": [
+        "擬辦理1.5億股私募增資強化財務",
+        "林園廠3萬多坪土地轉型AI算力中心"
+      ]
+    }
+  ]
+}

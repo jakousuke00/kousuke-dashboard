@@ -1,0 +1,66 @@
+{
+  "stock_id": "3555",
+  "stock_name": "博士旺",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "轉型AI/ASIC與消費性IC",
+      "區塊鏈與數位金融",
+      "穩定幣與RWA"
+    ],
+    "theme_tags": [
+      "轉型題材",
+      "消費電子",
+      "虛擬資產服務法",
+      "前三季EPS 11.23元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-22",
+        "source": "萬寶晚報-10_22",
+        "category_mentioned": "軟體業 > 今晚爆個股"
+      },
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：IC設計與消費電子"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-22",
+    "est_eps_2026": 10.0,
+    "est_pe": 14
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-22",
+      "source_file": "萬寶晚報-10_22.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "前三季每股賺11.23元，賺逾一個股本",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 10.0,
+      "est_pe": 14,
+      "revenue_perf": "前三季營收6.14億元(年增247.44%)、稅後4.94億元，EPS 11.23元；Q3單季EPS 4.37元",
+      "content": "受惠虛擬資產服務法通過，帶動虛擬資產託管、穩定幣及RWA等數位金融商機，前三季EPS高達11.23元、Q3單季EPS 4.37元，已有3至5家金融機構客戶導入。",
+      "key_points": [
+        "前三季EPS 11.23元賺逾一個股本，Q3單季4.37元",
+        "受惠穩定幣與RWA數位金融商機"
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "空方(建議避開)",
+      "title": "博士旺高檔面臨嚴峻修正壓力",
+      "content": "雖積極尋求轉型，但短期本業仍受大環境消費性電子動能疲軟壓抑，市場對下半年獲利展望保守，引發汰弱留強賣壓(-8.04%)，建議避開前景不明標的。",
+      "key_points": [
+        "受消費電子疲軟壓抑，高檔面臨修正壓力(-8.04%)建議避開"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "stock_id": "2705",
+  "stock_name": "六福",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "休閒度假與主題樂園"
+    ],
+    "theme_tags": [
+      "主題樂園",
+      "觀光飯店",
+      "外資買超"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-03",
+        "source": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+        "category_mentioned": "觀光飯店 - 休閒度假與主題樂園"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 14.85,
+    "est_eps_2026": 1.0,
+    "est_pe": 14.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "reports/11月份/萬寶產業報告-1103(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性偏多",
+      "title": "六福外資近5日買超574張居冠，9月營收年增26.5%",
+      "close_price": 14.85,
+      "price_change_5d_pct": -0.34,
+      "foreign_5d_lots": 574,
+      "est_eps": 1.0,
+      "est_pe": 14.9,
+      "revenue_perf": "9月營收年增26.5%",
+      "content": "外資近5日買超574張為表列最多，近20日法人也買超363張；收盤14.85元與52週低點相同，近5日小跌0.34%。9月營收年增26.5%，萬寶預估2026年EPS 1.0元，預估本益比14.9倍。",
+      "key_points": [
+        "外資近5日買超574張居冠，9月營收年增26.5%",
+        "萬寶預估EPS 1.0元，預估本益比14.9倍"
+      ]
+    }
+  ]
+}

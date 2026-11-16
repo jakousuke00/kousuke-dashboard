@@ -1,0 +1,70 @@
+{
+  "stock_id": "2451",
+  "stock_name": "創見",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "記憶體模組與Edge AI",
+      "工控記憶體",
+      "企業級SSD",
+      "記憶體模組"
+    ],
+    "theme_tags": [
+      "嵌入式鏡頭模組",
+      "Edge AI視覺",
+      "輝達Jetson Orin",
+      "前三季EPS 62.74元",
+      "本益比僅2倍",
+      "預估EPS下調",
+      "預估EPS下修"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-09-23",
+        "source": "reports/10月份/萬寶晚報0923-測試版.pdf",
+        "category_mentioned": "個股焦點新聞 - 記憶體模組與AI視覺"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "列入萬寶投顧2026年預估EPS下修名單，2026年預估EPS下調至80元。",
+      "key_points": [
+        "2026年預估EPS下調至80元"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "content": "萬寶投顧2026年預估EPS由高檔下調至80元。",
+      "key_points": [
+        "2026預估EPS下調至80元"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "source_file": "reports/10月份/萬寶晚報0923-測試版.pdf",
+      "section": "個股焦點新聞",
+      "stance": "偏多",
+      "title": "創見推兩款嵌入式鏡頭模組，攜研華整合輝達平台",
+      "content": "推出ECM101U2C與ECM301G2F兩款嵌入式鏡頭模組，適用智慧零售、機器視覺、工業自動化與機器人；並與研華將ECM301G2F整合至搭載輝達Jetson Orin的DS-015運算平台，提供商品辨識與智慧導購等服務。",
+      "key_points": [
+        "推出兩款嵌入式鏡頭模組，攜手研華整合至輝達Jetson Orin運算平台"
+      ]
+    },
+    {
+      "report_date": "2026-11-06",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 100元",
+      "pe_ratio": "2倍",
+      "content": "Q3營收160.7億元、毛利率56.5%，單季EPS 16.11元；前三季稅後純益269.4億元、EPS 62.74元創同期新高。10月營收50.3億元，持續深化企業級儲存與工業應用。",
+      "key_points": [
+        "Q3毛利率56.5%、EPS 16.11元，前三季EPS高達62.74元創同期新高",
+        "2026年預估EPS達100元，本益比僅約2倍"
+      ]
+    }
+  ]
+}

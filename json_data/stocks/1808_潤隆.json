@@ -1,0 +1,48 @@
+{
+  "stock_id": "1808",
+  "stock_name": "潤隆",
+  "industry_profile": {
+    "main_industry": "房地產/營造",
+    "sub_industries": [
+      "營建開發與指標建商"
+    ],
+    "theme_tags": [
+      "建商交屋",
+      "外資買超",
+      "低本益比"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 營建開發與指標建商"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-01",
+    "close_price": 35.95,
+    "est_eps_2026": 4.0,
+    "est_pe": 9.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-01",
+      "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "偏多",
+      "title": "潤隆外資近5日買超逾萬張，預估本益比9.0倍",
+      "close_price": 35.95,
+      "price_change_5d_pct": 4.66,
+      "foreign_5d_lots": 10840,
+      "est_eps": 4.0,
+      "est_pe": 9.0,
+      "revenue_perf": "9月營收年增63,462.8%（去年同期基期極低）",
+      "content": "收盤35.95元，近5日上漲4.66%，外資近5日大舉買超10,840張。9月營收因去年同期基期極低，年增率高達63,462.8%；萬寶預估2026年EPS 4.0元，預估本益比9.0倍。",
+      "key_points": [
+        "外資近5日買超10,840張，推升股價近5日漲4.66%",
+        "萬寶預估EPS 4.0元，預估本益比9.0倍"
+      ]
+    }
+  ]
+}

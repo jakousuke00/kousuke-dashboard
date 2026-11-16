@@ -1,0 +1,28 @@
+{
+  "stock_id": "2204",
+  "stock_name": "中華車",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "軍工航太、汽車與複材"
+    ],
+    "theme_tags": [
+      "汽車",
+      "新車交車"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚產業新聞",
+      "content": "前三季受惠XFORCE上市與售服成長，稅後純益23.76億元年增11.55%，EPS 4.35元；Q4新款OUTLANDER陸續交車挹注營運動能。",
+      "key_points": [
+        "前三季EPS 4.35元年增11.55%，Q4新款OUTLANDER交車"
+      ]
+    }
+  ]
+}

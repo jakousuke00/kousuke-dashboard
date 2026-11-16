@@ -1,0 +1,28 @@
+{
+  "stock_id": "2908",
+  "stock_name": "特力",
+  "industry_profile": {
+    "main_industry": "貿易百貨",
+    "sub_industries": [
+      "居家零售/貿易"
+    ],
+    "theme_tags": [
+      "併購效應",
+      "非中供應鏈"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-13"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-13",
+      "content": "估EPS 1.5元。受惠美國高關稅因素消失及併購Hampton Products穩定出貨，前三季稅後純益6.69億元年增逾1.86倍、EPS 1.31元創十年同期新高。貿易出貨中國占比降至49%，非中達51%。",
+      "key_points": [
+        "前三季EPS 1.31元創十年同期新高",
+        "非中產地占比達51%，越南打造供應鏈基地"
+      ]
+    }
+  ]
+}

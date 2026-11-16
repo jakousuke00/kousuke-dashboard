@@ -1,0 +1,45 @@
+{
+  "stock_id": "8042",
+  "stock_name": "金山電",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "被動元件",
+      "鋁質電容"
+    ],
+    "theme_tags": [
+      "伺服器電源"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-01",
+        "source": "萬寶晚報-1001",
+        "category_mentioned": "被動元件 > 鋁質電容"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-01",
+    "close_price": 118.0,
+    "est_eps_2026": 4.0,
+    "est_pe": 29.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-01",
+      "source_file": "萬寶晚報-1001.pdf",
+      "section": "精選圖表",
+      "stance": "偏多",
+      "title": "金山電低點強彈34%，今年漲幅122%",
+      "close_price": 118.0,
+      "est_eps": 4.0,
+      "est_pe": 29.5,
+      "revenue_perf": "2026預估EPS 4元，H1 EPS 2.84元",
+      "content": "鋁電解電容廠金山電上半年EPS達2.84元，全年估4元。10/1收盤118元，較7月低點88元反彈34%，今年漲幅達122%。",
+      "key_points": [
+        "上半年獲利進度超前，H1 EPS 2.84元",
+        "自波段低點反彈34%"
+      ]
+    }
+  ]
+}

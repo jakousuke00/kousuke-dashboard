@@ -1,0 +1,45 @@
+{
+  "stock_id": "7762",
+  "stock_name": "吉晟生",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "核醫藥物",
+      "阿茲海默檢測與PIC/S GMP廠"
+    ],
+    "theme_tags": [
+      "12月底上櫃",
+      "阿茲海默檢測藥",
+      "國內首家具雙廠"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-30",
+        "source": "萬寶晚報-10_30",
+        "category_mentioned": "興櫃搶先報"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-30",
+    "close_price": 58.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶晚報-10_30.pdf",
+      "section": "興櫃搶先報",
+      "stance": "偏多",
+      "title": "吉晟生受惠阿茲海默新藥帶動核醫檢測商機，預計12月底掛牌上櫃",
+      "close_price": 58.0,
+      "est_eps": null,
+      "est_pe": null,
+      "revenue_perf": "前三季營收1.95億元年增29.7%，上半年每股獲利0.23元",
+      "content": "國內首家登錄興櫃核醫專業藥廠吉晟生預計12月底上櫃。受惠阿茲海默抗體新藥在台上市，旗下腦立晰注射劑(FBB)檢測評估需求增加，收購禮曼生技後成國內唯一擁雙PIC/S GMP核醫藥廠業者。",
+      "key_points": [
+        "國內首家核醫專業藥廠，預計12月底正式掛牌上櫃",
+        "阿茲海默抗體新藥帶動腦立晰檢測需求，具備雙PIC/S GMP廠優勢"
+      ]
+    }
+  ]
+}

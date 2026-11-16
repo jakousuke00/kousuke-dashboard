@@ -1,0 +1,76 @@
+{
+  "stock_id": "3030",
+  "stock_name": "德律",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "AOI/AXI自動光學與X光檢測設備",
+      "AOI自動光學檢測",
+      "AXI X光檢測",
+      "TGV玻璃基板檢測"
+    ],
+    "theme_tags": [
+      "TGV玻璃基板檢測",
+      "先進封裝檢測",
+      "營收創同期高",
+      "10月營收大增71%",
+      "超越去年全年",
+      "TGV先進封裝",
+      "半導體檢測"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-02",
+        "source": "萬寶晚報-10_02",
+        "category_mentioned": "設備儀器 > AOI與TGV檢測"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 300.0,
+    "est_eps_2026": 15.0,
+    "est_pe": 20.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "今晚爆個股",
+      "investment_rating": "強力買進",
+      "target_price": null,
+      "estimated_eps": 15.0,
+      "estimated_pe": 16.0,
+      "content": "10月營收9.26億元年增71.93%創同期高，前十月營收92.13億元已超去年全年。受惠CSP擴大AI投資推升AOI/AXI檢測設備需求，並提前卡位玻璃通孔(TGV)先進封裝檢測，萬寶估今年EPS 15元。",
+      "key_points": [
+        "10月營收大增71.93%，前十月累計營收已賺贏去年全年，成長動能極為強勁。",
+        "全面卡位伺服器、半導體與800G交換器檢測，並提前切入TGV先進封裝新藍海。"
+      ],
+      "operational_metrics": {
+        "oct_revenue": 9.26,
+        "oct_mom": 7.0,
+        "oct_yoy": 71.93,
+        "ten_months_revenue": 92.13
+      },
+      "chips_observation": "高成長基本面保護，法人買盤逢回承接意願高，為設備族群領頭羊。"
+    },
+    {
+      "date": "2026-10-02",
+      "source_file": "萬寶晚報-10_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "9月營收8.68億元年增54%創同期新高，提前布局TGV玻璃基板檢測",
+      "close_price": 300.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 15.0,
+      "est_pe": 20.0,
+      "revenue_perf": "9月營收8.68億元、年增54.02%創同期新高；Q3營收28.98億元、年增約四成；前三季82.86億元、年增29.76%",
+      "content": "受惠伺服器、網通及半導體需求帶動AOI、AXI設備出貨，9月營收8.68億元創歷年同期新高。提前投入TGV玻璃基板檢測技術，鍍銅前由子公司歐美科技開發檢測模組、鍍銅後以高解析度AXI設備為主，7成研發人力投注半導體。",
+      "key_points": [
+        "9月營收8.68億元年增54%創同期新高，Q3營收年增約四成",
+        "提前布局TGV鍍銅前後檢測設備，預估2026年EPS 15元"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "stock_id": "4714",
+  "stock_name": "永捷",
+  "industry_profile": {
+    "main_industry": "房地產/營造",
+    "sub_industries": [
+      "地產借殼",
+      "PU樹脂/折疊顯示塗層"
+    ],
+    "theme_tags": [
+      "地產借殼",
+      "營收成長",
+      "折疊手機",
+      "轉虧為盈"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-01",
+        "source": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+        "category_mentioned": "房地產/營造 - 地產借殼"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-12",
+    "close_price": 12.45,
+    "est_eps_2026": -0.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-12",
+      "content": "估EPS -0.2元。Q3毛利率升至26%、EPS 0.07元轉虧為盈；前十月營收18.96億元年增63.54%。投入可撓式硬塗層搶折疊顯示商機，反應槽擴建2027Q3投產。",
+      "key_points": [
+        "Q3轉盈EPS 0.07元，前十月營收年增63.54%",
+        "擴建聚酯多元醇產能搶折疊顯示商機"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "source_file": "reports/11月份/萬寶產業報告-1101(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "永捷9月營收年增62.2%，近5日上漲2.89%",
+      "close_price": 12.45,
+      "price_change_5d_pct": 2.89,
+      "foreign_5d_lots": -700,
+      "est_eps": -0.2,
+      "est_pe": null,
+      "revenue_perf": "9月營收年增62.2%",
+      "content": "收盤12.45元，近5日上漲2.89%，9月營收年增62.2%。外資近5日賣超700張，萬寶預估2026年EPS為-0.2元。",
+      "key_points": [
+        "9月營收年增62.2%，近5日股價上漲2.89%",
+        "外資近5日賣超700張，預估EPS -0.2元"
+      ]
+    }
+  ]
+}

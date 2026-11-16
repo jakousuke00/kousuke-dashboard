@@ -1,0 +1,47 @@
+{
+  "stock_id": "8112",
+  "stock_name": "至上",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體通路",
+      "記憶體代理"
+    ],
+    "theme_tags": [
+      "記憶體漲價",
+      "全年營收破6000億"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-21",
+        "source": "萬寶晚報-10_21",
+        "category_mentioned": "資訊/IC通路 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-21",
+    "est_eps_2026": 16.0,
+    "est_pe": 5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-21",
+      "source_file": "萬寶晚報-10_21.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "記憶體漲價推升業績，法人估全年營收破6,000億元",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 16.0,
+      "est_pe": 5,
+      "revenue_perf": "前三季營收4,444.24億元(年增1.84倍)，Q3營收1,836.49億元(季增21.9%、年增2.43倍)",
+      "content": "受惠記憶體價格高漲，Q3營收連四季創新高；Q2單季EPS 5.54元、上半年EPS 9.45元，法人估全年營收超過6,000億元創新高。前七月DRAM與NAND Flash占營收88%，逾半來自伺服器。",
+      "key_points": [
+        "Q3營收1,836億元年增2.43倍，全年估破6,000億元",
+        "上半年EPS 9.45元，伺服器記憶體占比逾半"
+      ]
+    }
+  ]
+}

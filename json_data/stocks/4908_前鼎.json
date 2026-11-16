@@ -1,0 +1,37 @@
+{
+  "stock_id": "4908",
+  "stock_name": "前鼎",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "高速光收發模組與CPO"
+    ],
+    "theme_tags": [
+      "800G/1.6T光模組",
+      "CPO矽光子"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-05-27",
+        "source": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+        "category_mentioned": "江湖風雲股報 - 空方：光通訊與矽光子"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-05-27"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-05-27",
+      "source_file": "reports/10月份/萬寶IA倚天日報-0527.pdf",
+      "section": "江湖風雲股報",
+      "stance": "空方(漲多回檔)",
+      "title": "前鼎短線漲幅過大面臨估值修正與資金撤出",
+      "content": "雖具備800G/1.6T高速光模組技術佈局，但前期受惠CPO題材累積龐大漲幅，大盤高檔震盪下市場嚴格檢視實質營收貢獻時程，資金先行撤出導致重挫(-9.42%)。",
+      "key_points": [
+        "雖具800G/1.6T佈局，惟短線漲多面臨估值再平衡(-9.42%)"
+      ]
+    }
+  ]
+}

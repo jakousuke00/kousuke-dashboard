@@ -1,0 +1,57 @@
+{
+  "stock_id": "4966",
+  "stock_name": "譜瑞-KY",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "IC設計",
+      "高速傳輸介面",
+      "晶圓代工與ASIC"
+    ],
+    "theme_tags": [
+      "Q3每股7.69元",
+      "ASIC 6奈米下線",
+      "萬寶估32元",
+      "高速傳輸IC",
+      "預估EPS下修"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-29",
+        "source": "萬寶晚報-10_29",
+        "category_mentioned": "今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11",
+    "est_eps_2026": 32.0,
+    "est_pe": 15.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "萬寶投顧精選圖表",
+      "content": "萬寶投顧精選圖表下調2026年預估EPS至27元，後續需留意筆電與PC高速傳輸介面需求變化。",
+      "key_points": [
+        "萬寶投顧2026年預估EPS下修至27元"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source_file": "萬寶晚報-10_29.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "譜瑞Q3每股賺7.69元，ASIC-like專案部分完成6奈米下線",
+      "close_price": null,
+      "est_eps": 32.0,
+      "est_pe": 15.0,
+      "revenue_perf": "前三季每股賺22.02元，上半年配息7.3元，Q4毛利率估回升",
+      "content": "譜瑞Q3每股賺7.69元，前三季EPS 22.02元。ASIC-like專案部分已完成6奈米下線，預估2027下半年放量貢獻營收，萬寶預估今年EPS 32元，本益比約15倍。",
+      "key_points": [
+        "前三季每股賺22.02元，配發上半年股息7.3元",
+        "ASIC-like專案完成6奈米下線，2027下半年放量"
+      ]
+    }
+  ]
+}

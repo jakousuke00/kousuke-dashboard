@@ -1,0 +1,47 @@
+{
+  "stock_id": "4157",
+  "stock_name": "太景*-KY",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "新藥研發"
+    ],
+    "theme_tags": [
+      "抗生素太捷信",
+      "越南藥證"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-19",
+        "source": "萬寶晚報-10_19",
+        "category_mentioned": "生技化工 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-19",
+    "close_price": 8.87,
+    "est_eps_2026": 0.1,
+    "est_pe": 89
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-19",
+      "source_file": "萬寶晚報-10_19.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "抗生素太捷信向越南遞件，獲受理審查",
+      "close_price": 8.87,
+      "price_change_pct": -1.0,
+      "volume_lots": 1509,
+      "est_eps": 0.1,
+      "est_pe": 89,
+      "revenue_perf": null,
+      "content": "旗下抗生素新藥太捷信(奈諾沙星)口服膠囊及靜脈輸液雙劑型上市許可申請，已由合作夥伴正式遞交越南藥品管理局並獲受理，適應症為社區型肺炎，在越南具獨占性。",
+      "key_points": [
+        "太捷信雙劑型獲越南藥管局受理審查",
+        "瞄準越南每年約10億美元抗生素市場"
+      ]
+    }
+  ]
+}

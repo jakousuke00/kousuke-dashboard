@@ -1,0 +1,47 @@
+{
+  "stock_id": "3264",
+  "stock_name": "欣銓",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "晶圓測試"
+    ],
+    "theme_tags": [
+      "Q3 EPS 3.1元創高",
+      "前三季超越去年全年"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-27",
+        "source": "萬寶晚報-10_27",
+        "category_mentioned": "半導體產業 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-27",
+    "close_price": 248.0,
+    "est_eps_2026": 10.0,
+    "est_pe": 25
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-27",
+      "source_file": "萬寶晚報-10_27.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "Q3每股賺3.1元，前三季已超越去年全年",
+      "close_price": 248.0,
+      "price_change_pct": 0.61,
+      "volume_lots": 16776,
+      "est_eps": 10.0,
+      "est_pe": 25,
+      "revenue_perf": "Q3營收53.37億元(年增48.5%)、稅後14.73億元(EPS 3.1元)，前三季EPS 7.49元",
+      "content": "Q3毛利率45.43%(季增5.26個百分點)，稅後純益14.73億元續創單季新高、EPS約3.1元；前三季EPS 7.49元已超越去年全年的6元，龍潭新廠首層7月起貢獻營收。",
+      "key_points": [
+        "Q3 EPS 3.1元創單季高、毛利率45.43%",
+        "前三季EPS 7.49元超越去年全年"
+      ]
+    }
+  ]
+}

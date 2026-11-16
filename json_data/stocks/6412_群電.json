@@ -1,0 +1,61 @@
+{
+  "stock_id": "6412",
+  "stock_name": "群電",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "電源供應器",
+      "低軌衛星電源"
+    ],
+    "theme_tags": [
+      "低軌衛星電源Q4訂單倍增",
+      "10月OCP展全水冷電源",
+      "低軌衛星訂單翻倍",
+      "AI伺服器電源"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "電子零組件 > 電源供應器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05",
+    "close_price": 75.0,
+    "est_eps_2026": 5.0,
+    "est_pe": 15.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "中性",
+      "title": "NB電源受記憶體缺料拖累9月營收年減21%，惟衛星通訊電源Q4訂單較Q3倍增",
+      "close_price": 75.0,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 5.0,
+      "est_pe": 15.0,
+      "revenue_perf": "9月營收24.13億元、年減20.98%；Q3營收74.14億元、季減12.2%",
+      "content": "因客戶記憶體缺料與成本壓力使NB電源拉貨放緩，9月營收24.13億元、年減20.98%，公司轉向聚焦獲利。非NB業務升溫，衛星通訊電源Q4訂單較Q3倍增，新世代家用接收器電源9月已量產，10月將於OCP峰會展示AI伺服器全水冷電源。",
+      "key_points": [
+        "衛星通訊電源Q4訂單較Q3倍增，新世代接收器電源9月量產",
+        "10月OCP全球峰會將展示AI伺服器全水冷電源"
+      ]
+    },
+    {
+      "report_date": "2026-11-05",
+      "source_section": "今晚爆個股",
+      "estimated_eps": "2026E 5元",
+      "pe_ratio": "12倍",
+      "content": "低軌衛星家戶式通訊電源9月出貨，客戶訂單較預期翻倍，明年衛星電源產能將較今年成長一倍，資本支出擴大至10~15億元。受記憶體漲價遞延拉貨影響，前三季EPS 3.4元，明年伺服器與衛星電源營收占比有望提高至3成。",
+      "key_points": [
+        "低軌衛星電源訂單翻倍，明年衛星電源產能擴增一倍",
+        "2027年伺服器與衛星電源營收占比有望提升至3成"
+      ]
+    }
+  ]
+}

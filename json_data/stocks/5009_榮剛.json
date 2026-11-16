@@ -1,0 +1,72 @@
+{
+  "stock_id": "5009",
+  "stock_name": "榮剛",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "特殊鋼",
+      "航太與核電材料",
+      "航太與國防合金"
+    ],
+    "theme_tags": [
+      "SMR小型核電材料認證",
+      "航太供應鏈",
+      "在手訂單85億",
+      "前三季EPS 1.51元",
+      "航太佔比提升"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "今晚產業新聞"
+      },
+      {
+        "date": "2026-10-22",
+        "source": "萬寶晚報-10_22",
+        "category_mentioned": "鋼鐵 > 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-02",
+    "est_eps_2026": 2.2,
+    "est_pe": 19.1,
+    "close_price": 42.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "今晚產業新聞",
+      "stance": "偏多",
+      "title": "榮剛在手訂單約85億元，前三季EPS 1.51元航太國防需求強勁",
+      "close_price": 42.1,
+      "est_eps": 2.2,
+      "est_pe": 19.1,
+      "revenue_perf": "前三季營收93.44億元，稅後純益8.46億元年增10.02%，每股賺1.51元",
+      "content": "榮剛受惠航太、國防及能源油氣需求爆發，在手訂單維持約85億元高檔，航太營收占比持續攀升。前三季稅後純益年增10.02%每股賺1.51元，法人看好拉貨動能將一路延續至明年。",
+      "key_points": [
+        "在手訂單高達85億元，受惠全球航太民航換機潮與國防軍工需求",
+        "前三季每股賺1.51元年增10%，拉貨動能看好一路延續至明年"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "source_file": "萬寶晚報-10_22.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "進軍SMR新型核電材料，部分材料完成認證",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": 2.0,
+      "est_pe": 17,
+      "revenue_perf": null,
+      "content": "董事長王炯棻表示公司進軍SMR新型核電材料供應鏈，部分材料已完成認證；已取得西屋、西門子及三菱等供應資格，並接觸美國新型核電新創。",
+      "key_points": [
+        "進軍SMR新型核電材料供應鏈，部分材料完成認證"
+      ]
+    }
+  ]
+}

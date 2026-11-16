@@ -1,0 +1,29 @@
+{
+  "stock_id": "9911",
+  "stock_name": "櫻花",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "食品成衣、內需與金融產險"
+    ],
+    "theme_tags": [
+      "AI家電",
+      "廚衛電龍頭"
+    ],
+    "classification_history": []
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-11"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-11",
+      "source": "今晚爆個股",
+      "content": "前三季營收81.27億年增5.3%、EPS 4.78元創同期新高。熱水器與廚房設備導入AI產品前三季銷量年增35%；淨水主機年增13%帶動濾心耗材年增23%。",
+      "key_points": [
+        "前三季EPS 4.78元創同期新高，今年估EPS 6.3元、本益比12倍",
+        "AI產品銷量年增35%，Home in O.N.E方案簽約年增17%"
+      ]
+    }
+  ]
+}

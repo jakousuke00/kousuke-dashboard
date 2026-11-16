@@ -1,0 +1,45 @@
+{
+  "stock_id": "4142",
+  "stock_name": "國光生",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "疫苗與生物藥CDMO"
+    ],
+    "theme_tags": [
+      "CDMO營收占比升至67%",
+      "前8月毛利轉正"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-05",
+        "source": "萬寶晚報-10_05",
+        "category_mentioned": "生技化工 > 疫苗與CDMO"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-05",
+    "est_eps_2026": -1.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-05",
+      "source_file": "萬寶晚報-10_05.pdf",
+      "section": "今晚爆個股",
+      "stance": "偏多",
+      "title": "CDMO營收占比提升至67%、今年訂單量年增50%，前八月毛利由負轉正",
+      "close_price": null,
+      "price_change_pct": null,
+      "volume_lots": null,
+      "est_eps": -1.0,
+      "est_pe": null,
+      "revenue_perf": "累計營收年增12.56%，前8月毛利已由負轉正",
+      "content": "加速推進CDMO委託製造代工服務，營收占比由去年59%提升至67%，與國際大廠合作的第二條產線7月啟動商業量產，今年訂單量年增50%；蛋白質藥物於歐美日韓陸續領證、下半年量產出貨，帶動前八月毛利由負轉正。",
+      "key_points": [
+        "CDMO營收占比升至67%，第二條產線7月商轉帶動訂單年增50%",
+        "產能利用率提升，前8月毛利正式由負轉正"
+      ]
+    }
+  ]
+}

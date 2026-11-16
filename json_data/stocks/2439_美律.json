@@ -1,0 +1,67 @@
+{
+  "stock_id": "2439",
+  "stock_name": "美律",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "電聲元件",
+      "耳機與揚聲器",
+      "耳機揚聲器",
+      "車用麥克風"
+    ],
+    "theme_tags": [
+      "Q3營收季增24%",
+      "Q4估再優於Q3",
+      "萬寶調降EPS 2.5元",
+      "萬寶下修EPS",
+      "消費電子疲弱"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-02",
+        "source": "萬寶晚報-11_02",
+        "category_mentioned": "萬寶預估 / 今晚爆個股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-03",
+    "close_price": 75.0,
+    "est_eps_2026": 2.5,
+    "est_pe": 30.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-03",
+      "source_file": "萬寶晚報-11_03.pdf",
+      "report_type": "精選圖表",
+      "investment_rating": "中立",
+      "target_price": null,
+      "estimated_eps": 2.5,
+      "estimated_pe": 20.0,
+      "content": "萬寶投顧於精選圖表中下修美律2026年預估EPS至2.5元。主要反映全球消費性電子市場與頭戴式耳機需求動能平淡，旺季效應不顯著。",
+      "key_points": [
+        "萬寶投顧調降2026年預估EPS至2.5元，短線動能偏弱。",
+        "等待車用電聲與助聽器新應用發酵以重振成長動能。"
+      ],
+      "operational_metrics": {},
+      "chips_observation": "法人預估下修後籌碼轉趨保守觀望。"
+    },
+    {
+      "date": "2026-11-02",
+      "source_file": "萬寶晚報-11_02.pdf",
+      "section": "今晚爆個股",
+      "stance": "中立偏多",
+      "title": "美律Q3營收季增24.27%，Q4估再優於Q3但受材料排擠",
+      "close_price": 75.0,
+      "est_eps": 2.5,
+      "est_pe": 30.0,
+      "revenue_perf": "Q3營收129.71億元季增24.27%，毛利率10.21%受物料成本與匯率影響季減",
+      "content": "美律法說指出Q3耳機放量營收近130億元季增24.27%，Q4估再優於Q3。手機揚聲器大幅增溫，但部分機種遞延且Audio耳機受AI排擠物料供應偏緊，萬寶調降今年預估EPS至2.5元。",
+      "key_points": [
+        "Q3營收季增24.27%表現亮麗，Q4在揚聲器放量下估續增",
+        "毛利受物料與匯率干擾，萬寶調降2026年預估EPS至2.5元"
+      ]
+    }
+  ]
+}

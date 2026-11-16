@@ -1,0 +1,44 @@
+{
+  "stock_id": "5907",
+  "stock_name": "大洋-KY",
+  "industry_profile": {
+    "main_industry": "中國消費通路",
+    "sub_industries": [
+      "其他 (百貨、餐飲茶飲與通路)"
+    ],
+    "theme_tags": [
+      "中國百貨通路"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-30",
+        "source": "萬寶產業報告-1030",
+        "category_mentioned": "中國消費通路 > 其他 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-30",
+    "close_price": 4.06,
+    "est_eps_2026": -4.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-30",
+      "source_file": "萬寶產業報告-1030(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "9月營收年增11.9%居中國消費通路之冠，近5日股價回檔7.94%",
+      "close_price": 4.06,
+      "price_change_5d_pct": -7.94,
+      "foreign_5d_lots": 34,
+      "est_eps": -4.0,
+      "est_pe": null,
+      "revenue_perf": "9月營收年增11.9%",
+      "content": "9月營收年增11.9%居中國消費通路表列個股最高；收盤4.06元，近5日下跌7.94%，外資近5日買超34張，萬寶預估2026年EPS為-4.0元。",
+      "key_points": [
+        "9月營收年增11.9%居表列個股第一"
+      ]
+    }
+  ]
+}

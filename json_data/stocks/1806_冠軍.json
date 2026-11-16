@@ -1,0 +1,45 @@
+{
+  "stock_id": "1806",
+  "stock_name": "冠軍",
+  "industry_profile": {
+    "main_industry": "玻璃陶瓷",
+    "sub_industries": [
+      "衛浴與建材"
+    ],
+    "theme_tags": [
+      "磁磚建材"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-10-20",
+        "source": "萬寶產業報告-1020",
+        "category_mentioned": "玻璃陶瓷 > 衛浴與建材 (重點個股)"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-10-20",
+    "close_price": 7.94,
+    "est_eps_2026": -0.1
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-10-20",
+      "source_file": "萬寶產業報告-1020(萬寶晚報贈品).pdf",
+      "section": "五、重點個股",
+      "stance": "中性",
+      "title": "近5日小漲0.76%，9月營收月增16.8%惟年減9.2%",
+      "close_price": 7.94,
+      "price_change_5d_pct": 0.76,
+      "foreign_5d_lots": 49,
+      "est_eps": -0.1,
+      "est_pe": null,
+      "revenue_perf": "9月營收年減9.2%、月增16.8%，今年累計年減18.2%",
+      "content": "收盤7.94元，近5日上漲0.76%，外資近5日買超49張；9月營收年減9.2%，雖然月增16.8%，今年累計仍年減18.2%。萬寶預估EPS為-0.1元。",
+      "key_points": [
+        "9月營收月增16.8%、年減9.2%",
+        "內需建材表現較平淡"
+      ]
+    }
+  ]
+}
