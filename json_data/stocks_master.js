@@ -1,5 +1,5 @@
 window.WANBAO_DB = {
-  "generated_at": "2026-11-16T18:51:52+08:00",
+  "generated_at": "2026-11-17T22:53:23+08:00",
   "stats": {
     "processed_pdfs_count": 61,
     "industries_count": 86,
