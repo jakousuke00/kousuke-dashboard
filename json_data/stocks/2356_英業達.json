@@ -5,17 +5,38 @@
     "main_industry": "AI與雲端伺服器",
     "sub_industries": [
       "AI伺服器",
-      "NB代工"
+      "NB代工",
+      "AI伺服器ODM"
     ],
     "theme_tags": [
       "10月營收同期新高",
       "輝達B300",
-      "AMD Helios"
+      "AMD Helios",
+      "明年伺服器高雙位數成長",
+      "雲端大廠需求強勁"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-今晚產業新聞",
+        "category_mentioned": "AI伺服器"
+      }
+    ]
   },
-  "latest_metrics": {},
+  "latest_metrics": {
+    "as_of_date": "2026-11-17"
+  },
   "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "雲端大廠需求強勁，估明年伺服器成長高雙位數",
+      "content": "英業達預估明年伺服器維持高雙位數成長，主要來自雲端大廠需求強勁，x86通用伺服器動能則較小。",
+      "key_points": [
+        "估明年伺服器成長高雙位數",
+        "雲端大廠需求強勁"
+      ]
+    },
     {
       "report_date": "2026-11-05",
       "source_section": "今晚爆個股",

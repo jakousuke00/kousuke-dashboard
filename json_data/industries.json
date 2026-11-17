@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T22:53:23+08:00",
+  "updated_at": "2026-11-17T23:03:48+08:00",
   "schema_version": "1.0",
   "industries": {
     "綜合資訊軟體服務": {
@@ -1085,7 +1085,7 @@
     },
     "PCB/MB產業": {
       "main_industry": "PCB/MB產業",
-      "wanbao_70_sector": "PCB/MB產業 (上市櫃53檔) / PCB/MB產業（上市櫃86檔） / PCB/MB產業 / 半導體產業 / 半導體產業 / PCB/MB產業 / PCB/MB產業 / 電子零組件 / 電子零組件 / 玻纖布與載板材料 / 玻璃陶瓷 / PCB/MB產業",
+      "wanbao_70_sector": "PCB/MB產業 (上市櫃53檔) / PCB/MB產業（上市櫃86檔） / PCB/MB產業 / 半導體產業 / 半導體產業 / PCB/MB產業 / PCB/MB產業 / 電子零組件 / 電子零組件 / 玻纖布與載板材料 / 玻璃陶瓷 / PCB/MB產業 / PCB/MB產業 (-4.73%, 53檔, 成交值1,803億)",
       "sub_categories": {
         "銅箔基板 (CCL)": {
           "description": "AI伺服器與800G/1.6T交換器帶動M7~M10高頻高速CCL材料升級與漲價潮",
@@ -2933,6 +2933,11 @@
               "id": "3715",
               "name": "定穎投控",
               "role": ""
+            },
+            {
+              "id": "5439",
+              "name": "高技",
+              "role": "萬寶投顧上調2026年預估EPS至18.4元"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -3495,9 +3500,48 @@
             }
           ],
           "mentioned_unlisted_or_peers": []
+        },
+        "AI伺服器載板": {
+          "description": "PCB/MB產業 — AI伺服器載板相關個股",
+          "stocks": [
+            {
+              "id": "3037",
+              "name": "欣興",
+              "role": "第四季營收估季增一成，2027年ABF產能增三成"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "特殊低介電玻纖布": {
+          "description": "PCB/MB產業 — 特殊低介電玻纖布相關個股",
+          "stocks": [
+            {
+              "id": "5340",
+              "name": "建榮",
+              "role": "Q3營收創新高，2027年特殊玻纖占比拚五成"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "高階多層PCB": {
+          "description": "PCB/MB產業 — 高階多層PCB相關個股",
+          "stocks": [
+            {
+              "id": "5439",
+              "name": "高技",
+              "role": "萬寶投顧上調2026年預估EPS至18.4元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
         }
       },
       "reports_timeline": [
+        {
+          "date": "2026-11-17",
+          "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+          "headline": "ABF三雄、CCL與玻纖布重挫跌停潮，僅台光電獲法人買超33.62億元",
+          "summary": "南電、欣興、景碩、台燿、聯茂、騰輝電子-KY、富喬、德宏、台玻跌停，但台光電(2383)獲三大法人買超第一，建榮(5340)2027年特殊玻纖布占比拚五成。"
+        },
         {
           "date": "2026-11-11",
           "source_file": "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf",
@@ -5428,6 +5472,88 @@
             }
           ],
           "mentioned_unlisted_or_peers": []
+        },
+        "工業級網通設備": {
+          "description": "網通/電信與光通訊 — 工業級網通設備相關個股",
+          "stocks": [
+            {
+              "id": "6263",
+              "name": "普萊德",
+              "role": "Q3毛利率48.4%創新高，前三季每股6.9元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "PoE網路交換器": {
+          "description": "網通/電信與光通訊 — PoE網路交換器相關個股",
+          "stocks": [
+            {
+              "id": "6263",
+              "name": "普萊德",
+              "role": "Q3毛利率48.4%創新高，前三季每股6.9元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "光通訊": {
+          "description": "網通/電信與光通訊 — 光通訊相關個股",
+          "stocks": [
+            {
+              "id": "6442",
+              "name": "光聖",
+              "role": "萬寶投顧上調2026年預估EPS至50元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "CPO光主動/被動元件": {
+          "description": "網通/電信與光通訊 — CPO光主動/被動元件相關個股",
+          "stocks": [
+            {
+              "id": "6442",
+              "name": "光聖",
+              "role": "萬寶投顧上調2026年預估EPS至50元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "電信網路系統整合": {
+          "description": "網通/電信與光通訊 — 電信網路系統整合相關個股",
+          "stocks": [
+            {
+              "id": "6486",
+              "name": "互動",
+              "role": "2026年預估EPS上調至7.4元，前三季EPS 5.94元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "SpaceX概念股": {
+          "description": "網通/電信與光通訊 — SpaceX概念股相關個股",
+          "stocks": [
+            {
+              "id": "3491",
+              "name": "昇達科",
+              "role": "SpaceX低軌衛星概念，大盤重挫下逆勢大漲40元"
+            },
+            {
+              "id": "7717",
+              "name": "萊德光電-KY",
+              "role": "SpaceX概念股逆勢攻上漲停板"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "低軌衛星光通訊": {
+          "description": "網通/電信與光通訊 — 低軌衛星光通訊相關個股",
+          "stocks": [
+            {
+              "id": "7717",
+              "name": "萊德光電-KY",
+              "role": "SpaceX概念股逆勢攻上漲停板"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
         }
       },
       "reports_timeline": [
@@ -5907,6 +6033,11 @@
               "id": "5347",
               "name": "世界先進",
               "role": ""
+            },
+            {
+              "id": "6138",
+              "name": "茂達",
+              "role": "企業級SSD晶片明年放量，儲存營收占比拚逾25%"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -7720,6 +7851,11 @@
               "id": "2360",
               "name": "致茂",
               "role": "致茂Q3每股賺13.34元營收年增180%，跌停未破年線迎最後洗盤"
+            },
+            {
+              "id": "6223",
+              "name": "旺矽",
+              "role": "合作開發延伸至2028年，湖口PCB廠明年下半年投產"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -8282,6 +8418,11 @@
               "id": "3711",
               "name": "日月光投控",
               "role": ""
+            },
+            {
+              "id": "2338",
+              "name": "光罩",
+              "role": "處分竹南廠房挹注，Q3每股3.24元"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -8341,6 +8482,11 @@
               "id": "3048",
               "name": "益登",
               "role": ""
+            },
+            {
+              "id": "3702",
+              "name": "大聯大",
+              "role": "Q4營收估4,800億至5,300億元，拚單季新高"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -10568,6 +10714,11 @@
               "id": "4770",
               "name": "上品",
               "role": "氟素樹脂設備龍頭，受惠先進製程建廠需求，股價逆勢強攻"
+            },
+            {
+              "id": "5234",
+              "name": "達興材料",
+              "role": "Q3營收創新高每股2.29元，斥資22億元建橋頭新廠"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -12110,6 +12261,143 @@
               "id": "6640",
               "name": "均華",
               "role": ""
+            },
+            {
+              "id": "6187",
+              "name": "萬潤",
+              "role": "萬寶投顧上調2026年預估EPS至30元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "電源與伺服器通路": {
+          "description": "半導體與設備檢測 — 電源與伺服器通路相關個股",
+          "stocks": [
+            {
+              "id": "3702",
+              "name": "大聯大",
+              "role": "Q4營收估4,800億至5,300億元，拚單季新高"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "無塵室與機電工程": {
+          "description": "半導體與設備檢測 — 無塵室與機電工程相關個股",
+          "stocks": [
+            {
+              "id": "5536",
+              "name": "聖暉*",
+              "role": "在建工程840億元創新高，法人估今年每股50元起"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "半導體建廠": {
+          "description": "半導體與設備檢測 — 半導體建廠相關個股",
+          "stocks": [
+            {
+              "id": "5536",
+              "name": "聖暉*",
+              "role": "在建工程840億元創新高，法人估今年每股50元起"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "光罩": {
+          "description": "半導體與設備檢測 — 光罩相關個股",
+          "stocks": [
+            {
+              "id": "2338",
+              "name": "光罩",
+              "role": "處分竹南廠房挹注，Q3每股3.24元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "風扇馬達驅動IC": {
+          "description": "半導體與設備檢測 — 風扇馬達驅動IC相關個股",
+          "stocks": [
+            {
+              "id": "6138",
+              "name": "茂達",
+              "role": "企業級SSD晶片明年放量，儲存營收占比拚逾25%"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "工控與B2B儲存": {
+          "description": "半導體與設備檢測 — 工控與B2B儲存相關個股",
+          "stocks": [
+            {
+              "id": "4973",
+              "name": "廣穎",
+              "role": "前三季每股29.08元，B2B營收比重升至53%"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "2奈米關鍵材料": {
+          "description": "半導體與設備檢測 — 2奈米關鍵材料相關個股",
+          "stocks": [
+            {
+              "id": "5234",
+              "name": "達興材料",
+              "role": "Q3營收創新高每股2.29元，斥資22億元建橋頭新廠"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "CoWoS設備": {
+          "description": "半導體與設備檢測 — CoWoS設備相關個股",
+          "stocks": [
+            {
+              "id": "6187",
+              "name": "萬潤",
+              "role": "萬寶投顧上調2026年預估EPS至30元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "廠務工程與化學供應系統": {
+          "description": "半導體與設備檢測 — 廠務工程與化學供應系統相關個股",
+          "stocks": [
+            {
+              "id": "6667",
+              "name": "信紘科",
+              "role": "萬寶投顧上調2026年預估EPS至20元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "晶圓級封裝測試": {
+          "description": "半導體與設備檢測 — 晶圓級封裝測試相關個股",
+          "stocks": [
+            {
+              "id": "3374",
+              "name": "精材",
+              "role": "萬寶投顧上調2026年預估EPS至7.7元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "NAND Flash控制晶片與儲存": {
+          "description": "半導體與設備檢測 — NAND Flash控制晶片與儲存相關個股",
+          "stocks": [
+            {
+              "id": "8299",
+              "name": "群聯",
+              "role": "Q3單季EPS 138.06元創高，大盤重挫下逆勢上漲"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "記憶體通路": {
+          "description": "半導體與設備檢測 — 記憶體通路相關個股",
+          "stocks": [
+            {
+              "id": "3064",
+              "name": "巨虹",
+              "role": "Q3財報核閱無法作成結論，11月18日起停止買賣"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -13172,6 +13460,28 @@
             }
           ],
           "mentioned_unlisted_or_peers": []
+        },
+        "儲能系統": {
+          "description": "綠能基建、重電與特殊材料 — 儲能系統相關個股",
+          "stocks": [
+            {
+              "id": "7740",
+              "name": "熙特爾-創",
+              "role": "攜手GE Vernova、SK On簽備忘錄，合攻AI儲能商機"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "AI電力基礎建設": {
+          "description": "綠能基建、重電與特殊材料 — AI電力基礎建設相關個股",
+          "stocks": [
+            {
+              "id": "7740",
+              "name": "熙特爾-創",
+              "role": "攜手GE Vernova、SK On簽備忘錄，合攻AI儲能商機"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
         }
       },
       "reports_timeline": [
@@ -13929,6 +14239,11 @@
               "id": "6166",
               "name": "凌華",
               "role": ""
+            },
+            {
+              "id": "6579",
+              "name": "研揚",
+              "role": "B/B值1.5，今年營收破百億、訂單看到明年首季"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -13945,6 +14260,11 @@
               "id": "2382",
               "name": "廣達",
               "role": "前九月營收2.96兆元近倍增，新一代AI伺服器明年Q1放量"
+            },
+            {
+              "id": "2356",
+              "name": "英業達",
+              "role": "雲端大廠需求強勁，估明年伺服器成長高雙位數"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -14247,6 +14567,11 @@
               "id": "6418",
               "name": "詠昇",
               "role": "奪臺銀訓練用無人機組標案，約1.32億元"
+            },
+            {
+              "id": "5314",
+              "name": "世紀*",
+              "role": "Q3營收年增96%，無人機投入拖累獲利年減9成"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -14389,6 +14714,11 @@
               "id": "2395",
               "name": "研華",
               "role": ""
+            },
+            {
+              "id": "6579",
+              "name": "研揚",
+              "role": "B/B值1.5，今年營收破百億、訂單看到明年首季"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -16544,6 +16874,11 @@
               "id": "3665",
               "name": "貿聯-KY",
               "role": ""
+            },
+            {
+              "id": "3003",
+              "name": "健和興",
+              "role": "前三季營收年增43.52%已超越去年，印度廠明年放量"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -16599,6 +16934,160 @@
               "id": "8374",
               "name": "羅昇",
               "role": ""
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "國防軍工": {
+          "description": "AI伺服器硬體、機構件與周邊 — 國防軍工相關個股",
+          "stocks": [
+            {
+              "id": "5314",
+              "name": "世紀*",
+              "role": "Q3營收年增96%，無人機投入拖累獲利年減9成"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "金屬機殼": {
+          "description": "AI伺服器硬體、機構件與周邊 — 金屬機殼相關個股",
+          "stocks": [
+            {
+              "id": "2474",
+              "name": "可成",
+              "role": "第十二度庫藏股買回2萬張，今年AI占比達20%"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "AI機構件": {
+          "description": "AI伺服器硬體、機構件與周邊 — AI機構件相關個股",
+          "stocks": [
+            {
+              "id": "2474",
+              "name": "可成",
+              "role": "第十二度庫藏股買回2萬張，今年AI占比達20%"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "電競板卡": {
+          "description": "AI伺服器硬體、機構件與周邊 — 電競板卡相關個股",
+          "stocks": [
+            {
+              "id": "2377",
+              "name": "微星",
+              "role": "前三季每股12.37元賺逾一個股本，AI PC首批預售完售"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "AI PC與伺服器": {
+          "description": "AI伺服器硬體、機構件與周邊 — AI PC與伺服器相關個股",
+          "stocks": [
+            {
+              "id": "2377",
+              "name": "微星",
+              "role": "前三季每股12.37元賺逾一個股本，AI PC首批預售完售"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "精密機電機構件": {
+          "description": "AI伺服器硬體、機構件與周邊 — 精密機電機構件相關個股",
+          "stocks": [
+            {
+              "id": "5392",
+              "name": "能率",
+              "role": "前三季每股0.63元連二季獲利，推進智能零組件併購"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "機器人零組件": {
+          "description": "AI伺服器硬體、機構件與周邊 — 機器人零組件相關個股",
+          "stocks": [
+            {
+              "id": "5392",
+              "name": "能率",
+              "role": "前三季每股0.63元連二季獲利，推進智能零組件併購"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "綠電與工業連接器": {
+          "description": "AI伺服器硬體、機構件與周邊 — 綠電與工業連接器相關個股",
+          "stocks": [
+            {
+              "id": "3003",
+              "name": "健和興",
+              "role": "前三季營收年增43.52%已超越去年，印度廠明年放量"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "強固型電腦": {
+          "description": "AI伺服器硬體、機構件與周邊 — 強固型電腦相關個股",
+          "stocks": [
+            {
+              "id": "2364",
+              "name": "倫飛",
+              "role": "前三季每股4.79元，賺贏過去27年各年度"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "軍工與無人機地面站": {
+          "description": "AI伺服器硬體、機構件與周邊 — 軍工與無人機地面站相關個股",
+          "stocks": [
+            {
+              "id": "2364",
+              "name": "倫飛",
+              "role": "前三季每股4.79元，賺贏過去27年各年度"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "大電流電源線": {
+          "description": "AI伺服器硬體、機構件與周邊 — 大電流電源線相關個股",
+          "stocks": [
+            {
+              "id": "6290",
+              "name": "良維",
+              "role": "萬寶投顧上調2026年預估EPS至12元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "AI伺服器電源線材": {
+          "description": "AI伺服器硬體、機構件與周邊 — AI伺服器電源線材相關個股",
+          "stocks": [
+            {
+              "id": "6290",
+              "name": "良維",
+              "role": "萬寶投顧上調2026年預估EPS至12元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "伺服器與顯卡通路": {
+          "description": "AI伺服器硬體、機構件與周邊 — 伺服器與顯卡通路相關個股",
+          "stocks": [
+            {
+              "id": "5386",
+              "name": "青雲",
+              "role": "2026年預估EPS下調至70元，Q3單季EPS 6.26元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "AI伺服器導軌": {
+          "description": "AI伺服器硬體、機構件與周邊 — AI伺服器導軌相關個股",
+          "stocks": [
+            {
+              "id": "2059",
+              "name": "川湖",
+              "role": "Q3單季EPS 122.79元、前三季233.75元，累計營收年增170%"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -17064,7 +17553,7 @@
     },
     "傳產製造、營建航運與利基消費": {
       "main_industry": "傳產製造、營建航運與利基消費",
-      "wanbao_70_sector": "水泥產業 (萬寶70大產業，上市櫃11檔) / 石化原料 / 陸海空運輸 / 石化原料 / 化纖紡織 / 航運業 / 傳產製造 / 鋼鐵工業 / 特殊鋼與民生 / 紡織、成衣、製鞋與生技消費",
+      "wanbao_70_sector": "水泥產業 (萬寶70大產業，上市櫃11檔) / 石化原料 / 陸海空運輸 / 石化原料 / 化纖紡織 / 航運業 / 傳產製造 / 鋼鐵工業 / 特殊鋼與民生 / 紡織、成衣、製鞋與生技消費 / 房地產/營造 (+0.91%, 56檔) / 居家生活 (+1.25%, 12檔) / 食品 (+0.4%, 32檔)",
       "sub_categories": {
         "水泥": {
           "description": "近5日上漲3.0%，近20日成交值352億元，近5日法人買超6.6萬張，9月營收232.8億元、年增4.8%，是本產業漲幅、資金與營收成長的主要來源。",
@@ -18496,9 +18985,125 @@
             }
           ],
           "mentioned_unlisted_or_peers": []
+        },
+        "工程統包": {
+          "description": "傳產製造、營建航運與利基消費 — 工程統包相關個股",
+          "stocks": [
+            {
+              "id": "9933",
+              "name": "中鼎",
+              "role": "在建工程4,981億元創新高，未來一年商機1.22兆元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "半導體建廠與能源工程": {
+          "description": "傳產製造、營建航運與利基消費 — 半導體建廠與能源工程相關個股",
+          "stocks": [
+            {
+              "id": "9933",
+              "name": "中鼎",
+              "role": "在建工程4,981億元創新高，未來一年商機1.22兆元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "化工特材": {
+          "description": "傳產製造、營建航運與利基消費 — 化工特材相關個股",
+          "stocks": [
+            {
+              "id": "4763",
+              "name": "材料*-KY",
+              "role": "Q3毛利率升至48%，一次性扣繳稅致單季小虧"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "造船與海事工程": {
+          "description": "傳產製造、營建航運與利基消費 — 造船與海事工程相關個股",
+          "stocks": [
+            {
+              "id": "2208",
+              "name": "台船",
+              "role": "合資海事工程公司完成海龍離岸風場全數安裝"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "離岸風電": {
+          "description": "傳產製造、營建航運與利基消費 — 離岸風電相關個股",
+          "stocks": [
+            {
+              "id": "2208",
+              "name": "台船",
+              "role": "合資海事工程公司完成海龍離岸風場全數安裝"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "造紙與綠能環保": {
+          "description": "傳產製造、營建航運與利基消費 — 造紙與綠能環保相關個股",
+          "stocks": [
+            {
+              "id": "1907",
+              "name": "永豐餘",
+              "role": "搶攻2027年禁用廚餘養豬商機，發展廚餘沼氣發電"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "沼氣發電": {
+          "description": "傳產製造、營建航運與利基消費 — 沼氣發電相關個股",
+          "stocks": [
+            {
+              "id": "1907",
+              "name": "永豐餘",
+              "role": "搶攻2027年禁用廚餘養豬商機，發展廚餘沼氣發電"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "造紙": {
+          "description": "傳產製造、營建航運與利基消費 — 造紙相關個股",
+          "stocks": [
+            {
+              "id": "1905",
+              "name": "華紙",
+              "role": "特殊紙占營收逾4成，台東廠新機組明年Q1運轉"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "特殊紙與電子用紙": {
+          "description": "傳產製造、營建航運與利基消費 — 特殊紙與電子用紙相關個股",
+          "stocks": [
+            {
+              "id": "1905",
+              "name": "華紙",
+              "role": "特殊紙占營收逾4成，台東廠新機組明年Q1運轉"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "自行車鏈條": {
+          "description": "傳產製造、營建航運與利基消費 — 自行車鏈條相關個股",
+          "stocks": [
+            {
+              "id": "5306",
+              "name": "桂盟",
+              "role": "私募每股100元定價，SHIMANO入股4.5億元深化合作"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
         }
       },
       "reports_timeline": [
+        {
+          "date": "2026-11-17",
+          "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+          "headline": "大盤震盪收跌947點，非電子股、營建/房地產、居家生活、食品與工程統包逆勢抗跌",
+          "summary": "加權指數破4萬測第二支腳，資金轉往非電子防禦與工程股；中鼎(9933)漲停創高，營建/居家生活/食品類股收紅。"
+        },
         {
           "date": "2026-11-02",
           "source_file": "萬寶晚報-11_02.pdf",
@@ -19500,6 +20105,28 @@
               "id": "2731",
               "name": "雄獅",
               "role": ""
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "旅行社": {
+          "description": "觀光餐飲與航運旅遊 — 旅行社相關個股",
+          "stocks": [
+            {
+              "id": "5706",
+              "name": "鳳凰",
+              "role": "Q3每股1.2元，前三季獲利創同期新高"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "出境旅遊": {
+          "description": "觀光餐飲與航運旅遊 — 出境旅遊相關個股",
+          "stocks": [
+            {
+              "id": "5706",
+              "name": "鳳凰",
+              "role": "Q3每股1.2元，前三季獲利創同期新高"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -20794,6 +21421,39 @@
             }
           ],
           "mentioned_unlisted_or_peers": []
+        },
+        "電感元件": {
+          "description": "被動元件產業 — 電感元件相關個股",
+          "stocks": [
+            {
+              "id": "3357",
+              "name": "臺慶科",
+              "role": "AI伺服器TLVR電感放量，訂單能見度到2027年Q3"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "AI伺服器TLVR電感": {
+          "description": "被動元件產業 — AI伺服器TLVR電感相關個股",
+          "stocks": [
+            {
+              "id": "3357",
+              "name": "臺慶科",
+              "role": "AI伺服器TLVR電感放量，訂單能見度到2027年Q3"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "固態電容": {
+          "description": "被動元件產業 — 固態電容相關個股",
+          "stocks": [
+            {
+              "id": "6449",
+              "name": "鈺邦",
+              "role": "萬寶投顧上調2026年預估EPS至10.6元"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
         }
       },
       "reports_timeline": [
@@ -20853,7 +21513,7 @@
     },
     "生技醫療與保健": {
       "main_industry": "生技醫療與保健",
-      "wanbao_70_sector": "生技醫療與保健 / 生技醫療 / 新藥與核醫 / 生技醫療 / 新藥與醫美",
+      "wanbao_70_sector": "生技醫療與保健 / 生技醫療 / 新藥與核醫 / 生技醫療 / 新藥與醫美 / 生技化工 (-0.51%)",
       "sub_categories": {
         "再生醫療與幹細胞新藥": {
           "description": "生技醫療與保健 — 再生醫療與幹細胞新藥相關個股",
@@ -20991,6 +21651,11 @@
               "id": "7827",
               "name": "漢康-KY創",
               "role": "漢康-KY三抗新藥HCB303獲美台核准，將啟跨國一期臨床試驗"
+            },
+            {
+              "id": "4174",
+              "name": "浩鼎",
+              "role": "11月漲幅逾72%連續跳空飆漲，與諾華達成20億美元ADC授權"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -21172,6 +21837,11 @@
               "id": "6472",
               "name": "保瑞",
               "role": "3000萬美元售美適亞藥證，續接長期CDMO代工"
+            },
+            {
+              "id": "1762",
+              "name": "中化生",
+              "role": "前三季每股2元，特色原料藥新品陸續商業化"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -21989,9 +22659,37 @@
             }
           ],
           "mentioned_unlisted_or_peers": []
+        },
+        "特色原料藥": {
+          "description": "生技醫療與保健 — 特色原料藥相關個股",
+          "stocks": [
+            {
+              "id": "1762",
+              "name": "中化生",
+              "role": "前三季每股2元，特色原料藥新品陸續商業化"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "ADC抗體藥物複合體": {
+          "description": "生技醫療與保健 — ADC抗體藥物複合體相關個股",
+          "stocks": [
+            {
+              "id": "4174",
+              "name": "浩鼎",
+              "role": "11月漲幅逾72%連續跳空飆漲，與諾華達成20億美元ADC授權"
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
         }
       },
       "reports_timeline": [
+        {
+          "date": "2026-11-17",
+          "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+          "headline": "生技族群相對有撐，浩鼎11月漲逾72%，中化生CDMO毛利率大增",
+          "summary": "AI股夢醒時分，浩鼎(4174)與諾華達成20億美元授權ADC平台持續強勢；中化生(1762)聚焦高門檻原料藥與CDMO，前三季EPS 2元。"
+        },
         {
           "date": "2026-11-02",
           "source_file": "萬寶晚報-11_02.pdf",
@@ -22091,6 +22789,11 @@
               "id": "2881",
               "name": "富邦金",
               "role": ""
+            },
+            {
+              "id": "2884",
+              "name": "玉山金",
+              "role": "前三季賺325.7億元年增24%，保經公司將加入"
             }
           ],
           "mentioned_unlisted_or_peers": []
@@ -22425,6 +23128,17 @@
               "id": "2881",
               "name": "富邦金",
               "role": ""
+            }
+          ],
+          "mentioned_unlisted_or_peers": []
+        },
+        "銀行證券壽險": {
+          "description": "金融保險產業 — 銀行證券壽險相關個股",
+          "stocks": [
+            {
+              "id": "2884",
+              "name": "玉山金",
+              "role": "前三季賺325.7億元年增24%，保經公司將加入"
             }
           ],
           "mentioned_unlisted_or_peers": []

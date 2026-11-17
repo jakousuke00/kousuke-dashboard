@@ -4,18 +4,38 @@
   "industry_profile": {
     "main_industry": "PCB/MB產業",
     "sub_industries": [
-      "玻纖布與電子材料"
+      "玻纖布與電子材料",
+      "大電流電源線",
+      "AI伺服器電源線材"
     ],
     "theme_tags": [
       "AI大電流線材",
-      "獲利創高"
+      "獲利創高",
+      "2026估EPS上調至12元"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "連接線材"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-11"
+    "as_of_date": "2026-11-17",
+    "est_eps_2026": 12.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至12元",
+      "est_eps": 12.0,
+      "content": "萬寶投顧研究部11/17將2026年預估EPS上調至12元(↑)。",
+      "key_points": [
+        "2026年預估EPS上調至12元"
+      ]
+    },
     {
       "date": "2026-11-11",
       "source": "今晚爆個股",

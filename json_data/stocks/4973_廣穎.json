@@ -4,18 +4,45 @@
   "industry_profile": {
     "main_industry": "半導體與設備檢測",
     "sub_industries": [
-      "記憶體模組"
+      "記憶體模組",
+      "工控與B2B儲存"
     ],
     "theme_tags": [
       "AI與工控儲存",
-      "漲價受惠"
+      "漲價受惠",
+      "上櫃Q3 EPS年增率第1",
+      "前三季EPS 29.08元",
+      "低本益比3倍"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "記憶體模組"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-09"
+    "as_of_date": "2026-11-17",
+    "close_price": 112,
+    "est_eps_2026": 40,
+    "est_pe": 3
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "前三季每股29.08元，B2B營收比重升至53%",
+      "close_price": 112,
+      "est_eps": 40,
+      "est_pe": 3,
+      "content": "前三季營收78.40億元年增151.63%，稅後純益18.66億元、EPS 29.08元(Q3單季EPS 13.78元年增2,658%居上櫃第一)。Q3 B2B業務占比由24%升至53%，持續拓展工業應用、伺服器、系統整合與國防醫療客戶。因應訂單備貨，Q3底存貨由19.44億增至48.97億元。",
+      "key_points": [
+        "Q3 EPS 13.78元年增2,658%居上櫃第一",
+        "前三季EPS 29.08元",
+        "B2B營收比重升至53%"
+      ]
+    },
     {
       "date": "2026-11-09",
       "source": "今晚爆個股",

@@ -1,0 +1,43 @@
+{
+  "stock_id": "6138",
+  "stock_name": "茂達",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "電源管理IC",
+      "風扇馬達驅動IC"
+    ],
+    "theme_tags": [
+      "企業級SSD晶片明年放量",
+      "打入Wi-Fi 8設計",
+      "前三季EPS 11.32元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "類比與電源IC設計"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-17",
+    "est_eps_2026": 16,
+    "est_pe": 12
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "企業級SSD晶片明年放量，儲存營收占比拚逾25%",
+      "est_eps": 16,
+      "est_pe": 12,
+      "content": "前三季營收年增8%，毛利率由35%升至38%，EPS 11.32元(Q3 EPS 3.68元)。短期受PC需求下修影響，Q4營收估季減約一成五；企業級SSD客製晶片明年放量，儲存產品占比挑戰2028年逾25%；BMC第二代PMIC月出貨約5萬顆，伺服器風扇驅動晶片明年Q4量產並打入美系客戶Wi-Fi 8設計。",
+      "key_points": [
+        "前三季EPS 11.32元、毛利率升至38%",
+        "企業級SSD客製晶片明年放量",
+        "打入美系客戶Wi-Fi 8設計"
+      ]
+    }
+  ]
+}

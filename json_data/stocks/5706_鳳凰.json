@@ -1,0 +1,43 @@
+{
+  "stock_id": "5706",
+  "stock_name": "鳳凰",
+  "industry_profile": {
+    "main_industry": "觀光餐飲與航運旅遊",
+    "sub_industries": [
+      "旅行社",
+      "出境旅遊"
+    ],
+    "theme_tags": [
+      "Q3 EPS 1.2元",
+      "前三季獲利創同期新高",
+      "日韓賞楓雪與歐陸聖誕買氣"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "觀光旅遊"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-17",
+    "est_eps_2026": 4,
+    "est_pe": 10
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "Q3每股1.2元，前三季獲利創同期新高",
+      "est_eps": 4,
+      "est_pe": 10,
+      "content": "Q3營收8.16億元年增5.78%創近5季高，EPS 1.2元；前三季業外收益1.73億元創新高，淨利2.5億元年增10.02%創同期新高，EPS 2.99元。Q4有日韓賞楓雪、歐洲聖誕市集及ITF旅展，員工與獎勵旅遊需求仍強。",
+      "key_points": [
+        "前三季EPS 2.99元創同期新高",
+        "Q3營收創近5季新高",
+        "Q4旅展與日韓賞雪需求強"
+      ]
+    }
+  ]
+}

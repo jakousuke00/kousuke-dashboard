@@ -1,0 +1,43 @@
+{
+  "stock_id": "2377",
+  "stock_name": "微星",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "電競板卡",
+      "AI PC與伺服器"
+    ],
+    "theme_tags": [
+      "前三季EPS 12.37元賺逾一個股本",
+      "AI PC預售完售",
+      "低本益比8倍"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "NB/PC與板卡"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-17",
+    "est_eps_2026": 16.5,
+    "est_pe": 8
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "前三季每股12.37元賺逾一個股本，AI PC首批預售完售",
+      "est_eps": 16.5,
+      "est_pe": 8,
+      "content": "Q3營收569.46億元創歷年同期次高，毛利率17.04%，稅後純益40.33億元(季增34.5%、年增137.8%)，EPS 4.78元創42季新高；前三季EPS 12.37元(年增近154%)。Q4推出NVIDIA RTX Spark架構AI PC，首批可供貨量預售即售罄。",
+      "key_points": [
+        "Q3 EPS 4.78元創42季新高",
+        "前三季EPS 12.37元",
+        "NVIDIA RTX Spark AI PC預售完售"
+      ]
+    }
+  ]
+}

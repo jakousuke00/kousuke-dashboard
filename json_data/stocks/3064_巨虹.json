@@ -1,0 +1,36 @@
+{
+  "stock_id": "3064",
+  "stock_name": "巨虹",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "記憶體通路"
+    ],
+    "theme_tags": [
+      "Q3財報無法作成結論",
+      "11/18起停止買賣"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-包打聽快報",
+        "category_mentioned": "風險警示"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-17"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "Q3財報核閱無法作成結論，11月18日起停止買賣",
+      "content": "第三季財報遭會計師出具「無法作成結論」核閱報告，櫃買中心公告11/18起停止買賣，11/17為最後交易日。前三季每股虧1.24元，公司將盡速補齊會計師所需資料爭取恢復交易。",
+      "key_points": [
+        "11/18起停止買賣",
+        "前三季每股虧1.24元"
+      ]
+    }
+  ]
+}

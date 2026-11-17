@@ -1,0 +1,40 @@
+{
+  "stock_id": "6486",
+  "stock_name": "互動",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "電信網路系統整合"
+    ],
+    "theme_tags": [
+      "2026估EPS上調至7.4元",
+      "Q3 EPS季增年增>50%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "網通系統整合"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-17",
+    "close_price": 82.5,
+    "est_eps_2026": 7.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "2026年預估EPS上調至7.4元，前三季EPS 5.94元",
+      "close_price": 82.5,
+      "est_eps": 7.4,
+      "content": "萬寶投顧11/17將2026年預估EPS上調至7.4元(↑)。Q3單季EPS 4.89元，前三季EPS 5.94元，累計營收年增91%，入選Q3 EPS季增與年增皆逾50%精選公司。",
+      "key_points": [
+        "2026年預估EPS上調至7.4元",
+        "Q3單季EPS 4.89元、累計營收年增91%"
+      ]
+    }
+  ]
+}

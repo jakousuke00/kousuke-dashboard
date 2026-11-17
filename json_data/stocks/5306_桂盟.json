@@ -7,12 +7,33 @@
       "自行車鏈條"
     ],
     "theme_tags": [
-      "SHIMANO私募入股升至4.9%"
+      "SHIMANO私募入股升至4.9%",
+      "私募每股100元",
+      "禧瑪諾入股4.5億元",
+      "前十月營收年增13.4%"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-包打聽快報",
+        "category_mentioned": "自行車零組件"
+      }
+    ]
   },
-  "latest_metrics": {},
+  "latest_metrics": {
+    "as_of_date": "2026-11-17"
+  },
   "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "私募每股100元定價，SHIMANO入股4.5億元深化合作",
+      "content": "董事會通過私募450萬股定價每股100元，募資4.5億元由SHIMANO透過台灣禧瑪諾認購，雙方將在產品、技術、品牌與通路合作。前三季EPS 5.6元，前十月營收45.2億元年增13.4%。",
+      "key_points": [
+        "SHIMANO以每股100元認購私募4.5億元",
+        "前三季EPS 5.6元、前十月營收年增13.4%"
+      ]
+    },
     {
       "report_date": "2026-11-06",
       "source_section": "包打聽快報",

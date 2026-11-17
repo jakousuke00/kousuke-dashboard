@@ -4,18 +4,46 @@
   "industry_profile": {
     "main_industry": "網通/電信與光通訊",
     "sub_industries": [
-      "AI伺服器與工業電腦"
+      "AI伺服器與工業電腦",
+      "IC通路",
+      "電源與伺服器通路"
     ],
     "theme_tags": [
       "IC通路",
-      "獲利創高"
+      "獲利創高",
+      "Q4營收估5300億拚新高",
+      "前三季超越去年全年",
+      "低本益比4倍"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "IC通路"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-11"
+    "as_of_date": "2026-11-17",
+    "close_price": 81.2,
+    "est_eps_2026": 18.5,
+    "est_pe": 4
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "Q4營收估4,800億至5,300億元，拚單季新高",
+      "close_price": 81.2,
+      "est_eps": 18.5,
+      "est_pe": 4,
+      "content": "法說預估Q4營收4,800億至5,300億元，毛利率4.35%~4.55%，EPS 5.13元~5.81元，高標可望創單季新高。Q3營收5,099.96億元年增108.6%，稅後純益103.9億元首破百億、EPS 5.96元；前三季EPS 14.42元，受惠電源管理、伺服器、網通及儲能需求暢旺。",
+      "key_points": [
+        "Q4 EPS預估5.13~5.81元",
+        "Q3單季獲利首破百億",
+        "前三季EPS 14.42元超越去年全年"
+      ]
+    },
     {
       "date": "2026-11-11",
       "source": "今晚爆個股",

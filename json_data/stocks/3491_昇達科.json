@@ -6,16 +6,24 @@
     "sub_industries": [
       "低軌衛星元件",
       "高頻微波通訊",
-      "低軌衛星與光通訊"
+      "低軌衛星與光通訊",
+      "SpaceX概念股"
     ],
     "theme_tags": [
       "前三季EPS 11.81元",
       "台美越三地擴產",
       "毛利率55%",
       "跌深反彈",
-      "低軌衛星"
+      "低軌衛星",
+      "SpaceX衛星連線",
+      "大盤重挫逆勢大漲"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-頭條點評",
+        "category_mentioned": "低軌衛星"
+      },
       {
         "date": "2026-10-30",
         "source": "萬寶晚報-10_30",
@@ -24,12 +32,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-10",
+    "as_of_date": "2026-11-17",
     "close_price": 1255.0,
     "est_eps_2026": 18.5,
     "est_pe": 68.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "SpaceX低軌衛星概念，大盤重挫下逆勢大漲40元",
+      "content": "11/17台股重挫947點且AI高價股淪重災區之際，與SpaceX連上線的昇達科逆勢上漲40元，為少數抗跌走強的千金股。",
+      "key_points": [
+        "SpaceX低軌衛星受惠股",
+        "大盤重挫下逆勢漲40元"
+      ]
+    },
     {
       "date": "2026-11-10",
       "source": "頭版主筆 / ETF Watch",

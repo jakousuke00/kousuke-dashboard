@@ -8,9 +8,15 @@
     ],
     "theme_tags": [
       "9月與Q3營收雙創高",
-      "矽光子探針卡出貨美系客戶"
+      "矽光子探針卡出貨美系客戶",
+      "2026估EPS下調至25元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "IC測試介面"
+      },
       {
         "date": "2026-10-05",
         "source": "萬寶晚報-10_05",
@@ -19,12 +25,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-10-05",
+    "as_of_date": "2026-11-17",
     "close_price": 1428.0,
-    "est_eps_2026": 28.0,
+    "est_eps_2026": 25.0,
     "est_pe": 51.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "萬寶投顧下調2026年預估EPS至25元",
+      "est_eps": 25.0,
+      "content": "萬寶投顧研究部11/17將2026年預估EPS下調至25元(↓)。三大法人11/17上櫃買超278張(+2.22億元)。",
+      "key_points": [
+        "2026年預估EPS下調至25元"
+      ]
+    },
     {
       "date": "2026-10-05",
       "source_file": "萬寶晚報-10_05.pdf",

@@ -5,12 +5,22 @@
     "main_industry": "AI伺服器硬體、機構件與周邊",
     "sub_industries": [
       "被動元件",
-      "電感"
+      "電感",
+      "電感元件",
+      "AI伺服器TLVR電感"
     ],
     "theme_tags": [
-      "AI一體成型電感"
+      "AI一體成型電感",
+      "AI伺服器TLVR電感放量",
+      "訂單能見度至2027Q3",
+      "明年營收目標破百億"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "被動元件電感"
+      },
       {
         "date": "2026-10-01",
         "source": "萬寶晚報-1001",
@@ -19,12 +29,25 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-10-01",
+    "as_of_date": "2026-11-17",
     "close_price": 212.5,
-    "est_eps_2026": 13.5,
-    "est_pe": 15.7
+    "est_eps_2026": 15,
+    "est_pe": 10
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "AI伺服器TLVR電感放量，訂單能見度到2027年Q3",
+      "est_eps": 15,
+      "est_pe": 10,
+      "content": "AI伺服器導入多相降壓TLVR供電架構，每台額外創造5至10顆高單價TLVR電感需求，隨兩大美系雲端客戶正式拉貨，月需求上看200萬至300萬顆，訂單能見度直達2027年Q3。ASIC系列下單規模勝過GPU，明年電感出貨可望倍增，營收目標站上100億元，AI占比升至15%~18%。",
+      "key_points": [
+        "TLVR電感獲兩大美系雲端客戶拉貨",
+        "訂單能見度直達2027年Q3",
+        "明年營收目標站上100億元"
+      ]
+    },
     {
       "date": "2026-10-01",
       "source_file": "萬寶晚報-1001.pdf",

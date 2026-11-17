@@ -17,14 +17,36 @@
       "玻纖布",
       "現金增資",
       "高階玻纖布",
-      "PCB上游"
+      "PCB上游",
+      "2026估EPS上調至6元",
+      "累計營收年增202%"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "玻纖布"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-11"
+    "as_of_date": "2026-11-17",
+    "close_price": 166.5,
+    "est_eps_2026": 6.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "2026年預估EPS上調至6元，累計營收年增202%",
+      "close_price": 166.5,
+      "est_eps": 6.0,
+      "content": "萬寶投顧11/17將2026年預估EPS上調至6元(↑)。Q3單季EPS 2.24元、前三季EPS 3.44元，累計營收年增202%。11/17受玻纖布族群回檔跌停收166.5元。",
+      "key_points": [
+        "2026年預估EPS上調至6元",
+        "累計營收年增202%"
+      ]
+    },
     {
       "date": "2026-11-11",
       "source": "頭版專欄/法人籌碼",

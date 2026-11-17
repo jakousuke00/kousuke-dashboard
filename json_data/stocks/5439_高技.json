@@ -5,13 +5,21 @@
     "main_industry": "PCB/MB產業",
     "sub_industries": [
       "高多層PCB",
-      "AI交換器板"
+      "AI交換器板",
+      "高階多層PCB",
+      "AI伺服器PCB"
     ],
     "theme_tags": [
       "36~40層AI交換器板",
-      "中壢擴產倍增"
+      "中壢擴產倍增",
+      "2026估EPS上調至18.4元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "PCB"
+      },
       {
         "date": "2026-10-22",
         "source": "萬寶晚報-10_22",
@@ -20,12 +28,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-10-22",
+    "as_of_date": "2026-11-17",
     "close_price": 219.5,
-    "est_eps_2026": 17.0,
+    "est_eps_2026": 18.4,
     "est_pe": 13
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至18.4元",
+      "est_eps": 18.4,
+      "content": "萬寶投顧研究部11/17將2026年預估EPS上調至18.4元(↑)。",
+      "key_points": [
+        "2026年預估EPS上調至18.4元"
+      ]
+    },
     {
       "date": "2026-10-22",
       "source_file": "萬寶晚報-10_22.pdf",

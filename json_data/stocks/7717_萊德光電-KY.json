@@ -1,0 +1,37 @@
+{
+  "stock_id": "7717",
+  "stock_name": "萊德光電-KY",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "低軌衛星光通訊",
+      "SpaceX概念股"
+    ],
+    "theme_tags": [
+      "SpaceX衛星連線",
+      "逆勢漲停"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-頭條點評",
+        "category_mentioned": "低軌衛星光通訊"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-17"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "SpaceX概念股逆勢攻上漲停板",
+      "content": "11/17與SpaceX連上線的低軌衛星族群表現強勁，萊德光電-KY逆勢攻上漲停板。",
+      "key_points": [
+        "SpaceX低軌衛星受惠",
+        "11/17逆勢漲停"
+      ]
+    }
+  ]
+}

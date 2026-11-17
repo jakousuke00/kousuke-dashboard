@@ -1,0 +1,37 @@
+{
+  "stock_id": "1905",
+  "stock_name": "華紙",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "造紙",
+      "特殊紙與電子用紙"
+    ],
+    "theme_tags": [
+      "特殊紙占比43%-45%",
+      "台東廠自有發電率升至58%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-今晚產業新聞",
+        "category_mentioned": "造紙"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-17"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "特殊紙占營收逾4成，台東廠新機組明年Q1運轉",
+      "content": "面對中國大陸紙漿新增產能約1,600萬噸，華紙轉向特殊紙與電子用紙，特殊紙占營收已達43%至45%；台東廠新機組明年Q1運轉，自有發電率將由27%升至58%。",
+      "key_points": [
+        "特殊紙與電子用紙占營收43%~45%",
+        "台東廠新機組明年Q1運轉、自有發電率升至58%"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "stock_id": "5386",
+  "stock_name": "青雲",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "伺服器與顯卡通路"
+    ],
+    "theme_tags": [
+      "2026估EPS下調至70元",
+      "上櫃Q3 EPS年增878%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "AI伺服器周邊"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-17",
+    "est_eps_2026": 70.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "2026年預估EPS下調至70元，Q3單季EPS 6.26元",
+      "est_eps": 70.0,
+      "content": "萬寶投顧11/17將2026年預估EPS下調至70元(↓)。Q3單季EPS 6.26元(年增878.1%)、單季營收90.8億元(年增942.6%)入選上櫃Q3 EPS年增率前十名。",
+      "key_points": [
+        "2026年預估EPS下調至70元",
+        "Q3單季EPS 6.26元年增878.1%"
+      ]
+    }
+  ]
+}

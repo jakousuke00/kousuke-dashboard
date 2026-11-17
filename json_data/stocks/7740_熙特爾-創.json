@@ -1,0 +1,43 @@
+{
+  "stock_id": "7740",
+  "stock_name": "熙特爾-創",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "儲能系統",
+      "AI電力基礎建設"
+    ],
+    "theme_tags": [
+      "攜手GE Vernova與SK On",
+      "搶攻AI儲能商機",
+      "台美韓戰略合作"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "儲能與AI電力基建"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-17",
+    "est_eps_2026": 10,
+    "est_pe": 8
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "攜手GE Vernova、SK On簽備忘錄，合攻AI儲能商機",
+      "est_eps": 10,
+      "est_pe": 8,
+      "content": "與美國能源設備大廠GE Vernova、韓國SK集團旗下電池廠SK On簽署合作備忘錄，建立台美韓戰略合作搶攻AI電力基礎建設商機。GE Vernova提供電力轉換設備、SK On提供磷酸鐵鋰電芯與模組，旗下辰熙精密負責在地化整合製造。",
+      "key_points": [
+        "攜手GE Vernova與SK On簽合作備忘錄",
+        "建立台美韓AI電力儲能戰略合作",
+        "辰熙精密負責在地整合製造"
+      ]
+    }
+  ]
+}

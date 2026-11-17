@@ -1,0 +1,43 @@
+{
+  "stock_id": "2338",
+  "stock_name": "光罩",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "光罩",
+      "先進封裝"
+    ],
+    "theme_tags": [
+      "處分竹南廠房挹注",
+      "Q3 EPS 3.24元",
+      "2027新產能開出"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "半導體光罩"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-17",
+    "est_eps_2026": 5,
+    "est_pe": 7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "處分竹南廠房挹注，Q3每股3.24元",
+      "est_eps": 5,
+      "est_pe": 7,
+      "content": "Q3受惠處分竹南廠房利益，歸屬母公司淨利10.61億元(季增逾25倍)，EPS 3.24元；前三季淨利12.5億元、EPS 3.98元(去年同期虧8.11元)。本業仍待改善，公司聚焦高階產品、先進封裝及大尺寸商機，2027年隨新產能開出迎來成長。",
+      "key_points": [
+        "Q3 EPS 3.24元(含處分竹南廠房利益)",
+        "前三季EPS 3.98元轉虧為盈",
+        "聚焦先進封裝與大尺寸光罩"
+      ]
+    }
+  ]
+}

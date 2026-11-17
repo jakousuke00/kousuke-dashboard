@@ -10,9 +10,15 @@
     "theme_tags": [
       "漲停板",
       "AI伺服器",
-      "V-Chip"
+      "V-Chip",
+      "2026估EPS上調至10.6元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-17",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "被動元件"
+      },
       {
         "date": "2026-10-01",
         "source": "萬寶晚報-1001",
@@ -21,12 +27,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-10-01",
+    "as_of_date": "2026-11-17",
     "close_price": 230.0,
-    "est_eps_2026": 10.0,
+    "est_eps_2026": 10.6,
     "est_pe": 23.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-17",
+      "source_file": "reports/11月份/萬寶晚報-11_17.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至10.6元",
+      "est_eps": 10.6,
+      "content": "萬寶投顧研究部11/17將2026年預估EPS上調至10.6元(↑)。",
+      "key_points": [
+        "2026年預估EPS上調至10.6元"
+      ]
+    },
     {
       "date": "2026-10-01",
       "source_file": "萬寶晚報-1001.pdf",
