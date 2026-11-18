@@ -10,9 +10,15 @@
     "theme_tags": [
       "企業級SSD晶片明年放量",
       "打入Wi-Fi 8設計",
-      "前三季EPS 11.32元"
+      "前三季EPS 11.32元",
+      "2026估EPS微調至15元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "IC設計"
+      },
       {
         "date": "2026-11-17",
         "source": "萬寶晚報-今晚爆個股",
@@ -21,11 +27,21 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-17",
-    "est_eps_2026": 16,
+    "as_of_date": "2026-11-18",
+    "est_eps_2026": 15.0,
     "est_pe": 12
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "萬寶投顧調整2026年預估EPS至15元",
+      "est_eps": 15.0,
+      "content": "萬寶投顧研究部11/18將2026年預估EPS微調至15元(↓)。",
+      "key_points": [
+        "2026年預估EPS微調至15元"
+      ]
+    },
     {
       "date": "2026-11-17",
       "source_file": "reports/11月份/萬寶晚報-11_17.pdf",

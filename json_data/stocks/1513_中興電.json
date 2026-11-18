@@ -4,19 +4,38 @@
   "industry_profile": {
     "main_industry": "綠能基建、重電與特殊材料",
     "sub_industries": [
-      "重電與儲能"
+      "重電與儲能",
+      "重電設備與GIS開關"
     ],
     "theme_tags": [
       "強韌電網",
       "AI資料中心",
-      "營收創高"
+      "營收創高",
+      "2026估EPS上調至9.6元"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "重電"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-10"
+    "as_of_date": "2026-11-18",
+    "est_eps_2026": 9.6
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至9.6元",
+      "est_eps": 9.6,
+      "content": "萬寶投顧研究部11/18將2026年預估EPS上調至9.6元(↑)。",
+      "key_points": [
+        "2026年預估EPS上調至9.6元"
+      ]
+    },
     {
       "date": "2026-11-10",
       "source": "產業新聞",

@@ -1,0 +1,40 @@
+{
+  "stock_id": "6235",
+  "stock_name": "華孚",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "鎂鋁合金車用機構件"
+    ],
+    "theme_tags": [
+      "安裝7000噸雙射成型設備",
+      "搶攻鎂合金車用商機"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "車用機構件"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-18",
+    "est_eps_2026": 0.9,
+    "est_pe": 32
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "安裝7,000噸鎂合金雙射成型設備，搶攻車用",
+      "est_eps": 0.9,
+      "est_pe": 32,
+      "content": "正式安裝7,000噸大型鎂合金雙射台成型設備，強化半固態雙射成型布局搶攻車用商機；2024年已投產3,000噸設備用於汽車儀表板橫樑及大型車內顯示器支架。前十月營收53.3億元年減1.9%。",
+      "key_points": [
+        "安裝7,000噸大型鎂合金雙射成型設備",
+        "強化車用大型顯示器支架與橫樑布局"
+      ]
+    }
+  ]
+}

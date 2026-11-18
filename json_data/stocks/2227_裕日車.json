@@ -1,0 +1,38 @@
+{
+  "stock_id": "2227",
+  "stock_name": "裕日車",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "汽車銷售與製造"
+    ],
+    "theme_tags": [
+      "12月底推第三代QASHQAI",
+      "東風日產拓展出口"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "汽車整車"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-18",
+    "est_eps_2026": -8
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "12月底推第三代QASHQAI，東風日產拓展出口",
+      "est_eps": -8,
+      "content": "台灣新車市場1~10月總銷量約33.3萬輛年增2.9%，公司12月底將推出第三代QASHQAI e-POWER；東風日產前十月銷量年減43.7%，新能源車占比升至35.7%，Q4起拓展整車出口中東、拉美及東盟。",
+      "key_points": [
+        "12月底推第三代QASHQAI e-POWER",
+        "東風日產Q4起拓展整車出口"
+      ]
+    }
+  ]
+}

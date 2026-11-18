@@ -7,7 +7,8 @@
       "ABF載板",
       "ABF與BT載板",
       "IC載板(BT/ABF)",
-      "BT載板"
+      "BT載板",
+      "AI高階載板"
     ],
     "theme_tags": [
       "ABF載板",
@@ -20,9 +21,17 @@
       "載板漲價",
       "Q3創16季高",
       "資本支出598億",
-      "萬寶估EPS 12元"
+      "萬寶估EPS 12元",
+      "獲NVIDIA逾10億美元投資",
+      "ABF產能擴至3.5倍",
+      "5年長約供貨"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "ABF載板"
+      },
       {
         "date": "2026-11-11",
         "source": "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf",
@@ -51,12 +60,26 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-11",
-    "close_price": 741.0,
-    "est_eps_2026": 12.0,
-    "est_pe": 61.8
+    "as_of_date": "2026-11-18",
+    "close_price": 579,
+    "est_eps_2026": 14,
+    "est_pe": 41
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "獲NVIDIA逾10億美元投資，AI載板產能擴至3.5倍",
+      "close_price": 579,
+      "est_eps": 14,
+      "est_pe": 41,
+      "content": "宣布獲NVIDIA現金投資逾10億美元，用於擴充桃園幼獅K6廠專用ABF載板產能，自2027年下半年逐步開出、2028年Q3全數到位，目標擴增至現有產能3.5倍以上，雙方並協商更多廠區投資確保未來5年AI高階載板供應。11/18股價上漲6.83%收579元，成交量79,362張。",
+      "key_points": [
+        "獲NVIDIA現金投資逾10億美元",
+        "K6廠ABF載板產能擴至現有3.5倍以上",
+        "確保未來5年AI高階載板供應"
+      ]
+    },
     {
       "date": "2026-11-11",
       "source_file": "reports/11月份/萬寶產業報告-1111(萬寶晚報贈品).pdf",

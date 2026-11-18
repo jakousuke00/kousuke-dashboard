@@ -1,0 +1,43 @@
+{
+  "stock_id": "3596",
+  "stock_name": "智易",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "寬頻固網設備",
+      "企業級交換器"
+    ],
+    "theme_tags": [
+      "前三季EPS 9.96元創高",
+      "北美新客戶明年放量",
+      "交換器營收估倍增"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "網通設備"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-18",
+    "est_eps_2026": 13,
+    "est_pe": 10
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "前三季每股9.96元創新高，明年北美新客戶放量",
+      "est_eps": 13,
+      "est_pe": 10,
+      "content": "Q3 EPS 3.46元，前三季EPS 9.96元創新高。北美大型電信商及有線電視業者新客戶明年同步量產，寬頻固網營收拚年增雙位數；企業級交換器明年三至四家出貨營收估倍增以上。已備妥明年約九成記憶體需求，力拚明年營益率6.5%至7%。",
+      "key_points": [
+        "前三季EPS 9.96元創新高",
+        "北美新客戶明年同步量產",
+        "企業級交換器明年營收可望倍增"
+      ]
+    }
+  ]
+}

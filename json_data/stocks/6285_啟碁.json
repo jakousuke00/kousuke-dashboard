@@ -7,21 +7,47 @@
       "WiFi 8",
       "低軌衛星終端",
       "1.6T交換器与光交換器",
-      "低軌衛星與光通訊"
+      "低軌衛星與光通訊",
+      "低軌衛星地面接收設備",
+      "車用與企業網通"
     ],
     "theme_tags": [
       "WiFi 8明年Q4量產",
       "1.6T光交換器2027送樣",
       "低軌衛星",
       "EPS上修",
-      "ETF加碼"
+      "ETF加碼",
+      "低軌衛星漲停",
+      "主動型ETF加碼",
+      "累計營收年增45%"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-頭條與強勢漲停表",
+        "category_mentioned": "低軌衛星"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-10"
+    "as_of_date": "2026-11-18",
+    "close_price": 184,
+    "est_eps_2026": 14.4
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "SpaceX低軌衛星激勵強鎖漲停184元，前三季EPS 10.1元",
+      "close_price": 184,
+      "est_eps": 14.4,
+      "content": "受惠SpaceX技術突破與融資動向激勵，11/18強鎖漲停收184元。前三季EPS 10.1元(Q3季增28.3%、年增213%)，累計營收年增45%，萬寶估2026 EPS 14.4元，並獲主動型ETF加碼+835張。",
+      "key_points": [
+        "11/18強鎖漲停收184元",
+        "前三季EPS 10.1元、2026估14.4元",
+        "主動型ETF加碼835張"
+      ]
+    },
     {
       "date": "2026-11-10",
       "source": "頭版主筆 / 萬寶投顧精選圖表 / ETF Watch",

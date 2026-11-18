@@ -1,7 +1,145 @@
 {
-  "updated_at": "2026-11-17T23:00:00+08:00",
+  "updated_at": "2026-11-18T19:08:00+08:00",
   "schema_version": "1.0",
   "trends": [
+    {
+      "id": "trend_20261118_01",
+      "date": "2026-11-18",
+      "category": "AI產業與企業財報",
+      "title": "輝達Q3營收1,158億美元年增103%優於預期，停止對中出貨H200且無意讓黃仁勳回任",
+      "countries": [
+        "美國",
+        "中國大陸",
+        "台灣"
+      ],
+      "source_org": "萬寶晚報 HOT NEWS (輝達法說/傑富瑞)",
+      "impact_horizon": "2026-2028",
+      "sentiment": "中立偏多",
+      "topic_thread": "輝達財報表現、對中管制衝擊與接班人布局",
+      "affected_industries": [
+        "半導體與設備檢測",
+        "PCB/MB產業",
+        "AI伺服器硬體、機構件與周邊"
+      ],
+      "related_stocks": [
+        {
+          "id": "3189",
+          "name": "景碩",
+          "type": "台股"
+        },
+        {
+          "id": "3711",
+          "name": "日月光投控",
+          "type": "台股"
+        },
+        {
+          "id": "2330",
+          "name": "台積電",
+          "type": "台股"
+        }
+      ],
+      "summary": "輝達2027會計年度Q3營收1,158億美元(年增103%)、Q4估1,261~1,339億美元優於預期，2028年度營收估增75%；惟全面停止向中國出貨H200(傑富瑞估明年營收衝擊440~620億美元)，並再傳遭SEC調查。董事長瓊斯指無意讓黃仁勳回任，正委託獵人頭尋覓接班人。同時輝達擴大投資台灣供應鏈(景碩逾10億美元、矽品數十億美元)。",
+      "source_pdf": "reports/11月份/萬寶晚報-11_18.pdf",
+      "source_page": "p.5"
+    },
+    {
+      "id": "trend_20261118_02",
+      "date": "2026-11-18",
+      "category": "產業預期需求",
+      "title": "SemiAnalysis下修2028年AI晶片採購預測28%，同步下修聯發科TPU與微軟Vera Rubin訂單預估",
+      "countries": [
+        "美國",
+        "全球",
+        "台灣"
+      ],
+      "source_org": "萬寶晚報 HOT NEWS (SemiAnalysis)",
+      "impact_horizon": "2027-2030",
+      "sentiment": "偏空",
+      "topic_thread": "AI資本支出增速放緩與CSP融資收緊",
+      "affected_industries": [
+        "半導體與設備檢測",
+        "AI伺服器硬體、機構件與周邊"
+      ],
+      "related_stocks": [
+        {
+          "id": "2454",
+          "name": "聯發科",
+          "type": "台股"
+        },
+        {
+          "id": "3661",
+          "name": "世芯-KY",
+          "type": "台股"
+        }
+      ],
+      "summary": "SemiAnalysis將2028年全球AI加速晶片採購支出預測由1.54兆美元下修28%至7,580億美元（2027年下修19%、2030年下修40%），主因AI模型業者經常性收入成長放緩、缺乏雲端大廠承諾的資料中心更難融資，並下修聯發科TPU專案出貨預測及2027年微軟Vera Rubin機櫃訂單200櫃。",
+      "source_pdf": "reports/11月份/萬寶晚報-11_18.pdf",
+      "source_page": "p.5"
+    },
+    {
+      "id": "trend_20261118_03",
+      "date": "2026-11-18",
+      "category": "全球總體經濟",
+      "title": "美國10月核心零售銷售月增0.6%創八月以來新高，強化Fed 12月升息預期",
+      "countries": [
+        "美國"
+      ],
+      "source_org": "萬寶晚報 HOT NEWS",
+      "impact_horizon": "2026-2027",
+      "sentiment": "偏空",
+      "topic_thread": "美國消費韌性與聯準會升息預期",
+      "affected_industries": [
+        "金融保險產業",
+        "半導體與設備檢測"
+      ],
+      "related_stocks": [
+        {
+          "id": "2884",
+          "name": "玉山金",
+          "type": "台股"
+        }
+      ],
+      "summary": "美國商務部公布10月零售銷售月增0.2%、扣除汽車汽油建材餐飲的核心零售銷售月增0.6%(高於預期的0.3%)，寫8月以來新高；9月儲蓄率降至近四年最低，強化聯準會12月升息預期並推升美債殖利率。",
+      "source_pdf": "reports/11月份/萬寶晚報-11_18.pdf",
+      "source_page": "p.5"
+    },
+    {
+      "id": "trend_20261118_04",
+      "date": "2026-11-18",
+      "category": "產業供給與報價",
+      "title": "美銀示警NAND現貨價修正20%且明年Q1續跌，DRAM漲勢延續至明年Q1",
+      "countries": [
+        "全球",
+        "台灣"
+      ],
+      "source_org": "萬寶晚報今晚產業新聞 (美銀證券)",
+      "impact_horizon": "2026-2027",
+      "sentiment": "中立",
+      "topic_thread": "記憶體DRAM與NAND景氣分歧",
+      "affected_industries": [
+        "半導體與設備檢測"
+      ],
+      "related_stocks": [
+        {
+          "id": "8299",
+          "name": "群聯",
+          "type": "台股"
+        },
+        {
+          "id": "2408",
+          "name": "南亞科",
+          "type": "台股"
+        },
+        {
+          "id": "3260",
+          "name": "威剛",
+          "type": "台股"
+        }
+      ],
+      "summary": "美銀證券指出NAND Flash現貨價自10月中下旬修正約20%，受PC、手機及中國雲端需求轉弱影響，明年Q1 IT用NAND估再跌5%~10%；DRAM則Q4估漲8%、明年Q1再漲5%，價格高點提前至2027年Q3。",
+      "source_pdf": "reports/11月份/萬寶晚報-11_18.pdf",
+      "source_page": "p.6"
+    },
     {
       "id": "trend_20261117_01",
       "date": "2026-11-17",

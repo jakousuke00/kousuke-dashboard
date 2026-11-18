@@ -4,18 +4,46 @@
   "industry_profile": {
     "main_industry": "綠能基建、重電與特殊材料",
     "sub_industries": [
-      "化工特化與鋼鐵塑化"
+      "化工特化與鋼鐵塑化",
+      "高階CCL樹脂",
+      "電子化學材料"
     ],
     "theme_tags": [
       "M9高階CCL材料",
-      "先進封裝"
+      "先進封裝",
+      "前三季EPS 2.36元",
+      "電子材料占比明年拚40%",
+      "M10材料通過驗證"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "CCL高階樹脂"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-10"
+    "as_of_date": "2026-11-18",
+    "close_price": 118.5,
+    "est_eps_2026": 3.5,
+    "est_pe": 34
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "前三季每股2.36元，電子材料占比明年拚35%至40%",
+      "close_price": 118.5,
+      "est_eps": 3.5,
+      "est_pe": 34,
+      "content": "加速轉向高附加價值電子材料，前三季純益2.42億元(年增80.4%)、EPS 2.36元，電子材料占比升至23.6%。安南新廠明年Q1量產，電子材料占比估提高至35%~40%；聚焦AI伺服器用M8、M9高階CCL樹脂，M10材料已通過客戶驗證明年有望明顯放量。",
+      "key_points": [
+        "前三季純益年增80.4%、EPS 2.36元",
+        "安南新廠明年Q1量產、電子材料占比拚40%",
+        "M8/M9/M10高階CCL樹脂佈局領先"
+      ]
+    },
     {
       "date": "2026-11-10",
       "source": "今晚爆個股",

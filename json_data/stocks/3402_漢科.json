@@ -1,0 +1,42 @@
+{
+  "stock_id": "3402",
+  "stock_name": "漢科",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "特殊氣體管路與廠務工程"
+    ],
+    "theme_tags": [
+      "在手訂單約150億",
+      "半導體擴廠占八成",
+      "前三季EPS 6.46元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "半導體廠務"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-18",
+    "est_eps_2026": 9.3,
+    "est_pe": 12
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "在手訂單約150億元，半導體擴廠占八成",
+      "est_eps": 9.3,
+      "est_pe": 12,
+      "content": "法說指出在手訂單約150億元，約八成來自半導體擴產建廠，AI伺服器與算力中心帶動HBM、DRAM、ABF及CoWoS/SoIC擴產，建廠需求延續至2028~2029年，已在美日德設據點。前三季營收47.89億元(年增23%)、EPS 6.46元，Q3毛利率回升至24%。",
+      "key_points": [
+        "在手訂單約150億、八成來自半導體擴廠",
+        "前三季EPS 6.46元",
+        "建廠需求延續至2028~2029年"
+      ]
+    }
+  ]
+}

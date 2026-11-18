@@ -1,0 +1,42 @@
+{
+  "stock_id": "5474",
+  "stock_name": "聰泰",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "影像擷取卡",
+      "邊緣AI平台"
+    ],
+    "theme_tags": [
+      "訂單能見度到明年Q1",
+      "推Jetson Thor邊緣AI平台"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "邊緣AI與機器人"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-18",
+    "est_eps_2026": 6,
+    "est_pe": 20
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "訂單能見度到明年首季，推Jetson Thor邊緣AI平台",
+      "est_eps": 6,
+      "est_pe": 20,
+      "content": "訂單能見度延伸至2027年Q1，下半年受AI排擠部分晶片供貨，明年上半年望逐步改善。推出搭載NVIDIA Jetson Thor的邊緣AI設備鎖定智慧城市、工廠及機器人，NexVDO開發工具新增機器人控制模組；前三季EPS 4.29元。",
+      "key_points": [
+        "推出NVIDIA Jetson Thor邊緣AI設備",
+        "前三季EPS 4.29元",
+        "訂單能見度達2027年Q1"
+      ]
+    }
+  ]
+}

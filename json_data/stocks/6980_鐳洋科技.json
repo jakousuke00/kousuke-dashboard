@@ -1,0 +1,38 @@
+{
+  "stock_id": "6980",
+  "stock_name": "鐳洋科技",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "射頻測試",
+      "低軌衛星"
+    ],
+    "theme_tags": [
+      "完成3億現金增資",
+      "佳世達台翔家登等參與",
+      "低軌衛星布局"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-興櫃搶先爆",
+        "category_mentioned": "興櫃低軌衛星"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-18"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "完成3億元現金增資，擴大射頻與低軌衛星布局",
+      "content": "完成3億元現金增資（認購金額逾4億），參與機構包含北富銀創投、中華電信創投、佳世達集團、台翔航太及家登。上半年營收年增76.4%創興櫃同期新高，射頻測試由消費電子擴展至低軌衛星及AI裝置。",
+      "key_points": [
+        "完成3億現金增資獲家登/佳世達/台翔等參與",
+        "射頻測試擴展至低軌衛星與AI裝置"
+      ]
+    }
+  ]
+}

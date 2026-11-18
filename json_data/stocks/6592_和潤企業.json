@@ -1,0 +1,41 @@
+{
+  "stock_id": "6592",
+  "stock_name": "和潤企業",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "租賃與分期金融"
+    ],
+    "theme_tags": [
+      "前三季EPS 3.6元",
+      "三率三升",
+      "企業金融獲利年增22%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "租賃金融"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-18",
+    "est_eps_2026": 5,
+    "est_pe": 11
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "前三季每股3.6元，毛利率、營益率、淨利率三升",
+      "est_eps": 5,
+      "est_pe": 11,
+      "content": "前三季合併稅後淨利28億元(年增15%)、EPS 3.6元，毛利率、營益率、淨利率年增2/4/3個百分點。預期信用減損損失年減21.8%為獲利核心動力，企業金融前三季獲利年增22%。",
+      "key_points": [
+        "前三季純益28億年增15%、EPS 3.6元",
+        "三率三升、信用減損損失年減21.8%"
+      ]
+    }
+  ]
+}

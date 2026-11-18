@@ -1,0 +1,44 @@
+{
+  "stock_id": "8213",
+  "stock_name": "志超",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "光電板與車用PCB"
+    ],
+    "theme_tags": [
+      "Q3 EPS 1.2元創11季新高",
+      "10月營收54個月新高",
+      "車用占比升至13%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "PCB"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-18",
+    "close_price": 37.9,
+    "est_eps_2026": 3.4,
+    "est_pe": 11
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "Q3每股1.2元11季新高，10月營收54個月新高",
+      "close_price": 37.9,
+      "est_eps": 3.4,
+      "est_pe": 11,
+      "content": "受惠產品調價及費用控管，Q3 EPS 1.2元創11季新高、前三季EPS 2.13元。10月營收23.28億元(年增55.17%)創54個月新高，前十月189.6億元已超越去年全年。車用板占比升至13%，傳統CCL吃緊已議價轉嫁至少60%漲幅。",
+      "key_points": [
+        "Q3 EPS 1.2元創11季新高",
+        "10月營收23.28億創54個月新高",
+        "車用板占比升至13%"
+      ]
+    }
+  ]
+}

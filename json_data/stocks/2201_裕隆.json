@@ -1,0 +1,43 @@
+{
+  "stock_id": "2201",
+  "stock_name": "裕隆",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "整車製造與代工",
+      "儲能與動力電池"
+    ],
+    "theme_tags": [
+      "Q3營業利益年增15%",
+      "擴大工商儲能與電池",
+      "推進Cavira量產"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "汽車整車"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-18",
+    "est_eps_2026": 1,
+    "est_pe": 26
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "Q3營業利益年增15%，擴大儲能與電池業務",
+      "est_eps": 1,
+      "est_pe": 26,
+      "content": "Q3營業利益17.02億元(年增15%)連續四季年增；受轉投資下滑影響稅前淨利12.63億元、EPS 0.22元。能源事業擴大工商業儲能應用與動力電池製造規模，啟動菲律賓電動計程車保修合作；汽車製造推進Cavira量產交付及MMC ASX紐澳外銷。",
+      "key_points": [
+        "Q3營業利益17.02億連四季年增",
+        "擴大儲能與動力電池製造規模",
+        "推進電動車量產與外銷"
+      ]
+    }
+  ]
+}

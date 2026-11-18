@@ -1,0 +1,36 @@
+{
+  "stock_id": "1256",
+  "stock_name": "鮮活果汁-KY",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "食品飲料原料"
+    ],
+    "theme_tags": [
+      "2026估EPS上調至19元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "食品"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-18",
+    "est_eps_2026": 19.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至19元",
+      "est_eps": 19.0,
+      "content": "萬寶投顧研究部11/18將2026年預估EPS上調至19元(↑)。",
+      "key_points": [
+        "2026年預估EPS上調至19元"
+      ]
+    }
+  ]
+}

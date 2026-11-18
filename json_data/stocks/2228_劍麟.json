@@ -1,0 +1,43 @@
+{
+  "stock_id": "2228",
+  "stock_name": "劍麟",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "汽車安全零件",
+      "AI液冷散熱零件"
+    ],
+    "theme_tags": [
+      "AI液冷新案明年Q1末量產",
+      "明年AI業務估成長2-3倍",
+      "波蘭廠減虧"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-18",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "車用安全與AI液冷"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-18",
+    "est_eps_2026": 3.6,
+    "est_pe": 18
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-18",
+      "source_file": "reports/11月份/萬寶晚報-11_18.pdf",
+      "title": "AI液冷新案明年首季末量產，波蘭廠營收拚增",
+      "est_eps": 3.6,
+      "est_pe": 18,
+      "content": "前三季營收36.96億元、純益2.14億元、EPS 2.68元。今年AI伺服器液冷零件營收估4,000萬~5,000萬元，新案最快明年Q1末量產，明年AI業務營收可望成長2至3倍；波蘭廠明年營收估升至3.5億~4億元拚損平。",
+      "key_points": [
+        "AI液冷新案明年Q1末量產",
+        "明年AI業務營收可望成長2~3倍",
+        "波蘭廠明年虧損收斂甚至損平"
+      ]
+    }
+  ]
+}
