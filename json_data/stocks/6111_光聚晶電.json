@@ -1,0 +1,38 @@
+{
+  "stock_id": "6111",
+  "stock_name": "光聚晶電",
+  "industry_profile": {
+    "main_industry": "文創遊戲",
+    "sub_industries": [
+      "文創娛樂與電子整合"
+    ],
+    "theme_tags": [
+      "累計營收年增94.1%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶產業報告-文化創意類股",
+        "category_mentioned": "文創"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "close_price": 28.55,
+    "est_eps_2026": 1.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶產業報告-1119(萬寶晚報贈品).pdf",
+      "title": "近5日逆勢漲1.96%，累計營收年增94.1%",
+      "close_price": 28.55,
+      "est_eps": 1.3,
+      "content": "收盤28.55元，近5日逆勢上漲1.96%。10月營收年增34.4%、累計年增94.1%，外資近5日買超34張，萬寶估2026年EPS 1.3元。",
+      "key_points": [
+        "近5日漲1.96%、累計營收年增94.1%"
+      ]
+    }
+  ]
+}

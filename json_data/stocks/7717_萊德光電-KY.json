@@ -5,13 +5,21 @@
     "main_industry": "網通/電信與光通訊",
     "sub_industries": [
       "低軌衛星光通訊",
-      "SpaceX概念股"
+      "SpaceX概念股",
+      "低軌衛星雷射通訊元件"
     ],
     "theme_tags": [
       "SpaceX衛星連線",
-      "逆勢漲停"
+      "逆勢漲停",
+      "10月單月EPS 1元年增223%",
+      "泰國廠明年Q2試量產"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "光通訊/低軌衛星"
+      },
       {
         "date": "2026-11-17",
         "source": "萬寶晚報-頭條點評",
@@ -20,9 +28,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-17"
+    "as_of_date": "2026-11-19",
+    "close_price": 513,
+    "est_eps_2026": 9.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "10月單月EPS 1元年增223%，衛星雷射通訊占比升至57%",
+      "close_price": 513,
+      "est_eps": 9.0,
+      "content": "受惠低軌衛星雷射通訊需求，Q3 EPS 2.34元、前三季EPS 6.68元(年增45.8%)，毛利率攀升至64%；10月自結營收1.34億元(年增168%)、單月EPS 1元。衛星雷射通訊被動元件占比由48%升至57%，泰國廠明年Q2試量產。11/19跌停收513元，萬寶估2026年EPS 9元。",
+      "key_points": [
+        "10月單月EPS 1元、前三季6.68元",
+        "衛星雷射通訊占比升至57%"
+      ]
+    },
     {
       "date": "2026-11-17",
       "source_file": "reports/11月份/萬寶晚報-11_17.pdf",

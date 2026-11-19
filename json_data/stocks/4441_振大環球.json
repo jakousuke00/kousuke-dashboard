@@ -5,20 +5,43 @@
     "main_industry": "汽車與車用零組件",
     "sub_industries": [
       "食品成衣、內需與金融產險",
-      "成衣製造"
+      "成衣製造",
+      "機能運動服飾"
     ],
     "theme_tags": [
       "成衣",
       "低本益比",
       "營收創高",
-      "高EPS"
+      "高EPS",
+      "10大抗跌股",
+      "Q3單季EPS 6.98元"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-10大抗跌股",
+        "category_mentioned": "成衣"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-12"
+    "as_of_date": "2026-11-19",
+    "close_price": 174.5,
+    "est_eps_2026": 20.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "Q3毛利率28%且單季EPS 6.98元，入列10大抗跌股",
+      "close_price": 174.5,
+      "est_eps": 20.0,
+      "content": "Q3毛利率28%且單季EPS達6.98元，前三季EPS 16.06元、累計營收年增8%，11/19收174.5元入列防禦性抗跌股。萬寶估2026年EPS 20元。",
+      "key_points": [
+        "前三季EPS 16.06元、Q3單季6.98元",
+        "2026估EPS 20元"
+      ]
+    },
     {
       "date": "2026-11-12",
       "content": "估EPS 19元。Q3毛利率27.97%、EPS 6.98元居紡織之冠，前三季EPS 16.06元已超越去年全年14.75元。馬達加斯加產區確認全免稅，看好2028~2029年新成長。",

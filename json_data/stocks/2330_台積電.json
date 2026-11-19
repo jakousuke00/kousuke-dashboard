@@ -59,9 +59,15 @@
       "股利配息",
       "AI投資",
       "權值股",
-      "美國廠獲利創高"
+      "美國廠獲利創高",
+      "近5億美元入股Anthropic"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "半導體"
+      },
       {
         "date": "2026-11-02",
         "source": "萬寶晚報-11_02",
@@ -105,12 +111,24 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-13",
-    "close_price": 1450.0,
-    "est_eps_2026": 68.0,
+    "as_of_date": "2026-11-19",
+    "close_price": 2100,
+    "est_eps_2026": 110,
     "est_pe": 21.3
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "以每股83美元認購Anthropic近5億美元N類普通股，持股0.03%",
+      "close_price": 2100,
+      "est_eps": 110,
+      "content": "公告以每股83美元認購Anthropic N類普通股602萬4,096股，交易總額約5億美元(持股0.03%)，與Google、輝達、超微、博通、美光及微軟透過私募合計認購260億美元。11/19收2,100元(-3.45%)，萬寶估2026年EPS 110元。",
+      "key_points": [
+        "5億美元入股Anthropic",
+        "2026估EPS 110元"
+      ]
+    },
     {
       "date": "2026-11-13",
       "content": "2026估EPS 110元（Q3單季29.42元）。美國子公司TSMC Arizona前三季獲利539.86億元創新高，認列投資利益485.58億元；今年前三季全球合計取得政府補助款約1,675.86億元。",

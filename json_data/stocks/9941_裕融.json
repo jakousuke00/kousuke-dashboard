@@ -1,0 +1,37 @@
+{
+  "stock_id": "9941",
+  "stock_name": "裕融",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "汽車與企業融資租賃"
+    ],
+    "theme_tags": [
+      "前三季EPS 5.79元",
+      "信用減損年減29%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "租賃金融"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "est_eps_2026": 7.7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "前三季EPS 5.79元優於去年同期，預期信用減損年減29%",
+      "est_eps": 7.7,
+      "content": "前三季營收297.22億元持平，稅後淨利35.25億元(年增1.9%)、EPS 5.79元(Q3 EPS 2元)。台灣與中國大陸資產品質回穩，預期信用減損損失年減29%。萬寶估2026年EPS 7.7元。",
+      "key_points": [
+        "前三季EPS 5.79元、預期信用減損年減29%"
+      ]
+    }
+  ]
+}

@@ -5,17 +5,43 @@
     "main_industry": "生技醫療與保健",
     "sub_industries": [
       "隱形眼鏡",
-      "矽水膠彩拋"
+      "矽水膠彩拋",
+      "矽水膠隱形眼鏡"
     ],
     "theme_tags": [
       "Q3獲利創新高",
       "Q4營收續旺",
-      "馬來西亞擴產"
+      "馬來西亞擴產",
+      "11/19抗跌大漲9%",
+      "Q3 EPS 6.32元創高",
+      "明年Q1產能上修至8000萬片"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股 / 10大抗跌股",
+        "category_mentioned": "隱形眼鏡"
+      }
+    ]
   },
-  "latest_metrics": {},
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "close_price": 290.5,
+    "est_eps_2026": 20.0
+  },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "前三季EPS 14.77元超越歷年各年度，明年Q1月產能上修至8,000萬片",
+      "close_price": 290.5,
+      "est_eps": 20.0,
+      "content": "Q3營收及獲利創單季新高(Q3 EPS 6.32元)，前三季稅後純益9.3億元、EPS 14.77元超越歷年各年度，累計營收年增29%。稼動率9成以上，明年Q1月產能上修至8,000萬片並投資5億元擴建馬來西亞第三廠。11/19逆勢大漲9.01%收290.5元，萬寶估2026年EPS 20元。",
+      "key_points": [
+        "前三季EPS 14.77元超越歷年全年",
+        "11/19大漲9.01%抗跌指標，2026估EPS 20元"
+      ]
+    },
     {
       "report_date": "2026-11-05",
       "source_section": "今晚爆個股",

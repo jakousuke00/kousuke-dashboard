@@ -7,14 +7,35 @@
       "公股金控"
     ],
     "theme_tags": [
-      "獲利創高"
+      "獲利創高",
+      "10大抗跌股",
+      "累計營收年增23%"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-10大抗跌股",
+        "category_mentioned": "金控銀行"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-13"
+    "as_of_date": "2026-11-19",
+    "close_price": 48.85,
+    "est_eps_2026": 2.3
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "前三季EPS 1.88元、累計營收年增23%，官股金控抗跌指標",
+      "close_price": 48.85,
+      "est_eps": 2.3,
+      "content": "前三季EPS 1.88元、累計營收年增23%，11/19收48.85元展現抗跌韌性。萬寶估2026年EPS 2.3元。",
+      "key_points": [
+        "累計營收年增23%、2026估EPS 2.3元"
+      ]
+    },
     {
       "date": "2026-11-13",
       "content": "前十月稅後純益284.56億元年增26.85%、EPS 2.02元，創同期新高並賺贏去年全年；10月單月獲利20.89億元，華南永昌證券前十月較一銀證券多賺22.83億元。",

@@ -6,15 +6,23 @@
     "sub_industries": [
       "IC設計",
       "RISC-V IP",
-      "RISC-V處理器IP"
+      "RISC-V處理器IP",
+      "RISC-V矽智財(IP)"
     ],
     "theme_tags": [
       "RISC-V",
       "漲停板",
       "美股聯動",
-      "ASIC漲停"
+      "ASIC漲停",
+      "前三季AI應用占營收53%",
+      "Q4拚恢復獲利"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "矽智財IP"
+      },
       {
         "date": "2026-10-28",
         "source": "萬寶晚報-10_28",
@@ -23,10 +31,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-13",
-    "close_price": 293.5
+    "as_of_date": "2026-11-19",
+    "close_price": 213,
+    "est_eps_2026": -6.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "前三季AI應用占營收53%，10月營收年增31.65%、Q4拚轉盈",
+      "close_price": 213,
+      "est_eps": -6.0,
+      "content": "法說指出前三季AI應用占營收53%(高於去年全年4成)，客戶涵蓋Meta、d-Matrix、Fractile等。Q3虧損較Q2收斂56.5%，10月營收年增31.65%，預期Q4恢復獲利、全年朝損益兩平努力。萬寶估2026年EPS -6元。",
+      "key_points": [
+        "前三季AI應用占營收53%",
+        "Q4預期恢復獲利"
+      ]
+    },
     {
       "date": "2026-11-13",
       "content": "受惠AI資金轉向ASIC概念股全面反攻，晶心科於11/13盤中拉漲停。",

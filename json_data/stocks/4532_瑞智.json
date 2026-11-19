@@ -1,0 +1,37 @@
+{
+  "stock_id": "4532",
+  "stock_name": "瑞智",
+  "industry_profile": {
+    "main_industry": "電機機械",
+    "sub_industries": [
+      "空調壓縮機"
+    ],
+    "theme_tags": [
+      "11月銷售挑戰170萬台",
+      "埃及新廠月底開幕"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "電機機械"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "est_eps_2026": 1.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "11月壓縮機銷售挑戰170萬台，埃及新廠11月底開幕",
+      "est_eps": 1.6,
+      "content": "Q4進入外銷旺季，前十月壓縮機銷售1,944.82萬台(年增4.71%)，11月挑戰170萬台以上，全年朝2,450萬台邁進；與埃及ELARABY合資新廠11月底開幕、首條產線年產150萬台。前三季EPS 1.12元，萬寶估2026年EPS 1.6元。",
+      "key_points": [
+        "前十月銷售年增4.71%、埃及新廠月底開幕"
+      ]
+    }
+  ]
+}

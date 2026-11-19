@@ -1,0 +1,38 @@
+{
+  "stock_id": "6625",
+  "stock_name": "必應",
+  "industry_profile": {
+    "main_industry": "文創遊戲",
+    "sub_industries": [
+      "演唱會製作與硬體統籌"
+    ],
+    "theme_tags": [
+      "10月營收年增25.2%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶產業報告-文化創意類股",
+        "category_mentioned": "文創"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "close_price": 66.7,
+    "est_eps_2026": 8.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶產業報告-1119(萬寶晚報贈品).pdf",
+      "title": "10月營收年增25.2%，預估本益比8.3倍",
+      "close_price": 66.7,
+      "est_eps": 8.0,
+      "content": "收盤66.70元，10月營收年增25.2%，外資近5日買超12張，萬寶估2026年EPS 8.0元。",
+      "key_points": [
+        "10月營收年增25.2%、2026估EPS 8.0元"
+      ]
+    }
+  ]
+}

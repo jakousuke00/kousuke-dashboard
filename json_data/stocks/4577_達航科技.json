@@ -1,0 +1,40 @@
+{
+  "stock_id": "4577",
+  "stock_name": "達航科技",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "PCB載板雷射加工機與鑽孔"
+    ],
+    "theme_tags": [
+      "載板客戶占比目標76%",
+      "2027年產能倍增"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "PCB設備"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "close_price": 92.7,
+    "est_eps_2026": 0.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "明年載板客戶占比目標76%，在手訂單延續至2029年、2027產能倍增",
+      "close_price": 92.7,
+      "est_eps": 0.5,
+      "content": "法說指出明年載板客戶營收占比目標達76%，在手訂單延續至2028~2029年。規劃2027年擴產使產能倍數成長（機械鑽孔月產目標50台、雷射鑽孔10台）。11/19跌停收92.7元(-10.00%)，萬寶估2026年EPS 0.5元。",
+      "key_points": [
+        "明年載板客戶占比目標76%",
+        "2027年產能倍增"
+      ]
+    }
+  ]
+}

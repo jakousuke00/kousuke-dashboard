@@ -1,0 +1,40 @@
+{
+  "stock_id": "2393",
+  "stock_name": "億光",
+  "industry_profile": {
+    "main_industry": "LED相關",
+    "sub_industries": [
+      "LED封裝",
+      "光耦合器",
+      "AI光通訊"
+    ],
+    "theme_tags": [
+      "切入AI光通訊年底小量出貨",
+      "光耦合器訂單排到明年中"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "LED/光通訊"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "est_eps_2026": 5.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "切入AI光通訊COC/COS雷射封裝年底小量出貨，光耦合器排到明年中",
+      "est_eps": 5.2,
+      "content": "與國外合資公司合作切入COC及COS雷射封裝製程，預計年底小量出貨、明年逐步放量，目標明年底至2028年光通訊占比達雙位數；高階光耦合器產能近滿載、訂單看到明年中。前十月營收年增9.35%，萬寶估2026年EPS 5.2元。",
+      "key_points": [
+        "切入AI光通訊年底小量出貨",
+        "高階光耦合器訂單排到明年中"
+      ]
+    }
+  ]
+}

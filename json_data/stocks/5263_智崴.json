@@ -4,19 +4,40 @@
   "industry_profile": {
     "main_industry": "汽車與車用零組件",
     "sub_industries": [
-      "食品成衣、內需與金融產險"
+      "食品成衣、內需與金融產險",
+      "體感模擬遊樂設備"
     ],
     "theme_tags": [
       "體感設備",
       "Flyover併表",
-      "轉虧為盈"
+      "轉虧為盈",
+      "10月營收年增105.6%"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶產業報告-文化創意類股",
+        "category_mentioned": "體感娛樂"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-11"
+    "as_of_date": "2026-11-19",
+    "close_price": 81.2,
+    "est_eps_2026": 6.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶產業報告-1119(萬寶晚報贈品).pdf",
+      "title": "10月營收年增105.6%、累計年增88.4%，近5日跌10.28%籌碼波動",
+      "close_price": 81.2,
+      "est_eps": 6.0,
+      "content": "收盤81.20元，11/19下跌8.9%、近5日跌10.28%。10月營收年增105.6%、累計年增88.4%，外資近5日轉買超175張，萬寶估2026年EPS 6.0元。",
+      "key_points": [
+        "10月營收年增105.6%、累計年增88.4%"
+      ]
+    },
     {
       "date": "2026-11-11",
       "source": "今晚爆個股",

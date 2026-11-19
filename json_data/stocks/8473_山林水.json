@@ -1,0 +1,36 @@
+{
+  "stock_id": "8473",
+  "stock_name": "山林水",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "水資源與廢水處理"
+    ],
+    "theme_tags": [
+      "2026估EPS上調至4元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "水資源環保"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "est_eps_2026": 4.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至4元",
+      "est_eps": 4.0,
+      "content": "萬寶投顧研究部11/19將2026年預估EPS上調至4元(↑)。",
+      "key_points": [
+        "2026年預估EPS上調至4元"
+      ]
+    }
+  ]
+}

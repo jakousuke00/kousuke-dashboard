@@ -24,9 +24,15 @@
       "CPO設備螺桿",
       "處分廠房利益1.1億",
       "訂單看到明年Q2",
-      "機器人題材"
+      "機器人題材",
+      "2026估EPS上調至1.8元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "機械/機器人"
+      },
       {
         "date": "2026-10-30",
         "source": "萬寶晚報-10_30",
@@ -55,12 +61,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-10-30",
+    "as_of_date": "2026-11-19",
     "close_price": 57.0,
-    "est_eps_2026": 1.0,
+    "est_eps_2026": 1.8,
     "est_pe": 57.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至1.8元",
+      "est_eps": 1.8,
+      "content": "萬寶投顧研究部11/19將2026年預估EPS上調至1.8元(↑)。",
+      "key_points": [
+        "2026年預估EPS上調至1.8元"
+      ]
+    },
     {
       "date": "2026-10-30",
       "source_file": "萬寶晚報-10_30.pdf",

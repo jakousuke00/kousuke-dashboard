@@ -19,9 +19,16 @@
       "Q4運動服比重升",
       "萬寶估EPS 16.4元",
       "成衣",
-      "營收創高"
+      "營收創高",
+      "10大抗跌股",
+      "Q3毛利率24.9%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-10大抗跌股",
+        "category_mentioned": "成衣"
+      },
       {
         "date": "2026-11-06",
         "source": "reports/11月份/萬寶產業報告-1106(萬寶晚報贈品).pdf",
@@ -40,12 +47,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-11",
-    "close_price": 213.0,
+    "as_of_date": "2026-11-19",
+    "close_price": 224.0,
     "est_eps_2026": 16.4,
     "est_pe": 13.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "Q3毛利率24.9%優於預期，入列10大抗跌股",
+      "close_price": 224.0,
+      "est_eps": 16.4,
+      "content": "Q3毛利率24.9%優於預期，前三季EPS 11.62元、累計營收年增1%，11/19收224元入列防禦性抗跌股。萬寶估2026年EPS 16.4元。",
+      "key_points": [
+        "前三季EPS 11.62元、2026估16.4元"
+      ]
+    },
     {
       "date": "2026-11-11",
       "source": "頭版專欄",

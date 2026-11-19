@@ -1,0 +1,38 @@
+{
+  "stock_id": "4933",
+  "stock_name": "友輝",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "光學膜",
+      "被動元件壓敏電阻",
+      "智慧聲學"
+    ],
+    "theme_tags": [
+      "非LCD業務明年貢獻1~2億"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "光電/被動元件"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "est_eps_2026": 3.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "前三季EPS 3.05元，被動元件與智慧聲學明年貢獻5%~7%營收",
+      "est_eps": 3.3,
+      "content": "前三季營收19.19億元(年減16.5%)、EPS 3.05元。壓敏電阻今年底完成認證明年中量產，智慧聲學音模組明年量產，非LCD業務明年估貢獻1億至2億元營收(占比5%~7%)。萬寶估2026年EPS 3.3元。",
+      "key_points": [
+        "壓敏電阻與智慧聲學明年貢獻5%~7%營收"
+      ]
+    }
+  ]
+}

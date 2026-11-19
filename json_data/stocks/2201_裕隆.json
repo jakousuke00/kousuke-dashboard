@@ -5,14 +5,23 @@
     "main_industry": "汽車與車用零組件",
     "sub_industries": [
       "整車製造與代工",
-      "儲能與動力電池"
+      "儲能與動力電池",
+      "整車製造",
+      "儲能與商場租金"
     ],
     "theme_tags": [
       "Q3營業利益年增15%",
       "擴大工商儲能與電池",
-      "推進Cavira量產"
+      "推進Cavira量產",
+      "工商儲能今年估20MW",
+      "新店商場租金5億"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "汽車"
+      },
       {
         "date": "2026-11-18",
         "source": "萬寶晚報-今晚爆個股",
@@ -21,11 +30,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-18",
-    "est_eps_2026": 1,
-    "est_pe": 26
+    "as_of_date": "2026-11-19",
+    "est_eps_2026": 1.0,
+    "est_pe": 26,
+    "close_price": 25.05
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "工商儲能今年估銷售20MW，新店商場租金收入約5億元",
+      "close_price": 25.05,
+      "est_eps": 1.0,
+      "content": "法說揭露今年工商儲能銷售規模估達20MW，鴻華先進Cavira持續量產交付；新店商場今年租金收入估約5億元，全年營業額目標59億元(年增8%)。11/19收25.05元，萬寶估2026年EPS 1元。",
+      "key_points": [
+        "工商儲能估20MW、新店商場年租金約5億元"
+      ]
+    },
     {
       "date": "2026-11-18",
       "source_file": "reports/11月份/萬寶晚報-11_18.pdf",

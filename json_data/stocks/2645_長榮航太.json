@@ -1,0 +1,36 @@
+{
+  "stock_id": "2645",
+  "stock_name": "長榮航太",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "航太維修與零組件製造"
+    ],
+    "theme_tags": [
+      "2026估EPS上調至9.6元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "航太"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "est_eps_2026": 9.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至9.6元",
+      "est_eps": 9.6,
+      "content": "萬寶投顧研究部11/19將2026年預估EPS上調至9.6元(↑)。",
+      "key_points": [
+        "2026年預估EPS上調至9.6元"
+      ]
+    }
+  ]
+}

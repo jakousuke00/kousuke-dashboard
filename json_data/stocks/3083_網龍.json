@@ -1,0 +1,36 @@
+{
+  "stock_id": "3083",
+  "stock_name": "網龍",
+  "industry_profile": {
+    "main_industry": "文創遊戲",
+    "sub_industries": [
+      "線上與手遊開發"
+    ],
+    "theme_tags": [
+      "10月營收創28個月新高"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "遊戲"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "est_eps_2026": 0.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "經典IP重製帶動10月營收創28個月新高，全年獲利有望優於去年",
+      "est_eps": 0.6,
+      "content": "下半年推出「三國鼎立Online Remastered」及「女神：守護之約」，帶動10月營收0.45億元創28個月新高，前十月營收3.35億元(年增3.19%)。萬寶估2026年EPS 0.6元。",
+      "key_points": [
+        "10月營收創28個月新高"
+      ]
+    }
+  ]
+}

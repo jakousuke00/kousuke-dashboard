@@ -1,0 +1,38 @@
+{
+  "stock_id": "3217",
+  "stock_name": "優群",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "高頻高速連接器",
+      "M.2/SO-DIMM"
+    ],
+    "theme_tags": [
+      "網通與伺服器接單成長"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "連接器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "est_eps_2026": 11.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "前三季EPS 8.04元，明年伺服器/網通占比翻倍重啟成長",
+      "est_eps": 11.0,
+      "content": "前三季營收28.7億元(年減7.72%)、EPS 8.04元。明年伺服器營收比重估由14%升至20%、網通由5%翻倍至10%，筆電降至50%，越南廠明年提升稼動率重啟成長。萬寶估2026年EPS 11元。",
+      "key_points": [
+        "前三季EPS 8.04元",
+        "明年伺服器與網通比重擴張"
+      ]
+    }
+  ]
+}

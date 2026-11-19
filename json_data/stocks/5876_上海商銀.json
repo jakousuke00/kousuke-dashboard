@@ -1,0 +1,38 @@
+{
+  "stock_id": "5876",
+  "stock_name": "上海商銀",
+  "industry_profile": {
+    "main_industry": "金融保險產業",
+    "sub_industries": [
+      "商業銀行"
+    ],
+    "theme_tags": [
+      "10大抗跌股"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-10大抗跌股",
+        "category_mentioned": "金控銀行"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "close_price": 53.4,
+    "est_eps_2026": 4.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "前三季EPS 3.11元，入列10大抗跌股",
+      "close_price": 53.4,
+      "est_eps": 4.0,
+      "content": "前三季EPS 3.11元、累計營收年增2%，11/19收53.4元入列防禦性抗跌股。萬寶估2026年EPS 4元。",
+      "key_points": [
+        "前三季EPS 3.11元、2026估EPS 4元"
+      ]
+    }
+  ]
+}

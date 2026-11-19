@@ -1,0 +1,41 @@
+{
+  "stock_id": "3032",
+  "stock_name": "偉訓",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "AI機櫃與伺服器機殼",
+      "電源供應器"
+    ],
+    "theme_tags": [
+      "AI機櫃Q4放量",
+      "訂單能見度至2027Q2"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "AI伺服器機殼"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "close_price": 56.1,
+    "est_eps_2026": 4.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "打入五大美系CSP供應鏈，AI機櫃Q4放量、能見度至2027年Q2",
+      "close_price": 56.1,
+      "est_eps": 4.0,
+      "content": "法說指出已打入全球前五大美系CSP供應鏈，AI機櫃Q4放量、訂單能見度至2027Q2；1.6T交換器機箱明年Q1交貨。前十月營收100.05億元創同期新高，前三季EPS 2.88元。萬寶估2026年EPS 4元。",
+      "key_points": [
+        "AI機櫃Q4放量、1.6T機箱明年Q1交貨",
+        "前十月營收創同期新高"
+      ]
+    }
+  ]
+}

@@ -4,17 +4,40 @@
   "industry_profile": {
     "main_industry": "文創/遊戲",
     "sub_industries": [
-      "數位點數與遊戲通路"
+      "數位點數與遊戲通路",
+      "遊戲點數通路與金融科技"
     ],
     "theme_tags": [
-      "Q4消費旺季"
+      "Q4消費旺季",
+      "前三季EPS 7.22元逼近去年全年",
+      "MyCard通路龍頭"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股 / 文化創意產業報告",
+        "category_mentioned": "遊戲"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-12"
+    "as_of_date": "2026-11-19",
+    "close_price": 95.2,
+    "est_eps_2026": 9.6
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "前三季EPS 7.22元逼近去年全年7.93元，AI串聯遊戲與金融科技",
+      "close_price": 95.2,
+      "est_eps": 9.6,
+      "content": "前三季營收53.02億元(年增11%)，稅後純益10.72億元(年增22%)，EPS 7.22元已逼近去年全年7.93元。遊戲點數MyCard與4,300多款遊戲界接並拓展東協及歐美，藍新科技年交易規模約千億元規劃登錄興櫃。萬寶估2026年EPS 9.6元。",
+      "key_points": [
+        "前三季EPS 7.22元年增22%",
+        "MyCard與藍新科技雙引擎，2026估EPS 9.6元"
+      ]
+    },
     {
       "date": "2026-11-12",
       "content": "估EPS 9元。Q3 EPS 2.51元，前三季EPS 7.22元已超越去年獲利9成。Q4年底消費旺季，遊戲、數位行銷及金融科技三大事業持續挹注。",

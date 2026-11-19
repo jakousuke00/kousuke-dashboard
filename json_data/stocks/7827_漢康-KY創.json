@@ -6,15 +6,22 @@
     "sub_industries": [
       "抗癌生物新藥研發",
       "新藥研發",
-      "多特異性抗體"
+      "多特異性抗體",
+      "抗癌新藥研發"
     ],
     "theme_tags": [
       "三特異性融合蛋白HCB303獲FDA一期臨床核准",
       "三抗HCB303核准",
       "台美一期臨床",
-      "萬寶估EPS -8元"
+      "萬寶估EPS -8元",
+      "HCB301遭FDA全面臨床暫停"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "生技新藥"
+      },
       {
         "date": "2026-11-02",
         "source": "萬寶晚報-11_02",
@@ -28,11 +35,21 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-02",
+    "as_of_date": "2026-11-19",
     "est_eps_2026": -8.0,
     "close_price": 120.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "旗下抗癌新藥HCB301遭美國FDA實施全面臨床暫停",
+      "est_eps": -8.0,
+      "content": "旗下抗癌新藥HCB301遭美國FDA實施全面臨床暫停，公司正整合臨床與轉譯研究結果依FDA通知準備分析資料與因應措施；公司稱僅適用HCB301，對財務或業務無重大影響。萬寶估2026年EPS -8元。",
+      "key_points": [
+        "HCB301遭FDA全面臨床暫停"
+      ]
+    },
     {
       "date": "2026-11-02",
       "source_file": "萬寶晚報-11_02.pdf",

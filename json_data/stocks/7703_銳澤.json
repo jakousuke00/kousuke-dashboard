@@ -1,0 +1,37 @@
+{
+  "stock_id": "7703",
+  "stock_name": "銳澤",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體氣體供應系統與特氣"
+    ],
+    "theme_tags": [
+      "攜手德商MESSER成立合資公司"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "半導體特氣"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-19",
+    "est_eps_2026": 8.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "攜手德商MESSER成立合資公司，搶攻半導體電子級特殊氣體",
+      "est_eps": 8.0,
+      "content": "與德商MESSER簽署合資協議成立「梅塞爾銳澤電子材料」，由系統建置升級為電子級特氣營運與整合服務，布局台灣及海外半導體特氣市場。萬寶估2026年EPS 8元。",
+      "key_points": [
+        "攜手德商MESSER合資搶攻半導體特氣",
+        "2026估EPS 8元"
+      ]
+    }
+  ]
+}

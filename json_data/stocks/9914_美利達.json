@@ -6,16 +6,23 @@
     "sub_industries": [
       "自行車",
       "汽機車及自行車全部",
-      "自行車整車"
+      "自行車整車",
+      "自行車製造"
     ],
     "theme_tags": [
       "自行車品牌與代工",
       "外資買超",
       "奢華消費",
       "自行車",
-      "外資買超冠"
+      "外資買超冠",
+      "2026估EPS下調至3元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-19",
+        "source": "萬寶晚報-精選圖表",
+        "category_mentioned": "自行車"
+      },
       {
         "date": "2026-11-07",
         "source": "reports/11月份/萬寶產業報告-1107(萬寶晚報贈品).pdf",
@@ -29,12 +36,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-07",
+    "as_of_date": "2026-11-19",
     "close_price": 63.4,
-    "est_eps_2026": 5.0,
+    "est_eps_2026": 3.0,
     "est_pe": 12.7
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-19",
+      "source_file": "reports/11月份/萬寶晚報-11_19.pdf",
+      "title": "萬寶投顧下調2026年預估EPS至3元",
+      "est_eps": 3.0,
+      "content": "萬寶投顧研究部11/19將2026年預估EPS微調至3元(↓)。",
+      "key_points": [
+        "2026年預估EPS調整至3元"
+      ]
+    },
     {
       "date": "2026-11-07",
       "source_file": "reports/11月份/萬寶產業報告-1107(萬寶晚報贈品).pdf",
