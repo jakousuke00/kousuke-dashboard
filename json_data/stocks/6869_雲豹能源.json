@@ -7,16 +7,23 @@
       "電源BBU與綠能電力",
       "再生能源售電",
       "日本與澳洲儲能工程",
-      "AIDC/SOFC"
+      "AIDC/SOFC",
+      "再生能源與儲能"
     ],
     "theme_tags": [
       "綠電售電",
       "日本儲能",
       "前三季營業利益年增79%",
       "AI資料中心綠電需求",
-      "天能綠電/台普威"
+      "天能綠電/台普威",
+      "萬寶下修2026估EPS至-3元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-EPS預估調整",
+        "category_mentioned": "綠能"
+      },
       {
         "date": "2026-11-19",
         "source": "萬寶晚報-阿樂情報站",
@@ -25,9 +32,20 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-19"
+    "as_of_date": "2026-11-20",
+    "est_eps_2026": -3.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "萬寶下修2026年預估EPS至-3元",
+      "est_eps": -3.0,
+      "content": "萬寶晚報11/20精選圖表將雲豹能源2026年預估EPS下修至-3元(↓)。",
+      "key_points": [
+        "2026估EPS下修至-3元(↓)"
+      ]
+    },
     {
       "date": "2026-11-19",
       "source_file": "reports/11月份/萬寶晚報-11_19.pdf",

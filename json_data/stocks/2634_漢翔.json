@@ -1,0 +1,36 @@
+{
+  "stock_id": "2634",
+  "stock_name": "漢翔",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "航太與軍工"
+    ],
+    "theme_tags": [
+      "萬寶調升2026估EPS至2.6元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-EPS預估調整",
+        "category_mentioned": "航太軍工"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20",
+    "est_eps_2026": 2.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "萬寶調升2026年預估EPS至2.6元",
+      "est_eps": 2.6,
+      "content": "萬寶晚報11/20精選圖表將漢翔2026年預估EPS調升至2.6元(↑)。",
+      "key_points": [
+        "2026估EPS調升至2.6元(↑)"
+      ]
+    }
+  ]
+}

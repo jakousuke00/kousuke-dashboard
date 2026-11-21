@@ -4,18 +4,41 @@
   "industry_profile": {
     "main_industry": "半導體與設備檢測",
     "sub_industries": [
-      "先進封裝設備與材料"
+      "先進封裝設備與材料",
+      "半導體設備與製程服務"
     ],
     "theme_tags": [
       "自動化設備",
-      "32檔電子強股"
+      "32檔電子強股",
+      "11/20由跌停拉到漲停1295元",
+      "累計營收年增203%千金股最高"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-頭版 / 千金股跌幅排行",
+        "category_mentioned": "半導體設備"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-11"
+    "as_of_date": "2026-11-20",
+    "close_price": 1295.0,
+    "est_eps_2026": 16.5
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "11/20由跌停強拉漲停收1,295元，累計營收年增203%、2026估EPS 16.5元",
+      "close_price": 1295.0,
+      "est_eps": 16.5,
+      "content": "11/20晶圓檢測一片跌停中，創新服務逆勢由跌停拉到漲停收1,295元(自今年高點2,510元回檔48%)；前三季EPS 8.7元、累計營收年增203%，萬寶估2026年EPS 16.5元。",
+      "key_points": [
+        "11/20由跌停拉至漲停1,295元",
+        "累計營收年增203%、2026估EPS 16.5元"
+      ]
+    },
     {
       "date": "2026-11-11",
       "source": "精選電子股表",

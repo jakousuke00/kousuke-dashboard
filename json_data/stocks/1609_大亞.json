@@ -6,20 +6,40 @@
     "sub_industries": [
       "特高壓電纜",
       "綠能儲能系統",
-      "漆包線"
+      "漆包線",
+      "電線電纜",
+      "太陽能光電與儲能"
     ],
     "theme_tags": [
       "前三季EPS 2.61元",
       "儲能減損一次性提列",
       "強韌電網標案",
-      "低本益比"
+      "低本益比",
+      "七股35MW漁電共生年底動工",
+      "175MW儲能加入台電平台"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-今晚產業新聞",
+        "category_mentioned": "線纜/綠能"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-04"
+    "as_of_date": "2026-11-20"
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "加碼光電儲能，前三季EPS 2.61元、七股35MW案場年底動工",
+      "content": "轉投資臺南七股35MW漁電共生案場預計年底動工、明年Q4掛表，學甲案場取得能源署光儲標案，台中龍井兩期共175MW儲能系統已加入台電平台；Q3認列台汽電等評價損失5億多元，Q3 EPS 0.37元，前三季EPS 2.61元。",
+      "key_points": [
+        "175MW儲能加入台電平台、七股35MW年底動工",
+        "前三季EPS 2.61元"
+      ]
+    },
     {
       "date": "2026-11-04",
       "source_file": "萬寶晚報-11_04.pdf",

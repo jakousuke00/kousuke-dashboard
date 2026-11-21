@@ -16,7 +16,8 @@
       "企業級SSD",
       "aiDAPTIV+解決方案",
       "記憶體與模組",
-      "NAND Flash控制晶片與儲存"
+      "NAND Flash控制晶片與儲存",
+      "NAND Flash控制IC與模組"
     ],
     "theme_tags": [
       "NAND Flash缺貨漲價",
@@ -49,9 +50,16 @@
       "外資降評",
       "Q3單季EPS 138.06元",
       "逆勢上漲千金股",
-      "上櫃Q3 EPS年增第6"
+      "上櫃Q3 EPS年增第6",
+      "拿下三家原廠六項主控晶片案",
+      "估EPS 450元本益比3倍"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-今晚爆個股 / 千金股跌幅排行",
+        "category_mentioned": "IC設計/記憶體"
+      },
       {
         "date": "2026-11-17",
         "source": "萬寶晚報-精選圖表與頭條",
@@ -90,14 +98,26 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-17",
-    "close_price": 1675.0,
+    "as_of_date": "2026-11-20",
+    "close_price": 1320.0,
     "est_eps_2026": 450.0,
     "est_pe": 3.7,
     "ia_rating": "A+",
     "ia_score": 6.4
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "拿下三家原廠六項SSD主控晶片案、明年增聘250名AI人才，萬寶估2026 EPS 450元",
+      "close_price": 1320.0,
+      "est_eps": 450.0,
+      "content": "今年拿下三家NAND原廠釋出的六項SSD主控晶片開發案，明年計畫增聘AI研發人員250人。執行長潘健成表示消費買氣疲弱壓抑現貨價，但合約價仍穩、AI需求強勁，預期2027年記憶體仍吃緊。前三季EPS 325.49元、累計營收年增298%；11/20收1,320元(-9.28%，自高點2,880元回檔54%)，萬寶估2026年EPS 450元(本益比3倍)。",
+      "key_points": [
+        "拿下三家原廠六項SSD主控案",
+        "前三季EPS 325.49元、2026估450元(本益比3倍)"
+      ]
+    },
     {
       "date": "2026-11-17",
       "source_file": "reports/11月份/萬寶晚報-11_17.pdf",

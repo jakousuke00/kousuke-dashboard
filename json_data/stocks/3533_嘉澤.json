@@ -1,0 +1,38 @@
+{
+  "stock_id": "3533",
+  "stock_name": "嘉澤",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "CPU Socket與高速連接器"
+    ],
+    "theme_tags": [
+      "千金股高點以來回檔-51%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-千金股跌幅排行",
+        "category_mentioned": "連接器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20",
+    "close_price": 1440.0,
+    "est_eps_2026": 74.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "11/20收1,440元(高點以來回檔51%)，前三季EPS 56.11元、2026估74元",
+      "close_price": 1440.0,
+      "est_eps": 74.0,
+      "content": "今年高點2,955元，11/20收1,440元(跌幅51%)；前三季EPS 56.11元、累計營收年增17%，萬寶估2026年EPS 74元。",
+      "key_points": [
+        "高點以來-51%、2026估EPS 74元"
+      ]
+    }
+  ]
+}

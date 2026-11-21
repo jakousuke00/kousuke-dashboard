@@ -11,9 +11,15 @@
     "theme_tags": [
       "前三季EPS 66.59元創高",
       "機器人明年銷量倍增",
-      "千金股今年高點以來回檔-61%"
+      "千金股今年高點以來回檔-61%",
+      "千金股高點以來回檔-64%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-千金股跌幅排行",
+        "category_mentioned": "控制器"
+      },
       {
         "date": "2026-11-19",
         "source": "萬寶晚報-千金股跌幅排行",
@@ -22,11 +28,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-19",
-    "close_price": 1210,
+    "as_of_date": "2026-11-20",
+    "close_price": 1090.0,
     "est_eps_2026": 88.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "11/20收1,090元(高點以來回檔64%)，前三季EPS 66.59元、2026估88元",
+      "close_price": 1090.0,
+      "est_eps": 88.0,
+      "content": "今年高點3,070元，11/20收1,090元(跌幅64%)；前三季EPS 66.59元、累計營收年增107%，萬寶估2026年EPS 88元。",
+      "key_points": [
+        "高點以來-64%、2026估EPS 88元"
+      ]
+    },
     {
       "date": "2026-11-19",
       "source_file": "reports/11月份/萬寶晚報-11_19.pdf",

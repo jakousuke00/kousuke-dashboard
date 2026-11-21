@@ -33,9 +33,15 @@
       "擴產",
       "Q3單季EPS 122.79元",
       "前三季EPS 233.75元",
-      "2026估EPS 350元"
+      "2026估EPS 350元",
+      "千金股高點以來回檔-65%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-千金股跌幅排行",
+        "category_mentioned": "伺服器導軌"
+      },
       {
         "date": "2026-11-17",
         "source": "萬寶晚報-精選圖表與HOT NEWS",
@@ -59,12 +65,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-17",
+    "as_of_date": "2026-11-20",
     "est_eps_2026": 350.0,
     "est_pe": 23.4,
-    "close_price": 6565
+    "close_price": 5350.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "11/20收5,350元(高點以來回檔65%)，前三季EPS 233.75元、2026估350元",
+      "close_price": 5350.0,
+      "est_eps": 350.0,
+      "content": "今年高點15,085元，11/20收5,350元(跌幅65%)；前三季EPS 233.75元、累計營收年增170%，萬寶估2026年EPS 350元。",
+      "key_points": [
+        "高點以來-65%、2026估EPS 350元"
+      ]
+    },
     {
       "date": "2026-11-17",
       "source_file": "reports/11月份/萬寶晚報-11_17.pdf",

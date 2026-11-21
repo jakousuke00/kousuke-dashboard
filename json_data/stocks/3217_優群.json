@@ -8,9 +8,15 @@
       "M.2/SO-DIMM"
     ],
     "theme_tags": [
-      "網通與伺服器接單成長"
+      "網通與伺服器接單成長",
+      "萬寶下修2026估EPS至10元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-EPS預估調整",
+        "category_mentioned": "連接器"
+      },
       {
         "date": "2026-11-19",
         "source": "萬寶晚報-今晚爆個股",
@@ -19,10 +25,20 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-19",
-    "est_eps_2026": 11.0
+    "as_of_date": "2026-11-20",
+    "est_eps_2026": 10.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "萬寶下修2026年預估EPS至10元",
+      "est_eps": 10.0,
+      "content": "萬寶晚報11/20精選圖表將優群2026年預估EPS下修至10元(↓)。",
+      "key_points": [
+        "2026估EPS下修至10元(↓)"
+      ]
+    },
     {
       "date": "2026-11-19",
       "source_file": "reports/11月份/萬寶晚報-11_19.pdf",

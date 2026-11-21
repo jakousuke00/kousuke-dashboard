@@ -4,14 +4,21 @@
   "industry_profile": {
     "main_industry": "傳產製造、營建航運與利基消費",
     "sub_industries": [
-      "針織機能布料"
+      "針織機能布料",
+      "成衣與機能布料"
     ],
     "theme_tags": [
       "新獲ASICS訂單明年出貨",
       "明年上半年產能已滿載",
-      "越南廠擴產"
+      "越南廠擴產",
+      "萬寶下修2026估EPS至9.6元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-EPS預估調整",
+        "category_mentioned": "紡織成衣"
+      },
       {
         "date": "2026-11-18",
         "source": "萬寶晚報-今晚爆個股",
@@ -20,11 +27,21 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-18",
-    "est_eps_2026": 10.6,
+    "as_of_date": "2026-11-20",
+    "est_eps_2026": 9.6,
     "est_pe": 9
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "萬寶下修2026年預估EPS至9.6元",
+      "est_eps": 9.6,
+      "content": "萬寶晚報11/20精選圖表將冠星-KY 2026年預估EPS下修至9.6元(↓)。",
+      "key_points": [
+        "2026估EPS下修至9.6元(↓)"
+      ]
+    },
     {
       "date": "2026-11-18",
       "source_file": "reports/11月份/萬寶晚報-11_18.pdf",

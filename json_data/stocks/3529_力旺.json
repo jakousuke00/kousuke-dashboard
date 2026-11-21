@@ -27,9 +27,15 @@
       "ETF微幅調節",
       "矽智財龍頭",
       "ASIC漲停",
-      "後量子密碼PQC"
+      "後量子密碼PQC",
+      "千金股高點以來回檔-62%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-千金股跌幅排行",
+        "category_mentioned": "矽智財IP"
+      },
       {
         "date": "2026-11-10",
         "source": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
@@ -53,12 +59,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-13",
-    "close_price": 2215.0,
-    "est_eps_2026": 32.0,
+    "as_of_date": "2026-11-20",
+    "close_price": 1800.0,
+    "est_eps_2026": 34.0,
     "est_pe": 69.2
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "11/20收1,800元(高點以來回檔62%)，前三季EPS 24.3元、2026估34元",
+      "close_price": 1800.0,
+      "est_eps": 34.0,
+      "content": "今年高點4,785元，11/20收1,800元(跌幅62%)；前三季EPS 24.3元、累計營收年增21%，萬寶估2026年EPS 34元。",
+      "key_points": [
+        "高點以來-62%、2026估EPS 34元"
+      ]
+    },
     {
       "date": "2026-11-13",
       "content": "估EPS 32元。Q3 EPS 8.56元創新高，Security相關營收年增逾200%。先進製程與安全應用穩步量產帶動權利金成長，將整合PUF與PQC技術，鎖定邊緣運算與機器人應用。",

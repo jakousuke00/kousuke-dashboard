@@ -1,0 +1,38 @@
+{
+  "stock_id": "8131",
+  "stock_name": "福懋科",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "記憶體封測"
+    ],
+    "theme_tags": [
+      "經濟部通過111.9億投資案",
+      "斗六擴充DDR4封測產能"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "記憶體封測"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20",
+    "est_eps_2026": 4.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "經濟部通過111.9億元投資案，雲林斗六擴充DDR4及高階IC封測產能",
+      "est_eps": 4.4,
+      "content": "經濟部投資台灣事務所通過福懋科111.9億元投資案，於雲林斗六廠區擴充DDR4等主流產品封測產能並建置高階IC封測產線，受惠晶圓廠將產能優先配給HBM與DDR5導致DDR4結構性缺貨。萬寶估2026年EPS 4.4元(本益比9倍)。",
+      "key_points": [
+        "經濟部通過111.9億元擴廠案",
+        "受惠DDR4封測缺貨、2026估EPS 4.4元(本益比9倍)"
+      ]
+    }
+  ]
+}

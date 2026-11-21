@@ -1,0 +1,42 @@
+{
+  "stock_id": "2476",
+  "stock_name": "鉅祥",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "AI伺服器BBU機構件",
+      "高速連接器衝壓件"
+    ],
+    "theme_tags": [
+      "AI BBU營收占兩成",
+      "開發400V/800V高壓供電新品",
+      "上海廠明年Q3投產"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "BBU/機構件"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20",
+    "close_price": 78.8,
+    "est_eps_2026": 6.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "AI BBU營收占比達兩成、配合客戶開發400V/800V新品，前三季EPS 4.78元超越去年全年",
+      "close_price": 78.8,
+      "est_eps": 6.6,
+      "content": "法說指出AI伺服器BBU營收比重已占兩成，正配合單一大客戶開發400V、800V高壓供電新品；上海廠最晚明年Q3投產。前三季營收及獲利皆超前去年全年，毛利率32%、營益率20.9%，稅後純益10.47億元(年增82.2%)、EPS 4.78元。11/20跌停收78.8元(-9.94%)，萬寶估2026年EPS 6.6元(本益比12倍)。",
+      "key_points": [
+        "AI BBU占兩成、開發400V/800V高壓新品",
+        "前三季EPS 4.78元年增82%、2026估6.6元"
+      ]
+    }
+  ]
+}

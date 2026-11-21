@@ -1,0 +1,36 @@
+{
+  "stock_id": "1527",
+  "stock_name": "鑽全",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "氣動釘槍與電動手工具"
+    ],
+    "theme_tags": [
+      "私募2.7萬張每股25.34元",
+      "引進亞崴、德昌兩策略夥伴"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-包打聽快報",
+        "category_mentioned": "工具機/手工具"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "股東臨時會通過2.7萬張私募(每股25.34元)，引進亞崴、德昌策略結盟",
+      "content": "通過辦理2.7萬張私募現增(每股25.34元)，亞崴出資約3.8億元認購1.5萬張、德昌出資約3.04億元認購1.2萬張，拓展內外銷通路。前三季EPS 1.04元、10月營收2.11億元(年增5.3%)。",
+      "key_points": [
+        "私募引進亞崴、德昌(每股25.34元)",
+        "前三季EPS 1.04元"
+      ]
+    }
+  ]
+}

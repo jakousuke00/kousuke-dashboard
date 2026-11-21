@@ -1,0 +1,39 @@
+{
+  "stock_id": "3687",
+  "stock_name": "歐買尬",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "第三方支付",
+      "AI影音生成平台"
+    ],
+    "theme_tags": [
+      "自研OMG AI Video平台上線",
+      "前10月營收年增11.77%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "數位服務/AI應用"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20",
+    "est_eps_2026": 1.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "自研「OMG AI Video」平台上線，前10月營收年增11.77%、前三季EPS 1.11元",
+      "est_eps": 1.6,
+      "content": "宣布自研AI影音生成平台「OMG AI Video」正式上線，整合Seedream及Seedance 2.5等模型，支援台幣結帳與發票，AI業務從代理延伸至自主產品開發。前10月營收16.58億元(年增11.77%)、前三季EPS 1.11元。萬寶估2026年EPS 1.6元(本益比25倍)。",
+      "key_points": [
+        "OMG AI Video平台上線、前10月營收年增11.77%",
+        "2026估EPS 1.6元"
+      ]
+    }
+  ]
+}

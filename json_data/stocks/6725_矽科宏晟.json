@@ -1,0 +1,40 @@
+{
+  "stock_id": "6725",
+  "stock_name": "矽科宏晟",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體化學品供應廠務工程"
+    ],
+    "theme_tags": [
+      "11/20盤中低點拉至漲停155元",
+      "10月業績月增114%年增72%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-頭版主筆室",
+        "category_mentioned": "半導體廠務"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20",
+    "close_price": 155.0,
+    "est_eps_2026": 13.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "11/20破底後強鎖漲停155元，前三季EPS 7.98元、今年估13元",
+      "close_price": 155.0,
+      "est_eps": 13.0,
+      "content": "今年4月高點424元，前三季EPS 7.98元，10月業績暴增月增114%、年增72.2%，累計年增11.83%，預估今年EPS 13元。11/20從盤中最低129.5元強拉至155元漲停板，成為輕薄短小破底煞車強彈指標。",
+      "key_points": [
+        "11/20從129.5元強拉漲停155元",
+        "前三季EPS 7.98元、今年估13元"
+      ]
+    }
+  ]
+}

@@ -16,7 +16,8 @@
       "車用智慧座艙",
       "ASIC與邊緣AI",
       "晶圓代工與ASIC",
-      "IC設計/ASIC"
+      "IC設計/ASIC",
+      "手機SoC與AI ASIC"
     ],
     "theme_tags": [
       "Google TPU v9",
@@ -44,9 +45,15 @@
       "強彈前20名",
       "ASIC三雄",
       "漲停",
-      "Q3單季EPS前十"
+      "Q3單季EPS前十",
+      "千金股高點以來回檔-39%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-千金股跌幅排行",
+        "category_mentioned": "IC設計"
+      },
       {
         "date": "2026-11-10",
         "source": "reports/11月份/萬寶產業報告-1110(萬寶晚報贈品).pdf",
@@ -70,12 +77,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-13",
-    "close_price": 3830.0,
+    "as_of_date": "2026-11-20",
+    "close_price": 3350.0,
     "est_eps_2026": 72.0,
     "est_pe": 53.2
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "11/20收3,350元(高點以來回檔39%)，前三季EPS 47.94元、2026估72元",
+      "close_price": 3350.0,
+      "est_eps": 72.0,
+      "content": "今年高點5,480元，11/20收3,350元(跌幅39%)；前三季EPS 47.94元、累計營收年增5%，萬寶估2026年EPS 72元。",
+      "key_points": [
+        "高點以來-39%、2026估EPS 72元"
+      ]
+    },
     {
       "date": "2026-11-13",
       "content": "台灣ASIC三雄之一，11/13盤中拉漲停並獲三大法人買超107.53億元。Q3單季EPS 17.5元年增10.5%、營收1,680.6億元年增18.3%、毛利率46.3%。",

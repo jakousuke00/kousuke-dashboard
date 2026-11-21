@@ -1,0 +1,39 @@
+{
+  "stock_id": "2436",
+  "stock_name": "偉詮電",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "伺服器散熱風扇馬達控制IC",
+      "USB PD晶片"
+    ],
+    "theme_tags": [
+      "前三季散熱風扇馬達IC年增68%",
+      "取得超微平台認證"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "IC設計"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20",
+    "est_eps_2026": 5.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "前三季散熱風扇馬達控制IC年增68%，前三季EPS 4.49元超越去年全年",
+      "est_eps": 5.0,
+      "content": "受惠AI資料中心建置，前三季散熱風扇馬達控制IC營收年增68%，已用於GPU/ASIC AI伺服器及通用伺服器。前三季營收34.53億元(年增30.6%)創同期新高、EPS 4.49元超越去年全年3.02元。11月取得IEC/UL 60730-1安全認證瞄準液冷商機，USB PD晶片取得超微平台認證。萬寶估2026年EPS 5元(本益比9倍)。",
+      "key_points": [
+        "前三季EPS 4.49元超越去年全年",
+        "散熱風扇IC年增68%、2026估EPS 5元(本益比9倍)"
+      ]
+    }
+  ]
+}

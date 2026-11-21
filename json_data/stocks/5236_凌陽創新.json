@@ -1,0 +1,38 @@
+{
+  "stock_id": "5236",
+  "stock_name": "凌陽創新",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "筆電影像處理晶片(ISP)"
+    ],
+    "theme_tags": [
+      "Q3毛利率達59%",
+      "明年下半年ASIC量產切入無人機"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "IC設計"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20",
+    "est_eps_2026": 10.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "筆電晶片ASP走揚、Q3毛利率達59%，今年營收拚創新高",
+      "est_eps": 10.0,
+      "content": "受惠中高階筆電鏡頭升級帶動ASP走揚，Q3毛利率達59%(年增2個百分點)，今年營收有望創新高。首代eUSB2v1晶片本季出貨、明年放量；非筆電營收占比升至22%，延伸至紅外線熱成像，明年下半年部署ASIC量產切入智慧安防及無人機。萬寶估2026年EPS 10元(本益比10倍)。",
+      "key_points": [
+        "Q3毛利率59%、今年營收拚新高",
+        "2026估EPS 10元(本益比10倍)"
+      ]
+    }
+  ]
+}

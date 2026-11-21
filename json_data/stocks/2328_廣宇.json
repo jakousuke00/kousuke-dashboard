@@ -4,14 +4,23 @@
   "industry_profile": {
     "main_industry": "3C消費通路",
     "sub_industries": [
-      "電子製造個股"
+      "電子製造個股",
+      "AI伺服器線束",
+      "光通訊MMC與EBO"
     ],
     "theme_tags": [
       "鴻海集團",
       "外資大買",
-      "營收高成長"
+      "營收高成長",
+      "光通訊MMC明年Q1貢獻",
+      "明年AI與光通訊占營收3~5成"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "連接線束/光通訊"
+      },
       {
         "date": "2026-10-24",
         "source": "萬寶產業報告-1024",
@@ -20,11 +29,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-10-24",
-    "close_price": 53.6,
-    "est_eps_2026": -0.1
+    "as_of_date": "2026-11-20",
+    "close_price": 33.15,
+    "est_eps_2026": 0.3
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "光通訊MMC明年首季貢獻營收，明年AI與光通訊估占營收30%~50%",
+      "close_price": 33.15,
+      "est_eps": 0.3,
+      "content": "Q3營收66.47億元(季增23.53%)、EPS 0.28元較前季轉虧為盈。10月AI伺服器出貨放量，光通訊新品MMC接單旺明年首季開始貢獻營收並提升獲利率，下一步布局EBO；AFM產品明年首季試產、下半年貢獻，明年AI與光通訊占營收30%~50%。11/20跌停收33.15元(-9.92%)，萬寶估2026年EPS 0.3元。",
+      "key_points": [
+        "Q3轉盈EPS 0.28元、光通訊MMC明年Q1貢獻",
+        "明年AI與光通訊占比估達3~5成"
+      ]
+    },
     {
       "date": "2026-10-24",
       "source_file": "萬寶產業報告-1024(萬寶晚報贈品).pdf",

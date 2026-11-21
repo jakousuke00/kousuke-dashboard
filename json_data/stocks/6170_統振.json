@@ -4,13 +4,21 @@
   "industry_profile": {
     "main_industry": "網通/電信與光通訊",
     "sub_industries": [
-      "中小型成分股"
+      "中小型成分股",
+      "外籍移工匯兌與電信預付卡"
     ],
     "theme_tags": [
       "移工匯兌金流",
-      "低本益比"
+      "低本益比",
+      "10月營收年增10.1%",
+      "預估本益比10.7倍"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶產業報告-電信服務",
+        "category_mentioned": "電信服務"
+      },
       {
         "date": "2026-10-19",
         "source": "萬寶產業報告-1019",
@@ -19,12 +27,24 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-10-19",
-    "close_price": 49.15,
+    "as_of_date": "2026-11-20",
+    "close_price": 48.0,
     "est_eps_2026": 4.5,
     "est_pe": 10.9
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶產業報告-1120(萬寶晚報贈品).pdf",
+      "title": "10月營收年增10.1%，近5日下跌6.98%、萬寶估2026年EPS 4.5元",
+      "close_price": 48.0,
+      "est_eps": 4.5,
+      "content": "11/20收48.00元，近5日下跌6.98%，10月營收年增10.1%，外資近5日賣超259張；萬寶估2026年EPS 4.5元(預估本益比10.7倍)。",
+      "key_points": [
+        "10月營收年增10.1%",
+        "2026估EPS 4.5元(本益比10.7倍)"
+      ]
+    },
     {
       "date": "2026-10-19",
       "source_file": "萬寶產業報告-1019(萬寶晚報贈品).pdf",

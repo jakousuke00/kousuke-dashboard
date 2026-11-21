@@ -5,13 +5,20 @@
     "main_industry": "其他電子",
     "sub_industries": [
       "不斷電系統(UPS)",
-      "800VDC電源"
+      "800VDC電源",
+      "UPS不斷電系統"
     ],
     "theme_tags": [
       "800VDC電源送樣",
-      "前三季EPS 12.58元"
+      "前三季EPS 12.58元",
+      "萬寶下修2026估EPS至27元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-EPS預估調整",
+        "category_mentioned": "電源/UPS"
+      },
       {
         "date": "2026-10-27",
         "source": "萬寶晚報-10_27",
@@ -20,11 +27,21 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-10-27",
-    "est_eps_2026": 30.0,
+    "as_of_date": "2026-11-20",
+    "est_eps_2026": 27.0,
     "est_pe": 32
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "萬寶下修2026年預估EPS至27元",
+      "est_eps": 27.0,
+      "content": "萬寶晚報11/20精選圖表將旭隼2026年預估EPS下修至27元(↓)。",
+      "key_points": [
+        "2026估EPS下修至27元(↓)"
+      ]
+    },
     {
       "date": "2026-10-27",
       "source_file": "萬寶晚報-10_27.pdf",

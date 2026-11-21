@@ -1,0 +1,38 @@
+{
+  "stock_id": "1904",
+  "stock_name": "正隆",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "工業用紙與紙器"
+    ],
+    "theme_tags": [
+      "越南平陽廠工紙產能破百萬噸",
+      "寧平紙器廠2027年投產"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "造紙"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20",
+    "est_eps_2026": 2.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "越南平陽廠工紙產能突破百萬噸，北越寧平第6座紙器廠2027年上半年投產",
+      "est_eps": 2.4,
+      "content": "越南平陽廠工業用紙產能突破百萬噸，北越寧平第6座紙器廠預計2027年上半年投產，新增年產能1.2億平方米，屆時越南紙器年產能有望超越10億平方米。萬寶估2026年EPS 2.4元(本益比8倍)。",
+      "key_points": [
+        "越南平陽工紙破百萬噸、寧平新廠2027投產",
+        "2026估EPS 2.4元(本益比8倍)"
+      ]
+    }
+  ]
+}

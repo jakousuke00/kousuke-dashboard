@@ -12,9 +12,15 @@
       "實體AI與機器人視覺",
       "高速傳輸IC",
       "AMD概念股",
-      "ASIC"
+      "ASIC",
+      "千金股高點以來回檔-36%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-千金股跌幅排行",
+        "category_mentioned": "IC設計"
+      },
       {
         "date": "2026-10-27",
         "source": "萬寶晚報-10_27",
@@ -23,11 +29,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-11",
+    "as_of_date": "2026-11-20",
     "est_eps_2026": 100.0,
-    "est_pe": 15
+    "est_pe": 15,
+    "close_price": 1065.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "11/20收1,065元(高點以來回檔36%)，前三季EPS 78.66元、2026估100元",
+      "close_price": 1065.0,
+      "est_eps": 100.0,
+      "content": "今年高點1,660元，11/20收1,065元(跌幅36%)；前三季EPS 78.66元、累計營收年減15%，萬寶估2026年EPS 100元。",
+      "key_points": [
+        "高點以來-36%、2026估EPS 100元"
+      ]
+    },
     {
       "date": "2026-11-11",
       "source": "今晚爆個股",

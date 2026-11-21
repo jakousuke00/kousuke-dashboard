@@ -1,0 +1,35 @@
+{
+  "stock_id": "1618",
+  "stock_name": "合機",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "高壓電力電纜"
+    ],
+    "theme_tags": [
+      "受惠台電強韌電網訂單",
+      "前三季EPS 4.04元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-今晚產業新聞",
+        "category_mentioned": "線纜/重電"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "受惠台電強韌電網訂單，Q3 EPS 1.14元優於去年同期、前三季4.04元",
+      "content": "受惠台電強韌電網訂單挹注，第三季EPS 1.14元優於去年同期1.01元，累計前三季EPS 4.04元。",
+      "key_points": [
+        "Q3 EPS 1.14元、前三季EPS 4.04元"
+      ]
+    }
+  ]
+}

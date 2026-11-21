@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T19:16:04+08:00",
+  "last_updated": "2026-11-21T23:05:51+08:00",
   "processed_files": {
     "reports/10月份/萬寶產業報告-1022(萬寶晚報贈品).pdf": {
       "processed_at": "2026-11-16T00:08:00+08:00",
@@ -378,6 +378,24 @@
       "report_type": "萬寶晚報",
       "main_topic": "今日台股跌幅亞洲第一，U型築底中！外資賣更多、內資補跌兇，金管會20日祭五大穩市措施",
       "extracted_stocks_count": 46
+    },
+    "reports/11月份/萬寶晚報-11_20.pdf": {
+      "report_date": "2026-11-20",
+      "report_type": "萬寶晚報",
+      "main_topic": "多殺多創新低，台積電破二千好買點！美股Anthropic IPO吸金添亂，台股收跌2,393點創歷史第三大跌點",
+      "extracted_stocks_count": 56
+    },
+    "reports/11月份/萬寶產業報告-1120(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-20",
+      "report_type": "萬寶產業報告",
+      "main_topic": "電信服務產業報告：加權指數五日跌17.5%，電信股僅跌3.3%",
+      "extracted_stocks_count": 6
+    },
+    "reports/11月份/萬寶產業報告-1121(萬寶晚報贈品).pdf": {
+      "report_date": "2026-11-21",
+      "report_type": "萬寶產業報告",
+      "main_topic": "陸海空運輸產業報告：抗跌優於大盤，外資五日買超逾10萬張",
+      "extracted_stocks_count": 13
     }
   }
 }

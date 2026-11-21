@@ -1,0 +1,38 @@
+{
+  "stock_id": "5508",
+  "stock_name": "永信建",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "南部營建開發"
+    ],
+    "theme_tags": [
+      "前三季EPS 3.21元超越去年全年",
+      "龍華十期明年完工"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-20",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "營建"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-20",
+    "est_eps_2026": 4.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-20",
+      "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
+      "title": "前三季EPS 3.21元超越去年全年，楠梓「晴仰」總銷31億尚未貢獻Q3營收",
+      "est_eps": 4.0,
+      "content": "法說指出前三季營收29.51億元(年增約68%)、稅後純益6.97億元、EPS 3.21元均已超過去年全年。今年完工楠梓「晴仰」總銷31億元9月已取使照尚未貢獻Q3營收；「龍華十期」總銷16億2027年Q4完工，另有9個建案2028~2029年陸續完工。萬寶估2026年EPS 4元(本益比11倍)。",
+      "key_points": [
+        "前三季EPS 3.21元超越去年全年",
+        "2026估EPS 4元(本益比11倍)"
+      ]
+    }
+  ]
+}
