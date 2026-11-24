@@ -5,13 +5,20 @@
     "main_industry": "AI伺服器硬體、機構件與周邊",
     "sub_industries": [
       "高頻高速連接器",
-      "M.2/SO-DIMM"
+      "M.2/SO-DIMM",
+      "連接器"
     ],
     "theme_tags": [
       "網通與伺服器接單成長",
-      "萬寶下修2026估EPS至10元"
+      "萬寶下修2026估EPS至10元",
+      "低本益比9.8倍"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶產業報告-連接線器",
+        "category_mentioned": "連接線器"
+      },
       {
         "date": "2026-11-20",
         "source": "萬寶晚報-EPS預估調整",
@@ -25,10 +32,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-20",
-    "est_eps_2026": 10.0
+    "as_of_date": "2026-11-23",
+    "est_eps_2026": 10.0,
+    "close_price": 97.5
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶產業報告-1123(萬寶晚報贈品).pdf",
+      "title": "11/23收97.50元(近5日-6.25%)，10月營收年減25.9%、2026估EPS 10.0元",
+      "close_price": 97.5,
+      "est_eps": 10.0,
+      "content": "11/23收97.50元，近5日下跌6.25%，10月營收年減25.9%，萬寶估2026年EPS 10.0元(預估本益比9.8倍)。",
+      "key_points": [
+        "2026估EPS 10.0元"
+      ]
+    },
     {
       "date": "2026-11-20",
       "source_file": "reports/11月份/萬寶晚報-11_20.pdf",

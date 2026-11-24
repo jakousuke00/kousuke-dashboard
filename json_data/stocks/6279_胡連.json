@@ -1,0 +1,38 @@
+{
+  "stock_id": "6279",
+  "stock_name": "胡連",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "車用連接器"
+    ],
+    "theme_tags": [
+      "低本益比9.4倍"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶產業報告-連接線器",
+        "category_mentioned": "連接線器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "close_price": 87.3,
+    "est_eps_2026": 9.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶產業報告-1123(萬寶晚報贈品).pdf",
+      "title": "11/23收87.30元(近5日-7.62%)，10月營收年增4.0%、2026估EPS 9.3元",
+      "close_price": 87.3,
+      "est_eps": 9.3,
+      "content": "11/23收87.30元，近5日下跌7.62%，10月營收年增4.0%，萬寶估2026年EPS 9.3元(預估本益比9.4倍)。",
+      "key_points": [
+        "2026估EPS 9.3元"
+      ]
+    }
+  ]
+}

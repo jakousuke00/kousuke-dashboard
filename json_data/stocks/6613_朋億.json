@@ -5,16 +5,39 @@
     "main_industry": "半導體與設備檢測",
     "sub_industries": [
       "高潔淨度化學品供應系統",
-      "氣體與綠能環保設備"
+      "氣體與綠能環保設備",
+      "半導體化學品氣體供應系統"
     ],
     "theme_tags": [
       "Q3 EPS 5.99元創高",
-      "2026年EPS上調至20元"
+      "2026年EPS上調至20元",
+      "累計營收年增73.5%"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-類似矽科宏晟15檔",
+        "category_mentioned": "化學品氣體供應系統"
+      }
+    ]
   },
-  "latest_metrics": {},
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "est_eps_2026": 20.0
+  },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "化學品氣體供應系統族群，累計營收年增73.5%、今年最大跌幅53%、2026估EPS 20元",
+      "close_price": null,
+      "est_eps": 20.0,
+      "content": "納入萬寶11/23類似矽科宏晟15檔半導體化學品/廠務/設備股表，累計營收年增73.5%，今年最大跌幅53%，萬寶估2026年EPS 20元。",
+      "key_points": [
+        "累計營收年增73.5%",
+        "2026估EPS 20元"
+      ]
+    },
     {
       "report_date": "2026-11-06",
       "source_section": "今晚爆個股 / 萬寶投顧精選圖表",

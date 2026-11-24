@@ -5,16 +5,40 @@
     "main_industry": "傳產製造、營建航運與利基消費",
     "sub_industries": [
       "羽絨服代工",
-      "戶外運動服飾"
+      "戶外運動服飾",
+      "機能服飾與羽絨衣"
     ],
     "theme_tags": [
       "前三季獲利翻倍EPS 6.41元",
-      "約旦擴產"
+      "約旦擴產",
+      "約旦廠輸美零關稅占比破20%"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "紡織"
+      }
+    ]
   },
-  "latest_metrics": {},
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "close_price": 49.0,
+    "est_eps_2026": 7.0
+  },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "約旦廠營收占比破20%、Alo Yoga訂單看增，Q4營收維持年增、2026估EPS 7元",
+      "close_price": 49.0,
+      "est_eps": 7.0,
+      "content": "預期Q4營收維持年增且獲利優於去年同期；約旦廠具輸美零關稅優勢今年占比估破20%(去年17%)，新廠房2027年陸續投產，Alo Yoga今年可望貢獻營收3-5%。萬寶估2026年EPS 7元(本益比7倍)。",
+      "key_points": [
+        "約旦廠占比破20%",
+        "2026估EPS 7元(PE 7倍)"
+      ]
+    },
     {
       "report_date": "2026-11-06",
       "source_section": "今晚爆個股",

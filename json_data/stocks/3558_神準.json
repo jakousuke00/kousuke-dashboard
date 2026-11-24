@@ -1,0 +1,41 @@
+{
+  "stock_id": "3558",
+  "stock_name": "神準",
+  "industry_profile": {
+    "main_industry": "網通/電信與光通訊",
+    "sub_industries": [
+      "AI伺服器",
+      "高速交換器與網通"
+    ],
+    "theme_tags": [
+      "Q3營收年增28.1%",
+      "鎖定地端AI伺服器"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "網通"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "close_price": 83.2,
+    "est_eps_2026": 2.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "Q3營收年增28.1%，推出4U/2U地端AI伺服器與800G資料中心交換器",
+      "close_price": 83.2,
+      "est_eps": 2.6,
+      "content": "加速轉向AI運算，Q3營收年增28.1%，規劃4U/2U地端AI伺服器及100G-800G資料中心交換器，自製電源最高3,200W拓展外部市場；越南為主要製造基地。萬寶估2026年EPS 2.6元。",
+      "key_points": [
+        "Q3營收年增28.1%",
+        "布局地端AI伺服器與800G交換器"
+      ]
+    }
+  ]
+}

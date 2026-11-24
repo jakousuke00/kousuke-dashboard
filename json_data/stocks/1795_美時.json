@@ -4,18 +4,40 @@
   "industry_profile": {
     "main_industry": "生技醫療與保健",
     "sub_industries": [
-      "特殊學名藥/品牌藥"
+      "特殊學名藥/品牌藥",
+      "特殊學名藥"
     ],
     "theme_tags": [
       "併購效應",
-      "FDA核准"
+      "FDA核准",
+      "再融資明年初完成降利息"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "生技製藥"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-13"
+    "as_of_date": "2026-11-23",
+    "close_price": 98.0,
+    "est_eps_2026": 3.5
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "獲大股東過渡借款推動債務再融資明年初完成，前3季EPS 4.18元、2026估3.5元",
+      "close_price": 98.0,
+      "est_eps": 3.5,
+      "content": "為化解併購Alvogen高額財務成本，推動債務再融資預計2027年初完成以降低利息；前3季營收248.18億元(+74%)、EPS 4.18元(Q3虧0.41元、10月虧1.51元)，兩項美國新藥原廠藥年銷售約30億美元待FDA核准。萬寶估2026年EPS 3.5元。",
+      "key_points": [
+        "明年初完成再融資降利息",
+        "2026估EPS 3.5元"
+      ]
+    },
     {
       "date": "2026-11-13",
       "content": "估EPS 12元。受惠併購Alvogen及B2B成長，前三季營收248.18億元年增74%創高，惟業外拖累Q3單季轉虧約0.47元（前三季EPS 4.18元）。美國兩項重點產品合計市場約30億美元，可望近期獲FDA核准。",

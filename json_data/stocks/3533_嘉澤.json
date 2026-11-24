@@ -4,12 +4,21 @@
   "industry_profile": {
     "main_industry": "AI伺服器硬體、機構件與周邊",
     "sub_industries": [
-      "CPU Socket與高速連接器"
+      "CPU Socket與高速連接器",
+      "CPU Socket插槽",
+      "連接器"
     ],
     "theme_tags": [
-      "千金股高點以來回檔-51%"
+      "千金股高點以來回檔-51%",
+      "Oak Stream新平台明年起發酵",
+      "千金股11/24漲停"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶產業報告-連接線器",
+        "category_mentioned": "連接線器"
+      },
       {
         "date": "2026-11-20",
         "source": "萬寶晚報-千金股跌幅排行",
@@ -18,11 +27,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-20",
-    "close_price": 1440.0,
+    "as_of_date": "2026-11-24",
+    "close_price": 1565.0,
     "est_eps_2026": 74.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "Q4受缺料影響季增低個位數，Intel Oak Stream明年放量、11/24漲停收1,565元",
+      "close_price": 1565.0,
+      "est_eps": 74.0,
+      "content": "11/23收1,425元(近20日法人買超2,666張)，11/24漲停收1,565元(今年高點2,955元，最大跌幅55%、低點反彈19%)。法說表示Q4因客戶記憶體等零組件短缺僅季增低個位數，Intel Oak Stream平台明年Q1末至Q2初放量；10月營收年增12.5%，萬寶估2026年EPS 74.0元。",
+      "key_points": [
+        "Q4受缺料限制、新平台明年放量",
+        "2026估EPS 74.0元"
+      ]
+    },
     {
       "date": "2026-11-20",
       "source_file": "reports/11月份/萬寶晚報-11_20.pdf",

@@ -4,13 +4,21 @@
   "industry_profile": {
     "main_industry": "AI伺服器硬體、機構件與周邊",
     "sub_industries": [
-      "伺服器與顯卡通路"
+      "伺服器與顯卡通路",
+      "DRAM模組通路",
+      "顯卡"
     ],
     "theme_tags": [
       "2026估EPS下調至70元",
-      "上櫃Q3 EPS年增878%"
+      "上櫃Q3 EPS年增878%",
+      "累計營收年增537.9%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶產業報告-挖礦顯卡概念股",
+        "category_mentioned": "DRAM模組通路"
+      },
       {
         "date": "2026-11-17",
         "source": "萬寶晚報-精選圖表",
@@ -19,10 +27,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-17",
-    "est_eps_2026": 70.0
+    "as_of_date": "2026-11-24",
+    "est_eps_2026": 70.0,
+    "close_price": 143.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶產業報告-1124(萬寶晚報贈品).pdf",
+      "title": "10月營收年增201.8%、累計年增537.9%，2026估EPS 70.0元(本益比2.0倍)",
+      "close_price": 143.0,
+      "est_eps": 70.0,
+      "content": "11/24收143.00元(近20日回檔39.2%較深，距高點628元波動劇烈)，10月營收年增201.8%、累計年增537.9%，近5日外資買超1,207張；萬寶估2026年EPS 70.0元(預估本益比2.0倍)。",
+      "key_points": [
+        "累計營收年增537.9%",
+        "2026估EPS 70.0元"
+      ]
+    },
     {
       "date": "2026-11-17",
       "source_file": "reports/11月份/萬寶晚報-11_17.pdf",

@@ -4,18 +4,41 @@
   "industry_profile": {
     "main_industry": "金融保險產業",
     "sub_industries": [
-      "金融租賃"
+      "金融租賃",
+      "金控"
     ],
     "theme_tags": [
       "獲利創高",
-      "高ROE"
+      "高ROE",
+      "前3季EPS 2.49元創高",
+      "配發率65-70%"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "金融"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-10"
+    "as_of_date": "2026-11-23",
+    "close_price": 36.7,
+    "est_eps_2026": 3.3
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "前3季EPS 2.49元年增79%創同期新高，年化ROE 18.32%居金控第二",
+      "close_price": 36.7,
+      "est_eps": 3.3,
+      "content": "前3季稅後淨利368.58億元(+79%)、EPS 2.49元創新高，年化ROE 18.32%居金控第二；股利配發率維持65-70%現金為主，11/16完成225億元現增。11/23收36.7元(+1.94%)，三大法人買超12,361張，萬寶估2026年EPS 3.3元。",
+      "key_points": [
+        "前3季EPS 2.49元創高",
+        "2026估EPS 3.3元"
+      ]
+    },
     {
       "date": "2026-11-10",
       "source": "今晚爆個股",

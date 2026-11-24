@@ -1,0 +1,40 @@
+{
+  "stock_id": "4736",
+  "stock_name": "泰博",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "血糖儀與CGM"
+    ],
+    "theme_tags": [
+      "移工爭議落幕",
+      "CGM明年開始貢獻"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "醫材"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-24",
+    "close_price": 115.0,
+    "est_eps_2026": 23.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "移工爭議落幕、前3季EPS 18.06元，連續式血糖監測儀明年貢獻、2026估EPS 23元",
+      "close_price": 115.0,
+      "est_eps": 23.0,
+      "content": "移工爭議已大致落幕；連續式血糖監測儀(CGM)明年開始貢獻營收，歐盟認證預計2027年中至年底取得，明年資本支出15-20億元。前3季受惠業外利益EPS 18.06元，萬寶估2026年EPS 23元(本益比5倍)。",
+      "key_points": [
+        "前3季EPS 18.06元",
+        "2026估EPS 23元(PE 5倍)"
+      ]
+    }
+  ]
+}

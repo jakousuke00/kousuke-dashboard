@@ -1,0 +1,40 @@
+{
+  "stock_id": "3605",
+  "stock_name": "宏致",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "連接器",
+      "高速連接線"
+    ],
+    "theme_tags": [
+      "外資與法人逢低大買"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶產業報告-連接線器",
+        "category_mentioned": "連接線器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "close_price": 87.0,
+    "est_eps_2026": 4.9
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶產業報告-1123(萬寶晚報贈品).pdf",
+      "title": "近20日跌49.3%最深惟法人買超8,806張承接，10月營收年增19.0%、2026估EPS 4.9元",
+      "close_price": 87.0,
+      "est_eps": 4.9,
+      "content": "11/23收87.00元，近20日下跌49.3%為表列最深，但外資近5日買超4,340張、近20日法人合計買超8,806張；10月營收年增19.0%，萬寶估2026年EPS 4.9元(預估本益比17.8倍)。",
+      "key_points": [
+        "近20日法人買超8,806張",
+        "2026估EPS 4.9元"
+      ]
+    }
+  ]
+}

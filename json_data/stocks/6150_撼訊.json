@@ -1,0 +1,39 @@
+{
+  "stock_id": "6150",
+  "stock_name": "撼訊",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "AMD顯卡"
+    ],
+    "theme_tags": [
+      "大戶持股增加2.74%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶產業報告-挖礦顯卡概念股",
+        "category_mentioned": "顯卡"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-24",
+    "close_price": 66.4,
+    "est_eps_2026": 5.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶產業報告-1124(萬寶晚報贈品).pdf",
+      "title": "10月營收年增26.4%、大戶持股增2.74%，2026估EPS 5.0元",
+      "close_price": 66.4,
+      "est_eps": 5.0,
+      "content": "11/24收66.40元(近5日-17.10%)，10月營收年增26.4%、月增22.9%，11/20大戶持股比例增2.74%至22.15%；萬寶估2026年EPS 5.0元(本益比13.3倍)。",
+      "key_points": [
+        "10月營收年增26.4%",
+        "2026估EPS 5.0元"
+      ]
+    }
+  ]
+}

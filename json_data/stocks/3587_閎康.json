@@ -1,0 +1,40 @@
+{
+  "stock_id": "3587",
+  "stock_name": "閎康",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體材料與可靠度分析"
+    ],
+    "theme_tags": [
+      "矽光子測試逾30件",
+      "明年首季赴美設實驗室"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "半導體檢測"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "close_price": 146.0,
+    "est_eps_2026": 7.7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "前3季本業EPS 9.33元，明年Q1赴美設實驗室、已有逾30件矽光子測試案",
+      "close_price": 146.0,
+      "est_eps": 7.7,
+      "content": "前3季營收47.65億元(+17%)、本業EPS 9.33元，日本營收9.47億(+30%)超越台灣、美國營收5.62億(+43%)；明年首季評估赴美設首座實驗室，已有逾30件矽光子測試案。出售上海子公司80%股權約人民幣19億元用於擴充與配息。萬寶估2026年EPS 7.7元。",
+      "key_points": [
+        "前3季本業EPS 9.33元",
+        "矽光子測試逾30件"
+      ]
+    }
+  ]
+}

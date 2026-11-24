@@ -1,0 +1,41 @@
+{
+  "stock_id": "7767",
+  "stock_name": "仁大資訊",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "系統整合",
+      "海外建廠資服"
+    ],
+    "theme_tags": [
+      "在手訂單27億",
+      "前3季營收超越去年全年"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "資服"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "close_price": 51.6,
+    "est_eps_2026": 4.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "前3季營收25億超越去年全年、在手訂單27億，2026估EPS 4.3元",
+      "close_price": 51.6,
+      "est_eps": 4.3,
+      "content": "受惠金融業合併案、半導體大廠提前拉貨及海外建廠需求，前3季營收25億已超越去年全年，在手訂單27億；明年首季設日本子公司，並取得醫療儀器銷售執照。萬寶估2026年EPS 4.3元(本益比12倍)。",
+      "key_points": [
+        "在手訂單27億元",
+        "2026估EPS 4.3元"
+      ]
+    }
+  ]
+}

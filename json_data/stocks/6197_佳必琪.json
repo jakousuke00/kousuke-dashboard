@@ -6,20 +6,41 @@
     "sub_industries": [
       "高速高頻傳輸線",
       "伺服器連接線",
-      "AI線束模組"
+      "AI線束模組",
+      "AI伺服器高速線束"
     ],
     "theme_tags": [
       "前三季賺逾10元",
       "CSP改下長單",
       "提前備料減空運",
-      "獲利超去年"
+      "獲利超去年",
+      "外資近5日買超864張"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶產業報告-連接線器",
+        "category_mentioned": "連接線器"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-04"
+    "as_of_date": "2026-11-23",
+    "close_price": 184.0,
+    "est_eps_2026": 14.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶產業報告-1123(萬寶晚報贈品).pdf",
+      "title": "11/23收184.00元(近5日-14.22%)，10月營收年增7.7%、2026估EPS 14.0元",
+      "close_price": 184.0,
+      "est_eps": 14.0,
+      "content": "11/23收184.00元，近5日外資買超864張、10月營收年增7.7%，萬寶估2026年EPS 14.0元(預估本益比13.1倍)。",
+      "key_points": [
+        "2026估EPS 14.0元"
+      ]
+    },
     {
       "date": "2026-11-04",
       "source_file": "萬寶晚報-11_04.pdf",

@@ -1,0 +1,41 @@
+{
+  "stock_id": "5457",
+  "stock_name": "宣德",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "連接器",
+      "Type-C與機構件"
+    ],
+    "theme_tags": [
+      "近5日逆勢大漲29.85%",
+      "投信買超"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶產業報告-連接線器",
+        "category_mentioned": "連接線器"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "close_price": 26.1,
+    "est_eps_2026": -1.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶產業報告-1123(萬寶晚報贈品).pdf",
+      "title": "11/23上漲9.9%、近5日逆勢大漲29.85%居連接線器之冠，投信近5日買超1,362張",
+      "close_price": 26.1,
+      "est_eps": -1.3,
+      "content": "11/23收26.10元(單日+9.9%)，近5日大漲29.85%居表列連接線器之冠，近5日投信買超1,362張；10月營收年減12.6%，萬寶估2026年EPS -1.3元。",
+      "key_points": [
+        "近5日+29.85%",
+        "投信近5日買超1,362張"
+      ]
+    }
+  ]
+}

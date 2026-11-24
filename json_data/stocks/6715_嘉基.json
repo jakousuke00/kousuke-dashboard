@@ -5,13 +5,20 @@
     "main_industry": "AI伺服器硬體、機構件與周邊",
     "sub_industries": [
       "高速傳輸線",
-      "光通訊NPO/LPO"
+      "光通訊NPO/LPO",
+      "高速光電傳輸線"
     ],
     "theme_tags": [
       "近封裝光學NPO",
-      "800G LPO"
+      "800G LPO",
+      "Thunderbolt與高速線"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶產業報告-連接線器",
+        "category_mentioned": "連接線器"
+      },
       {
         "date": "2026-10-19",
         "source": "萬寶晚報-10_19",
@@ -20,12 +27,24 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-10-19",
-    "close_price": 480.5,
-    "est_eps_2026": 2.0,
+    "as_of_date": "2026-11-23",
+    "close_price": 274.0,
+    "est_eps_2026": 1.6,
     "est_pe": 240
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶產業報告-1123(萬寶晚報贈品).pdf",
+      "title": "11/23收274.00元(近5日-31.59%)，10月營收年減5.9%、2026估EPS 1.6元",
+      "close_price": 274.0,
+      "est_eps": 1.6,
+      "content": "11/23收274.00元，近5日下跌31.59%、10月營收年減5.9%，萬寶估2026年EPS 1.6元(預估本益比171.3倍)。",
+      "key_points": [
+        "近5日-31.59%",
+        "2026估EPS 1.6元"
+      ]
+    },
     {
       "date": "2026-10-19",
       "source_file": "萬寶晚報-10_19.pdf",

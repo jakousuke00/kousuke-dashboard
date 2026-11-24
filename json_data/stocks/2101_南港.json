@@ -1,0 +1,41 @@
+{
+  "stock_id": "2101",
+  "stock_name": "南港",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "輪胎",
+      "土地開發"
+    ],
+    "theme_tags": [
+      "庫藏股2300張",
+      "前3季EPS 5.81元創高"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "橡膠"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-24",
+    "close_price": 28.0,
+    "est_eps_2026": 7.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "買回2,300張庫藏股，受惠舊廠開發交屋前3季EPS 5.81元創新高、2026估EPS 7元(PE 4倍)",
+      "close_price": 28.0,
+      "est_eps": 7.0,
+      "content": "決議11/24起買回2,300張庫藏股(區間22-43元)；受惠舊廠區開發建案交屋認列，前十月營收210.16億(+190.68%)、前3季EPS 5.81元創歷史新高。萬寶估2026年EPS 7元(本益比僅4倍)。",
+      "key_points": [
+        "前3季EPS 5.81元創高",
+        "2026估EPS 7元(PE 4倍)"
+      ]
+    }
+  ]
+}

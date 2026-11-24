@@ -1,0 +1,40 @@
+{
+  "stock_id": "8289",
+  "stock_name": "泰藝",
+  "industry_profile": {
+    "main_industry": "被動元件產業",
+    "sub_industries": [
+      "石英振盪器"
+    ],
+    "theme_tags": [
+      "312.5MHz訂單看到明年中",
+      "Q3營收年增62.74%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "石英元件"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "close_price": 32.5,
+    "est_eps_2026": 1.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "312.5MHz振盪器訂單看到明年中、全年營收增逾2成，Q3 EPS 0.65元",
+      "close_price": 32.5,
+      "est_eps": 1.3,
+      "content": "高頻312.5MHz振盪器獲美平台客戶認證出貨，訂單看到明年6-7月、明年Q2後擴產；Q3營收6.36億元(+62.74%)、EPS 0.65元，資料中心占比升至11%。萬寶估2026年EPS 1.3元。",
+      "key_points": [
+        "高頻振盪器訂單至明年中",
+        "2026估EPS 1.3元"
+      ]
+    }
+  ]
+}

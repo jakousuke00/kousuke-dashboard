@@ -1,0 +1,39 @@
+{
+  "stock_id": "2425",
+  "stock_name": "承啟",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "顯卡與AI伺服器"
+    ],
+    "theme_tags": [
+      "10月營收年增423.8%居冠"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶產業報告-挖礦顯卡概念股",
+        "category_mentioned": "MB主機板"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-24",
+    "close_price": 24.1,
+    "est_eps_2026": 1.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶產業報告-1124(萬寶晚報贈品).pdf",
+      "title": "10月營收年增423.8%、累計年增152.8%，2026估EPS 1.0元",
+      "close_price": 24.1,
+      "est_eps": 1.0,
+      "content": "11/24收24.10元(近5日-11.72%)，10月營收年增423.8%居表列之冠、累計年增152.8%，萬寶估2026年EPS 1.0元(預估本益比24.1倍)。",
+      "key_points": [
+        "10月營收年增423.8%",
+        "2026估EPS 1.0元"
+      ]
+    }
+  ]
+}

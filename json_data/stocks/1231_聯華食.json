@@ -1,0 +1,38 @@
+{
+  "stock_id": "1231",
+  "stock_name": "聯華食",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "綜合食品"
+    ],
+    "theme_tags": [
+      "鮮食與休閒食品"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-22",
+        "source": "萬寶產業報告-食品",
+        "category_mentioned": "綜合食品"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-22",
+    "close_price": 67.0,
+    "est_eps_2026": 4.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-22",
+      "source_file": "reports/11月份/萬寶產業報告-1122(萬寶晚報贈品).pdf",
+      "title": "11/20收67.00元(近5日-8.09%)，10月營收年增1.6%、2026估EPS 4.5元",
+      "close_price": 67.0,
+      "est_eps": 4.5,
+      "content": "11/20收67.00元，近5日下跌8.09%；10月營收年增1.6%，萬寶估2026年EPS 4.5元(預估本益比14.9倍)。",
+      "key_points": [
+        "2026估EPS 4.5元"
+      ]
+    }
+  ]
+}

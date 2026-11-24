@@ -4,14 +4,21 @@
   "industry_profile": {
     "main_industry": "半導體與設備檢測",
     "sub_industries": [
-      "特殊氣體管路與廠務工程"
+      "特殊氣體管路與廠務工程",
+      "半導體氣體與廠務工程"
     ],
     "theme_tags": [
       "在手訂單約150億",
       "半導體擴廠占八成",
-      "前三季EPS 6.46元"
+      "前三季EPS 6.46元",
+      "累計營收年增25.6%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-類似矽科宏晟15檔",
+        "category_mentioned": "化學品氣體供應系統"
+      },
       {
         "date": "2026-11-18",
         "source": "萬寶晚報-今晚爆個股",
@@ -20,11 +27,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-18",
+    "as_of_date": "2026-11-23",
     "est_eps_2026": 9.3,
     "est_pe": 12
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "累計營收年增25.6%、今年最大跌幅44%、2026估EPS 9.3元",
+      "close_price": null,
+      "est_eps": 9.3,
+      "content": "納入萬寶11/23類似矽科宏晟15檔半導體化學品/廠務/設備股表，累計營收年增25.6%，今年最大跌幅44%，萬寶估2026年EPS 9.3元。",
+      "key_points": [
+        "累計營收年增25.6%",
+        "2026估EPS 9.3元"
+      ]
+    },
     {
       "date": "2026-11-18",
       "source_file": "reports/11月份/萬寶晚報-11_18.pdf",

@@ -1,0 +1,38 @@
+{
+  "stock_id": "6617",
+  "stock_name": "共信-KY",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "癌症與寵物新藥"
+    ],
+    "theme_tags": [
+      "動物抗腫瘤新藥思沛康取證"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "生技新藥"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "est_eps_2026": -1.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "犬黑色素瘤新藥思沛康取得台灣動物藥證即將開賣，已有逾120家醫院簽約",
+      "close_price": null,
+      "est_eps": -1.2,
+      "content": "旗下伴侶動物抗腫瘤新藥「思沛康注射液」取得農業部動物用藥品許可證，即将在台商業銷售，全台逾120家動物醫院簽署合作意向書，並規劃向美國FDA申請有條件核准。累計營收年增42.19%，萬寶估2026年EPS -1.2元。",
+      "key_points": [
+        "動物抗腫瘤新藥取證開賣",
+        "累計營收年增42.19%"
+      ]
+    }
+  ]
+}

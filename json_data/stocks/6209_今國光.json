@@ -1,0 +1,41 @@
+{
+  "stock_id": "6209",
+  "stock_name": "今國光",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "紅外線熱成像鏡頭",
+      "光學鏡頭"
+    ],
+    "theme_tags": [
+      "無人機應用占4成",
+      "CPO微透鏡明年送樣"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "光學"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "close_price": 54.4,
+    "est_eps_2026": 3.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "前3季EPS 2.54元賺贏過去20年，熱成像鏡頭受惠無人機與中國夜間AEB標配",
+      "close_price": 54.4,
+      "est_eps": 3.4,
+      "content": "前3季營收41.64億元、純益翻漲逾4倍達4.59億元、EPS 2.54元賺贏過去20年。熱成像鏡頭占營收7成以上(無人機約4成)，中國明年中後列為夜間AEB標配；CPO微透鏡明年送樣2028放量。萬寶估2026年EPS 3.4元。",
+      "key_points": [
+        "前3季EPS 2.54元賺贏20年",
+        "2026估EPS 3.4元"
+      ]
+    }
+  ]
+}

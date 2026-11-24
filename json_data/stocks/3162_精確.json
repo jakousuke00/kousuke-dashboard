@@ -4,19 +4,42 @@
   "industry_profile": {
     "main_industry": "汽車與車用零組件",
     "sub_industries": [
-      "電動車電池盒"
+      "電動車電池盒",
+      "低軌衛星與AI水冷"
     ],
     "theme_tags": [
       "AI散熱",
       "機器人",
-      "美國製造"
+      "美國製造",
+      "取得SpaceX星鏈V4外殼8年長單",
+      "AI水冷已量產"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "衛星與車用"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-12"
+    "as_of_date": "2026-11-24",
+    "close_price": 53.0,
+    "est_eps_2026": 0.6
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "歐洲子公司取得SpaceX星鏈V4衛星接收器外殼8年長單，今年底出貨、2026估EPS 0.6元",
+      "close_price": 53.0,
+      "est_eps": 0.6,
+      "content": "歐洲子公司取得SpaceX星鏈衛星接收器V4系列高壓外殼總成8年訂單，今年底開始出貨並導入7,000噸壓鑄設備；AI伺服器液冷產品已量產。前十月營收89.1億(+41.18%)今年將首度破百億，11/24收53元(+9.28%)，萬寶估2026年EPS 0.6元。",
+      "key_points": [
+        "獲SpaceX星鏈8年長單",
+        "今年營收首破百億"
+      ]
+    },
     {
       "date": "2026-11-12",
       "content": "估EPS 0.1元。Q3稅後純益年增47.3%，前十月營收89.1億元年增41.18%全年拚破百億。跨足AI散熱與機器人，董事會通過赴美設子公司建自動化產線。",

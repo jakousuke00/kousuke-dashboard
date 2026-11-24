@@ -1,0 +1,41 @@
+{
+  "stock_id": "1466",
+  "stock_name": "聚隆",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "環保纖維",
+      "無人機與機器人複材"
+    ],
+    "theme_tags": [
+      "前3季轉虧為盈",
+      "跨足無人機複材"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "紡織"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-24",
+    "close_price": 14.0,
+    "est_eps_2026": 0.4
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "法說加速轉型跨足無人機/機器人複材與生技，前3季純益2,314萬轉盈、2026估EPS 0.4元",
+      "close_price": 14.0,
+      "est_eps": 0.4,
+      "content": "減少低毛利大宗化纖並跨足高科技材料、無人機與機器人複材、寵物生技，前3季稅後淨利2,314萬元轉虧為盈。萬寶估2026年EPS 0.4元。",
+      "key_points": [
+        "前3季轉虧為盈",
+        "跨足無人機與機器人複材"
+      ]
+    }
+  ]
+}

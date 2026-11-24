@@ -1,0 +1,41 @@
+{
+  "stock_id": "6829",
+  "stock_name": "千附精密",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體蝕刻微影設備腔體",
+      "航太與量子運算"
+    ],
+    "theme_tags": [
+      "嘉義新廠明年Q1投產",
+      "量子運算低溫腔體"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "半導體設備"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-24",
+    "close_price": 152.0,
+    "est_eps_2026": 6.6
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "總投資逾28億嘉義新廠明年Q1投產(卡位台積電嘉義封裝)，前3季EPS 4.57元",
+      "close_price": 152.0,
+      "est_eps": 6.6,
+      "content": "總投資逾28億嘉義新廠明年Q1投產，承接蝕刻薄膜沉積高真空腔體及微影關鍵零組件並卡位台積電嘉義先進封裝聚落，另承接量子運算超低溫真空腔體與國防航太結構件；前3季純益年增73.2%、EPS 4.57元。萬寶估2026年EPS 6.6元。",
+      "key_points": [
+        "嘉義新廠明年Q1投產",
+        "前3季EPS 4.57元、2026估6.6元"
+      ]
+    }
+  ]
+}

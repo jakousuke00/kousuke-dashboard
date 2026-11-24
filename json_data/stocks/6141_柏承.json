@@ -4,13 +4,22 @@
   "industry_profile": {
     "main_industry": "PCB/MB產業",
     "sub_industries": [
-      "HDI與高階光模組PCB"
+      "HDI與高階光模組PCB",
+      "800G光模組板",
+      "HDI板"
     ],
     "theme_tags": [
       "800G光模組HDI小量出貨",
-      "2027年有望轉虧為盈"
+      "2027年有望轉虧為盈",
+      "10月轉盈EPS 0.02元",
+      "800G光模組小量出貨"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "PCB"
+      },
       {
         "date": "2026-10-05",
         "source": "萬寶晚報-10_05",
@@ -19,10 +28,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-10-05",
+    "as_of_date": "2026-11-24",
     "est_eps_2026": -2.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "10月營收2.81億(+83.8%)單月轉盈EPS 0.02元，800G光模組通過認證小量出貨",
+      "close_price": null,
+      "est_eps": -2.0,
+      "content": "10月營收2.81億元(+83.8%)、純益0.01億(EPS 0.02元)單月轉盈，受惠手機HDI板回升及800G光模組通過認證小量出貨；法人估Q4毛利率升至16%以上、營業利益率轉正，2027年光模組占比提升有望轉盈。萬寶估2026年EPS -2元。",
+      "key_points": [
+        "10月單月轉盈",
+        "800G光模組板小量出貨"
+      ]
+    },
     {
       "date": "2026-10-05",
       "source_file": "萬寶晚報-10_05.pdf",

@@ -1,0 +1,39 @@
+{
+  "stock_id": "3465",
+  "stock_name": "進泰電子",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "影音擴大機(AVR)",
+      "EMS代工"
+    ],
+    "theme_tags": [
+      "AVR主力機種10月量產"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "電子製造"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-24",
+    "est_eps_2026": -1.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "AVR主力機種10月量產出貨，Q4營收拚全年高點、長期目標越南廠占70%",
+      "close_price": null,
+      "est_eps": -1.5,
+      "content": "影音擴大機主力機種10月已量產出貨，Q4營收有機會挑戰全年高點，AVR全年營收占比有機會達10-15%。前3季每股虧1.1元，長期產能目標越南廠占70%。萬寶估2026年EPS -1.5元。",
+      "key_points": [
+        "Q4營收拚全年高點",
+        "累計營收年增13.27%"
+      ]
+    }
+  ]
+}

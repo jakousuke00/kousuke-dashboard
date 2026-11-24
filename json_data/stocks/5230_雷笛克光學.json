@@ -4,13 +4,21 @@
   "industry_profile": {
     "main_industry": "汽車與車用零組件",
     "sub_industries": [
-      "車用LED光學透鏡"
+      "車用LED光學透鏡",
+      "車用光學透鏡",
+      "AI伺服器精密結構件"
     ],
     "theme_tags": [
       "10月自結EPS 0.14元轉盈",
-      "單月獲利逼近前三季總和"
+      "單月獲利逼近前三季總和",
+      "AI伺服器精密結構件占15%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "光學與車用"
+      },
       {
         "date": "2026-11-20",
         "source": "萬寶晚報-今晚爆個股",
@@ -19,10 +27,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-20",
-    "est_eps_2026": 0.5
+    "as_of_date": "2026-11-23",
+    "est_eps_2026": 0.5,
+    "close_price": 29.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "AI伺服器精密結構件占營收15%，10月營收1.43億創單月新高、2026估EPS 0.5元",
+      "close_price": 29.0,
+      "est_eps": 0.5,
+      "content": "新切入AI伺服器精密結構件已占營收15%，10月營收1.43億元創單月新高，Q3毛利率創近11季新高、獲利創近16季新高。萬寶估2026年EPS 0.5元。",
+      "key_points": [
+        "AI伺服器結構件占15%",
+        "10月營收創單月新高"
+      ]
+    },
     {
       "date": "2026-11-20",
       "source_file": "reports/11月份/萬寶晚報-11_20.pdf",

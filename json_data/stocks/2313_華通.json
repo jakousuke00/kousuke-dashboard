@@ -19,9 +19,16 @@
       "HDI",
       "強彈前20名",
       "預估EPS下調",
-      "預估EPS下修"
+      "預估EPS下修",
+      "10月營收87.83億連二月新高",
+      "SpaceX概念"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "PCB"
+      },
       {
         "date": "2026-10-22",
         "source": "萬寶晚報-10_22",
@@ -30,12 +37,24 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-13",
-    "close_price": 224.5,
-    "est_eps_2026": 7.0,
+    "as_of_date": "2026-11-23",
+    "close_price": 154.5,
+    "est_eps_2026": 6.3,
     "est_pe": 32
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "10月營收87.83億連二月創高，SpaceX V3衛星拉貨擴大、2026估EPS 6.3元",
+      "close_price": 154.5,
+      "est_eps": 6.3,
+      "content": "SpaceX收購800MHz頻譜進入FCC實質審查並發射V3衛星，帶動華通衛星板拉貨擴大。10月營收87.83億元連兩月新高，前十月營收709.08億元(+14.33%)；2026-2028年資本支出均維持200億以上。11/23收154.5元，萬寶估2026年EPS 6.3元。",
+      "key_points": [
+        "10月營收87.83億創高",
+        "2026估EPS 6.3元"
+      ]
+    },
     {
       "date": "2026-11-13",
       "content": "列入萬寶投顧2026年預估EPS下修名單，2026年預估EPS下調至6.3元。",

@@ -6,20 +6,42 @@
     "sub_industries": [
       "食用油品",
       "營養保健品",
-      "燕麥奶製品"
+      "燕麥奶製品",
+      "綜合食品"
     ],
     "theme_tags": [
       "商用油大單",
       "原料成本回落",
       "進軍東南亞",
-      "高防禦"
+      "高防禦",
+      "10月營收年減3.5%"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-22",
+        "source": "萬寶產業報告-食品",
+        "category_mentioned": "綜合食品"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-03"
+    "as_of_date": "2026-11-22",
+    "close_price": 23.75,
+    "est_eps_2026": 1.2
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-22",
+      "source_file": "reports/11月份/萬寶產業報告-1122(萬寶晚報贈品).pdf",
+      "title": "11/20收23.75元(近5日-7.77%)，10月營收年減3.5%、2026估EPS 1.2元",
+      "close_price": 23.75,
+      "est_eps": 1.2,
+      "content": "11/20收23.75元，近5日下跌7.77%、外資近5日賣超1,112張；10月營收年減3.5%，萬寶估2026年EPS 1.2元(預估本益比19.8倍)。",
+      "key_points": [
+        "10月營收年減3.5%",
+        "2026估EPS 1.2元"
+      ]
+    },
     {
       "date": "2026-11-03",
       "source_file": "萬寶晚報-11_03.pdf",

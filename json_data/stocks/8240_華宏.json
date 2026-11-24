@@ -5,18 +5,41 @@
     "main_industry": "半導體與設備檢測",
     "sub_industries": [
       "光學膜",
-      "熱管理材料"
+      "熱管理材料",
+      "光學機能膜",
+      "熱管理模組"
     ],
     "theme_tags": [
       "散熱模組",
-      "高速PCB材料"
+      "高速PCB材料",
+      "桃園散熱及水冷模組年底運作"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "光電材料"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-09"
+    "as_of_date": "2026-11-23",
+    "close_price": 34.2,
+    "est_eps_2026": 1.8
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "前3季EPS 1.43元，桃園散熱與水冷模組小量產線年底運作、轉投資切入半導體氣體",
+      "close_price": 34.2,
+      "est_eps": 1.8,
+      "content": "前3季營收49.02億元(-10%)、EPS 1.43元；加速推進高速傳輸PCB材料與熱管理，桃園散熱及水冷模組產線年底運作，轉投資錦德氣體2027年切入半導體特殊氣體。萬寶估2026年EPS 1.8元。",
+      "key_points": [
+        "水冷小量產線年底運作",
+        "2026估EPS 1.8元"
+      ]
+    },
     {
       "date": "2026-11-09",
       "source": "今晚爆個股",

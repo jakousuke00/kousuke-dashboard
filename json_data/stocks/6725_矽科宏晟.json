@@ -4,13 +4,21 @@
   "industry_profile": {
     "main_industry": "半導體與設備檢測",
     "sub_industries": [
-      "半導體化學品供應廠務工程"
+      "半導體化學品供應廠務工程",
+      "半導體化學品氣體供應系統"
     ],
     "theme_tags": [
       "11/20盤中低點拉至漲停155元",
-      "10月業績月增114%年增72%"
+      "10月業績月增114%年增72%",
+      "連兩日漲停",
+      "累計營收年增11.8%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-類似矽科宏晟15檔",
+        "category_mentioned": "化學品氣體供應系統"
+      },
       {
         "date": "2026-11-20",
         "source": "萬寶晚報-頭版主筆室",
@@ -19,11 +27,23 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-20",
+    "as_of_date": "2026-11-23",
     "close_price": 155.0,
     "est_eps_2026": 13.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "11/23-24雙雙連兩日漲停，今年最大跌幅69%、2026估EPS 13元",
+      "close_price": null,
+      "est_eps": 13.0,
+      "content": "萬寶晚報重點點名股，11/23與11/24連續兩日漲停。累計營收年增11.8%，今年最大跌幅69%，萬寶估2026年EPS 13元。",
+      "key_points": [
+        "連兩日漲停",
+        "2026估EPS 13元"
+      ]
+    },
     {
       "date": "2026-11-20",
       "source_file": "reports/11月份/萬寶晚報-11_20.pdf",

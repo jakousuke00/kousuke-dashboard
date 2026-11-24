@@ -5,13 +5,20 @@
     "main_industry": "半導體與設備檢測",
     "sub_industries": [
       "檢測設備",
-      "測試探針"
+      "測試探針",
+      "連接器"
     ],
     "theme_tags": [
       "測試探針",
-      "檢測設備"
+      "檢測設備",
+      "外資連買9天"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶產業報告-連接線器",
+        "category_mentioned": "連接線器"
+      },
       {
         "date": "2026-11-12",
         "source": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",
@@ -20,12 +27,24 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-12",
-    "close_price": 125.0,
-    "est_eps_2026": 1.0,
+    "as_of_date": "2026-11-24",
+    "close_price": 88.6,
+    "est_eps_2026": -1.2,
     "est_pe": 125.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "外資連買9天(+1,254張)，11/23收88.60元、2026估EPS -1.2元",
+      "close_price": 88.6,
+      "est_eps": -1.2,
+      "content": "11/23收88.60元(近5日-22.62%)，10月營收年減11.0%；11/24外資已連續買超上櫃9天累計+1,254張(+1.22億)，萬寶估2026年EPS -1.2元。",
+      "key_points": [
+        "外資連買9天",
+        "10月營收年減11.0%"
+      ]
+    },
     {
       "date": "2026-11-12",
       "source_file": "reports/11月份/萬寶產業報告-1112(萬寶晚報贈品).pdf",

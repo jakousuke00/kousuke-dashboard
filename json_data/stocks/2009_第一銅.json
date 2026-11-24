@@ -1,0 +1,40 @@
+{
+  "stock_id": "2009",
+  "stock_name": "第一銅",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "銅片與半導體均熱片用材"
+    ],
+    "theme_tags": [
+      "前3季EPS 1.85元",
+      "紅銅片受惠均熱片"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "鋼鐵銅材"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "close_price": 28.6,
+    "est_eps_2026": 2.2
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "前3季純益年增453%、EPS 1.85元，厚板軋延設備明年1月量產、2026估EPS 2.2元",
+      "close_price": 28.6,
+      "est_eps": 2.2,
+      "content": "前3季營收27.16億元(+24%)、純益6.67億元(+453%)、EPS 1.85元。半導體材料占比27%，紅銅片因均熱片需求占33.8%；新厚板軋延設備已試產目標明年1月量產。萬寶估2026年EPS 2.2元。",
+      "key_points": [
+        "前3季EPS 1.85元",
+        "2026估EPS 2.2元"
+      ]
+    }
+  ]
+}

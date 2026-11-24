@@ -18,9 +18,16 @@
       "低軌衛星",
       "SpaceX衛星連線",
       "大盤重挫逆勢大漲",
-      "千金股高點以來回檔-44%"
+      "千金股高點以來回檔-44%",
+      "SpaceX 800MHz頻譜進入FCC實質審查",
+      "11/24漲停1385元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-千金股資料表",
+        "category_mentioned": "低軌衛星"
+      },
       {
         "date": "2026-11-20",
         "source": "萬寶晚報-千金股跌幅排行",
@@ -39,12 +46,24 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-20",
-    "close_price": 1225.0,
+    "as_of_date": "2026-11-24",
+    "close_price": 1385.0,
     "est_eps_2026": 18.5,
     "est_pe": 68.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "SpaceX頻譜案進FCC實質審查優先受惠，前3季毛利率升至55%、11/24漲停1,385元",
+      "close_price": 1385.0,
+      "est_eps": 18.5,
+      "content": "為SpaceX重要夥伴優先受惠800MHz頻譜案，前3季毛利率由47%升至55%、技術延伸至AI資料中心；累計營收年增65%，11/24漲停收1,385元，萬寶估2026年EPS 18.5元。",
+      "key_points": [
+        "前3季毛利率升至55%",
+        "11/24漲停1,385元、2026估EPS 18.5元"
+      ]
+    },
     {
       "date": "2026-11-20",
       "source_file": "reports/11月份/萬寶晚報-11_20.pdf",

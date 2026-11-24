@@ -6,19 +6,40 @@
     "sub_industries": [
       "CoWoS設備",
       "PCB設備",
-      "先進封裝設備與材料"
+      "先進封裝設備與材料",
+      "先進封裝烘烤貼膜設備"
     ],
     "theme_tags": [
       "2026年EPS下修",
       "先進封裝",
-      "AI PCB"
+      "AI PCB",
+      "累計營收年增83.8%"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-類似矽科宏晟15檔",
+        "category_mentioned": "半導體設備"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-10"
+    "as_of_date": "2026-11-23",
+    "est_eps_2026": 14.4
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "累計營收年增83.8%、今年最大跌幅72%、2026估EPS 14.4元",
+      "close_price": null,
+      "est_eps": 14.4,
+      "content": "納入萬寶11/23半導體設備股，累計營收年增83.8%、今年最大跌幅72%，萬寶估2026年EPS 14.4元。",
+      "key_points": [
+        "累計營收年增83.8%",
+        "2026估EPS 14.4元"
+      ]
+    },
     {
       "date": "2026-11-10",
       "source": "今晚爆個股",

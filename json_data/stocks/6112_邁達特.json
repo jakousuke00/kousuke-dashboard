@@ -7,7 +7,8 @@
       "雲端架構整合",
       "AI企業應用代理",
       "Splunk大數據資安",
-      "軟體、AI Agent與資服"
+      "軟體、AI Agent與資服",
+      "雲端與AI系統整合"
     ],
     "theme_tags": [
       "佳世達集團",
@@ -16,14 +17,36 @@
       "企業AI",
       "AI Agent",
       "AWS夥伴",
-      "雲端服務"
+      "雲端服務",
+      "10月EPS 0.2元",
+      "AI資料中心專案導入"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "資服"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-11"
+    "as_of_date": "2026-11-24",
+    "close_price": 42.0,
+    "est_eps_2026": 2.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "10月自結EPS 0.2元(Q4與明年受惠AI資料中心與雲端商機)，2026估EPS 2元",
+      "close_price": 42.0,
+      "est_eps": 2.0,
+      "content": "10月自結淨利3,800萬元(-21%)、EPS 0.20元；展望Q4及明年金融製造與政府投入AI資料中心帶動伺服器儲存與網路設備需求，已展開多項專案導入。萬寶估2026年EPS 2元。",
+      "key_points": [
+        "10月EPS 0.20元",
+        "2026估EPS 2元"
+      ]
+    },
     {
       "date": "2026-11-11",
       "source": "今晚爆個股",

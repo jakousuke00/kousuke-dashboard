@@ -5,16 +5,40 @@
     "main_industry": "塑化",
     "sub_industries": [
       "可塑劑(DOP/DINP)",
-      "PVC"
+      "PVC",
+      "可塑劑與PVC"
     ],
     "theme_tags": [
       "Q3獲利季增近倍",
-      "美中關稅差異轉單"
+      "美中關稅差異轉單",
+      "前3季EPS 0.76元轉盈"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "塑化"
+      }
+    ]
   },
-  "latest_metrics": {},
+  "latest_metrics": {
+    "as_of_date": "2026-11-23",
+    "close_price": 10.0,
+    "est_eps_2026": 1.0
+  },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "Q3 EPS 0.45元轉盈、前3季0.76元，AI與高階電纜帶動DPHP與特用可塑劑成長",
+      "close_price": 10.0,
+      "est_eps": 1.0,
+      "content": "前3季營收470億元(+6.6%)、EPS 0.76元(Q3單季0.45元轉盈)；AI與高階電纜帶動DPHP與特用可塑劑Q3銷量各年增15%、18%。萬寶估2026年EPS 1元。",
+      "key_points": [
+        "Q3轉盈、前3季EPS 0.76元",
+        "2026估EPS 1元"
+      ]
+    },
     {
       "report_date": "2026-11-06",
       "source_section": "今晚爆個股",

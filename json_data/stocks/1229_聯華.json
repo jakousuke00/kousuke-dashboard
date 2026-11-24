@@ -1,0 +1,41 @@
+{
+  "stock_id": "1229",
+  "stock_name": "聯華",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "大宗物資",
+      "食品與工業氣體"
+    ],
+    "theme_tags": [
+      "近5日逆勢上漲2.38%",
+      "殖利率5.17%"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-22",
+        "source": "萬寶產業報告-食品",
+        "category_mentioned": "大宗物資"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-22",
+    "close_price": 38.65,
+    "est_eps_2026": 3.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-22",
+      "source_file": "reports/11月份/萬寶產業報告-1122(萬寶晚報贈品).pdf",
+      "title": "表列食品股唯一近5日上漲(+2.38%)，外資近5日買超7,517張、2026估EPS 3.3元",
+      "close_price": 38.65,
+      "est_eps": 3.3,
+      "content": "11/20收38.65元，近5日上漲2.38%為表列食品股唯一正報酬；外資近5日買超7,517張、法人合計買超7,785張。10月營收年增8.0%、累計年減3.7%，殖利率5.17%，萬寶估2026年EPS 3.3元(預估本益比11.7倍)。",
+      "key_points": [
+        "近5日+2.38%最抗跌",
+        "殖利率5.17%、2026估EPS 3.3元"
+      ]
+    }
+  ]
+}

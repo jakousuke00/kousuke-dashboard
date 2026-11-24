@@ -1,0 +1,40 @@
+{
+  "stock_id": "6438",
+  "stock_name": "迅得",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "半導體與IC載板自動化設備"
+    ],
+    "theme_tags": [
+      "Q3營收19.45億創單季新高",
+      "Q3 B/B值2.76"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "設備"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-24",
+    "close_price": 140.0,
+    "est_eps_2026": 8.8
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "Q3營收19.45億創新高(EPS 2.33元)，集團B/B值升至2.76、開發CoPoS設備",
+      "close_price": 140.0,
+      "est_eps": 8.8,
+      "content": "Q3營收19.45億元(+16.7%)創單季新高，毛利率29%，EPS 2.33元；集團訂單出貨比Q3升至2.76(中國事業群3.67)，半導體B/B值由0.77升至2.08，台灣客戶2027上半年續裝機並開發CoPoS與面板級封裝設備。萬寶估2026年EPS 8.8元。",
+      "key_points": [
+        "Q3 EPS 2.33元創新高",
+        "B/B值2.76、2026估EPS 8.8元"
+      ]
+    }
+  ]
+}

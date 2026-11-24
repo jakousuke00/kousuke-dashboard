@@ -10,7 +10,8 @@
       "散熱貼合機",
       "被動元件自動化機台",
       "半導體封裝設備",
-      "CoWoS設備"
+      "CoWoS設備",
+      "CoWoS點膠與貼合設備"
     ],
     "theme_tags": [
       "CoWoS設備",
@@ -19,9 +20,15 @@
       "買超255張",
       "CoWoS設備龍頭",
       "先進封裝",
-      "2026估EPS上調至30元"
+      "2026估EPS上調至30元",
+      "累計營收年增68.6%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-23",
+        "source": "萬寶晚報-類似矽科宏晟15檔",
+        "category_mentioned": "半導體設備"
+      },
       {
         "date": "2026-11-17",
         "source": "萬寶晚報-精選圖表",
@@ -35,12 +42,24 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-17",
+    "as_of_date": "2026-11-23",
     "close_price": 950.0,
     "est_eps_2026": 30.0,
     "est_pe": 33.9
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-23",
+      "source_file": "reports/11月份/萬寶晚報-11_23.pdf",
+      "title": "累計營收年增68.6%、今年最大跌幅66%、2026估EPS 30元",
+      "close_price": null,
+      "est_eps": 30.0,
+      "content": "納入萬寶11/23半導體設備股，累計營收年增68.6%、今年最大跌幅66%，萬寶估2026年EPS 30元。",
+      "key_points": [
+        "累計營收年增68.6%",
+        "2026估EPS 30元"
+      ]
+    },
     {
       "date": "2026-11-17",
       "source_file": "reports/11月份/萬寶晚報-11_17.pdf",

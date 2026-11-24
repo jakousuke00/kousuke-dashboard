@@ -17,7 +17,8 @@
       "ASIC與邊緣AI",
       "晶圓代工與ASIC",
       "IC設計/ASIC",
-      "手機SoC與AI ASIC"
+      "手機SoC與AI ASIC",
+      "AI ASIC(TPU)"
     ],
     "theme_tags": [
       "Google TPU v9",
@@ -46,9 +47,16 @@
       "ASIC三雄",
       "漲停",
       "Q3單季EPS前十",
-      "千金股高點以來回檔-39%"
+      "千金股高點以來回檔-39%",
+      "大摩重申首選目標價6188元",
+      "11/24漲停4050元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-千金股資料表",
+        "category_mentioned": "IC設計"
+      },
       {
         "date": "2026-11-20",
         "source": "萬寶晚報-千金股跌幅排行",
@@ -77,12 +85,24 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-20",
-    "close_price": 3350.0,
+    "as_of_date": "2026-11-24",
+    "close_price": 4050.0,
     "est_eps_2026": 72.0,
     "est_pe": 53.2
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "大摩重申優於大盤目標價6,188元(2027年TPU營收估達160億美元)，11/24漲停4,050元",
+      "close_price": 4050.0,
+      "est_eps": 72.0,
+      "content": "大摩維持聯發科優於大盤及目標價6,188元列大中華半導體首選，估Q4 TPU v8營收達25億美元、重申2027年可達160億美元且對TPU v10具高度信心。11/24漲停收4,050元(低點反彈21%)，萬寶估2026年EPS 72元。",
+      "key_points": [
+        "大摩目標價6,188元",
+        "11/24漲停4,050元、2026估EPS 72元"
+      ]
+    },
     {
       "date": "2026-11-20",
       "source_file": "reports/11月份/萬寶晚報-11_20.pdf",

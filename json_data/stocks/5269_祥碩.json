@@ -13,9 +13,15 @@
       "高速傳輸IC",
       "AMD概念股",
       "ASIC",
-      "千金股高點以來回檔-36%"
+      "千金股高點以來回檔-36%",
+      "11/24漲停1135元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-千金股資料表",
+        "category_mentioned": "IC設計"
+      },
       {
         "date": "2026-11-20",
         "source": "萬寶晚報-千金股跌幅排行",
@@ -29,12 +35,24 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-20",
+    "as_of_date": "2026-11-24",
     "est_eps_2026": 100.0,
     "est_pe": 15,
-    "close_price": 1065.0
+    "close_price": 1135.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "11/24漲停收1,135元(低點反彈11%)，累計營收年減15%、2026估EPS 100元",
+      "close_price": 1135.0,
+      "est_eps": 100.0,
+      "content": "11/24漲停收1,135元(今年高點1,660元，最大跌幅39%、低點反彈11%)；累計營收年減15%，萬寶估2026年EPS 100元。",
+      "key_points": [
+        "11/24漲停1,135元",
+        "2026估EPS 100元"
+      ]
+    },
     {
       "date": "2026-11-20",
       "source_file": "reports/11月份/萬寶晚報-11_20.pdf",

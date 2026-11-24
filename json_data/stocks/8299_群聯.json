@@ -52,9 +52,16 @@
       "逆勢上漲千金股",
       "上櫃Q3 EPS年增第6",
       "拿下三家原廠六項主控晶片案",
-      "估EPS 450元本益比3倍"
+      "估EPS 450元本益比3倍",
+      "X2打入全球資料中心創600億產值",
+      "11/24漲停1595元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-24",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "記憶體IC"
+      },
       {
         "date": "2026-11-20",
         "source": "萬寶晚報-今晚爆個股 / 千金股跌幅排行",
@@ -98,14 +105,26 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-20",
-    "close_price": 1320.0,
+    "as_of_date": "2026-11-24",
+    "close_price": 1595.0,
     "est_eps_2026": 450.0,
     "est_pe": 3.7,
     "ia_rating": "A+",
     "ia_score": 6.4
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-24",
+      "source_file": "reports/11月份/萬寶晚報-11_24.pdf",
+      "title": "PCIe 5.0企業級SSD晶片X2創逾600億產值，11/24漲停1,595元、2026估EPS 450元(PE 4倍)",
+      "close_price": 1595.0,
+      "est_eps": 450.0,
+      "content": "自主研發PCIe 5.0企業級SSD控制晶片X2透過Pascari打入全球CSP及伺服器客戶，已導入台積電tServer系統與和碩、華碩等，累計創逾600億產值；新一代PCIe 6.0 X3預計2027上半年量產。11/24漲停收1,595元(累計營收+298%)，萬寶估2026年EPS 450元(PE僅4倍)。",
+      "key_points": [
+        "X2創600億產值",
+        "11/24漲停1,595元、2026估EPS 450元"
+      ]
+    },
     {
       "date": "2026-11-20",
       "source_file": "reports/11月份/萬寶晚報-11_20.pdf",
