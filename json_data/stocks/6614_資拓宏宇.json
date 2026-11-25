@@ -1,0 +1,42 @@
+{
+  "stock_id": "6614",
+  "stock_name": "資拓宏宇",
+  "industry_profile": {
+    "main_industry": "綜合資訊軟體服務",
+    "sub_industries": [
+      "資安與大型系統整合",
+      "中華電信集團"
+    ],
+    "theme_tags": [
+      "11/25資安漲停股"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-13檔逆勢上漲強勢股",
+        "category_mentioned": "5檔資安漲停股"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-25",
+    "close_price": 46.8,
+    "est_eps_2026": 1.0,
+    "est_pe": 47.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "11/25逆勢漲停收46.8元，累計營收年增16%、2026估EPS 1.0元",
+      "close_price": 46.8,
+      "est_eps": 1.0,
+      "est_pe": 47.0,
+      "content": "入列萬寶研究部13檔逆勢上漲強勢股(5檔資安漲停股)：11/25收46.8元(今年跌幅4%)，累計營收年增16%，前三季EPS 0.33元，萬寶預估2026年EPS 1.0元(本益比47倍)。",
+      "key_points": [
+        "11/25資安漲停收46.8元",
+        "累計營收年增16%"
+      ]
+    }
+  ]
+}

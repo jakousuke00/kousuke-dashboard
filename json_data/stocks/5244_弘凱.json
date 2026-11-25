@@ -1,0 +1,39 @@
+{
+  "stock_id": "5244",
+  "stock_name": "弘凱",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "車用智能氛圍燈ICLED",
+      "人形機器人與機器狗光學感測"
+    ],
+    "theme_tags": [
+      "打入波士頓動力人形機器人與機器狗供應鏈",
+      "Q3轉盈EPS 0.18元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "車用LED與機器人"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-25",
+    "est_eps_2026": -0.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "Q3毛利率回升至29.8%轉盈EPS 0.18元，已打入波士頓動力人形機器人與機器狗供應鏈，2026估EPS -0.5元",
+      "est_eps": -0.5,
+      "content": "Q3毛利率回升至29.8%、單季EPS 0.18元轉虧為盈(前三季每股虧0.55元)，車用營收占比攀升至50%；車用氛圍燈EVO控制IC由旺宏改導入力積電代工，預計2027 Q2供料瓶頸緩解。已打入波士頓動力人形機器人與機器狗供應鏈(2027年底至2028年量產)，日本博弈機台RGB ICLED 12月起放量。",
+      "key_points": [
+        "打入波士頓動力機器人與機器狗供應鏈",
+        "Q3轉盈單季EPS 0.18元"
+      ]
+    }
+  ]
+}

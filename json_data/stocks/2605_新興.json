@@ -5,7 +5,8 @@
     "main_industry": "陸海空運輸",
     "sub_industries": [
       "散裝航運",
-      "航空與貨櫃散裝航運"
+      "航空與貨櫃散裝航運",
+      "超大型油輪VLCC"
     ],
     "theme_tags": [
       "散裝航運",
@@ -13,9 +14,15 @@
       "油輪運價飆升",
       "營收創高",
       "10月營收年增91.7%",
-      "預估本益比4.8倍"
+      "預估本益比4.8倍",
+      "2026估EPS上調至6元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-2026年預估表",
+        "category_mentioned": "2026預估EPS上修"
+      },
       {
         "date": "2026-11-21",
         "source": "萬寶產業報告-陸海空運輸",
@@ -29,12 +36,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-21",
+    "as_of_date": "2026-11-25",
     "close_price": 28.7,
     "est_eps_2026": 6.0,
     "est_pe": 6.6
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至6元(↑)",
+      "est_eps": 6.0,
+      "content": "萬寶投顧精選圖表最新調整：上調新興(2605) 2026年預估EPS至6元(↑)。",
+      "key_points": [
+        "2026估EPS上調至6元"
+      ]
+    },
     {
       "date": "2026-11-21",
       "source_file": "reports/11月份/萬寶產業報告-1121(萬寶晚報贈品).pdf",

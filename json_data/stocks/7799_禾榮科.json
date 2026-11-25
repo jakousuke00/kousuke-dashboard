@@ -4,19 +4,38 @@
   "industry_profile": {
     "main_industry": "綜合資訊軟體服務",
     "sub_industries": [
-      "生技新藥與醫材"
+      "生技新藥與醫材",
+      "硼中子捕獲治療BNCT"
     ],
     "theme_tags": [
       "BNCT",
       "質子治療",
-      "東南亞擴張"
+      "東南亞擴張",
+      "2026估EPS上調至-2.7元"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-2026年預估表",
+        "category_mentioned": "2026預估EPS上修"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-11"
+    "as_of_date": "2026-11-25",
+    "est_eps_2026": -2.7
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至-2.7元(↑)",
+      "est_eps": -2.7,
+      "content": "萬寶投顧精選圖表最新調整：上調禾榮科(7799) 2026年預估EPS至-2.7元(↑)。",
+      "key_points": [
+        "2026估EPS -2.7元"
+      ]
+    },
     {
       "date": "2026-11-11",
       "source": "今晚爆個股",

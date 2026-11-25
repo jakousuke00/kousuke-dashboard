@@ -1,0 +1,40 @@
+{
+  "stock_id": "2477",
+  "stock_name": "美隆電",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "車用音響與家用音訊設備"
+    ],
+    "theme_tags": [
+      "鎖定印尼車用音響市場",
+      "Q3單季EPS 0.48元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "車用音響"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-25",
+    "est_eps_2026": 1.2,
+    "est_pe": 17.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "印尼廠獲IATF 16949認證鎖定豐田與比亞迪等車用音響，Q3營收季增69%、EPS 0.48元，2026估EPS 1.2元",
+      "est_eps": 1.2,
+      "est_pe": 17.0,
+      "content": "將車用音響視為2027年重點目標，印尼廠已取得IATF 16949車規認證，鄰近豐田、大發、鈴木、比亞迪等車廠積極接洽，目標將印尼廠產值占比由2024年11%提升至40%。Q3營收約9.8億元(季增約69%、年增約37.3%)，單季EPS 0.48元(前三季EPS 0.65元)。萬寶估2026年EPS 1.2元(本益比17倍)。",
+      "key_points": [
+        "印尼廠車規認證切入車用音響",
+        "Q3單季EPS 0.48元、2026估EPS 1.2元"
+      ]
+    }
+  ]
+}

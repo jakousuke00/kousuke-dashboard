@@ -1,0 +1,37 @@
+{
+  "stock_id": "7899",
+  "stock_name": "景美",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "探針卡導板細微鑽孔",
+      "ATE測試機框"
+    ],
+    "theme_tags": [
+      "興櫃搶先爆",
+      "高階探針卡單張針數逾1萬針"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-興櫃搶先爆",
+        "category_mentioned": "半導體測試探針卡導板"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-25"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "AI/HPC/HBM探針卡單張針數逾1萬針帶動細微鑽孔單片加工價值提升，Q4營運力拚逐季成長",
+      "content": "主要產品為探針卡導板細微鑽孔、結構組件及ATE測試機框；隨AI、HPC及HBM晶片測試複雜度提高，高階探針卡單張針數逾1萬針，細微鑽孔採孔數計價使單片加工價值提升；客戶涵蓋全球最大晶圓代工廠及台灣前三大探針卡廠，ATE測試機框已進入穩定出貨。",
+      "key_points": [
+        "高階探針卡逾1萬針推升細微鑽孔單價",
+        "客戶涵蓋全球最大晶圓代工廠與前三大探針卡廠"
+      ]
+    }
+  ]
+}

@@ -5,19 +5,39 @@
     "main_industry": "PCB/MB產業",
     "sub_industries": [
       "伺服器與IPC用板",
-      "伺服器/工業電腦板"
+      "伺服器/工業電腦板",
+      "AI伺服器PCB",
+      "IPC工業電腦板"
     ],
     "theme_tags": [
       "AI伺服器",
       "低軌衛星",
-      "高階交換器"
+      "高階交換器",
+      "2026估EPS上調至15元"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-2026年預估表",
+        "category_mentioned": "2026預估EPS上修"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-13"
+    "as_of_date": "2026-11-25",
+    "est_eps_2026": 15.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至15元(↑)",
+      "est_eps": 15.0,
+      "content": "萬寶投顧精選圖表最新調整：上調博智(8155) 2026年預估EPS至15元(↑)。",
+      "key_points": [
+        "2026估EPS上調至15元"
+      ]
+    },
     {
       "date": "2026-11-13",
       "content": "估EPS 14元。受惠AI伺服器主板、CPU板及IC測試板需求，Q3毛利率26.85%寫17季新高、EPS 4.46元創新高，前三季EPS 11.15元。明年資本支出由25億元增至35~40億元，越南廠2027Q2量產。",

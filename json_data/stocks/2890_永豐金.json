@@ -5,15 +5,22 @@
     "main_industry": "金融保險產業",
     "sub_industries": [
       "金融租賃",
-      "金控"
+      "金控",
+      "銀行與證券"
     ],
     "theme_tags": [
       "獲利創高",
       "高ROE",
       "前3季EPS 2.49元創高",
-      "配發率65-70%"
+      "配發率65-70%",
+      "2026估EPS下調至2.8元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-2026年預估表",
+        "category_mentioned": "2026預估EPS下修"
+      },
       {
         "date": "2026-11-23",
         "source": "萬寶晚報-今晚爆個股",
@@ -22,11 +29,21 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-23",
+    "as_of_date": "2026-11-25",
     "close_price": 36.7,
-    "est_eps_2026": 3.3
+    "est_eps_2026": 2.8
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "萬寶投顧下調2026年預估EPS至2.8元(↓)",
+      "est_eps": 2.8,
+      "content": "萬寶投顧精選圖表最新調整：下調永豐金(2890) 2026年預估EPS至2.8元(↓)。",
+      "key_points": [
+        "2026估EPS下調至2.8元"
+      ]
+    },
     {
       "date": "2026-11-23",
       "source_file": "reports/11月份/萬寶晚報-11_23.pdf",

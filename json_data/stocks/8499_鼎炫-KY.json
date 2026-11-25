@@ -1,0 +1,41 @@
+{
+  "stock_id": "8499",
+  "stock_name": "鼎炫-KY",
+  "industry_profile": {
+    "main_industry": "PCB/MB產業",
+    "sub_industries": [
+      "HVLP5+高階銅箔",
+      "奈米雙晶銅散熱材料"
+    ],
+    "theme_tags": [
+      "聚赫HVLP5+銅箔送樣AI伺服器M10與PTFE驗證",
+      "奈米雙晶銅進入P2階段"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "高階銅箔與散熱材料"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-25",
+    "est_eps_2026": 8.0,
+    "est_pe": 19.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "聚赫HVLP5+銅箔送樣AI伺服器M10/PTFE驗證，奈米雙晶銅散熱進入P2階段可望率先量產，2026估EPS 8元",
+      "est_eps": 8.0,
+      "est_pe": 19.0,
+      "content": "法說表示旗下聚赫HVLP5+銅箔已送樣多家CCL及PCB廠，參與AI伺服器新世代M10與PTFE路線驗證；與美系客戶共同開發的奈米雙晶銅散熱效率高出不鏽鋼三倍，已進入P2階段最快率先量產，並切入美系智慧眼鏡與手機鏈。淮安二廠預計2027 Q3投產(單一細胞工廠可貢獻7~8億產值)。萬寶估2026年EPS 8.0元(本益比19倍)。",
+      "key_points": [
+        "HVLP5+銅箔參與AI伺服器M10/PTFE驗證",
+        "奈米雙晶銅進入P2、2026估EPS 8元"
+      ]
+    }
+  ]
+}

@@ -5,16 +5,42 @@
     "main_industry": "網通/電信與光通訊",
     "sub_industries": [
       "矽光子檢測設備(NightJar)",
-      "CIS光學檢測"
+      "CIS光學檢測",
+      "矽光子與CIS晶圓級光電檢測設備"
     ],
     "theme_tags": [
       "10月營收年增71%",
-      "矽光子檢測快60倍"
+      "矽光子檢測快60倍",
+      "砸10億建路竹新廠",
+      "半導體業務占比逼近五成",
+      "新一代矽光子檢測出貨"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "矽光子檢測設備"
+      }
+    ]
   },
-  "latest_metrics": {},
+  "latest_metrics": {
+    "as_of_date": "2026-11-25",
+    "est_eps_2026": 5.6,
+    "est_pe": 71.0
+  },
   "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "斥資10億元建路竹新廠擴充矽光子檢測產能，今年半導體占比逼近五成，2026估EPS 5.6元",
+      "est_eps": 5.6,
+      "est_pe": 71.0,
+      "content": "斥資約10億元興建南科高雄園區路竹新廠，擴充矽光子晶圓級量產線檢測設備產能；今年半導體業務營收占比由去年約一成升至逼近五成(成長來自車用CIS及矽光子)。新一代矽光子產品已出貨，NightJar檢測設備已完成與量產線自動探針台整合。萬寶估2026年EPS 5.6元。",
+      "key_points": [
+        "砸10億建路竹新廠擴矽光子檢測",
+        "半導體占比升至近5成、估EPS 5.6元"
+      ]
+    },
     {
       "report_date": "2026-11-06",
       "source_section": "今晚爆個股",

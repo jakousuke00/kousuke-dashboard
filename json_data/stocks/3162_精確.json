@@ -5,16 +5,23 @@
     "main_industry": "汽車與車用零組件",
     "sub_industries": [
       "電動車電池盒",
-      "低軌衛星與AI水冷"
+      "低軌衛星與AI水冷",
+      "AI伺服器水冷板與分歧管"
     ],
     "theme_tags": [
       "AI散熱",
       "機器人",
       "美國製造",
       "取得SpaceX星鏈V4外殼8年長單",
-      "AI水冷已量產"
+      "AI水冷已量產",
+      "10月自結EPS 0.19元(年增45%)"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-包打聽快報",
+        "category_mentioned": "自結獲利"
+      },
       {
         "date": "2026-11-24",
         "source": "萬寶晚報-今晚爆個股",
@@ -23,11 +30,21 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-24",
+    "as_of_date": "2026-11-25",
     "close_price": 53.0,
     "est_eps_2026": 0.6
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "10月自結稅後純益2,900萬元(年增45%)、單月EPS 0.19元，Q3稅後純益年增47.3%",
+      "content": "公告10月自結稅後純益2,900萬元(年增45%)、單月EPS 0.19元；第三季稅後純益亦年增47.3%。",
+      "key_points": [
+        "10月單月自結EPS 0.19元(年增45%)",
+        "Q3稅後純益年增47.3%"
+      ]
+    },
     {
       "date": "2026-11-24",
       "source_file": "reports/11月份/萬寶晚報-11_24.pdf",

@@ -1,0 +1,40 @@
+{
+  "stock_id": "6151",
+  "stock_name": "晉倫",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "工程塑膠與半導體晶圓盒材料"
+    ],
+    "theme_tags": [
+      "越南廠明年產能倍增",
+      "半導體晶圓盒通過認證開始生產"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "工程塑膠與半導體材料"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-25",
+    "est_eps_2026": 3.2,
+    "est_pe": 9.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "越南廠明年產能倍增至150噸、半導體晶圓盒通過認證開始生產，前三季EPS 2.54元、2026估EPS 3.2元(P/E 9倍)",
+      "est_eps": 3.2,
+      "est_pe": 9.0,
+      "content": "法說表示前三季營收14.13億元(年增約11%)、EPS 2.54元(Q3單季EPS 0.63元)。越南廠目前月產能約80~90噸，明年將達約150噸(營收有望破億元)；半導體晶圓盒已有產品通過認證開始生產，明年銷售續增。萬寶估2026年EPS 3.2元(本益比9倍)。",
+      "key_points": [
+        "越南廠明年產能倍增、晶圓盒通過認證量產",
+        "2026估EPS 3.2元(P/E 9倍)"
+      ]
+    }
+  ]
+}

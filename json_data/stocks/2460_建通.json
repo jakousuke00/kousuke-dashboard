@@ -1,0 +1,41 @@
+{
+  "stock_id": "2460",
+  "stock_name": "建通",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "特殊新型銅材",
+      "AI液冷微通道與高導電匯流銅排"
+    ],
+    "theme_tags": [
+      "新型銅材明年占比拚過半",
+      "開拓AI液冷微通道"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "新型銅材與端子"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-25",
+    "est_eps_2026": 0.4,
+    "est_pe": 52.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "新型銅材明年營收占比拚過半並開拓AI液冷微通道，前10月營收年增71.47%、前三季轉盈EPS 0.3元",
+      "est_eps": 0.4,
+      "est_pe": 52.0,
+      "content": "法說表示新型銅材今年占營收約1/3，明年有機會提升至1/2超越本業端子，並開拓AI液冷微通道等新應用，越南廠高導電匯流銅排產線Q4上線。前10月營收42.33億元(年增71.47%)，前三季EPS 0.3元擺脫連4年虧損。萬寶估2026年EPS 0.4元。",
+      "key_points": [
+        "新型銅材明年占比拚過半、切入AI液冷微通道",
+        "前10月營收年增71%、擺脫連4年虧損"
+      ]
+    }
+  ]
+}

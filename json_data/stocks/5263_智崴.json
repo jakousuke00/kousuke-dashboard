@@ -5,15 +5,23 @@
     "main_industry": "汽車與車用零組件",
     "sub_industries": [
       "食品成衣、內需與金融產險",
-      "體感模擬遊樂設備"
+      "體感模擬遊樂設備",
+      "飛行劇院與體感遊樂設備"
     ],
     "theme_tags": [
       "體感設備",
       "Flyover併表",
       "轉虧為盈",
-      "10月營收年增105.6%"
+      "10月營收年增105.6%",
+      "攜Sony等奪三大國際合作案",
+      "在手訂單39億元創新高"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "體感遊樂設備"
+      },
       {
         "date": "2026-11-19",
         "source": "萬寶產業報告-文化創意類股",
@@ -22,11 +30,24 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-19",
+    "as_of_date": "2026-11-25",
     "close_price": 81.2,
-    "est_eps_2026": 6.0
+    "est_eps_2026": 6.0,
+    "est_pe": 12.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "攜Sony將《Horizon》導入飛行劇院等奪三大國際合作案，在手訂單達39億元、前三季EPS 5.21元，2026估EPS 6元",
+      "est_eps": 6.0,
+      "est_pe": 12.0,
+      "content": "宣布三大國際合作案，攜手Sony將PlayStation遊戲《Horizon》導入飛行劇院，並與美國United Parks & Resorts、巴西Grupo Iter合作開發動感與飛行劇院(預計明起陸續登場)。今年接單金額創新高，在手訂單達39億元；前10月營收19.91億元(年增88.36%)，前三季EPS 5.21元創近七年同期新高。萬寶估2026年EPS 6.0元(本益比12倍)。",
+      "key_points": [
+        "在手訂單39億、前10月營收年增88%",
+        "前三季EPS 5.21元、2026估EPS 6元"
+      ]
+    },
     {
       "date": "2026-11-19",
       "source_file": "reports/11月份/萬寶產業報告-1119(萬寶晚報贈品).pdf",

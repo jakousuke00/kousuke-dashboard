@@ -4,13 +4,20 @@
   "industry_profile": {
     "main_industry": "半導體與設備檢測",
     "sub_industries": [
-      "半導體與IC載板自動化設備"
+      "半導體與IC載板自動化設備",
+      "PCB與半導體自動化設備"
     ],
     "theme_tags": [
       "Q3營收19.45億創單季新高",
-      "Q3 B/B值2.76"
+      "Q3 B/B值2.76",
+      "2026估EPS下調至8.8元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-2026年預估表",
+        "category_mentioned": "2026預估EPS下修"
+      },
       {
         "date": "2026-11-24",
         "source": "萬寶晚報-今晚爆個股",
@@ -19,11 +26,21 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-24",
+    "as_of_date": "2026-11-25",
     "close_price": 140.0,
     "est_eps_2026": 8.8
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "萬寶投顧下調2026年預估EPS至8.8元(↓)",
+      "est_eps": 8.8,
+      "content": "萬寶投顧精選圖表最新調整：下調迅得(6438) 2026年預估EPS至8.8元(↓)。",
+      "key_points": [
+        "2026估EPS下調至8.8元"
+      ]
+    },
     {
       "date": "2026-11-24",
       "source_file": "reports/11月份/萬寶晚報-11_24.pdf",

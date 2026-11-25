@@ -1,0 +1,40 @@
+{
+  "stock_id": "4126",
+  "stock_name": "太醫",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "醫療耗材與密閉式抽痰管"
+    ],
+    "theme_tags": [
+      "前三季毛利率32.99%創近五年高",
+      "前三季EPS 4.72元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "醫療耗材"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-25",
+    "est_eps_2026": 6.0,
+    "est_pe": 12.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "主動割捨低毛利訂單推升前三季毛利率至32.99%、EPS 4.72元(年增18%)，2026估EPS 6元(P/E 12倍)",
+      "est_eps": 6.0,
+      "est_pe": 12.0,
+      "content": "業績發表會表示今年以獲利優先主動割捨低毛利訂單，前三季毛利率32.99%創近五年新高，EPS 4.72元(年增18%)已逼近去年全年5.27元；美國營收年增約38%、德國年增約33%。隨歐洲庫存去化告段落，對明年審慎樂觀並推動智慧醫材與CDMO布局。萬寶估2026年EPS 6.0元(本益比12倍)。",
+      "key_points": [
+        "前三季毛利率32.99%、EPS 4.72元",
+        "2026估EPS 6.0元(P/E 12倍)"
+      ]
+    }
+  ]
+}

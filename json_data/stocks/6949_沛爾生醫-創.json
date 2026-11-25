@@ -1,0 +1,39 @@
+{
+  "stock_id": "6949",
+  "stock_name": "沛爾生醫-創",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "CAR-T細胞治療與失智症胜肽新藥"
+    ],
+    "theme_tags": [
+      "失智症新藥PP021與美蒙大拿州接洽嘗試權法案"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "生技新藥"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-25",
+    "close_price": 36.55,
+    "est_eps_2026": -0.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "失智症口服胜肽新藥PP021擬經美國嘗試權法案銷美，蒙大拿州證實接洽，2026估EPS -0.3元",
+      "close_price": 36.55,
+      "est_eps": -0.3,
+      "content": "11/25收36.55元(-9.98%)；自主研發可穿越血腦障壁的口服胜肽新藥PP021鎖定阿茲海默症、帕金森氏症等失智症，美國蒙大拿州24日證實已與公司接洽，待完成一期臨床即可透過嘗試權法案進入美國醫療體系提前爭取治療收入。萬寶估2026年EPS -0.3元。",
+      "key_points": [
+        "PP021失智症新藥獲美蒙大拿州證實接洽",
+        "擬透過嘗試權法案一期後銷美"
+      ]
+    }
+  ]
+}

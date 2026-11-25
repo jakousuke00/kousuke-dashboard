@@ -1,0 +1,43 @@
+{
+  "stock_id": "3388",
+  "stock_name": "崇越電",
+  "industry_profile": {
+    "main_industry": "綠能基建、重電與特殊材料",
+    "sub_industries": [
+      "Silicone矽利光材料代理",
+      "AI與光通訊特殊材料"
+    ],
+    "theme_tags": [
+      "AI材料比重拚雙位數",
+      "代理信越光通訊材料明年下半年明朗"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "特殊化學材料"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-25",
+    "close_price": 64.4,
+    "est_eps_2026": 7.0,
+    "est_pe": 9.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "前三季稅後淨利年增63.3%，AI材料比重拚雙位數、代理信越光通訊材料2027下半年揭曉，2026估EPS 7元(P/E 9倍)",
+      "close_price": 64.4,
+      "est_eps": 7.0,
+      "est_pe": 9.0,
+      "content": "11/25收64.4元(-7.20%)；目標將AI材料占比由目前9%~10%提高至雙位數，看好人形機器人、ADAS、儲能及化妝品需求，代理信越化學的光通訊材料預計2027下半年進展明朗。前三季營收約63.88億元(年增15.6%)、稅後淨利3.7億元(年增63.3%)，並成立菲律賓分公司與美國德州據點。萬寶估2026年EPS 7.0元(本益比9倍)。",
+      "key_points": [
+        "前三季淨利年增63.3%",
+        "2026估EPS 7元(P/E 9倍)"
+      ]
+    }
+  ]
+}

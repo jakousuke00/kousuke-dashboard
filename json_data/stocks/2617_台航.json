@@ -1,0 +1,36 @@
+{
+  "stock_id": "2617",
+  "stock_name": "台航",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "散裝航運"
+    ],
+    "theme_tags": [
+      "2026估EPS上調至3.7元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-25",
+        "source": "萬寶晚報-2026年預估表",
+        "category_mentioned": "2026預估EPS上修"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-25",
+    "est_eps_2026": 3.7
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-25",
+      "source_file": "reports/11月份/萬寶晚報-11_25.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至3.7元(↑)",
+      "est_eps": 3.7,
+      "content": "萬寶投顧精選圖表最新調整：上調台航(2617) 2026年預估EPS至3.7元(↑)。",
+      "key_points": [
+        "2026估EPS上調至3.7元"
+      ]
+    }
+  ]
+}
