@@ -6,20 +6,42 @@
     "sub_industries": [
       "光纖固網寬頻晶片",
       "藍牙音訊晶片",
-      "光通訊PAM4 DSP"
+      "光通訊PAM4 DSP",
+      "低軌衛星GNSS定位晶片與乙太網晶片",
+      "聯發科集團"
     ],
     "theme_tags": [
       "逆勢強勢股",
       "聯發科子公司",
       "光通訊DSP晶片",
-      "急拉反彈"
+      "急拉反彈",
+      "21檔SpaceX台廠供應鏈",
+      "定位晶片"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-27",
+        "source": "萬寶晚報-21檔SpaceX台廠供應鏈",
+        "category_mentioned": "定位晶片"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-04"
+    "as_of_date": "2026-11-27",
+    "est_eps_2026": 22.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-27",
+      "source_file": "reports/11月份/萬寶晚報-11_27.pdf",
+      "title": "新納入萬寶21檔SpaceX台廠供應鏈(定位晶片類)，近5日投信買超324張，2026估EPS 22元",
+      "est_eps": 22.0,
+      "content": "萬寶晚報將SpaceX台廠供應鏈擴充至8大類21檔：達發(6526)入列「定位晶片」代表股，近五日投信買超324張，萬寶預估2026年EPS 22.0元。",
+      "key_points": [
+        "入列21檔SpaceX定位晶片供應鏈",
+        "近5日投信買超324張、2026估EPS 22元"
+      ]
+    },
     {
       "date": "2026-11-04",
       "source_file": "萬寶晚報-11_04.pdf",

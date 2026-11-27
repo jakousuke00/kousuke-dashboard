@@ -5,13 +5,21 @@
     "main_industry": "綠能基建、重電與特殊材料",
     "sub_industries": [
       "Silicone矽利光材料代理",
-      "AI與光通訊特殊材料"
+      "AI與光通訊特殊材料",
+      "機能性矽利光Silicone與高階電子散熱材料"
     ],
     "theme_tags": [
       "AI材料比重拚雙位數",
-      "代理信越光通訊材料明年下半年明朗"
+      "代理信越光通訊材料明年下半年明朗",
+      "前三季毛利率20%、EPS 4.81元",
+      "Low Dk/Df與AI散熱材料供貨AI伺服器與人形機器人"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "高階電子與散熱材料"
+      },
       {
         "date": "2026-11-25",
         "source": "萬寶晚報-今晚爆個股",
@@ -20,12 +28,24 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-25",
+    "as_of_date": "2026-11-26",
     "close_price": 64.4,
     "est_eps_2026": 7.0,
-    "est_pe": 9.0
+    "est_pe": 10.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "前三季毛利率升至20%、EPS 4.81元優於去年同期，Low Dk/Df與AI散熱材料供貨AI伺服器與機器人，2026估EPS 7元(P/E 10倍)",
+      "est_eps": 7.0,
+      "est_pe": 10.0,
+      "content": "前三季毛利率達20%(年增2.5個百分點)、EPS 4.81元優於去年同期3.06元。Low Dk/Df高階電子材料已貢獻營收及高毛利，T-glass玻纖布缺貨尚未緩解；AI電子及散熱材料已供貨AI伺服器、ADAS、車載充電器及人形機器人客戶。萬寶估2026年EPS 7.0元(本益比僅10倍)。",
+      "key_points": [
+        "前三季EPS 4.81元、2026估EPS 7元(P/E 10倍)",
+        "Low Dk/Df與AI散熱材料供貨AI伺服器與機器人"
+      ]
+    },
     {
       "date": "2026-11-25",
       "source_file": "reports/11月份/萬寶晚報-11_25.pdf",

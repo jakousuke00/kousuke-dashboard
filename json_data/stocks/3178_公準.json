@@ -1,0 +1,43 @@
+{
+  "stock_id": "3178",
+  "stock_name": "公準",
+  "industry_profile": {
+    "main_industry": "半導體與設備檢測",
+    "sub_industries": [
+      "航太與低軌衛星精密金屬機構件",
+      "半導體曝光機零組件"
+    ],
+    "theme_tags": [
+      "SpaceX台廠供應鏈",
+      "11/27亮燈漲停"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-SpaceX台廠供應鏈",
+        "category_mentioned": "金屬機構件"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-26",
+    "close_price": 54.4,
+    "est_eps_2026": 1.8,
+    "est_pe": 30.0
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "入列SpaceX金屬機構件供應鏈，11/26收54.4元(11/27亮燈漲停)，前三季EPS 1.09元、2026估EPS 1.8元(P/E 30倍)",
+      "close_price": 54.4,
+      "est_eps": 1.8,
+      "est_pe": 30.0,
+      "content": "入列萬寶精選SpaceX台廠供應鏈(金屬機構件)：11/26收54.4元，11/27強攻亮燈漲停！累計營收年增11%，前三季EPS 1.09元，萬寶預估2026年EPS 1.8元(本益比30倍)。",
+      "key_points": [
+        "SpaceX金屬機構件供應鏈、11/27漲停",
+        "2026估EPS 1.8元"
+      ]
+    }
+  ]
+}

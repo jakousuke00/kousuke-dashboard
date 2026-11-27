@@ -1,0 +1,37 @@
+{
+  "stock_id": "4726",
+  "stock_name": "永昕",
+  "industry_profile": {
+    "main_industry": "生技醫療與保健",
+    "sub_industries": [
+      "生物藥CDMO委託開發暨製造"
+    ],
+    "theme_tags": [
+      "晟德王素琦出任新任董事長",
+      "前10月營收逾8億元(年增53.5%)",
+      "日本合資Alfenax建廠"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-阿樂情報站",
+        "category_mentioned": "生物藥CDMO"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-26"
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "最大股東晟德代表人王素琦出任新董座、陳佩君專任總經理擴大國際CDMO布局，前10月營收逾8億元(年增53.5%)",
+      "content": "11/20臨時董事會推選最大股東晟德(4123)代表人王素琦出任新任董事長，原董座陳佩君專任總經理衝刺全球業務、藥品規模化量產及日本合資公司Alfenax建廠工程。累計前10月營收逾新台幣8億元、年增53.5%，晟德將加強在資本、策略與國際合作支持，加速邁向國際級CDMO。",
+      "key_points": [
+        "晟德王素琦出任董事長強化國際CDMO",
+        "前10月營收逾8億元(年增53.5%)"
+      ]
+    }
+  ]
+}

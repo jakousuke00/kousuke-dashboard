@@ -5,15 +5,41 @@
     "main_industry": "AI伺服器硬體、機構件與周邊",
     "sub_industries": [
       "主機板與迷你電腦",
-      "邊緣AI與無人載具"
+      "邊緣AI與無人載具",
+      "主機板與Edge AI工作站",
+      "無人載具自主飛行解決方案"
     ],
     "theme_tags": [
-      "轉攻地端AI與無人載具"
+      "轉攻地端AI與無人載具",
+      "攜國際平台大廠開發AI工作站",
+      "離線AI無人載具2027年量產"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "Edge AI與無人載具"
+      }
+    ]
   },
-  "latest_metrics": {},
+  "latest_metrics": {
+    "as_of_date": "2026-11-26",
+    "est_eps_2026": 0.7,
+    "est_pe": 20.0
+  },
   "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "前三季營收151.43億元(年增4%)，攜國際大廠開發AI工作站並布局離線AI無人載具2027年量產，2026估EPS 0.7元(P/E 20倍)",
+      "est_eps": 0.7,
+      "est_pe": 20.0,
+      "content": "大同集團旗下精英前三季營收151.43億元(年增4%)，本業維持穩定獲利。積極打造第二成長曲線，啟動Edge AI高階戰略合作，攜手國際平台大廠共同開發AI工作站及邊緣運算產品，同時布局具備離線AI及自主飛行決策能力的無人載具解決方案，兩大新品線預計2027年正式量產出貨。萬寶估2026年EPS 0.7元(本益比20倍)。",
+      "key_points": [
+        "攜國際平台大廠開發AI工作站",
+        "離線AI無人載具解決方案2027年量產"
+      ]
+    },
     {
       "report_date": "2026-11-06",
       "source_section": "今晚爆個股",

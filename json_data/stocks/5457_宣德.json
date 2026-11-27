@@ -5,13 +5,21 @@
     "main_industry": "AI伺服器硬體、機構件與周邊",
     "sub_industries": [
       "連接器",
-      "Type-C與機構件"
+      "Type-C與機構件",
+      "Type-C與高速連接器",
+      "電子零組件"
     ],
     "theme_tags": [
       "近5日逆勢大漲29.85%",
-      "投信買超"
+      "投信買超",
+      "近5日大漲26.74%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-27",
+        "source": "萬寶產業報告-電子零組件",
+        "category_mentioned": "電子零組件重點個股"
+      },
       {
         "date": "2026-11-23",
         "source": "萬寶產業報告-連接線器",
@@ -20,11 +28,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-23",
-    "close_price": 26.1,
+    "as_of_date": "2026-11-27",
+    "close_price": 30.1,
     "est_eps_2026": -1.3
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-27",
+      "source_file": "reports/11月份/萬寶產業報告-1127(萬寶晚報贈品).pdf",
+      "title": "11/27收30.1元、近5日大漲26.74%，2026估EPS -1.3元",
+      "close_price": 30.1,
+      "est_eps": -1.3,
+      "content": "入列萬寶電子零組件產業報告重點個股第6名：11/27收30.10元，近5日大漲26.74%，10月營收年減12.6%，萬寶預估2026年EPS -1.3元。",
+      "key_points": [
+        "近5日大漲26.74%收30.1元"
+      ]
+    },
     {
       "date": "2026-11-23",
       "source_file": "reports/11月份/萬寶產業報告-1123(萬寶晚報贈品).pdf",

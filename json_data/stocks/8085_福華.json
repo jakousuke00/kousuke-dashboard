@@ -1,0 +1,39 @@
+{
+  "stock_id": "8085",
+  "stock_name": "福華",
+  "industry_profile": {
+    "main_industry": "AI伺服器硬體、機構件與周邊",
+    "sub_industries": [
+      "軍工通訊耳機與聲學元件",
+      "智慧推桿與電競耳機"
+    ],
+    "theme_tags": [
+      "軍工通訊耳機取得DVT訂單12月試產出貨",
+      "Smart Fader智慧推桿通過驗證"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "軍工聲學與電子零組件"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-26",
+    "est_eps_2026": -0.8
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "軍工通訊耳機取得DVT設計驗證訂單預計12月試產出貨，Smart Fader智慧推桿通過客戶驗證，2026估EPS -0.8元",
+      "est_eps": -0.8,
+      "content": "全力轉型高附加價值市場，Q3核心產品營收年增16.3%，電子應用產品受惠聲學新品放量營收年增33.4%。軍工通訊耳機已取得設計驗證階段(DVT)訂單，預計12月開始試產出貨；Smart Fader智慧推桿模組已通過客戶驗證並進入訂單洽談，電競耳機新方案持續送樣，三大新品為2027年成長推手。",
+      "key_points": [
+        "軍工通訊耳機取得DVT訂單12月試產出貨",
+        "Smart Fader智慧推桿通過客戶驗證"
+      ]
+    }
+  ]
+}

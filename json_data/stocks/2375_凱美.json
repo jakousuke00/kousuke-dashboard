@@ -5,12 +5,21 @@
     "main_industry": "AI伺服器硬體、機構件與周邊",
     "sub_industries": [
       "被動元件",
-      "鋁質電容"
-    ],
-    "theme_tags": [
+      "鋁質電容",
+      "鋁質電容與晶片電阻",
       "國巨集團"
     ],
+    "theme_tags": [
+      "國巨集團",
+      "Q3毛利率創21季新高",
+      "前三季EPS 4.24元超越去年全年"
+    ],
     "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "被動元件"
+      },
       {
         "date": "2026-10-01",
         "source": "萬寶晚報-1001",
@@ -19,12 +28,25 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-10-01",
+    "as_of_date": "2026-11-26",
     "close_price": 124.5,
-    "est_eps_2026": 4.0,
-    "est_pe": 31.1
+    "est_eps_2026": 5.8,
+    "est_pe": 14.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "Q3毛利率創21季新高、前三季EPS 4.24元超越去年全年，惟Vera Rubin延後使Q4營收成長止步，2026估EPS 5.8元(P/E 14倍)",
+      " est_eps": 5.8,
+      "est_eps": 5.8,
+      "est_pe": 14.0,
+      "content": "國巨關聯公司凱美Q3毛利率創21季新高，受惠晶片電阻ASP調漲及產品組合優化，前三季稅後純益4.61億元(年增53.16%)、EPS 4.24元已超越去年全年。惟因Vera Rubin機櫃延後至明年量產、AI拉貨動能略減加上客戶庫存偏高，Q4營收成長止步；審慎樂觀看明年，在手訂單達兩個月、B/B值維持1。萬寶估2026年EPS 5.8元(本益比14倍)。",
+      "key_points": [
+        "Q3毛利率創21季高、前三季EPS 4.24元超越去年",
+        "2026估EPS 5.8元(P/E 14倍)"
+      ]
+    },
     {
       "date": "2026-10-01",
       "source_file": "萬寶晚報-1001.pdf",

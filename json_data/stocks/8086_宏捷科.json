@@ -8,7 +8,8 @@
       "砷化鎵晶圓代工(PA)",
       "砷化鎵PA晶圓代工",
       "WiFi晶片代工",
-      "VCSEL光通訊"
+      "VCSEL光通訊",
+      "SpaceX射頻供應鏈"
     ],
     "theme_tags": [
       "PA晶圓代工",
@@ -19,9 +20,16 @@
       "10月營收創五個月高",
       "Q4優於Q3",
       "非手機PA成長",
-      "轉單效應"
+      "轉單效應",
+      "SpaceX台廠供應鏈",
+      "本益比僅18倍落後補漲潛力"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-SpaceX台廠供應鏈",
+        "category_mentioned": "射頻與天線、光通訊"
+      },
       {
         "date": "2026-11-02",
         "source": "reports/11月份/萬寶產業報告-1102(萬寶晚報贈品).pdf",
@@ -35,12 +43,25 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-04",
-    "close_price": 114.5,
-    "est_eps_2026": 5.5,
-    "est_pe": 20.8
+    "as_of_date": "2026-11-26",
+    "close_price": 87.5,
+    "est_eps_2026": 5.0,
+    "est_pe": 18.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "萬寶頭版點名低本益比SpaceX射頻股：今年股價跌17%惟累計營收成長28%，11/26收87.5元、2026估EPS 5元(P/E 18倍)",
+      "close_price": 87.5,
+      "est_eps": 5.0,
+      "est_pe": 18.0,
+      "content": "萬寶頭版主筆室特別點名：同為SpaceX射頻與光通訊供應鏈，宏捷科今年股價反而下跌17%~21%，但累計營收仍成長28%，前三季EPS 3.90元，11/26收87.5元，今年預估EPS 5.0元，本益比僅17~18倍。",
+      "key_points": [
+        "SpaceX供應鏈中低本益比代表(P/E 18倍)",
+        "累計營收年增28%、2026估EPS 5元"
+      ]
+    },
     {
       "date": "2026-11-04",
       "source_file": "萬寶晚報-11_04.pdf",

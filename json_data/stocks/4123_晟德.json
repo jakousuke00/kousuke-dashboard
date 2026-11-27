@@ -4,18 +4,37 @@
   "industry_profile": {
     "main_industry": "生技醫療與保健",
     "sub_industries": [
-      "生技投資控股"
+      "生技投資控股",
+      "生技工業銀行與CDMO控股"
     ],
     "theme_tags": [
       "轉虧為盈",
-      "生技"
+      "生技",
+      "派任王素琦掌永昕強化CDMO核心",
+      "外資連買11天"
     ],
-    "classification_history": []
+    "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-阿樂情報站",
+        "category_mentioned": "生技控股與CDMO"
+      }
+    ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-12"
+    "as_of_date": "2026-11-26"
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "直接派任王素琦出任永昕董事長加速國際CDMO整合，外資連11日買超累計3,217張",
+      "content": "晟德指出永昕(4726)是集團生物藥CDMO事業體核心，由集團直接派任王素琦出任永昕董事長，將在資本、策略與國際合作上提供全力支持；籌碼面上外資已連續11天買超晟德累計3,217張。",
+      "key_points": [
+        "派任王素琦掌永昕強化國際CDMO",
+        "外資連買11天累計+3,217張"
+      ]
+    },
     {
       "date": "2026-11-12",
       "content": "估EPS -10元。Q3受惠子公司豐華生技ODM訂單挹注，單季EPS 0.02元轉虧為盈；豐華前三季營收年增75%，轉投資永昕、順藥、益安與博晟生醫營運推進。",

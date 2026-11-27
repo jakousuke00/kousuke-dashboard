@@ -5,14 +5,28 @@
     "main_industry": "生技醫療與保健",
     "sub_industries": [
       "特殊學名藥/品牌藥",
-      "特殊學名藥"
+      "特殊學名藥",
+      "GLP-1減重與糖尿病學名藥",
+      "口服與注射GLP-1減重學名藥"
     ],
     "theme_tags": [
       "併購效應",
       "FDA核准",
-      "再融資明年初完成降利息"
+      "再融資明年初完成降利息",
+      "2026估EPS上調至2.8元",
+      "簽署口服Semaglutide學名藥授權取得美韓及台港等十大市場權利"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-27",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "生技製藥"
+      },
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-2026年預估表",
+        "category_mentioned": "2026預估EPS上修"
+      },
       {
         "date": "2026-11-23",
         "source": "萬寶晚報-今晚爆個股",
@@ -21,11 +35,34 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-23",
+    "as_of_date": "2026-11-27",
     "close_price": 98.0,
-    "est_eps_2026": 3.5
+    "est_eps_2026": 2.8,
+    "est_pe": 37.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-27",
+      "source_file": "reports/11月份/萬寶晚報-11_27.pdf",
+      "title": "與西班牙Galenicum簽署口服Semaglutide錠劑學名藥授權，取得美韓獨家及台港等八亞洲市場權利布局十大市場，2026估EPS 2.8元",
+      "est_eps": 2.8,
+      "est_pe": 37.0,
+      "content": "與西班牙Galenicum簽署口服Semaglutide錠劑學名藥授權及供貨協議，取得美國及韓國市場獨家商業化權利，並取得台灣、香港等八個亞洲市場授權，合計布局十大市場。諾和諾德今年前九月口服Semaglutide全球銷售額約40億美元；美時將結合口服及注射兩大劑型布局GLP-1學名藥。萬寶估2026年EPS 2.8元(本益比37倍)。",
+      "key_points": [
+        "取得口服Semaglutide學名藥美韓獨家等十大市場授權",
+        "結合口服與注射雙劑型布局GLP-1市場"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至2.8元(↑)",
+      "est_eps": 2.8,
+      "content": "萬寶投顧精選圖表最新調整：上調美時(1795) 2026年預估EPS至2.8元(↑)。",
+      "key_points": [
+        "2026估EPS上調至2.8元"
+      ]
+    },
     {
       "date": "2026-11-23",
       "source_file": "reports/11月份/萬寶晚報-11_23.pdf",

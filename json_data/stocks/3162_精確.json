@@ -6,7 +6,9 @@
     "sub_industries": [
       "電動車電池盒",
       "低軌衛星與AI水冷",
-      "AI伺服器水冷板與分歧管"
+      "AI伺服器水冷板與分歧管",
+      "低軌衛星金屬機構件",
+      "AI伺服器水冷板"
     ],
     "theme_tags": [
       "AI散熱",
@@ -14,9 +16,16 @@
       "美國製造",
       "取得SpaceX星鏈V4外殼8年長單",
       "AI水冷已量產",
-      "10月自結EPS 0.19元(年增45%)"
+      "10月自結EPS 0.19元(年增45%)",
+      "SpaceX台廠供應鏈",
+      "累計營收年增41%"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-SpaceX台廠供應鏈",
+        "category_mentioned": "金屬機構件"
+      },
       {
         "date": "2026-11-25",
         "source": "萬寶晚報-包打聽快報",
@@ -30,11 +39,25 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-25",
-    "close_price": 53.0,
-    "est_eps_2026": 0.6
+    "as_of_date": "2026-11-26",
+    "close_price": 48.3,
+    "est_eps_2026": 0.6,
+    "est_pe": 81.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "入列SpaceX金屬機構件供應鏈，11/26收48.3元，累計營收年增41%、前三季EPS 0.35元、2026估EPS 0.6元",
+      "close_price": 48.3,
+      "est_eps": 0.6,
+      "est_pe": 81.0,
+      "content": "入列萬寶精選SpaceX台廠供應鏈(金屬機構件)：11/26收48.3元(今年跌16%)，累計營收年增41%，前三季EPS 0.35元，萬寶預估2026年EPS 0.6元。",
+      "key_points": [
+        "SpaceX金屬機構件供應鏈",
+        "累計營收年增41%、2026估EPS 0.6元"
+      ]
+    },
     {
       "date": "2026-11-25",
       "source_file": "reports/11月份/萬寶晚報-11_25.pdf",

@@ -5,14 +5,22 @@
     "main_industry": "AI伺服器硬體、機構件與周邊",
     "sub_industries": [
       "航太維修與零組件製造",
-      "航太維修與機體引擎零組件"
+      "航太維修與機體引擎零組件",
+      "航太維修與製造",
+      "無人機"
     ],
     "theme_tags": [
       "2026估EPS上調至9.6元",
       "2027維修產能全數被預訂",
-      "合約價調升3-5%"
+      "合約價調升3-5%",
+      "2026估EPS下調至8.8元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-27",
+        "source": "萬寶晚報-2026年預估表",
+        "category_mentioned": "2026預估EPS下修"
+      },
       {
         "date": "2026-11-25",
         "source": "萬寶晚報-今晚爆個股",
@@ -26,12 +34,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-25",
-    "est_eps_2026": 9.6,
+    "as_of_date": "2026-11-27",
+    "est_eps_2026": 8.8,
     "close_price": 148.5,
     "est_pe": 15.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-27",
+      "source_file": "reports/11月份/萬寶晚報-11_27.pdf",
+      "title": "萬寶投顧下調2026年預估EPS至8.8元(↓)",
+      "est_eps": 8.8,
+      "content": "萬寶投顧精選圖表最新調整：下調長榮航太(2645) 2026年預估EPS至8.8元(↓)。",
+      "key_points": [
+        "2026估EPS下調至8.8元"
+      ]
+    },
     {
       "date": "2026-11-25",
       "source_file": "reports/11月份/萬寶晚報-11_25.pdf",

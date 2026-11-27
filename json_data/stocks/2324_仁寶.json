@@ -7,7 +7,8 @@
       "NB代工",
       "AI伺服器",
       "伺服器代工與機殼",
-      "電子代工/AI伺服器"
+      "電子代工/AI伺服器",
+      "NB代工與AI伺服器"
     ],
     "theme_tags": [
       "躋身輝達Vera CPU MGX夥伴",
@@ -17,9 +18,15 @@
       "智慧裝置",
       "伺服器代工",
       "AI伺服器轉型",
-      "Vera Rubin"
+      "Vera Rubin",
+      "2026估EPS下調至2.2元"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-27",
+        "source": "萬寶晚報-2026年預估表",
+        "category_mentioned": "2026預估EPS下修"
+      },
       {
         "date": "2026-10-22",
         "source": "萬寶晚報-10_22",
@@ -33,12 +40,22 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-13",
+    "as_of_date": "2026-11-27",
     "close_price": 37.3,
-    "est_eps_2026": 2.4,
+    "est_eps_2026": 2.2,
     "est_pe": 16
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-27",
+      "source_file": "reports/11月份/萬寶晚報-11_27.pdf",
+      "title": "萬寶投顧下調2026年預估EPS至2.2元(↓)",
+      "est_eps": 2.2,
+      "content": "萬寶投顧精選圖表最新調整：下調仁寶(2324) 2026年預估EPS至2.2元(↓)。",
+      "key_points": [
+        "2026估EPS下調至2.2元"
+      ]
+    },
     {
       "date": "2026-11-13",
       "content": "估EPS 2.4元。Q3 EPS 0.6元，前三季稅後純益76.81億元年增66.2%、EPS 1.78元已超過去年全年。美國德州廠下半年投入營運，加桃園大溪新廠切入L10/L11，明年上半年Vera Rubin量產成長更顯著。",

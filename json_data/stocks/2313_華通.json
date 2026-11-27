@@ -8,7 +8,9 @@
       "低軌衛星板",
       "光模組mSAP板",
       "PCB與CCL載板",
-      "HDI/衛星板"
+      "HDI/衛星板",
+      "低軌衛星HDI板龍頭",
+      "SpaceX供應鏈"
     ],
     "theme_tags": [
       "9月營收創新高",
@@ -21,9 +23,17 @@
       "預估EPS下調",
       "預估EPS下修",
       "10月營收87.83億連二月新高",
-      "SpaceX概念"
+      "SpaceX概念",
+      "SpaceX台廠供應鏈",
+      "11/26與11/27連兩日漲停",
+      "近5日外資大買13,146張"
     ],
     "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-SpaceX台廠供應鏈",
+        "category_mentioned": "衛星用PCB與CCL"
+      },
       {
         "date": "2026-11-23",
         "source": "萬寶晚報-今晚爆個股",
@@ -37,12 +47,25 @@
     ]
   },
   "latest_metrics": {
-    "as_of_date": "2026-11-23",
-    "close_price": 154.5,
+    "as_of_date": "2026-11-26",
+    "close_price": 168.0,
     "est_eps_2026": 6.3,
-    "est_pe": 32
+    "est_pe": 27.0
   },
   "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "SpaceX衛星板龍頭！11/26亮燈漲停收168元(11/27連二拉二漲停)，前三季EPS 4.31元、2026估EPS 6.3元(P/E 27倍)",
+      "close_price": 168.0,
+      "est_eps": 6.3,
+      "est_pe": 27.0,
+      "content": "入列萬寶精選SpaceX台廠供應鏈(衛星用PCB)：受惠FCC核准SpaceX部署100萬顆衛星打造太空資料中心及2027年V3衛星規格升級，11/26亮燈漲停收168.0元(今年漲82%)，11/27再度亮燈漲停！累計營收年增14%，前三季EPS 4.31元，萬寶預估2026年EPS 6.3元(本益比27倍)。",
+      "key_points": [
+        "11/26與11/27連兩日漲停",
+        "2026估EPS 6.3元(P/E 27倍)"
+      ]
+    },
     {
       "date": "2026-11-23",
       "source_file": "reports/11月份/萬寶晚報-11_23.pdf",

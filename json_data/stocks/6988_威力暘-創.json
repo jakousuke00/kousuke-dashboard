@@ -1,0 +1,39 @@
+{
+  "stock_id": "6988",
+  "stock_name": "威力暘-創",
+  "industry_profile": {
+    "main_industry": "汽車與車用零組件",
+    "sub_industries": [
+      "車用電子控制器",
+      "AI液冷CDU主控板與泵浦驅動模組"
+    ],
+    "theme_tags": [
+      "轉型AI液冷、無人載具、低軌衛星及NPO光通訊四大賽道",
+      "AI液冷CDU模組小量出貨一線散熱大廠"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-今晚爆個股",
+        "category_mentioned": "車用與AI液冷電子模組"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-26",
+    "est_eps_2026": -0.5
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "鎖定AI液冷、無人載具、低軌衛星及NPO光通訊四大賽道，AI液冷CDU主控板與泵浦驅動模組已小量出貨一線散熱大廠",
+      "est_eps": -0.5,
+      "content": "車用電子模組廠威力暘-創轉型高階關鍵電子模組策略夥伴，鎖定AI液冷、無人載具、低軌衛星及NPO光通訊四大賽道，AI液冷CDU主控板與泵浦驅動模組已小量出貨一線散熱大廠，NPO模組完成送樣，今年新應用占比3%~5%、2027年起逐步放量。前三季營收5.33億元(年減11.3%)、每股虧0.37元；與DENSO合作的HVAC控制器小批量交付。",
+      "key_points": [
+        "AI液冷CDU主控板與驅動模組小量出貨一線散熱大廠",
+        "NPO光通訊模組完成送樣、2027年起放量"
+      ]
+    }
+  ]
+}

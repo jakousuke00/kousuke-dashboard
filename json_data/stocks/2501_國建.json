@@ -1,0 +1,36 @@
+{
+  "stock_id": "2501",
+  "stock_name": "國建",
+  "industry_profile": {
+    "main_industry": "傳產製造、營建航運與利基消費",
+    "sub_industries": [
+      "營建資產"
+    ],
+    "theme_tags": [
+      "2026估EPS上調至3.3元"
+    ],
+    "classification_history": [
+      {
+        "date": "2026-11-26",
+        "source": "萬寶晚報-2026年預估表",
+        "category_mentioned": "2026預估EPS上修"
+      }
+    ]
+  },
+  "latest_metrics": {
+    "as_of_date": "2026-11-26",
+    "est_eps_2026": 3.3
+  },
+  "analysis_timeline": [
+    {
+      "date": "2026-11-26",
+      "source_file": "reports/11月份/萬寶晚報-11_26.pdf",
+      "title": "萬寶投顧上調2026年預估EPS至3.3元(↑)",
+      "est_eps": 3.3,
+      "content": "萬寶投顧精選圖表最新調整：上調國建(2501) 2026年預估EPS至3.3元(↑)。",
+      "key_points": [
+        "2026估EPS上調至3.3元"
+      ]
+    }
+  ]
+}
